@@ -1,0 +1,94 @@
+{
+  "id": "flat-dumbbell-fly",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Flat Dumbbell Fly",
+  "nameDa": "Flyes med håndvægte på flad bænk",
+  "aliases": [
+    "Dumbbell fly",
+    "Flat dumbbell flye",
+    "Dumbbell chest fly"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Chest",
+    "Shoulders"
+  ],
+  "movementPattern": "Shoulder horizontal adduction",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells",
+    "Flat bench"
+  ],
+  "grip": "Neutral, palms facing each other, with wrists straight throughout the arc.",
+  "primaryMuscles": [
+    "Pectoralis major"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Biceps brachii",
+    "Triceps brachii",
+    "Abdominal wall"
+  ],
+  "description": "Open and close the arms in a broad arc above a flat bench while keeping a small, nearly fixed elbow bend.",
+  "setup": [
+    "Sit with light dumbbells near the thighs and lie back with the weights controlled close to the chest.",
+    "Plant the feet and support the head, upper back and hips on the flat bench.",
+    "Bring the dumbbells above the chest with palms facing and elbows slightly bent."
+  ],
+  "instructions": [
+    "Open the arms slowly out to the sides while preserving the elbow bend.",
+    "Stop around torso level, or earlier if needed to keep the shoulders comfortable.",
+    "Bring the arms together in the same arc above the chest.",
+    "Keep the dumbbells separate and lower them under control when ending the set."
+  ],
+  "cues": [
+    "Move through the shoulders.",
+    "Keep soft elbows.",
+    "Use a controlled, comfortable arc."
+  ],
+  "commonMistakes": [
+    "Changing elbow bend so the movement becomes a press.",
+    "Lowering too far or dropping the weights quickly into the stretched position."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 12 kg dumbbells: record 12 kg per dumbbell.",
+    "note": "Keep the same exercise variant and record each dumbbell's mass rather than the combined pair."
+  },
+  "alternatives": [
+    "Cable Chest Fly",
+    "Pec Deck Fly"
+  ],
+  "variantNote": "Flat bench with a neutral grip and nearly fixed elbow bend. Incline and decline fly variations are separate.",
+  "reviewNotes": [
+    "Dumbbell fly depth must suit the individual; the drawing is not a depth prescription.",
+    "Trainer review of shoulder and elbow position pending."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Dumbbell Flys",
+      "url": "https://www.muscleandstrength.com/exercises/dumbbell-flys.html",
+      "scope": "Flat-bench fly, neutral hand position, controlled shoulder arc and consistent elbow bend."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "1b2515635db0c9d9635cac4c2598f66a7afb87b4a9c1291b18b988a1361927f3",
+    "url": "/media/1b2515635db0c9d9635cac4c2598f66a7afb87b4a9c1291b18b988a1361927f3.png",
+    "left": "Dumbbells above chest",
+    "right": "Arms opened",
+    "alt": "Two line drawings of a flat dumbbell fly, with weights together above the chest and arms opened beside the bench.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "flat-dumbbell-fly",
+      "model": null
+    }
+  }
+}

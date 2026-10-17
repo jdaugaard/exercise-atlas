@@ -1,0 +1,97 @@
+{
+  "id": "seated-lat-pulldown-machine",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Seated Lat Pulldown Machine",
+  "nameDa": "Siddende pulldown i maskine",
+  "aliases": [
+    "Seated Lat Pull Down Machine",
+    "Wide-grip lat pulldown",
+    "Lat pulldown"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Vertical pull",
+  "laterality": "Bilateral, shared cable",
+  "equipmentItems": [
+    "Selectorized lat-pulldown machine with thigh pads",
+    "Wide pulldown bar"
+  ],
+  "grip": "Closed overhand grip slightly wider than shoulders, using the bar's comfortable angled sections.",
+  "primaryMuscles": [
+    "Latissimus dorsi"
+  ],
+  "secondaryMuscles": [
+    "Teres major",
+    "Biceps brachii",
+    "Brachialis",
+    "Lower trapezius",
+    "Rhomboids"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall",
+    "Forearm flexors"
+  ],
+  "description": "Pull a high-cable bar toward the upper chest while seated with the thighs secured under the machine pads.",
+  "setup": [
+    "Set the stack load and adjust the thigh pads to secure the legs without excessive pressure.",
+    "Grasp the bar, sit down with feet on the floor and establish a small stable backward incline.",
+    "Begin with arms reaching overhead and cable tension controlled."
+  ],
+  "instructions": [
+    "Draw the elbows down toward the sides to bring the bar toward the upper chest.",
+    "Keep the torso angle stable rather than rocking backward.",
+    "Stop within a comfortable shoulder range, with the bar in front of the head.",
+    "Let the arms rise slowly and allow the shoulder blades to move naturally."
+  ],
+  "cues": [
+    "Bring elbows toward the ribs.",
+    "Keep the bar in front.",
+    "Control the overhead return."
+  ],
+  "commonMistakes": [
+    "Pulling behind the neck.",
+    "Swinging the torso or pulling so low that the wrists and shoulders collapse."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "A single stack selected at 20 kg: record 20 kg on that machine.",
+    "note": "Record the selected stack value, attachment and pulley setup. Pulley ratios and machine calibration make stack values unsuitable for direct comparisons across machines."
+  },
+  "alternatives": [
+    "Neutral-Grip Lat Pulldown",
+    "Assisted Pull-Up"
+  ],
+  "variantNote": "Assumes a selectorized high cable, wide overhand bar and thigh pads. A plate-loaded lever pulldown or independent handles requires a separate equipment variant.",
+  "reviewNotes": [
+    "Exact gym machine and handle are unspecified; confirm before matching a consumer record.",
+    "Trainer review of cable path and shoulder range pending."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Lat Pull Down",
+      "url": "https://www.muscleandstrength.com/exercises/lat-pull-down.html",
+      "scope": "Seated high-cable overhand pulldown, elbow path and controlled return; exact machine geometry is unspecified."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "71a4f2324ad41286962cce944e5951c8e4663ecdc8c07ea007655adfaab22115",
+    "url": "/media/71a4f2324ad41286962cce944e5951c8e4663ecdc8c07ea007655adfaab22115.png",
+    "left": "Arms overhead",
+    "right": "Bar near upper chest",
+    "alt": "Two line drawings of a seated lat pulldown with thigh pads, pulling the bar in front of the head.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "seated-lat-pulldown-machine",
+      "model": null
+    }
+  }
+}

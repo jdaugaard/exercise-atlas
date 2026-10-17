@@ -1,0 +1,93 @@
+{
+  "id": "standing-dumbbell-strict-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Standing Dumbbell Strict Press",
+  "nameDa": "Stående skulderpres med håndvægte",
+  "aliases": [
+    "Dumbbell Strict Press",
+    "Standing dumbbell shoulder press"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Shoulders",
+    "Upper Arms"
+  ],
+  "movementPattern": "Vertical push",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells"
+  ],
+  "grip": "Overhand or slightly turned inward, with straight wrists and forearms beneath the dumbbells.",
+  "primaryMuscles": [
+    "Anterior deltoid",
+    "Lateral deltoid"
+  ],
+  "secondaryMuscles": [
+    "Triceps brachii",
+    "Serratus anterior",
+    "Trapezius"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall",
+    "Gluteus maximus"
+  ],
+  "description": "Press two dumbbells from shoulder height to overhead while standing without leg drive.",
+  "setup": [
+    "Stand with feet about hip-width and bring a dumbbell to each shoulder.",
+    "Position the elbows slightly forward of the torso, brace the trunk and balance over the whole foot."
+  ],
+  "instructions": [
+    "Press both dumbbells overhead without bending and driving through the knees.",
+    "Allow the shoulder blades to rotate upward as the arms rise.",
+    "Finish with the weights balanced over the shoulders and torso steady.",
+    "Lower to shoulder height under control."
+  ],
+  "cues": [
+    "Keep ribs over pelvis.",
+    "Reach upward through both arms.",
+    "Keep wrists over elbows."
+  ],
+  "commonMistakes": [
+    "Leaning backward to finish the press.",
+    "Turning the movement into a push press with leg drive."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 12 kg dumbbells: record 12 kg per dumbbell.",
+    "note": "Keep the same exercise variant and record each dumbbell's mass rather than the combined pair."
+  },
+  "alternatives": [
+    "Standing Barbell Strict Press",
+    "Seated Dumbbell Shoulder Press"
+  ],
+  "variantNote": "Standing, simultaneous two-dumbbell press. Seated and alternating presses are separate variants.",
+  "reviewNotes": [
+    "Confirm standing rather than seated equipment setup before linking an ambiguous exercise name.",
+    "Trainer review of technique and illustrations pending."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Standing Dumbbell Shoulder Press",
+      "url": "https://www.muscleandstrength.com/exercises/standing-dumbbell-press.html",
+      "scope": "Standing two-dumbbell overhead press and general setup; muscle roles are qualitative editorial classifications."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "34f19522bef57f25217613e1e8845753b72dda80a23c2d30ce14bc293908e4f0",
+    "url": "/media/34f19522bef57f25217613e1e8845753b72dda80a23c2d30ce14bc293908e4f0.png",
+    "left": "Dumbbells at shoulders",
+    "right": "Dumbbells overhead",
+    "alt": "Paired black-and-white drawings of a standing two-dumbbell shoulder press with legs still.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "standing-dumbbell-strict-press",
+      "model": null
+    }
+  }
+}

@@ -17,13 +17,13 @@ before(async () => {
 after(async () => { server.close(); server.closeAllConnections(); await once(server, 'close'); });
 const get = (path: string, init?: RequestInit) => fetch(`${origin}${path}`, init);
 
-test('health and catalog accurately expose five draft entries, no reviewed entries', async () => {
+test('health and catalog accurately expose draft entries, no reviewed entries', async () => {
   const health = await (await get('/health')).json();
-  assert.equal(health.exerciseCount, 5);
+  assert.equal(health.exerciseCount, catalog.exercises.length);
   assert.equal(health.status, 'ok');
   const manifest = await (await get('/v1/catalog')).json();
   assert.equal(manifest.license, 'UNLICENSED');
-  assert.deepEqual(manifest.reviewCounts, { draft: 5, reviewed: 0, retired: 0 });
+  assert.deepEqual(manifest.reviewCounts, { draft: catalog.exercises.length, reviewed: 0, retired: 0 });
   const reviewed = await (await get('/v1/exercises?status=reviewed')).json();
   assert.equal(reviewed.total, 0);
   assert.deepEqual(reviewed.data, []);
@@ -39,7 +39,7 @@ test('search finds cuff variation, Danish names, aliases and muscle names', asyn
 });
 
 test('taxonomy values can be used as exact case-insensitive AND filters', async () => {
-  const result = await (await get('/v1/exercises?muscle=HAMSTRINGS&equipment=barbell')).json();
+  const result = await (await get('/v1/exercises?q=Romanian&muscle=HAMSTRINGS&equipment=barbell')).json();
   assert.deepEqual(result.data.map((e: { id: string }) => e.id), ['barbell-romanian-deadlift']);
   const noMatch = await (await get('/v1/exercises?q=cuffs&equipment=barbell')).json();
   assert.equal(noMatch.total, 0);
@@ -52,12 +52,13 @@ test('pagination is stable, complete and has a correct end cursor', async () => 
   let offset: number | null = 0;
   do {
     const page = await (await get(`/v1/exercises?limit=2&offset=${offset}`)).json();
-    assert.equal(page.total, 5);
+    assert.equal(page.total, catalog.exercises.length);
     ids.push(...page.data.map((e: { id: string }) => e.id));
     offset = page.nextOffset;
   } while (offset !== null);
-  assert.equal(ids.length, 5);
-  assert.equal(new Set(ids).size, 5);
+  assert.equal(ids.length, catalog.exercises.length);
+  assert.equal(new Set(ids).size, catalog.exercises.length);
+  assert.deepEqual(ids, catalog.exercises.map((exercise) => exercise.id));
   const beyond = await (await get('/v1/exercises?offset=999')).json();
   assert.deepEqual(beyond.data, []);
   assert.equal(beyond.nextOffset, null);
@@ -118,7 +119,7 @@ test('no HTTP method can write to the catalog or media', async () => {
     assert.equal(response.status, 405, method);
     assert.equal(response.headers.get('allow'), 'GET, HEAD');
   }
-  assert.equal((await (await get('/v1/exercises')).json()).total, 5);
+  assert.equal((await (await get('/v1/exercises')).json()).total, catalog.exercises.length);
 });
 
 test('unknown records and non-allowlisted file paths return JSON 404s', async () => {

@@ -1,0 +1,91 @@
+{
+  "id": "dumbbell-hammer-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Dumbbell Hammer Curl",
+  "nameDa": "Hammercurl med håndvægte",
+  "aliases": [
+    "Hammer Curl",
+    "Standing hammer curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms",
+    "Forearms"
+  ],
+  "movementPattern": "Elbow flexion - neutral grip",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells"
+  ],
+  "grip": "Neutral throughout, with palms facing each other and thumbs toward the upper dumbbell heads.",
+  "primaryMuscles": [
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "secondaryMuscles": [
+    "Biceps brachii"
+  ],
+  "stabilizers": [
+    "Forearm flexors",
+    "Rotator cuff",
+    "Abdominal wall"
+  ],
+  "description": "Curl two dumbbells while maintaining a neutral hand position, with the upper arms close to the sides.",
+  "setup": [
+    "Stand with a dumbbell beside each thigh, palms facing inward.",
+    "Keep a small knee bend, straight wrists and shoulders relaxed."
+  ],
+  "instructions": [
+    "Flex both elbows to bring the dumbbells toward the fronts of the shoulders.",
+    "Keep the palms facing each other rather than rotating them upward.",
+    "Keep the upper arms and torso steady.",
+    "Lower the dumbbells under control to the starting position."
+  ],
+  "cues": [
+    "Keep thumbs pointing upward.",
+    "Keep elbows beside the torso.",
+    "Avoid swinging."
+  ],
+  "commonMistakes": [
+    "Turning into a supinated curl.",
+    "Rocking backward or lifting the elbows far forward."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 12 kg dumbbells: record 12 kg per dumbbell.",
+    "note": "Keep the same exercise variant and record each dumbbell's mass rather than the combined pair."
+  },
+  "alternatives": [
+    "Standing Dumbbell Curl",
+    "Standing Barbell Curl"
+  ],
+  "variantNote": "Standing simultaneous neutral-grip curl. Alternating and cross-body versions differ in timing or arm path.",
+  "reviewNotes": [
+    "Both arms are illustrated together; use separate side records if logging alternating repetitions.",
+    "Muscle roles are qualitative; the exercise still trains the biceps."
+  ],
+  "sources": [
+    {
+      "title": "ACE - Hammer Curl",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/10/hammer-curl/",
+      "scope": "Standing dumbbell hammer curl and neutral hand position; anatomical role ordering is editorial."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "feb54a190a964f8b67a32ee893fecf85eb9bb07ae41647618ed22727893e4ae2",
+    "url": "/media/feb54a190a964f8b67a32ee893fecf85eb9bb07ae41647618ed22727893e4ae2.png",
+    "left": "Dumbbells at sides",
+    "right": "Neutral-grip curl",
+    "alt": "Two black-and-white drawings of a standing hammer curl with palms facing inward throughout.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "dumbbell-hammer-curl",
+      "model": null
+    }
+  }
+}

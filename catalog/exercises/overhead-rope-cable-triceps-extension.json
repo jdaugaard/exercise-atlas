@@ -1,0 +1,92 @@
+{
+  "id": "overhead-rope-cable-triceps-extension",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Overhead Rope Cable Triceps Extension",
+  "nameDa": "Overhead tricepsextension med reb i kabel",
+  "aliases": [
+    "Overhead rope extension",
+    "Cable rope triceps extension",
+    "Tricep Extension"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow extension - arms overhead",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Low cable pulley",
+    "Rope attachment"
+  ],
+  "grip": "One rope end in each hand, palms facing each other and wrists aligned with the forearms.",
+  "primaryMuscles": [
+    "Triceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Anconeus"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall",
+    "Forearm flexors"
+  ],
+  "description": "Extend both elbows with the upper arms overhead while a rope connects to a cable behind the body.",
+  "setup": [
+    "Attach the rope to a low pulley and select a manageable stack setting.",
+    "Bring the rope behind the head and step into a stable staggered stance facing away from the stack.",
+    "Raise the upper arms beside the head and establish cable tension without arching the back."
+  ],
+  "instructions": [
+    "Begin with elbows bent and hands behind the head in a comfortable position.",
+    "Straighten the elbows while keeping the upper arms nearly stationary.",
+    "Finish overhead without forcing the elbows into hyperextension.",
+    "Bend the elbows slowly to return; keep the cable controlled when ending the set."
+  ],
+  "cues": [
+    "Move at the elbows.",
+    "Keep the ribs down.",
+    "Let the rope ends move naturally."
+  ],
+  "commonMistakes": [
+    "Arching the lower back to raise the hands.",
+    "Swinging the shoulders or letting the stack pull the arms back suddenly."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "A single stack selected at 20 kg: record 20 kg on that machine.",
+    "note": "Record the selected stack value, attachment and pulley setup. Pulley ratios and machine calibration make stack values unsuitable for direct comparisons across machines."
+  },
+  "alternatives": [
+    "Overhead Dumbbell Triceps Extension",
+    "Cable Triceps Pushdown"
+  ],
+  "variantNote": "Overhead rope version, distinct from a pushdown. A low pulley behind the standing athlete is the illustrated assumption; a high-pulley forward-leaning version needs its own setup.",
+  "reviewNotes": [
+    "Overhead rope attachment is confirmed; exact pulley height and stance still need equipment review.",
+    "The source's seated low-pulley setup supports the rope and elbow action, not validation of the illustrated standing adaptation."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Seated Cable Tricep Extension",
+      "url": "https://www.muscleandstrength.com/node/4120",
+      "scope": "Seated low-pulley overhead rope extension; standing stance is an editorial adaptation requiring review."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "d4e2d52fb73d55a8bb039ad12129296523ca902b9e8d784131ca42655312fc5a",
+    "url": "/media/d4e2d52fb73d55a8bb039ad12129296523ca902b9e8d784131ca42655312fc5a.png",
+    "left": "Elbows bent overhead",
+    "right": "Elbows extended overhead",
+    "alt": "Two line drawings of an overhead rope triceps extension with one low cable behind the standing athlete.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "overhead-rope-cable-triceps-extension",
+      "model": null
+    }
+  }
+}

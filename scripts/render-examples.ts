@@ -2,8 +2,9 @@ import { writeFile } from 'node:fs/promises';
 import { loadCatalog } from '../src/catalog.ts';
 
 const catalog = await loadCatalog();
-const lines = ['# Five illustrated exercise examples', '',
-  'Original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.', ''];
+const lines = ['# Illustrated exercise catalog', '',
+  `${catalog.exercises.length} original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.`, '',
+  '## Index', '', ...catalog.exercises.map((e) => `- [${e.name}](../catalog/exercises/${e.id}.json)`), ''];
 for (const e of catalog.exercises) {
   lines.push(`## ${e.name}`, '', `![${e.illustration.alt}](../catalog${e.illustration.url})`, '',
     `${e.illustration.left} / ${e.illustration.right}`, '', e.description, '',

@@ -1,0 +1,92 @@
+{
+  "id": "cable-triceps-pushdown",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Cable Triceps Pushdown",
+  "nameDa": "Tricepspres ned i kabel med stang",
+  "aliases": [
+    "Cable Triceps Pushdown",
+    "Straight-bar triceps pushdown",
+    "Tricep pushdown"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow extension - upper arms at sides",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "High cable pulley",
+    "Short straight-bar attachment"
+  ],
+  "grip": "Overhand, palms down, with both hands holding a short straight bar.",
+  "primaryMuscles": [
+    "Triceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Anconeus"
+  ],
+  "stabilizers": [
+    "Forearm flexors",
+    "Rotator cuff",
+    "Abdominal wall"
+  ],
+  "description": "Push a short cable bar downward by straightening the elbows while the upper arms stay beside the torso.",
+  "setup": [
+    "Attach a short straight bar to a high pulley and select the stack setting.",
+    "Face the machine with a stable stance and grasp the bar overhand.",
+    "Bring the elbows beside the ribs, beginning with a comfortable bend and cable tension."
+  ],
+  "instructions": [
+    "Straighten the elbows to move the bar toward the upper thighs.",
+    "Keep the upper arms near the sides and the torso steady.",
+    "Finish without forcing the elbows backward into hyperextension.",
+    "Allow the elbows to bend slowly as the bar returns, without the stack crashing."
+  ],
+  "cues": [
+    "Keep the elbows quiet.",
+    "Press through the forearms.",
+    "Control the return."
+  ],
+  "commonMistakes": [
+    "Rocking the torso or driving the shoulders forward.",
+    "Letting the elbows rise to turn the movement into a whole-arm press."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "A single stack selected at 20 kg: record 20 kg on that machine.",
+    "note": "Record the selected stack value, attachment and pulley setup. Pulley ratios and machine calibration make stack values unsuitable for direct comparisons across machines."
+  },
+  "alternatives": [
+    "Rope Triceps Pushdown",
+    "Overhead Rope Cable Triceps Extension"
+  ],
+  "variantNote": "Short straight-bar pushdown is the illustrated equipment assumption. A rope, V-bar or one-arm version changes the setup; this is separate from overhead rope extension.",
+  "reviewNotes": [
+    "Confirm the pushdown attachment; only the overhead exercise's rope attachment has been specified.",
+    "Trainer review of technique and illustrations pending."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Straight Bar Tricep Extension",
+      "url": "https://www.muscleandstrength.com/exercises/tricep-extension.html",
+      "scope": "High-pulley straight-bar pushdown with overhand grip and elbow extension."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "997991ce6ad1afd238b36b34fa70bd4427754c9c993795be6366b4ba6009b55b",
+    "url": "/media/997991ce6ad1afd238b36b34fa70bd4427754c9c993795be6366b4ba6009b55b.png",
+    "left": "Elbows bent beside torso",
+    "right": "Bar at upper thighs",
+    "alt": "Two line drawings of a straight-bar cable triceps pushdown using a high pulley in front of the athlete.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "cable-triceps-pushdown",
+      "model": null
+    }
+  }
+}

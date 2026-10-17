@@ -1,0 +1,91 @@
+{
+  "id": "incline-dumbbell-biceps-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Incline Dumbbell Biceps Curl",
+  "nameDa": "Skrå bicepscurl med håndvægte",
+  "aliases": [
+    "Dumbbell incline biceps curl",
+    "Incline dumbbell curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow flexion - reclined torso",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells",
+    "Adjustable incline bench"
+  ],
+  "grip": "Supinated, palms facing forward at the bottom and upward as the elbows bend.",
+  "primaryMuscles": [
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Forearm flexors"
+  ],
+  "description": "Curl two dumbbells while reclining on an incline bench, keeping the upper arms hanging beside the torso.",
+  "setup": [
+    "Set the backrest to a comfortable incline, approximately 45-60 degrees above horizontal.",
+    "Sit with the back supported and feet flat, holding a dumbbell in each hand.",
+    "Let the arms hang beside the bench with palms forward and elbows softly extended."
+  ],
+  "instructions": [
+    "Bend both elbows to curl the dumbbells toward the shoulders.",
+    "Keep the upper arms hanging rather than swinging them forward.",
+    "Pause before the shoulders lift from the bench.",
+    "Lower slowly toward the starting position without forcing elbow or shoulder extension."
+  ],
+  "cues": [
+    "Keep the back on the support.",
+    "Curl through the elbows.",
+    "Lower with control."
+  ],
+  "commonMistakes": [
+    "Swinging the upper arms forward to finish.",
+    "Arching away from the backrest or forcing a deep shoulder stretch."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 12 kg dumbbells: record 12 kg per dumbbell.",
+    "note": "Keep the same exercise variant and record each dumbbell's mass rather than the combined pair."
+  },
+  "alternatives": [
+    "Standing Dumbbell Curl",
+    "Machine Preacher Curl"
+  ],
+  "variantNote": "Seated incline, both arms curling together with palms supinated. The illustration uses about a 50-degree backrest; keep bench angle consistent.",
+  "reviewNotes": [
+    "Confirm preferred bench angle and simultaneous rather than alternating execution.",
+    "The far arm is partly occluded in the illustration's lowered pose; the written version uses two dumbbells."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Incline Dumbbell Curl",
+      "url": "https://www.muscleandstrength.com/exercises/incline-dumbbell-curl.html",
+      "scope": "Incline-bench dumbbell curl, controlled elbow flexion and supported torso."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "01aa28c69b64d2c043769dcc2e4bf4301b9980804b567cf620b387613f57e7ae",
+    "url": "/media/01aa28c69b64d2c043769dcc2e4bf4301b9980804b567cf620b387613f57e7ae.png",
+    "left": "Arms hanging",
+    "right": "Dumbbells curled",
+    "alt": "Paired black-and-white drawings of a biceps curl on an incline bench with the back supported.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "incline-dumbbell-biceps-curl",
+      "model": null
+    }
+  }
+}

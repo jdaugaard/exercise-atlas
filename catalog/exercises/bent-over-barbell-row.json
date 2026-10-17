@@ -1,0 +1,97 @@
+{
+  "id": "bent-over-barbell-row",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Bent-Over Barbell Row",
+  "nameDa": "Foroverbøjet roning med vægtstang",
+  "aliases": [
+    "Bent Over Barbell Row",
+    "Pronated barbell row"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal pull - unsupported hip hinge",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates"
+  ],
+  "grip": "Overhand, slightly outside shoulder width; palms face toward the legs at the bottom.",
+  "primaryMuscles": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Middle trapezius"
+  ],
+  "secondaryMuscles": [
+    "Posterior deltoid",
+    "Biceps brachii",
+    "Brachialis"
+  ],
+  "stabilizers": [
+    "Spinal erectors",
+    "Abdominal wall",
+    "Hamstrings",
+    "Gluteus maximus",
+    "Forearm flexors"
+  ],
+  "description": "Row a barbell toward the lower ribs from a stable hip hinge using an overhand grip.",
+  "setup": [
+    "Pick up the bar with a controlled hinge, then establish a balanced stance.",
+    "Soften the knees and hinge the hips back until the torso is inclined, keeping the back stable."
+  ],
+  "instructions": [
+    "Let the bar hang below the knees with the arms extended.",
+    "Draw the elbows back to bring the bar toward the lower ribs or upper abdomen.",
+    "Keep the torso angle and knee bend steady as the shoulder blades move naturally.",
+    "Lower under control to extended arms without dropping the bar or rounding the back."
+  ],
+  "cues": [
+    "Hold the hinge.",
+    "Pull with the elbows.",
+    "Lower without swinging."
+  ],
+  "commonMistakes": [
+    "Standing up on each pull to move the load.",
+    "Jerking the bar or rounding the trunk."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "A 20 kg bar plus two 15 kg plates: record 50 kg total.",
+    "note": "Include the bar and both sides' plates; preserve the original load convention in existing logs."
+  },
+  "alternatives": [
+    "Supinated Barbell Bent-Over Row",
+    "Seated Cable Row"
+  ],
+  "variantNote": "Pronated overhand grip with the bar suspended between repetitions. A floor-reset Pendlay row and underhand row require separate variants.",
+  "reviewNotes": [
+    "Torso angle and grip width may vary; keep the selected setup consistent.",
+    "Trainer review of technique and illustrations pending."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Bent Over Barbell Row",
+      "url": "https://www.muscleandstrength.com/exercises/bent-over-barbell-row.html",
+      "scope": "Overhand bent-over row, fixed hip hinge and controlled pull toward the torso."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "8eb98df93d1fbf80b942ba09bd290a563368c4e2294c95e74fb57e43f91e1c04",
+    "url": "/media/8eb98df93d1fbf80b942ba09bd290a563368c4e2294c95e74fb57e43f91e1c04.png",
+    "left": "Arms extended below knees",
+    "right": "Bar drawn toward torso",
+    "alt": "Two line drawings of an overhand barbell row with the torso held in a hip hinge.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "bent-over-barbell-row",
+      "model": null
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "machine-preacher-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Machine Preacher Curl",
+  "nameDa": "Preachercurl i maskine",
+  "aliases": [
+    "Preacher Curl",
+    "Selectorized preacher curl",
+    "Machine biceps curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow flexion - supported upper arms",
+  "laterality": "Bilateral, shared lever",
+  "equipmentItems": [
+    "Selectorized preacher-curl machine"
+  ],
+  "grip": "Underhand or the machine's semi-supinated handles, keeping wrists aligned with the forearms.",
+  "primaryMuscles": [
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "stabilizers": [
+    "Forearm flexors",
+    "Rotator cuff"
+  ],
+  "description": "Curl the handles of a preacher machine while the upper arms remain supported on its angled pad.",
+  "setup": [
+    "Select a light stack setting and adjust the seat following the machine's instructions.",
+    "Place both upper arms on the pad and align the elbows with the machine's indicated axis.",
+    "Grasp the handles without lifting the shoulders or reaching the elbows off the pad."
+  ],
+  "instructions": [
+    "Bend the elbows to raise the machine handles toward the shoulders.",
+    "Keep the upper arms supported and the torso still.",
+    "Stop at the machine's comfortable range without forcing the handles closer.",
+    "Lower slowly without snapping the elbows straight or letting the stack drop."
+  ],
+  "cues": [
+    "Keep upper arms on the pad.",
+    "Move through the elbows.",
+    "Let the machine guide the path."
+  ],
+  "commonMistakes": [
+    "Lifting the upper arms or chest to finish the curl.",
+    "Using a seat setting that misaligns elbows and pivot."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Machine stack selected at 20 kg: record 20 kg with the machine identified.",
+    "note": "Record the stack setting and machine identity. Plate-loaded, independent-arm and different lever-ratio machines do not share a directly comparable load scale."
+  },
+  "alternatives": [
+    "EZ-Bar Preacher Curl",
+    "Incline Dumbbell Biceps Curl"
+  ],
+  "variantNote": "Machine preacher version is confirmed. Selectorized, bilateral shared lever is an equipment assumption; actual gym model, handle shape and pivot alignment need checking.",
+  "reviewNotes": [
+    "Generic equipment schematic, not a model-specific operating diagram.",
+    "Illustrated handle-to-lever connection and pivot geometry remain unresolved; replace or approve against the actual machine before marking reviewed."
+  ],
+  "sources": [
+    {
+      "title": "Life Fitness - Insignia Series Biceps Curl",
+      "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-biceps-curl",
+      "scope": "Manufacturer example of a supported-arm selectorized biceps machine. Does not identify the gym machine or validate this generic illustration."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "517e8d87f04672a98545d4430fa99474453592d3b21640fc352a3b90725101d9",
+    "url": "/media/517e8d87f04672a98545d4430fa99474453592d3b21640fc352a3b90725101d9.png",
+    "left": "Elbows comfortably extended",
+    "right": "Handles curled upward",
+    "alt": "Two schematic line drawings of a seated machine preacher curl with the upper arms supported on an angled pad.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "machine-preacher-curl",
+      "model": null
+    }
+  }
+}

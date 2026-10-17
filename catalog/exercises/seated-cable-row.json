@@ -1,0 +1,98 @@
+{
+  "id": "seated-cable-row",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Seated Cable Row",
+  "nameDa": "Siddende kabelroning med håndtag",
+  "aliases": [
+    "Seated low cable row",
+    "Close-grip cable row",
+    "Seated Cable Row with Handles"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal pull - elbows close",
+  "laterality": "Bilateral, shared cable",
+  "equipmentItems": [
+    "Low cable pulley",
+    "Close neutral-grip row handle",
+    "Stable bench and foot supports"
+  ],
+  "grip": "Both hands grasp the parallel grips of one close row handle, palms facing each other.",
+  "primaryMuscles": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Middle trapezius"
+  ],
+  "secondaryMuscles": [
+    "Posterior deltoid",
+    "Biceps brachii",
+    "Brachialis"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Spinal erectors",
+    "Forearm flexors"
+  ],
+  "description": "Pull a close-grip handle toward the lower ribs from a seated position while keeping the torso steady.",
+  "setup": [
+    "Attach a close row handle to one low cable and select the stack load.",
+    "Sit on the bench, brace both feet on the supports and keep a small knee bend.",
+    "Grasp the handle with both hands and sit tall at a distance that permits a controlled reach."
+  ],
+  "instructions": [
+    "Begin with arms extended and the shoulders allowed to reach forward without rounding the lower back.",
+    "Pull the elbows back close to the sides as the handle approaches the lower ribs.",
+    "Allow the shoulder blades to move naturally; avoid exaggerated backward leaning.",
+    "Extend the arms slowly to return without dropping the stack."
+  ],
+  "cues": [
+    "Bring elbows toward your sides.",
+    "Keep the torso quiet.",
+    "Control the reach."
+  ],
+  "commonMistakes": [
+    "Rocking the whole torso to move the load.",
+    "Shrugging or pulling the handle high toward the neck."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "A single stack selected at 20 kg: record 20 kg on that machine.",
+    "note": "Record the selected stack value, attachment and pulley setup. Pulley ratios and machine calibration make stack values unsuitable for direct comparisons across machines."
+  },
+  "alternatives": [
+    "Seated Cable Row with Wrist Cuffs",
+    "Bent-Over Barbell Row"
+  ],
+  "variantNote": "One low cable with a hand-held close neutral-grip handle. Cuff rows and two independent cable stacks remain distinct entries.",
+  "reviewNotes": [
+    "Close neutral handle and seated foot-supported setup are assumptions for the generic name.",
+    "Trainer review of technique and illustrations pending."
+  ],
+  "sources": [
+    {
+      "title": "ACE - Cable Training, Seated Row",
+      "url": "https://www.acefitness.org/cp/pdfs/CertifiedNews/AugSept09Cert.pdf",
+      "scope": "General seated low-cable row with close elbows; specific handle geometry is an editorial equipment assumption."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "9808596a3454faaa9b1d442bf4b557d00bede50f1f94a4e1e468ca096f254f5a",
+    "url": "/media/9808596a3454faaa9b1d442bf4b557d00bede50f1f94a4e1e468ca096f254f5a.png",
+    "left": "Arms extended",
+    "right": "Handle at lower ribs",
+    "alt": "Two line drawings of a seated low cable row using a hand-held neutral row handle.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "seated-cable-row",
+      "model": null
+    }
+  }
+}

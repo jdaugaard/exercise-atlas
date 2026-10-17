@@ -1,0 +1,97 @@
+{
+  "id": "standing-barbell-strict-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Standing Barbell Strict Press",
+  "nameDa": "Stående skulderpres med vægtstang",
+  "aliases": [
+    "Strict Press",
+    "Military press",
+    "Barbell overhead press"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Shoulders",
+    "Upper Arms"
+  ],
+  "movementPattern": "Vertical push",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates",
+    "Rack for setup"
+  ],
+  "grip": "Overhand, at or just outside shoulder width, with the bar supported securely in the hands.",
+  "primaryMuscles": [
+    "Anterior deltoid",
+    "Lateral deltoid"
+  ],
+  "secondaryMuscles": [
+    "Triceps brachii",
+    "Serratus anterior",
+    "Trapezius"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall",
+    "Gluteus maximus"
+  ],
+  "description": "Press a barbell from the upper chest to overhead while standing with the legs still.",
+  "setup": [
+    "Set the rack just below shoulder height and take an overhand grip.",
+    "Unrack the bar to the upper chest, step clear and establish a balanced stance.",
+    "Brace the trunk with elbows slightly in front of the bar."
+  ],
+  "instructions": [
+    "Move the head just enough to let the bar pass, then press upward without knee drive.",
+    "Allow the shoulder blades to rotate upward as the bar rises.",
+    "Finish with the bar balanced over the shoulders and midfoot, head neutral.",
+    "Lower under control to the upper chest, keeping the torso stable."
+  ],
+  "cues": [
+    "Keep the bar close.",
+    "Reach upward at the top.",
+    "Keep the ribs over the pelvis."
+  ],
+  "commonMistakes": [
+    "Driving with the knees or leaning far backward.",
+    "Pressing behind the neck or letting the bar drift forward."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "A 20 kg bar plus two 15 kg plates: record 50 kg total.",
+    "note": "Include the bar and both sides' plates; preserve the original load convention in existing logs."
+  },
+  "alternatives": [
+    "Standing Dumbbell Strict Press",
+    "Seated Barbell Shoulder Press"
+  ],
+  "variantNote": "Standing front-of-neck strict barbell press. The generic alias Strict Press is mapped to this barbell variant; seated, dumbbell and push presses are distinct.",
+  "reviewNotes": [
+    "Standing barbell is the assumption for the generic name Strict Press.",
+    "Trainer review of technique and illustrations pending."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Military Press",
+      "url": "https://www.muscleandstrength.com/exercises/military-press.html",
+      "scope": "Standing barbell strict press, rack setup, no leg drive and overhead scapular movement."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "13342d5d4ce6485f7abcc3cff67550b966558469367c88cbe7715904922e01f1",
+    "url": "/media/13342d5d4ce6485f7abcc3cff67550b966558469367c88cbe7715904922e01f1.png",
+    "left": "Bar at upper chest",
+    "right": "Bar overhead",
+    "alt": "Two line drawings of a standing strict barbell press from upper chest to overhead with the feet fixed.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "standing-barbell-strict-press",
+      "model": null
+    }
+  }
+}

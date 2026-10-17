@@ -1,0 +1,98 @@
+{
+  "id": "barbell-deadlift",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Barbell Deadlift",
+  "nameDa": "Konventionelt dødløft med vægtstang",
+  "aliases": [
+    "Deadlift",
+    "Conventional barbell deadlift"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Hips",
+    "Upper Legs",
+    "Back"
+  ],
+  "movementPattern": "Hip and knee extension - floor pull",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates",
+    "Level lifting surface"
+  ],
+  "grip": "Double overhand, hands outside the legs. Mixed and hook grips are not illustrated.",
+  "primaryMuscles": [
+    "Gluteus maximus",
+    "Quadriceps"
+  ],
+  "secondaryMuscles": [
+    "Hamstrings",
+    "Adductor magnus"
+  ],
+  "stabilizers": [
+    "Spinal erectors",
+    "Abdominal wall",
+    "Latissimus dorsi",
+    "Trapezius",
+    "Forearm flexors"
+  ],
+  "description": "Lift a barbell from a settled floor position by extending the hips and knees, keeping the bar close to the legs.",
+  "setup": [
+    "Position the bar over the midfoot with feet about hip-width apart.",
+    "Hinge down and bend the knees to grasp the bar outside the legs.",
+    "Set a stable trunk, keep the arms long and take up tension against the bar before lifting."
+  ],
+  "instructions": [
+    "Push through the floor and extend the hips and knees together while keeping the bar close.",
+    "Guide the bar past the knees without bending the elbows.",
+    "Stand tall with the bar at the thighs, without leaning backward.",
+    "Hinge back and bend the knees as needed to lower the bar, settle the plates and reset."
+  ],
+  "cues": [
+    "Keep the bar near the legs.",
+    "Push the floor away.",
+    "Finish tall."
+  ],
+  "commonMistakes": [
+    "Jerking the bar from the floor with a rounded trunk.",
+    "Letting the hips rise far ahead of the shoulders or leaning back at lockout."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "A 20 kg bar plus two 15 kg plates: record 50 kg total.",
+    "note": "Include the bar and both sides' plates; preserve the original load convention in existing logs."
+  },
+  "alternatives": [
+    "Trap-Bar Deadlift",
+    "Barbell Romanian Deadlift"
+  ],
+  "variantNote": "Conventional floor-start stance, resetting each repetition. Sumo, trap-bar and Romanian deadlifts are separate variants.",
+  "reviewNotes": [
+    "Plate diameter determines starting bar height; smaller plates may require a raised starting surface.",
+    "Trainer review of setup and illustration pending."
+  ],
+  "sources": [
+    {
+      "title": "ACE - Deadlift",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/6/deadlift/",
+      "scope": "General conventional barbell deadlift setup and controlled floor-to-standing movement."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "3093aeccdf860a3569bd6746ebe1f01c9124ce05e6dcd9bd8992f52b8eab1482",
+    "url": "/media/3093aeccdf860a3569bd6746ebe1f01c9124ce05e6dcd9bd8992f52b8eab1482.png",
+    "left": "Bar settled on floor",
+    "right": "Standing with bar",
+    "alt": "Two black-and-white drawings showing a conventional deadlift from the floor to standing with straight arms.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "barbell-deadlift",
+      "model": null
+    }
+  }
+}

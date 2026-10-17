@@ -1,0 +1,94 @@
+{
+  "id": "single-arm-rear-delt-cable-fly",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Single-Arm Rear-Delt Cable Fly",
+  "nameDa": "Enarms kabel-flyes til bagskulder",
+  "aliases": [
+    "Single Arm Rear Delt Cable Fly",
+    "Single-arm cable reverse fly",
+    "One-arm rear delt fly"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Shoulders",
+    "Back"
+  ],
+  "movementPattern": "Shoulder horizontal abduction",
+  "laterality": "Unilateral",
+  "equipmentItems": [
+    "Adjustable cable pulley",
+    "Single D-handle"
+  ],
+  "grip": "Neutral grip on one D-handle with the wrist aligned with the forearm.",
+  "primaryMuscles": [
+    "Posterior deltoid"
+  ],
+  "secondaryMuscles": [
+    "Middle trapezius",
+    "Rhomboids"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall",
+    "Forearm flexors"
+  ],
+  "description": "Open one arm away from a cross-body cable reach while keeping the torso and elbow bend nearly unchanged.",
+  "setup": [
+    "Set one pulley around shoulder height and attach a D-handle.",
+    "Stand side-on to the stack and take the handle with the hand farther from the pulley.",
+    "Reach that arm across the upper chest, establish a small elbow bend and take up cable tension."
+  ],
+  "instructions": [
+    "Sweep the working arm outward at approximately shoulder height.",
+    "Keep the elbow bend similar so the motion comes mainly from the shoulder.",
+    "Stop around the torso plane without twisting the body or pulling the elbow far behind.",
+    "Return slowly across the body, then repeat for the other side with the same setup."
+  ],
+  "cues": [
+    "Open the arm in an arc.",
+    "Keep the chest facing forward.",
+    "Keep the elbow bend quiet."
+  ],
+  "commonMistakes": [
+    "Bending the elbow into a row.",
+    "Turning the torso or shrugging to move the handle."
+  ],
+  "logging": {
+    "basis": "selected_stack_load_per_side",
+    "example": "One stack selected at 5 kg for each arm: record 5 kg per side and repetitions for each side.",
+    "note": "Use the same pulley height and machine for both sides. Do not sum the two sides' loads; stack markings and pulley ratios differ across machines."
+  },
+  "alternatives": [
+    "Standing Cable Reverse Fly",
+    "Reverse Pec Deck Fly"
+  ],
+  "variantNote": "One hand-held cable, standing with a shoulder-height pulley. Cuff attachment, low-pulley bent-over and two-arm versions need separate instructions.",
+  "reviewNotes": [
+    "Pulley height and D-handle are assumptions for the generic single-arm name.",
+    "Source describes bilateral standing cable reverse fly; unilateral execution is an editorial adaptation requiring technique review."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Standing Cable Reverse Fly",
+      "url": "https://www.muscleandstrength.com/exercises/standing-cable-flys.html",
+      "scope": "General standing reverse-fly shoulder action with a similar elbow bend. Source is bilateral; this draft adapts it to one arm and an explicitly stated pulley height."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "32bc534e04bbfb7115c8bb29afde673a3a6e182f3cee0baeb98faee2689147b6",
+    "url": "/media/32bc534e04bbfb7115c8bb29afde673a3a6e182f3cee0baeb98faee2689147b6.png",
+    "left": "Working arm across chest",
+    "right": "Same arm opened outward",
+    "alt": "Two front-view line drawings of a single-arm cable rear-delt fly; the same right hand holds the handle in both positions.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "single-arm-rear-delt-cable-fly",
+      "model": null
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "standing-barbell-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Standing Barbell Curl",
+  "nameDa": "Stående bicepscurl med vægtstang",
+  "aliases": [
+    "Barbell biceps curl",
+    "Straight-bar curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow flexion",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates"
+  ],
+  "grip": "Supinated underhand, approximately shoulder width, with wrists aligned with the forearms.",
+  "primaryMuscles": [
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff",
+    "Forearm flexors"
+  ],
+  "description": "Curl a straight bar upward by bending the elbows while standing with the upper arms close to the torso.",
+  "setup": [
+    "Hold a straight bar in front of the thighs with an underhand grip.",
+    "Stand evenly on both feet, soften the knees and brace the torso."
+  ],
+  "instructions": [
+    "Bend the elbows to raise the bar without leaning backward.",
+    "Keep the upper arms close to the sides as the bar approaches the lower chest.",
+    "Stop before the shoulders roll forward or the elbows need to swing.",
+    "Lower slowly toward extended elbows without snapping them straight."
+  ],
+  "cues": [
+    "Keep the elbows quiet.",
+    "Keep the wrists straight.",
+    "Control both directions."
+  ],
+  "commonMistakes": [
+    "Swinging the hips or leaning backward.",
+    "Bending the wrists to finish the curl."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "A 20 kg bar plus two 15 kg plates: record 50 kg total.",
+    "note": "Include the bar and both sides' plates; preserve the original load convention in existing logs."
+  },
+  "alternatives": [
+    "EZ-Bar Curl",
+    "Dumbbell Hammer Curl"
+  ],
+  "variantNote": "Straight bar with a supinated grip. An EZ bar changes hand position and should retain its own equipment identity.",
+  "reviewNotes": [
+    "Difficulty is an editorial label; load and range remain individual.",
+    "Trainer review of technique and illustrations pending."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Standing Barbell Curl",
+      "url": "https://www.muscleandstrength.com/exercises/standing-barbell-curl.html",
+      "scope": "Standing underhand bar curl, elbow flexion and avoidance of body swing."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "ae7e70d2d7f3018bf4b05a9ab7fa4a90265db67df1c522cb98892a2db88765f4",
+    "url": "/media/ae7e70d2d7f3018bf4b05a9ab7fa4a90265db67df1c522cb98892a2db88765f4.png",
+    "left": "Bar at thighs",
+    "right": "Bar curled upward",
+    "alt": "Two line drawings of an underhand standing straight-bar biceps curl.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "standing-barbell-curl",
+      "model": null
+    }
+  }
+}

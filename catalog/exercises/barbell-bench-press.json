@@ -1,0 +1,96 @@
+{
+  "id": "barbell-bench-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Barbell Bench Press",
+  "nameDa": "Bænkpres med vægtstang",
+  "aliases": [
+    "Flat barbell bench press",
+    "Barbell chest press"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Chest",
+    "Shoulders",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal push",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates",
+    "Flat bench",
+    "Rack with safety supports or a competent spotter"
+  ],
+  "grip": "Closed overhand grip slightly wider than shoulders, with the bar secure over the forearms.",
+  "primaryMuscles": [
+    "Pectoralis major"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Triceps brachii"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Upper back",
+    "Abdominal wall"
+  ],
+  "description": "Press a barbell above the chest while lying on a flat bench with the feet planted.",
+  "setup": [
+    "Set rack hooks and safety supports for your body and range; use suitable spotting arrangements.",
+    "Lie with head, shoulders and hips supported and feet firmly on the floor.",
+    "Take a closed overhand grip and unrack the bar above the chest with the upper back stable."
+  ],
+  "instructions": [
+    "Lower the bar under control toward the middle or lower chest.",
+    "Keep wrists above the forearms and elbows at a comfortable angle to the torso.",
+    "Press back above the chest and shoulders without lifting the hips.",
+    "Finish the set by guiding the bar securely into both rack hooks."
+  ],
+  "cues": [
+    "Keep the feet planted.",
+    "Control the bar above the chest.",
+    "Maintain contact with the bench."
+  ],
+  "commonMistakes": [
+    "Bouncing the bar off the chest or lowering toward the throat.",
+    "Lifting the hips or losing control of the bar while reracking."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "A 20 kg bar plus two 15 kg plates: record 50 kg total.",
+    "note": "Include the bar and both sides' plates; preserve the original load convention in existing logs."
+  },
+  "alternatives": [
+    "Flat Dumbbell Bench Press",
+    "Decline Dumbbell Bench Press"
+  ],
+  "variantNote": "Flat bench, moderate grip and controlled chestward lowering. Incline, decline and close-grip presses remain distinct.",
+  "reviewNotes": [
+    "The illustration shows two positions, not unracking, spotting or the full bar path.",
+    "Confirm rack support arrangement; trainer review of technique and bar position pending."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Barbell Bench Press",
+      "url": "https://www.muscleandstrength.com/exercises/barbell-bench-press.html",
+      "scope": "Flat barbell press, chest targeting, supported setup and controlled lowering toward the sternum."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "be7d103aad97bf04fe61701d22c19527e804a0fb2b55e5a950943cf741b88446",
+    "url": "/media/be7d103aad97bf04fe61701d22c19527e804a0fb2b55e5a950943cf741b88446.png",
+    "left": "Bar lowered toward chest",
+    "right": "Bar pressed upward",
+    "alt": "Paired line drawings of a flat barbell bench press with a rack and planted feet.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "barbell-bench-press",
+      "model": null
+    }
+  }
+}

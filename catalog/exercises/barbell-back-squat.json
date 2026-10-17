@@ -1,0 +1,96 @@
+{
+  "id": "barbell-back-squat",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Barbell Back Squat",
+  "nameDa": "Squat med vægtstang på ryggen",
+  "aliases": [
+    "Back squat",
+    "Barbell squat"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Upper Legs",
+    "Hips"
+  ],
+  "movementPattern": "Squat",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates",
+    "Squat rack with safety supports"
+  ],
+  "grip": "Closed grip outside the shoulders to secure the bar on the upper back; the hands do not carry the bar overhead.",
+  "primaryMuscles": [
+    "Quadriceps",
+    "Gluteus maximus"
+  ],
+  "secondaryMuscles": [
+    "Adductor magnus"
+  ],
+  "stabilizers": [
+    "Spinal erectors",
+    "Abdominal wall",
+    "Upper back",
+    "Gluteus medius",
+    "Calf muscles"
+  ],
+  "description": "Squat with a barbell supported on the upper back, bending the knees and hips while keeping the feet planted.",
+  "setup": [
+    "Set the rack and safety supports to suit your height and planned depth.",
+    "Place the bar across the upper trapezius below the neck, grasp it securely and stand clear of the hooks.",
+    "Choose a stable stance around shoulder-width, with the toes turned out as comfortable."
+  ],
+  "instructions": [
+    "Brace the trunk and lower by bending the knees and hips together.",
+    "Keep the whole foot loaded and knees tracking in the direction of the toes.",
+    "Descend to a depth you can control; the drawing shows thighs around parallel.",
+    "Drive through the feet to stand, then rerack securely after the set."
+  ],
+  "cues": [
+    "Keep the whole foot planted.",
+    "Let knees follow the toes.",
+    "Stand with chest and hips rising together."
+  ],
+  "commonMistakes": [
+    "Lifting the heels or collapsing the knees inward.",
+    "Losing trunk control to force extra depth."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "A 20 kg bar plus two 15 kg plates: record 50 kg total.",
+    "note": "Include the bar and both sides' plates; preserve the original load convention in existing logs."
+  },
+  "alternatives": [
+    "Goblet Squat",
+    "Front Squat"
+  ],
+  "variantNote": "Illustrated as a high-bar back squat with approximately parallel depth. Low-bar placement, stance and individual depth can differ and need explicit notes.",
+  "reviewNotes": [
+    "Rack setup and spotting are not illustrated; use the equipment's safety arrangements.",
+    "Trainer review of bar position, depth and illustrations pending."
+  ],
+  "sources": [
+    {
+      "title": "ACE - Back Squat",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/11/back-squat/",
+      "scope": "Barbell back-squat setup and squat mechanics; chosen high-bar appearance and depth are editorial assumptions."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "f1e3123ed79f817da9f080eefbaf5854ca37c8404cf5bae7f22c82eedb59a6da",
+    "url": "/media/f1e3123ed79f817da9f080eefbaf5854ca37c8404cf5bae7f22c82eedb59a6da.png",
+    "left": "Standing under bar",
+    "right": "Lowered squat",
+    "alt": "Two line drawings of a barbell back squat, standing and lowered with the heels planted.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "barbell-back-squat",
+      "model": null
+    }
+  }
+}

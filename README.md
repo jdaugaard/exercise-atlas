@@ -1,18 +1,20 @@
 # Exercise Atlas
 
-A small, curated exercise catalog with original black-and-white illustrations, reusable authoring instructions and a read-only HTTP API. It starts with five complete draft examples:
+A curated exercise catalog with original black-and-white illustrations, reusable authoring instructions and a read-only HTTP API. Catalog version 0.2.0 contains 22 complete draft entries:
 
-- Decline Dumbbell Bench Press
-- Barbell Romanian Deadlift
-- Machine Hip Thrust
-- Dumbbell Lateral Raise
-- Seated Cable Row with Wrist Cuffs
+- **Presses and chest:** Barbell Bench Press, Decline Dumbbell Bench Press, Flat Dumbbell Fly, Standing Barbell Strict Press, Standing Dumbbell Strict Press.
+- **Legs and hips:** Barbell Back Squat, Barbell Deadlift, Barbell Romanian Deadlift, Machine Hip Thrust.
+- **Rows and pulldowns:** Bent-Over Barbell Row, Supinated Barbell Bent-Over Row, Seated Cable Row, Seated Cable Row with Wrist Cuffs, Seated Lat Pulldown Machine.
+- **Shoulder isolation:** Dumbbell Lateral Raise, Single-Arm Rear-Delt Cable Fly.
+- **Curls and triceps:** Standing Barbell Curl, Incline Dumbbell Biceps Curl, Dumbbell Hammer Curl, Machine Preacher Curl, Overhead Rope Cable Triceps Extension, Cable Triceps Pushdown.
 
-Every entry includes English and Danish names, aliases, muscle roles, equipment, setup, movement instructions, cues, mistakes, alternatives, load-logging conventions, source scope and illustration provenance. The wrist-cuff example assumes two independent low cables; the machine example is a generic schematic. All five need technique and equipment review. The illustrations are approved as a visual direction, not validated demonstrations.
+Every entry includes English and Danish names, aliases, muscle roles, equipment, setup, movement instructions, cues, mistakes, alternatives, load-logging conventions, source scope and illustration provenance. The wrist-cuff row assumes two independent low cables; machine illustrations are generic schematics. All entries need technique and equipment review. The illustrations are approved as a visual direction, not validated demonstrations.
+
+Equipment assumptions are recorded in each entry. In particular, the preacher-curl illustration still needs its lever and pivot geometry corrected against a real machine. The overhead rope entry uses a low pulley behind the athlete, the pushdown uses a straight bar, and the single-arm rear-delt fly uses a shoulder-height pulley. These assumptions must be reviewed before mapping a more ambiguous consumer exercise name.
 
 This repository is private. No open-source license has been selected, no service is publicly deployed, and FitTrack is unchanged.
 
-Browse the [five illustrated examples](docs/examples.md). The canonical, editable data remains in `catalog/exercises/`; run `npm run docs:generate` after changing entries to refresh the readable preview.
+Browse the [22 illustrated entries](docs/examples.md). The canonical, editable data remains in `catalog/exercises/`; run `npm run docs:generate` after changing entries to refresh the readable preview.
 
 ## Run locally
 
@@ -27,7 +29,7 @@ npm start
 The API listens at `http://127.0.0.1:4317`. `HOST` and `PORT` override the address. Binding to a non-loopback address exposes this unauthenticated API on that network; the default is local only. It needs no database, account, image-generation key or live provider connection to serve the saved catalog.
 
 ```sh
-curl http://127.0.0.1:4317/v1/exercises
+curl 'http://127.0.0.1:4317/v1/exercises?limit=100'
 curl 'http://127.0.0.1:4317/v1/exercises?q=cuffs'
 curl 'http://127.0.0.1:4317/v1/exercises?status=reviewed'
 curl http://127.0.0.1:4317/v1/exercises/barbell-romanian-deadlift
@@ -73,7 +75,7 @@ See [authoring and revisions](docs/authoring.md) and [future consumer integratio
 ```text
 catalog/exercises/                 One JSON file per stable exercise ID
 catalog/media/                     PNGs named by SHA-256
-catalog/styles/line-art-v1/         Frozen style manifest and original prompts
+catalog/styles/line-art-v1/         Frozen style manifest and generation prompts
 .agents/skills/exercise-atlas-authoring/  Portable authoring workflow
 src/                               Shared schemas, catalog loader and HTTP API
 test/                              API and catalog integrity checks
@@ -81,4 +83,6 @@ test/                              API and catalog integrity checks
 
 ## Publication and licensing
 
-Code, dataset and illustrations are currently `UNLICENSED`; the private repository is not an open-source release. Decide their licenses explicitly before publication. Sources are cited for factual checking; external source text, logos and artwork are not redistributed. The five PNGs are original AI-generated drafts, and the actual generator model identifier was not exposed, so provenance records it as null. The repo contains no user programs, sessions or training history.
+Code, dataset and illustrations are currently `UNLICENSED`; the private repository is not an open-source release. Decide their licenses explicitly before publication. Sources are cited for factual checking; external source text, logos and artwork are not redistributed. The PNGs are original AI-generated drafts, and the actual generator model identifier was not exposed, so provenance records it as null. The repo contains no user programs, sessions or training history.
+
+The original five style references and prompts remain unchanged. The 17 additions and their correction prompts are recorded in [generation-prompts-0.2.0.json](catalog/styles/line-art-v1/generation-prompts-0.2.0.json).
