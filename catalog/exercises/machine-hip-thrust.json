@@ -1,0 +1,95 @@
+{
+  "id": "machine-hip-thrust",
+  "name": "Machine Hip Thrust",
+  "nameDa": "Hip thrust i maskine",
+  "aliases": [
+    "Glute drive",
+    "Hip thrust machine"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Hips",
+    "Upper Legs"
+  ],
+  "movementPattern": "Supported hip extension",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Dedicated hip-thrust machine",
+    "Weight plates for plate-loaded model"
+  ],
+  "grip": "Hands steady the machine's handles; they do not lift the resistance.",
+  "primaryMuscles": [
+    "Gluteus maximus"
+  ],
+  "secondaryMuscles": [
+    "Hamstrings",
+    "Adductor magnus"
+  ],
+  "stabilizers": [
+    "Abdominal wall"
+  ],
+  "description": "A supported hip extension against a dedicated machine's resistance. Your upper back stays supported while your hips move the padded belt or lever.",
+  "setup": [
+    "Follow the actual machine's instructions for the pad or belt, load and any safety catch.",
+    "Place your upper back on its support and feet firmly on the platform; adjust your position for the machine."
+  ],
+  "instructions": [
+    "Brace the trunk and use the handles for stability.",
+    "Follow the machine's release sequence, then lower the hips under control.",
+    "Extend the hips until trunk and thighs are approximately aligned, without arching the lower back.",
+    "Return under control; re-engage the catch before releasing the belt or leaving."
+  ],
+  "cues": [
+    "Move at the hips.",
+    "Keep ribs and pelvis controlled.",
+    "Keep both feet planted."
+  ],
+  "commonMistakes": [
+    "Arching the lower back to lift higher.",
+    "Changing foot position mid-set or releasing the restraint before securing the load."
+  ],
+  "logging": {
+    "basis": "added_plate_mass_on_same_machine",
+    "example": "Two 20 kg plates: record 40 kg added load on this machine.",
+    "note": "Do not invent an empty-lever weight or compare loads across machines. A stack model needs a separate logging convention."
+  },
+  "alternatives": [
+    "Barbell Hip Thrust",
+    "Smith Machine Hip Thrust"
+  ],
+  "variantNote": "Illustrated as a generic belt-loaded model. Selectorized and rigid-pad machines may use a different setup and release sequence.",
+  "reviewNotes": [
+    "Actual machine model, belt/pad position and catch sequence need confirmation.",
+    "Generic schematic, not a manufacturer-specific diagram; trainer review pending."
+  ],
+  "sources": [
+    {
+      "title": "ACE - Understanding the Barbell Hip Thrust",
+      "url": "https://www.acefitness.org/continuing-education/certified/november-2019/7403/understanding-the-barbell-hip-thrust/",
+      "scope": "General hip-thrust movement and muscle roles, not this exact machine."
+    },
+    {
+      "title": "Life Fitness - Plate-Loaded Glute Drive",
+      "url": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-glute-drive",
+      "scope": "Example of dedicated machine with upper-back support, footplate and hip strap; not confirmation of the user's model."
+    }
+  ],
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "2c053800f6ec03846c37c15be4bcc7c036fe86ce53ad69b0e9ca7e45f28d35fe",
+    "url": "/media/2c053800f6ec03846c37c15be4bcc7c036fe86ce53ad69b0e9ca7e45f28d35fe.png",
+    "left": "Lowered position",
+    "right": "Hip extension",
+    "alt": "Two black-and-white drawings of a generic belt-loaded hip-thrust machine in lowered and raised positions.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "machine-hip-thrust",
+      "model": null
+    }
+  }
+}

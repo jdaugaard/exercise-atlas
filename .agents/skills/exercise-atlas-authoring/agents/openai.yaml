@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exercise Atlas Authoring"
+  short_description: "Create consistent exercise entries and line art"
+  default_prompt: "Use $exercise-atlas-authoring to draft an exercise entry and matching line-art-v1 illustrations."

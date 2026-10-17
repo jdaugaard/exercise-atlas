@@ -1,0 +1,322 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "revision": {
+      "type": "integer",
+      "exclusiveMinimum": 0,
+      "maximum": 9007199254740991
+    },
+    "reviewStatus": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "reviewed",
+        "retired"
+      ]
+    },
+    "reviewedAt": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "date-time",
+          "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z))$"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "nameDa": {
+      "type": "string",
+      "minLength": 1
+    },
+    "aliases": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "category": {
+      "type": "string",
+      "const": "Strength"
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+      ]
+    },
+    "bodyParts": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "movementPattern": {
+      "type": "string",
+      "minLength": 1
+    },
+    "laterality": {
+      "type": "string",
+      "minLength": 1
+    },
+    "equipmentItems": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "grip": {
+      "type": "string",
+      "minLength": 1
+    },
+    "primaryMuscles": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "secondaryMuscles": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "stabilizers": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1
+    },
+    "setup": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "instructions": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "cues": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "commonMistakes": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "logging": {
+      "type": "object",
+      "properties": {
+        "basis": {
+          "type": "string",
+          "minLength": 1
+        },
+        "example": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "basis",
+        "example",
+        "note"
+      ],
+      "additionalProperties": false
+    },
+    "alternatives": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "variantNote": {
+      "type": "string",
+      "minLength": 1
+    },
+    "reviewNotes": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "sources": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "title",
+          "url",
+          "scope"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "illustration": {
+      "type": "object",
+      "properties": {
+        "styleId": {
+          "type": "string",
+          "const": "line-art-v1"
+        },
+        "mediaId": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "url": {
+          "type": "string",
+          "pattern": "^\\/media\\/[a-f0-9]{64}\\.png$"
+        },
+        "left": {
+          "type": "string",
+          "minLength": 1
+        },
+        "right": {
+          "type": "string",
+          "minLength": 1
+        },
+        "alt": {
+          "type": "string",
+          "minLength": 1
+        },
+        "generation": {
+          "type": "object",
+          "properties": {
+            "method": {
+              "type": "string",
+              "const": "built-in-image-gen"
+            },
+            "createdDate": {
+              "type": "string",
+              "format": "date",
+              "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$"
+            },
+            "promptId": {
+              "type": "string",
+              "minLength": 1
+            },
+            "model": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          },
+          "required": [
+            "method",
+            "createdDate",
+            "promptId",
+            "model"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "styleId",
+        "mediaId",
+        "url",
+        "left",
+        "right",
+        "alt",
+        "generation"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "id",
+    "revision",
+    "reviewStatus",
+    "reviewedAt",
+    "name",
+    "nameDa",
+    "aliases",
+    "category",
+    "difficulty",
+    "bodyParts",
+    "movementPattern",
+    "laterality",
+    "equipmentItems",
+    "grip",
+    "primaryMuscles",
+    "secondaryMuscles",
+    "stabilizers",
+    "description",
+    "setup",
+    "instructions",
+    "cues",
+    "commonMistakes",
+    "logging",
+    "alternatives",
+    "variantNote",
+    "reviewNotes",
+    "sources",
+    "illustration"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "line-art-v1",
+  "version": 1,
+  "approvalScope": "visual-style-only",
+  "description": "Faceless athletic figures, black shorts, white background, black contours, sparse gray equipment and two positions.",
+  "references": [
+    {
+      "exerciseId": "decline-dumbbell-bench-press",
+      "file": "decline-dumbbell-bench-press.png",
+      "sha256": "b96662fb80c277198910d61a3f2ec7a54bb22ba00f0c71625e089309bc16d19c"
+    },
+    {
+      "exerciseId": "barbell-romanian-deadlift",
+      "file": "barbell-romanian-deadlift.png",
+      "sha256": "86fb13d4d7467f54a66704cf44028e7ad3b0ff9d6ab861ad59ab7a5de1e20a2e"
+    },
+    {
+      "exerciseId": "machine-hip-thrust",
+      "file": "machine-hip-thrust.png",
+      "sha256": "2c053800f6ec03846c37c15be4bcc7c036fe86ce53ad69b0e9ca7e45f28d35fe"
+    },
+    {
+      "exerciseId": "dumbbell-lateral-raise",
+      "file": "dumbbell-lateral-raise.png",
+      "sha256": "d11a79f485e3e24a20918488f5219c9fde3af9ba5c1ac5e8b7a63503f479e3bf"
+    },
+    {
+      "exerciseId": "seated-cable-row-wrist-cuffs",
+      "file": "seated-cable-row-wrist-cuffs.png",
+      "sha256": "3ea5deccea322a4a09e2929079f59c6949797ea559249cc709cb98b8c4390c40"
+    }
+  ],
+  "requiredChecks": [
+    "Identity and proportions match the original style references",
+    "Both poses show the same equipment and geometry",
+    "Cuffs and other attachments are visibly connected as specified",
+    "Movement, limb count and support positions are plausible",
+    "No cropped equipment, logos, text, gradients or muscle activation percentages",
+    "Entry remains draft until technique and equipment details are reviewed"
+  ]
+}

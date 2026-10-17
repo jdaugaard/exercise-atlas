@@ -1,0 +1,95 @@
+{
+  "id": "barbell-romanian-deadlift",
+  "name": "Barbell Romanian Deadlift",
+  "nameDa": "Rumænsk dødløft med vægtstang",
+  "aliases": [
+    "Romanian deadlift",
+    "Barbell RDL"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Hips",
+    "Upper Legs",
+    "Back"
+  ],
+  "movementPattern": "Hip hinge",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates",
+    "Rack for setup, optional"
+  ],
+  "grip": "Double overhand, hands approximately shoulder-width apart.",
+  "primaryMuscles": [
+    "Hamstrings",
+    "Gluteus maximus"
+  ],
+  "secondaryMuscles": [
+    "Adductor magnus"
+  ],
+  "stabilizers": [
+    "Spinal erectors",
+    "Abdominal wall",
+    "Upper back",
+    "Forearm flexors"
+  ],
+  "description": "A standing hip hinge that loads the back of the thighs and glutes. The hips move backward as the bar descends close to the legs.",
+  "setup": [
+    "Stand with feet around hip-width and hold the bar in front of the thighs.",
+    "Soften the knees, brace the trunk and keep the neck aligned with the spine."
+  ],
+  "instructions": [
+    "Push the hips backward while keeping the bar close and arms straight.",
+    "Lower only while you can maintain the hinge and a stable trunk; the plates need not reach the floor.",
+    "Keep roughly the same small knee bend rather than dropping into a squat.",
+    "Drive the hips forward to stand tall without leaning backward."
+  ],
+  "cues": [
+    "Hips back, bar close.",
+    "Let the gaze follow the torso.",
+    "Stand tall at the top."
+  ],
+  "commonMistakes": [
+    "Rounding the back to force extra depth.",
+    "Bending the knees into a squat or letting the bar drift forward."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "A 20 kg bar plus two 15 kg plates: record 50 kg total.",
+    "note": "Include the bar; keep equipment and load convention consistent."
+  },
+  "alternatives": [
+    "Dumbbell Romanian Deadlift",
+    "B-Stance Romanian Deadlift"
+  ],
+  "variantNote": "Starts upright and reverses at your controlled hinge depth; a conventional deadlift from the floor is separate.",
+  "reviewNotes": [
+    "Use a range of motion appropriate to your own hinge.",
+    "Trainer review of technique and illustrations pending."
+  ],
+  "sources": [
+    {
+      "title": "ACE - Romanian Deadlift Technique Guide",
+      "url": "https://www.acefitness.org/continuing-education/prosource/january-2016/5767/ace-technique-series-romanian-deadlift/",
+      "scope": "Hip hinge, setup, execution and involved muscle groups."
+    }
+  ],
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "86fb13d4d7467f54a66704cf44028e7ad3b0ff9d6ab861ad59ab7a5de1e20a2e",
+    "url": "/media/86fb13d4d7467f54a66704cf44028e7ad3b0ff9d6ab861ad59ab7a5de1e20a2e.png",
+    "left": "Standing position",
+    "right": "Lowered hinge",
+    "alt": "Two black-and-white drawings showing an upright barbell hold and a hip hinge with the bar above the floor.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "barbell-romanian-deadlift",
+      "model": null
+    }
+  }
+}

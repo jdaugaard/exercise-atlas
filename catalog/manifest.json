@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "0.1.0",
+  "catalogVersion": "0.1.0",
+  "title": "Exercise Atlas",
+  "description": "Five original draft exercise entries with paired black-and-white illustrations.",
+  "createdDate": "2026-10-17",
+  "styleId": "line-art-v1",
+  "license": "UNLICENSED",
+  "contentNote": "Original drafted descriptions with source references. Muscle roles are qualitative editorial classifications, not measured activation percentages. AI illustrations have been visually checked; trainer and equipment-specific reviews are pending. Style approval does not imply technique approval.",
+  "loggingNote": "Logging conventions are explicit proposals. Do not reinterpret existing workout histories; preserve the original load convention and equipment identity."
+}

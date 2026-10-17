@@ -1,0 +1,89 @@
+{
+  "id": "dumbbell-lateral-raise",
+  "name": "Dumbbell Lateral Raise",
+  "nameDa": "Sideløft med håndvægte",
+  "aliases": [
+    "Side raise",
+    "Standing dumbbell side raise"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Shoulders"
+  ],
+  "movementPattern": "Shoulder abduction",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells"
+  ],
+  "grip": "Neutral at the bottom, rotating naturally as the arms rise; wrists stay straight.",
+  "primaryMuscles": [
+    "Lateral deltoid"
+  ],
+  "secondaryMuscles": [
+    "Supraspinatus"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Trapezius and serratus anterior - scapular control",
+    "Abdominal wall"
+  ],
+  "description": "Raise the arms out to the sides against the dumbbells' weight while keeping the torso still. The side shoulders lead the movement.",
+  "setup": [
+    "Stand comfortably with a dumbbell in each hand and knees soft.",
+    "Hold the weights beside the thighs with a small bend in the elbows."
+  ],
+  "instructions": [
+    "Lift the arms out and slightly forward of the body in a comfortable path.",
+    "Keep a similar elbow bend as elbows and upper arms rise together.",
+    "Stop around shoulder height, or earlier if that is your comfortable range.",
+    "Lower slowly without swinging the torso or dropping the weights."
+  ],
+  "cues": [
+    "Lead with the upper arms.",
+    "Keep the neck relaxed.",
+    "Control the lowering phase."
+  ],
+  "commonMistakes": [
+    "Swinging the hips to start each repetition.",
+    "Shrugging to finish or turning the thumbs sharply downward."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 8 kg dumbbells: record 8 kg per dumbbell.",
+    "note": "Keep seated, machine and cable versions as distinct variants."
+  },
+  "alternatives": [
+    "Cable Lateral Raise",
+    "Machine Lateral Raise"
+  ],
+  "variantNote": "Elbow angle and arm path distinguish this movement from an upright row or front raise.",
+  "reviewNotes": [
+    "Difficulty is an editorial label, not a clinical rating.",
+    "Trainer review of technique and illustrations pending."
+  ],
+  "sources": [
+    {
+      "title": "ACE - Lateral Raise",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/26/lateral-raise/",
+      "scope": "General lateral-raise setup and movement."
+    }
+  ],
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "d11a79f485e3e24a20918488f5219c9fde3af9ba5c1ac5e8b7a63503f479e3bf",
+    "url": "/media/d11a79f485e3e24a20918488f5219c9fde3af9ba5c1ac5e8b7a63503f479e3bf.png",
+    "left": "Arms lowered",
+    "right": "Arms raised",
+    "alt": "Two black-and-white drawings of dumbbells lowered at the sides and raised to approximately shoulder height.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "dumbbell-lateral-raise",
+      "model": null
+    }
+  }
+}

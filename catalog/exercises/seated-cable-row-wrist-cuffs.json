@@ -1,0 +1,102 @@
+{
+  "id": "seated-cable-row-wrist-cuffs",
+  "name": "Seated Cable Row with Wrist Cuffs",
+  "nameDa": "Siddende kabelroning med håndledscuffs",
+  "aliases": [
+    "Seated Cable Row med cuffs",
+    "Cuff cable row",
+    "Wrist-cuff seated row"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal pull - elbows close",
+  "laterality": "Bilateral, independent cables",
+  "equipmentItems": [
+    "Two low cable pulleys",
+    "Two load-rated wrist cuffs with attachment rings",
+    "Two compatible connectors",
+    "Stable bench and foot supports"
+  ],
+  "grip": "No hand-held grip. Hands stay relaxed; resistance connects through the wrist cuffs.",
+  "primaryMuscles": [
+    "Latissimus dorsi"
+  ],
+  "secondaryMuscles": [
+    "Rhomboids",
+    "Middle trapezius",
+    "Posterior deltoid",
+    "Biceps brachii",
+    "Brachialis"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Spinal erectors"
+  ],
+  "description": "A low cable row in which cuffs carry the resistance instead of hand-held handles. The elbows travel toward the sides while the torso remains steady.",
+  "setup": [
+    "Attach one cuff to each wrist using the cuff maker's fit and attachment instructions, then connect one low cable to each cuff.",
+    "Sit tall with feet braced, knees slightly bent and enough distance to begin with arms extended."
+  ],
+  "instructions": [
+    "Begin with relaxed hands and gentle cable tension; keep the torso upright.",
+    "Pull the elbows back toward the lower ribs without leaning backward.",
+    "Finish with the upper arms near the torso and shoulder blades moving naturally.",
+    "Extend the arms slowly and repeat without letting the cables jerk the cuffs."
+  ],
+  "cues": [
+    "Pull through the elbows.",
+    "Let the cuffs carry the load.",
+    "Keep the torso quiet."
+  ],
+  "commonMistakes": [
+    "Swinging backward to complete the row.",
+    "Gripping a handle or letting loose cuffs slide toward the hands."
+  ],
+  "logging": {
+    "basis": "per_independent_stack",
+    "example": "Two independent stacks each set to 15 kg: record 15 kg per side, with two stacks noted.",
+    "note": "Keep the same cable system. A shared-stack or single-cable rig is a different setup; pulley ratios affect resistance."
+  },
+  "alternatives": [
+    "Seated Cable Row with Handles",
+    "Single-Arm Cable Row with Wrist Cuff"
+  ],
+  "variantNote": "Assumption: cuffs around the wrists, two low cables, close-elbow row. Upper-arm cuffs and a shared cable need their own variant instructions.",
+  "reviewNotes": [
+    "Confirm cuff placement and whether your gym uses one cable or two.",
+    "General rowing references do not validate this specific cuff adaptation; trainer review pending."
+  ],
+  "sources": [
+    {
+      "title": "ACE - Cable training, Seated Row",
+      "url": "https://www.acefitness.org/cp/pdfs/CertifiedNews/AugSept09Cert.pdf",
+      "scope": "General low-cable seated row. Does not validate the wrist-cuff adaptation."
+    },
+    {
+      "title": "GymPin - Handles and Grips",
+      "url": "https://gym-pin.co.uk/collections/handles-grips",
+      "scope": "Manufacturer lists cuffs for wrist and upper-arm cable training; not a cuff-row technique guide."
+    }
+  ],
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "3ea5deccea322a4a09e2929079f59c6949797ea559249cc709cb98b8c4390c40",
+    "url": "/media/3ea5deccea322a4a09e2929079f59c6949797ea559249cc709cb98b8c4390c40.png",
+    "left": "Arms extended",
+    "right": "Elbows drawn back",
+    "alt": "Two black-and-white drawings of a seated row; two cables attach to wrist cuffs and hands remain open.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "seated-cable-row-wrist-cuffs",
+      "model": null
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "decline-dumbbell-bench-press",
+  "name": "Decline Dumbbell Bench Press",
+  "nameDa": "Decline brystpres med håndvægte",
+  "aliases": [
+    "Decline dumbbell press",
+    "Decline DB bench press"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Chest",
+    "Upper Arms",
+    "Shoulders"
+  ],
+  "movementPattern": "Horizontal push - decline bench",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells",
+    "Decline bench with leg supports"
+  ],
+  "grip": "Pronated or slightly angled; wrists stacked above forearms.",
+  "primaryMuscles": [
+    "Pectoralis major"
+  ],
+  "secondaryMuscles": [
+    "Triceps brachii",
+    "Anterior deltoid"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall"
+  ],
+  "description": "A supported dumbbell press performed with your head lower than your hips. The chest drives the press while the triceps and front shoulders assist.",
+  "setup": [
+    "Set a shallow decline and secure your legs using the bench supports.",
+    "Bring both dumbbells into position with a controlled entry; use assistance if needed."
+  ],
+  "instructions": [
+    "Begin with dumbbells beside the lower chest, forearms near vertical and elbows moderately tucked.",
+    "Press upward until the weights are above the chest and arms are comfortably extended.",
+    "Lower slowly along the same path to a controlled, comfortable depth.",
+    "Finish by securing both weights before sitting up or leaving the bench."
+  ],
+  "cues": [
+    "Keep wrists above elbows.",
+    "Keep head and upper back supported.",
+    "Move both weights under control."
+  ],
+  "commonMistakes": [
+    "Flaring elbows widely or bending wrists back.",
+    "Bouncing at the bottom or twisting while getting out."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 20 kg dumbbells: record 20 kg per dumbbell, not 40 kg.",
+    "note": "Proposed convention; check the existing exercise's history before applying."
+  },
+  "alternatives": [
+    "Flat Dumbbell Bench Press",
+    "Decline Machine Chest Press"
+  ],
+  "variantNote": "An incline press is a separate exercise; bench direction matters.",
+  "reviewNotes": [
+    "Confirm your bench's supports and preferred grip.",
+    "Trainer review of technique and illustrations pending."
+  ],
+  "sources": [
+    {
+      "title": "Muscle & Strength - Decline Dumbbell Bench Press",
+      "url": "https://www.muscleandstrength.com/exercises/decline-dumbbell-bench-press.html",
+      "scope": "General decline press technique and involved muscle groups."
+    }
+  ],
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "b96662fb80c277198910d61a3f2ec7a54bb22ba00f0c71625e089309bc16d19c",
+    "url": "/media/b96662fb80c277198910d61a3f2ec7a54bb22ba00f0c71625e089309bc16d19c.png",
+    "left": "Lowered position",
+    "right": "Pressed position",
+    "alt": "Two black-and-white drawings of a decline dumbbell press; the head is below the hips.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "decline-dumbbell-bench-press",
+      "model": null
+    }
+  }
+}
