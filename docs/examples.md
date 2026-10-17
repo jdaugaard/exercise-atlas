@@ -1,6 +1,6 @@
 # Illustrated exercise catalog
 
-22 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+23 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
@@ -13,6 +13,7 @@
 - [Decline Dumbbell Bench Press](../catalog/exercises/decline-dumbbell-bench-press.json)
 - [Dumbbell Hammer Curl](../catalog/exercises/dumbbell-hammer-curl.json)
 - [Dumbbell Lateral Raise](../catalog/exercises/dumbbell-lateral-raise.json)
+- [Dumbbell Spider Curl](../catalog/exercises/dumbbell-spider-curl.json)
 - [Flat Dumbbell Fly](../catalog/exercises/flat-dumbbell-fly.json)
 - [Incline Dumbbell Biceps Curl](../catalog/exercises/incline-dumbbell-biceps-curl.json)
 - [Machine Hip Thrust](../catalog/exercises/machine-hip-thrust.json)
@@ -624,6 +625,75 @@ Elbow angle and arm path distinguish this movement from an upright row or front 
 - [ACE - Lateral Raise](https://www.acefitness.org/resources/everyone/exercise-library/26/lateral-raise/): General lateral-raise setup and movement.
 
 [Editable JSON](../catalog/exercises/dumbbell-lateral-raise.json)
+
+## Dumbbell Spider Curl
+
+![Two black-and-white line drawings of a chest-supported dumbbell spider curl on an inclined bench.](../catalog/media/c4c72faa9113c19dfff1d76b8e094887a128285ab1a571cdc72c6a34a89542d4.png)
+
+Arms hanging vertically / Dumbbells curled upward
+
+Curl two dumbbells while lying chest-down on an incline bench with the arms hanging vertically in front of the support pad.
+
+- **Danish:** Spider curl med håndvægte
+- **Aliases:** Spider Curl, Chest-supported incline dumbbell curl, Prone incline dumbbell biceps curl
+- **Primary muscles:** Biceps brachii
+- **Assisting muscles:** Brachialis, Brachioradialis
+- **Stabilizers:** Rotator cuff, Forearm flexors, Upper trapezius and scapular stabilizers
+- **Equipment:** Two dumbbells, Adjustable incline bench
+- **Movement:** Elbow flexion - prone torso, vertical upper arms; Bilateral
+- **Grip:** Supinated, palms facing forward at the bottom and upward toward the shoulders as the elbows flex.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Set an adjustable bench to a moderate incline of roughly 45 degrees above horizontal.
+- Lie prone with the chest and stomach supported against the backrest, upper chest near the top edge, and feet braced on the floor behind you.
+- Hold a dumbbell in each hand and let both arms hang straight down toward the floor with palms facing forward.
+
+### Execution
+
+1. Keep the chest pressed into the pad and upper arms hanging vertically.
+2. Flex both elbows to curl the dumbbells upward in an arc toward the shoulders.
+3. Pause briefly near peak elbow flexion without lifting the chest off the bench or driving the elbows forward.
+4. Lower the dumbbells slowly to the hanging start position under full control.
+
+### Cues
+
+- Keep the chest heavy on the pad.
+- Let the upper arms hang straight down.
+- Curl through the elbows without swinging.
+
+### Common mistakes
+
+- Pushing the chest up off the incline pad to create momentum.
+- Pulling the elbows backward into a row or swinging the upper arms forward at the top.
+
+### Logging convention
+
+Two 10 kg dumbbells: record 10 kg per dumbbell.
+
+Keep the same equipment variant and record the mass of a single dumbbell rather than the combined pair. EZ-bar or barbell spider curls use total bar mass and should be logged as a separate exercise.
+
+### Variants and alternatives
+
+Assumption: bilateral dumbbell spider curl lying prone on an ~45-degree incline bench rather than over the vertical side of a preacher pad or with an EZ-bar/barbell.
+
+- Incline Dumbbell Biceps Curl
+- Machine Preacher Curl
+- Standing Barbell Curl
+
+### Review notes
+
+- Confirm whether your consumer catalog maps generic 'Spider Curl' to dumbbells on an incline bench or an EZ-bar on a vertical preacher pad.
+- In the left panel, the near hand retains a slightly neutral wrist angle while the far hand shows supination; keep at draft until trainer/equipment review.
+
+### References
+
+- [ACE - Incline Dumbbell Curl](https://www.acefitness.org/resources/everyone/exercise-library/94/incline-dumbbell-curl/): General incline dumbbell curl reference; does not validate exact bench angle or prone chest-supported spider curl mechanics.
+- [ExRx.net - Biceps Brachii Exercise Directory](https://exrx.net/Lists/ExList/ArmWt#Biceps): Anatomical classification of elbow flexors (biceps brachii, brachialis, brachioradialis); does not validate the specific incline-bench equipment setup.
+
+[Editable JSON](../catalog/exercises/dumbbell-spider-curl.json)
 
 ## Flat Dumbbell Fly
 

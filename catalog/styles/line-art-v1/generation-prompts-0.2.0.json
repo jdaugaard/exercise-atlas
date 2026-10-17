@@ -232,6 +232,26 @@
       "createdDate": "2026-10-17",
       "model": null,
       "mediaId": "32bc534e04bbfb7115c8bb29afde673a3a6e182f3cee0baeb98faee2689147b6"
+    },
+    {
+      "id": "dumbbell-spider-curl",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Dumbbell Spider Curl (chest-supported on an incline bench)\ncamera: Side three-quarter view facing right, showing both arms hanging freely in front of the vertical drop below the top edge of the incline bench.\nequipment: Adjustable incline bench set to about 45 degrees above horizontal (no leg rollers), and two separate matching hex/round dumbbells held in the hands.\npositionA: Left panel: Athlete lies PRONE (chest and stomach down) against the inclined backrest, head and upper chest just over the top edge of the backrest, feet braced on the floor behind with knees nearly straight. Both arms hang straight down vertically toward the floor in front of the bench with a SUPINATED grip (palms facing forward), holding one dumbbell in each hand above the floor.\npositionB: Right panel: SAME prone chest-supported torso and leg position on the SAME 45-degree incline bench. Both elbows flex to curl the two dumbbells upward and forward in an arc toward the shoulders while the upper arms remain hanging vertically and stationary.\nmechanics: Chest and abdomen stay firmly supported on the incline pad in both panels. Upper arms remain vertical and perpendicular to the floor without swinging forward or backward; only the forearms move at the elbow joint. Supinated grip with palms facing forward at bottom and upward/inward toward shoulders at top.\navoid: Do not show seated incline curl (back on pad), preacher curl pad under the triceps, decline bench leg rollers, barbell, cable, standing curl, or arms intersecting the bench frame.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "decline-dumbbell-bench-press.png"
+      ],
+      "corrections": [
+        {
+          "prompt": "Edit image 1. Image 2 is the immutable STYLE REFERENCE only.\nUse case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nRefine the Dumbbell Spider Curl mechanics while keeping the exact same style, faceless figure, black shorts, white shoes, and two-panel composition:\n1. In the left panel, rotate the wrists/forearms into a clear SUPINATED underhand grip so the palms and inner forearms face forward (toward the right) and the dumbbell handles are horizontal and parallel to the floor, matching the supinated curl path in the right panel.\n2. Adjust the front support post of the incline bench so it connects further back under the middle of the pad, leaving open white space directly below the shoulders so BOTH hanging arms in the left panel hang completely clear in front of the bench structure without straddling or intersecting the metal support strut. Keep the bench geometry identical in both panels.",
+          "referenceRoles": [
+            "rejected initial draft",
+            "original seated cuff row style reference"
+          ]
+        }
+      ],
+      "createdDate": "2026-10-17",
+      "model": null,
+      "mediaId": "c4c72faa9113c19dfff1d76b8e094887a128285ab1a571cdc72c6a34a89542d4"
     }
   ]
 }

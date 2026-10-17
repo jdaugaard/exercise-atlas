@@ -1,0 +1,99 @@
+{
+  "id": "dumbbell-spider-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Dumbbell Spider Curl",
+  "nameDa": "Spider curl med håndvægte",
+  "aliases": [
+    "Spider Curl",
+    "Chest-supported incline dumbbell curl",
+    "Prone incline dumbbell biceps curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow flexion - prone torso, vertical upper arms",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells",
+    "Adjustable incline bench"
+  ],
+  "grip": "Supinated, palms facing forward at the bottom and upward toward the shoulders as the elbows flex.",
+  "primaryMuscles": [
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Forearm flexors",
+    "Upper trapezius and scapular stabilizers"
+  ],
+  "description": "Curl two dumbbells while lying chest-down on an incline bench with the arms hanging vertically in front of the support pad.",
+  "setup": [
+    "Set an adjustable bench to a moderate incline of roughly 45 degrees above horizontal.",
+    "Lie prone with the chest and stomach supported against the backrest, upper chest near the top edge, and feet braced on the floor behind you.",
+    "Hold a dumbbell in each hand and let both arms hang straight down toward the floor with palms facing forward."
+  ],
+  "instructions": [
+    "Keep the chest pressed into the pad and upper arms hanging vertically.",
+    "Flex both elbows to curl the dumbbells upward in an arc toward the shoulders.",
+    "Pause briefly near peak elbow flexion without lifting the chest off the bench or driving the elbows forward.",
+    "Lower the dumbbells slowly to the hanging start position under full control."
+  ],
+  "cues": [
+    "Keep the chest heavy on the pad.",
+    "Let the upper arms hang straight down.",
+    "Curl through the elbows without swinging."
+  ],
+  "commonMistakes": [
+    "Pushing the chest up off the incline pad to create momentum.",
+    "Pulling the elbows backward into a row or swinging the upper arms forward at the top."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 10 kg dumbbells: record 10 kg per dumbbell.",
+    "note": "Keep the same equipment variant and record the mass of a single dumbbell rather than the combined pair. EZ-bar or barbell spider curls use total bar mass and should be logged as a separate exercise."
+  },
+  "alternatives": [
+    "Incline Dumbbell Biceps Curl",
+    "Machine Preacher Curl",
+    "Standing Barbell Curl"
+  ],
+  "variantNote": "Assumption: bilateral dumbbell spider curl lying prone on an ~45-degree incline bench rather than over the vertical side of a preacher pad or with an EZ-bar/barbell.",
+  "reviewNotes": [
+    "Confirm whether your consumer catalog maps generic 'Spider Curl' to dumbbells on an incline bench or an EZ-bar on a vertical preacher pad.",
+    "In the left panel, the near hand retains a slightly neutral wrist angle while the far hand shows supination; keep at draft until trainer/equipment review."
+  ],
+  "sources": [
+    {
+      "title": "ACE - Incline Dumbbell Curl",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/94/incline-dumbbell-curl/",
+      "scope": "General incline dumbbell curl reference; does not validate exact bench angle or prone chest-supported spider curl mechanics."
+    },
+    {
+      "title": "ExRx.net - Biceps Brachii Exercise Directory",
+      "url": "https://exrx.net/Lists/ExList/ArmWt#Biceps",
+      "scope": "Anatomical classification of elbow flexors (biceps brachii, brachialis, brachioradialis); does not validate the specific incline-bench equipment setup."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "c4c72faa9113c19dfff1d76b8e094887a128285ab1a571cdc72c6a34a89542d4",
+    "url": "/media/c4c72faa9113c19dfff1d76b8e094887a128285ab1a571cdc72c6a34a89542d4.png",
+    "left": "Arms hanging vertically",
+    "right": "Dumbbells curled upward",
+    "alt": "Two black-and-white line drawings of a chest-supported dumbbell spider curl on an inclined bench.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-17",
+      "promptId": "dumbbell-spider-curl",
+      "model": null
+    }
+  }
+}
