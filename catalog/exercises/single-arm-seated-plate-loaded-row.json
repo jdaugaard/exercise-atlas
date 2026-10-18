@@ -1,0 +1,101 @@
+{
+  "id": "single-arm-seated-plate-loaded-row",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Single-Arm Seated Row (Plate Loaded)",
+  "nameDa": "Enarms siddende roning i maskine med vægtskiver",
+  "aliases": [
+    "Single-Arm Seated Row (Plate Loaded)",
+    "Single-arm plate loaded row",
+    "Unilateral plate loaded row",
+    "Iso-lateral seated row"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal pull - chest supported",
+  "laterality": "Unilateral",
+  "equipmentItems": [
+    "Plate-loaded seated row machine"
+  ],
+  "grip": "Neutral grip on vertical machine handle.",
+  "primaryMuscles": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Middle trapezius"
+  ],
+  "secondaryMuscles": [
+    "Biceps brachii",
+    "Brachialis",
+    "Posterior deltoid",
+    "Lower trapezius"
+  ],
+  "stabilizers": [
+    "Forearm flexors",
+    "Abdominal wall"
+  ],
+  "description": "Perform a unilateral row on a chest-supported plate-loaded machine, pulling one lever arm backward while bracing with the opposite hand.",
+  "setup": [
+    "Adjust the seat height so the chest pad supports your sternum and the neutral handle aligns with your lower chest.",
+    "Sit tall with your chest pressed firmly against the chest pad and feet flat on the foot braces.",
+    "Grasp the top stationary handle with your non-working hand for stability.",
+    "Reach forward with your working arm and take a neutral grip on the row lever handle with full arm extension."
+  ],
+  "instructions": [
+    "Initiate the row by driving your working elbow backward past your torso toward your hip.",
+    "Squeeze the shoulder blade and lat firmly at the peak contraction while keeping your chest glued to the pad.",
+    "Avoid rotating or twisting your torso to complete the pull.",
+    "Lower the weight smoothly under control until your arm is fully extended and your lat is stretched.",
+    "Complete the set, then switch to the other side."
+  ],
+  "cues": [
+    "Keep chest glued to the pad.",
+    "Drive elbow back to the hip.",
+    "Brace firmly with non-working hand."
+  ],
+  "commonMistakes": [
+    "Twisting the torso away from the pad to heave the weight.",
+    "Lifting the chest off the pad.",
+    "Using momentum instead of controlled lat engagement."
+  ],
+  "logging": {
+    "basis": "plate_load_per_side",
+    "example": "One 25 kg plate loaded on working lever: record 25 kg per side.",
+    "note": "Plate-loaded machines feature independent lever arms; record the plate mass loaded on that specific side."
+  },
+  "alternatives": [
+    "T-Bar Row",
+    "Seated Cable Row",
+    "Pendlay Row"
+  ],
+  "variantNote": "Unilateral chest-supported plate-loaded machine row with neutral handle grip and independent lever arms.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 97 (Single-Arm Seated Row (Plate Loaded)).",
+    "Illustration accurately depicts unilateral execution with non-working hand braced on top handle and stationary chest pad contact."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Seated Row",
+      "url": "https://exrx.net/WeightExercises/BackGeneral/LVSeatedRow",
+      "scope": "Lever machine seated row mechanics, chest-supported posture, and latissimus engagement."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "3ef07a0be3530bb22b59a82bca84acfa5f9843fe167d10c7553a54484fa6b8a3",
+    "url": "/media/3ef07a0be3530bb22b59a82bca84acfa5f9843fe167d10c7553a54484fa6b8a3.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Single-Arm Seated Row (Plate Loaded).",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "single-arm-seated-plate-loaded-row",
+      "model": null
+    }
+  }
+}

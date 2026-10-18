@@ -1,6 +1,6 @@
 # Illustrated exercise catalog
 
-36 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+37 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
@@ -31,6 +31,7 @@
 - [Seated Cable Row with Wrist Cuffs](../catalog/exercises/seated-cable-row-wrist-cuffs.json)
 - [Seated Lat Pulldown Machine](../catalog/exercises/seated-lat-pulldown-machine.json)
 - [Single-Arm Rear-Delt Cable Fly](../catalog/exercises/single-arm-rear-delt-cable-fly.json)
+- [Single-Arm Seated Row (Plate Loaded)](../catalog/exercises/single-arm-seated-plate-loaded-row.json)
 - [Single-Arm Supinated Pulldown](../catalog/exercises/single-arm-supinated-pulldown.json)
 - [Standing Barbell Curl](../catalog/exercises/standing-barbell-curl.json)
 - [Standing Barbell Strict Press](../catalog/exercises/standing-barbell-strict-press.json)
@@ -383,7 +384,7 @@ Elbows bent beside torso / Bar at upper thighs
 Push a short cable bar downward by straightening the elbows while the upper arms stay beside the torso.
 
 - **Danish:** Tricepspres ned i kabel med stang
-- **Aliases:** Cable Triceps Pushdown, Straight-bar triceps pushdown, Tricep pushdown
+- **Aliases:** Cable Triceps Pushdown, Straight-bar triceps pushdown, Tricep pushdown, Cable Triceps Pushdown (Straight Bar)
 - **Primary muscles:** Triceps brachii
 - **Assisting muscles:** Anconeus
 - **Stabilizers:** Forearm flexors, Rotator cuff, Abdominal wall
@@ -1328,7 +1329,7 @@ Elbows bent overhead / Elbows extended overhead
 Extend both elbows with the upper arms overhead while a rope connects to a cable behind the body.
 
 - **Danish:** Overhead tricepsextension med reb i kabel
-- **Aliases:** Overhead rope extension, Cable rope triceps extension, Tricep Extension
+- **Aliases:** Overhead rope extension, Cable rope triceps extension, Tricep Extension, Triceps Extension
 - **Primary muscles:** Triceps brachii
 - **Assisting muscles:** Anconeus
 - **Stabilizers:** Rotator cuff, Abdominal wall, Forearm flexors
@@ -1861,6 +1862,77 @@ One hand-held cable, standing with a shoulder-height pulley. Cuff attachment, lo
 - [Muscle & Strength - Standing Cable Reverse Fly](https://www.muscleandstrength.com/exercises/standing-cable-flys.html): General standing reverse-fly shoulder action with a similar elbow bend. Source is bilateral; this draft adapts it to one arm and an explicitly stated pulley height.
 
 [Editable JSON](../catalog/exercises/single-arm-rear-delt-cable-fly.json)
+
+## Single-Arm Seated Row (Plate Loaded)
+
+![Paired black-and-white instructional line drawings of Single-Arm Seated Row (Plate Loaded).](../catalog/media/3ef07a0be3530bb22b59a82bca84acfa5f9843fe167d10c7553a54484fa6b8a3.png)
+
+Starting position / Peak contraction position
+
+Perform a unilateral row on a chest-supported plate-loaded machine, pulling one lever arm backward while bracing with the opposite hand.
+
+- **Danish:** Enarms siddende roning i maskine med vægtskiver
+- **Aliases:** Single-Arm Seated Row (Plate Loaded), Single-arm plate loaded row, Unilateral plate loaded row, Iso-lateral seated row
+- **Primary muscles:** Latissimus dorsi, Rhomboids, Middle trapezius
+- **Assisting muscles:** Biceps brachii, Brachialis, Posterior deltoid, Lower trapezius
+- **Stabilizers:** Forearm flexors, Abdominal wall
+- **Equipment:** Plate-loaded seated row machine
+- **Movement:** Horizontal pull - chest supported; Unilateral
+- **Grip:** Neutral grip on vertical machine handle.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust the seat height so the chest pad supports your sternum and the neutral handle aligns with your lower chest.
+- Sit tall with your chest pressed firmly against the chest pad and feet flat on the foot braces.
+- Grasp the top stationary handle with your non-working hand for stability.
+- Reach forward with your working arm and take a neutral grip on the row lever handle with full arm extension.
+
+### Execution
+
+1. Initiate the row by driving your working elbow backward past your torso toward your hip.
+2. Squeeze the shoulder blade and lat firmly at the peak contraction while keeping your chest glued to the pad.
+3. Avoid rotating or twisting your torso to complete the pull.
+4. Lower the weight smoothly under control until your arm is fully extended and your lat is stretched.
+5. Complete the set, then switch to the other side.
+
+### Cues
+
+- Keep chest glued to the pad.
+- Drive elbow back to the hip.
+- Brace firmly with non-working hand.
+
+### Common mistakes
+
+- Twisting the torso away from the pad to heave the weight.
+- Lifting the chest off the pad.
+- Using momentum instead of controlled lat engagement.
+
+### Logging convention
+
+One 25 kg plate loaded on working lever: record 25 kg per side.
+
+Plate-loaded machines feature independent lever arms; record the plate mass loaded on that specific side.
+
+### Variants and alternatives
+
+Unilateral chest-supported plate-loaded machine row with neutral handle grip and independent lever arms.
+
+- T-Bar Row
+- Seated Cable Row
+- Pendlay Row
+
+### Review notes
+
+- Drafted from FitTrack ID 97 (Single-Arm Seated Row (Plate Loaded)).
+- Illustration accurately depicts unilateral execution with non-working hand braced on top handle and stationary chest pad contact.
+
+### References
+
+- [ExRx.net - Lever Seated Row](https://exrx.net/WeightExercises/BackGeneral/LVSeatedRow): Lever machine seated row mechanics, chest-supported posture, and latissimus engagement.
+
+[Editable JSON](../catalog/exercises/single-arm-seated-plate-loaded-row.json)
 
 ## Single-Arm Supinated Pulldown
 

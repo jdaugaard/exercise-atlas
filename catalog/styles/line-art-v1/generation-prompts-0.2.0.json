@@ -421,6 +421,17 @@
       "createdDate": "2026-10-18",
       "model": null,
       "mediaId": "efd1020b71477b85bacb6aa6db9d7fc63dc0874948bd155438459528e7525398"
+    },
+    {
+      "id": "single-arm-seated-plate-loaded-row",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Single-Arm Seated Row (Plate Loaded) (unilateral chest-supported plate-loaded machine row)\ncamera: Side three-quarter view facing right, showing athlete seated with chest against support pad, plate-loaded lever arm on right side\nequipment: Plate-loaded chest-supported seated row machine with independent pivoting lever arms and vertical/neutral handles\npositionA: Left panel: Athlete sits tall with chest firmly against chest pad, left hand bracing on top handle, working right arm reaching straight forward holding neutral row handle (stretch at start).\npositionB: Right panel: EXACT SAME machine, chest pad, and seated posture. Athlete pulls right handle backward by driving right elbow past the torso toward the hip; chest remains firmly glued to pad without twisting; left arm stays braced.\nmechanics: Unilateral chest-supported horizontal pull along an independent machine lever. Torso remains stationary against chest pad throughout.\navoid: Do not show bilateral row, no twisting torso away from pad, no lifting chest off pad, no extra limbs, no text/labels/arrows.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "machine-hip-thrust.png"
+      ],
+      "createdDate": "2026-10-18",
+      "model": null,
+      "mediaId": "3ef07a0be3530bb22b59a82bca84acfa5f9843fe167d10c7553a54484fa6b8a3"
     }
   ]
 }
