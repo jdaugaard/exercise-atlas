@@ -1,0 +1,97 @@
+{
+  "id": "wide-grip-upright-row",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Wide-Grip Upright Row",
+  "nameDa": "Bredt oprejst roning med vægtstang",
+  "aliases": [
+    "Wide grip upright row",
+    "Barbell wide-grip upright row",
+    "Upright barbell row wide grip"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Shoulders",
+    "Upper Back"
+  ],
+  "movementPattern": "Vertical pull - shoulder abduction and elbow flexion",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates"
+  ],
+  "grip": "Wide pronated (overhand) grip, approximately 1.5 times shoulder width.",
+  "primaryMuscles": [
+    "Lateral deltoid",
+    "Trapezius"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Brachialis",
+    "Brachioradialis",
+    "Biceps brachii"
+  ],
+  "stabilizers": [
+    "Erector spinae",
+    "Core musculature"
+  ],
+  "description": "Stand upright and pull a barbell vertically to mid-chest height using a wide overhand grip, leading with the elbows flared outward to emphasize the lateral deltoids while minimizing shoulder impingement.",
+  "setup": [
+    "Stand tall with feet hip-width apart and knees softly unlocked.",
+    "Grip the barbell with an overhand grip approximately 1.5 times shoulder width.",
+    "Let the bar hang at arms length across the upper thighs, shoulders retracted and depressed."
+  ],
+  "instructions": [
+    "Pull the barbell upward along the torso by flaring elbows upward and outward.",
+    "Continue lifting until elbows reach shoulder height and the bar reaches mid-chest level.",
+    "Ensure hands remain below the level of the elbows at the apex of the pull.",
+    "Lower the barbell under control back to the starting hang position."
+  ],
+  "cues": [
+    "Lead with the elbows wide.",
+    "Keep hands below elbows.",
+    "Stand tall without swinging the hips."
+  ],
+  "commonMistakes": [
+    "Using a narrow grip which causes internal shoulder impingement.",
+    "Pulling the bar too high to the chin, forcing wrists above elbows.",
+    "Using excessive body momentum or hip thrusting to lift the weight."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "Bar (20 kg) plus 20 kg plates: record 40 kg total barbell mass.",
+    "note": "Record total combined mass of the barbell and loaded plates."
+  },
+  "alternatives": [
+    "Dumbbell Lateral Raise",
+    "Single-Arm Rear-Delt Cable Fly"
+  ],
+  "variantNote": "Wide-grip barbell variation (hands approx. 1.5x shoulder width). Minimizes subacromial impingement compared to narrow-grip upright rows.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 120 (Wide-Grip Upright Row).",
+    "Illustration confirms wide grip and elbows driven higher than hands at mid-chest level."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Barbell Upright Row",
+      "url": "https://exrx.net/WeightExercises/DeltoidLateral/BBUprightRow",
+      "scope": "Barbell upright row biomechanics, grip width considerations, and lateral deltoid activation."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "5636fc5b58baef57edcc202b089bc694b50d9a392316fdbfc61743ce847379a8",
+    "url": "/media/5636fc5b58baef57edcc202b089bc694b50d9a392316fdbfc61743ce847379a8.png",
+    "left": "Standing upright holding barbell across thighs with wide grip",
+    "right": "Barbell pulled to mid-chest with elbows flared high and wide",
+    "alt": "Paired black-and-white instructional line drawings of a wide-grip barbell upright row.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "wide-grip-upright-row",
+      "model": null
+    }
+  }
+}

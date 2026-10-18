@@ -1,0 +1,98 @@
+{
+  "id": "dumbbell-bench-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Dumbbell Bench Press",
+  "nameDa": "Bænkpres med håndvægte",
+  "aliases": [
+    "Flat dumbbell bench press",
+    "Flat dumbbell press",
+    "Dumbbell chest press",
+    "DB bench press"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Chest",
+    "Shoulders",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal press - flat torso",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells",
+    "Flat bench"
+  ],
+  "grip": "Pronated to slightly semi-neutral (angled approx. 45 degrees).",
+  "primaryMuscles": [
+    "Pectoralis major (sternal head)"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Triceps brachii",
+    "Pectoralis major (clavicular head)"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Serratus anterior"
+  ],
+  "description": "Lie supine on a flat bench and press two dumbbells vertically from chest level to full arm extension, controlling the descent to a comfortable stretch.",
+  "setup": [
+    "Sit on the edge of a flat horizontal bench with a dumbbell resting upright on each knee.",
+    "Lie back smoothly while guiding the dumbbells to the sides of the lower chest with forearms vertical.",
+    "Plant feet firmly flat on the floor, retract shoulder blades, and brace the core."
+  ],
+  "instructions": [
+    "Press both dumbbells upward vertically until the arms are fully extended over the mid-chest without locking the elbows.",
+    "Keep wrists stacked directly over elbows throughout the press.",
+    "Pause under control at the top, then slowly lower the dumbbells back toward the chest.",
+    "Stop when a gentle stretch is felt across the chest, maintaining shoulder blade contact with the bench."
+  ],
+  "cues": [
+    "Drive straight up over the chest.",
+    "Keep feet planted and shoulder blades pinched.",
+    "Control the descent without bouncing."
+  ],
+  "commonMistakes": [
+    "Flaring elbows straight out to 90 degrees, increasing shoulder stress.",
+    "Arching the lower back excessively or lifting hips off the bench.",
+    "Clanging the dumbbells together at the top of the repetition."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 32 kg dumbbells: record 32 kg per dumbbell.",
+    "note": "Record the mass of an individual dumbbell rather than the combined total weight of both dumbbells."
+  },
+  "alternatives": [
+    "Barbell Bench Press",
+    "Decline Dumbbell Bench Press",
+    "Incline Chest Press Machine"
+  ],
+  "variantNote": "Flat horizontal bench variation. Allows independent arm movement and natural wrist rotation compared to a straight barbell.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 101 (Dumbbell Bench Press).",
+    "Illustration confirms flat horizontal bench setup and vertical pressing path over mid-chest."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Dumbbell Bench Press",
+      "url": "https://exrx.net/WeightExercises/PectoralSternal/DBBenchPress",
+      "scope": "Flat dumbbell chest press mechanics, muscle recruitment, and joint motion."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "657922fa18027f72b30c60ef070f2ef36c4a52a1cf27fd3154fd37f2555c9a47",
+    "url": "/media/657922fa18027f72b30c60ef070f2ef36c4a52a1cf27fd3154fd37f2555c9a47.png",
+    "left": "Lying flat on bench with dumbbells lowered at chest sides",
+    "right": "Dumbbells pressed vertically over chest with extended arms",
+    "alt": "Paired black-and-white line drawings of a flat dumbbell bench press showing bottom and top positions.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "dumbbell-bench-press",
+      "model": null
+    }
+  }
+}

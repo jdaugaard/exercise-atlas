@@ -1,0 +1,102 @@
+{
+  "id": "pendlay-row",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Pendlay Row",
+  "nameDa": "Pendlay row",
+  "aliases": [
+    "Dead-stop barbell row",
+    "Strict barbell row from floor",
+    "Strict Pendlay row"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal pull - parallel torso from floor",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates"
+  ],
+  "grip": "Pronated (overhand) grip slightly wider than shoulder width.",
+  "primaryMuscles": [
+    "Latissimus dorsi",
+    "Trapezius",
+    "Rhomboids"
+  ],
+  "secondaryMuscles": [
+    "Posterior deltoid",
+    "Infraspinatus",
+    "Teres minor",
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "stabilizers": [
+    "Erector spinae",
+    "Hamstrings",
+    "Gluteus maximus"
+  ],
+  "description": "Perform a strict bent-over barbell row starting from a dead stop on the floor for each repetition, maintaining a strictly horizontal torso parallel to the ground.",
+  "setup": [
+    "Step up to a loaded barbell on the floor with feet hip-width apart.",
+    "Hinge deeply at the hips and bend knees until torso is strictly parallel to the floor.",
+    "Grip the barbell with an overhand pronated grip slightly wider than shoulder width.",
+    "Brace the core, flatten the spine, and take the slack out of the barbell."
+  ],
+  "instructions": [
+    "Explosively pull the barbell upward from the floor by driving elbows toward the ceiling.",
+    "Contact the barbell against the lower chest or upper abdomen without standing up or raising torso angle.",
+    "Lower the barbell under control all the way back to a dead stop on the floor.",
+    "Reset spinal tension completely between every repetition."
+  ],
+  "cues": [
+    "Torso stays parallel like a table.",
+    "Pull from a dead stop.",
+    "Drive elbows to the ceiling."
+  ],
+  "commonMistakes": [
+    "Rising the torso into a 45-degree angle to heave the bar upward.",
+    "Bouncing the bar off the floor instead of pulling from a complete dead stop.",
+    "Rounding the lower spine under heavy loads."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "Bar (20 kg) plus 50 kg plates: record 70 kg total barbell mass.",
+    "note": "Record total combined mass of the barbell and loaded plates."
+  },
+  "alternatives": [
+    "Bent-Over Barbell Row",
+    "Supinated Barbell Bent-Over Row",
+    "T-Bar Row"
+  ],
+  "variantNote": "Strict dead-stop barbell row with horizontal torso parallel to the floor. Eliminates stretch-shortening cycle momentum.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 116 (Pendlay Row).",
+    "Illustration shows dead stop on floor and horizontal torso; minor knee angle extension between panels noted."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Barbell Bent-over Row",
+      "url": "https://exrx.net/WeightExercises/BackGeneral/BBBentOverRow",
+      "scope": "Bent-over barbell row mechanics, back musculature recruitment, and spinal brace requirements."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "7ddb71cf5a70c1c9b1e231ee637f7acab7b0fc1c71376b59248a346655a79609",
+    "url": "/media/7ddb71cf5a70c1c9b1e231ee637f7acab7b0fc1c71376b59248a346655a79609.png",
+    "left": "Hinged with torso parallel to floor gripping barbell resting on floor",
+    "right": "Barbell rowed up to lower sternum with elbows driven high",
+    "alt": "Paired black-and-white instructional line drawings of a Pendlay row from floor to chest.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "pendlay-row",
+      "model": null
+    }
+  }
+}

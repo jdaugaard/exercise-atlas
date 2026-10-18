@@ -1,0 +1,94 @@
+{
+  "id": "dumbbell-biceps-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Dumbbell Biceps Curl",
+  "nameDa": "Bicepscurl med håndvægte",
+  "aliases": [
+    "Standing dumbbell curl",
+    "Dumbbell curl",
+    "Biceps curl with dumbbells",
+    "Standing dumbbell biceps curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow flexion - standing upright",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells"
+  ],
+  "grip": "Supinated, starting with palms facing thighs or slightly forward and rotating into full supination as elbows flex.",
+  "primaryMuscles": [
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "stabilizers": [
+    "Forearm flexors",
+    "Anterior deltoid"
+  ],
+  "description": "Stand upright and curl two dumbbells simultaneously toward shoulder height while maintaining a stable torso and keeping the upper arms pinned at the sides.",
+  "setup": [
+    "Stand tall with feet hip-width apart and knees softly unlocked.",
+    "Hold a dumbbell in each hand with arms extended downward at the sides.",
+    "Engage the core and pull the shoulder blades down and back."
+  ],
+  "instructions": [
+    "Curl both dumbbells upward simultaneously by flexing the elbows.",
+    "Keep the upper arms vertical and fixed against the sides of the torso.",
+    "Rotate palms into full supination facing upward near chest height.",
+    "Squeeze the biceps at peak contraction, then lower slowly back to full extension under control."
+  ],
+  "cues": [
+    "Keep upper arms pinned.",
+    "Turn palms up through the curl.",
+    "Lower under strict control without swinging."
+  ],
+  "commonMistakes": [
+    "Swinging the hips or using momentum to heave weights upward.",
+    "Flaring the elbows outward or allowing upper arms to drift forward.",
+    "Cutting the range of motion short at the bottom."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 14 kg dumbbells: record 14 kg per dumbbell.",
+    "note": "Record the individual dumbbell mass rather than the combined load of the pair."
+  },
+  "alternatives": [
+    "Incline Dumbbell Biceps Curl",
+    "Standing Barbell Curl",
+    "Dumbbell Hammer Curl"
+  ],
+  "variantNote": "Standing bilateral variant. In the illustration, the starting pose shows dumbbells hanging at the sides with relaxed wrists before rotating into full supination at the peak.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 150 (Dumbbell Biceps Curl).",
+    "Starting pose depicts a natural sagittal hang before full supination at the top of the curl."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Dumbbell Biceps Curl",
+      "url": "https://exrx.net/WeightExercises/Biceps/DBCurl",
+      "scope": "Standing bilateral dumbbell curl technique, joint movement, and mover classifications."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "c1fdf8e0c799cb21c697ff75abf1fdf19449e9d74501b416a94a3140c71b5647",
+    "url": "/media/c1fdf8e0c799cb21c697ff75abf1fdf19449e9d74501b416a94a3140c71b5647.png",
+    "left": "Arms hanging at sides holding dumbbells",
+    "right": "Dumbbells curled to upper chest with supinated palms",
+    "alt": "Paired black-and-white instructional line drawings of a standing bilateral dumbbell biceps curl.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "dumbbell-biceps-curl",
+      "model": null
+    }
+  }
+}

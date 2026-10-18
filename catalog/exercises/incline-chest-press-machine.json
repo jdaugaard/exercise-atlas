@@ -1,0 +1,95 @@
+{
+  "id": "incline-chest-press-machine",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Incline Chest Press Machine",
+  "nameDa": "Incline brystpres i maskine",
+  "aliases": [
+    "Machine incline chest press",
+    "Incline machine press",
+    "Seated incline chest press machine"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Chest",
+    "Shoulders",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal and inclined chest press - guided machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Incline chest press machine"
+  ],
+  "grip": "Pronated or neutral grip on guided machine press handles.",
+  "primaryMuscles": [
+    "Pectoralis major (clavicular head)"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Triceps brachii",
+    "Pectoralis major (sternal head)"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Serratus anterior"
+  ],
+  "description": "Perform a seated press on an incline chest machine, pressing along a fixed upward arc that emphasizes the upper clavicular portion of the chest.",
+  "setup": [
+    "Adjust the seat so the press handles sit level with the upper chest.",
+    "Sit firmly with back and head resting against the incline backrest, feet flat on the floor.",
+    "Grip the handles firmly with forearms aligned with the machine levers."
+  ],
+  "instructions": [
+    "Press the handles forward and upward along the machine track until the arms are extended without locking the elbows.",
+    "Keep the head and upper back firmly braced against the back pad.",
+    "Pause under control at extension, then lower slowly until a comfortable chest stretch is achieved.",
+    "Do not let the weight stack touch down abruptly between repetitions."
+  ],
+  "cues": [
+    "Keep back glued to the pad.",
+    "Press up along the machine angle.",
+    "Lower slowly with control."
+  ],
+  "commonMistakes": [
+    "Lifting shoulders or upper back off the backrest at lockout.",
+    "Arching the lower back excessively to change the pressing angle.",
+    "Letting the weight plates slam at the bottom of the movement."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight pin set to 55 kg: record 55 kg selected machine load.",
+    "note": "Machine lever arms, cams, and pulley ratios vary widely across manufacturers; record the selected stack pin or plate load without assuming 1:1 free-weight equivalency."
+  },
+  "alternatives": [
+    "Decline Dumbbell Bench Press",
+    "Barbell Bench Press"
+  ],
+  "variantNote": "Dedicated seated incline chest press machine with approx. 45-degree backrest. Levers travel along a guided incline path.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 135 (Incline Chest Press Machine).",
+    "Illustration depicts a standardized converging incline lever machine frame; specific gym models vary."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Incline Chest Press",
+      "url": "https://exrx.net/WeightExercises/PectoralClavicular/LVInclineChestPress",
+      "scope": "Machine incline pressing mechanics, clavicular pectoral recruitment, and setup standards."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "5fc04441aa7630cc4d4379beb8530a4a97e1feb7657efaae08f6b156efb0a55d",
+    "url": "/media/5fc04441aa7630cc4d4379beb8530a4a97e1feb7657efaae08f6b156efb0a55d.png",
+    "left": "Seated on incline machine with handles retracted at chest",
+    "right": "Press handles pushed forward and upward along incline arc with extended arms",
+    "alt": "Paired black-and-white instructional line drawings of a seated incline chest press on a machine.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "incline-chest-press-machine",
+      "model": null
+    }
+  }
+}

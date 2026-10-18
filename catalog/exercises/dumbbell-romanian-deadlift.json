@@ -1,0 +1,96 @@
+{
+  "id": "dumbbell-romanian-deadlift",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Dumbbell Romanian Deadlift",
+  "nameDa": "Rumænsk dødløft med håndvægte",
+  "aliases": [
+    "Dumbbell RDL",
+    "DB Romanian deadlift",
+    "Romanian deadlift with dumbbells"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Hips",
+    "Thighs",
+    "Lower Back"
+  ],
+  "movementPattern": "Hip hinge",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells"
+  ],
+  "grip": "Pronated (overhand), holding dumbbell handles horizontally in front of the thighs.",
+  "primaryMuscles": [
+    "Gluteus maximus",
+    "Hamstrings"
+  ],
+  "secondaryMuscles": [
+    "Erector spinae",
+    "Adductor magnus"
+  ],
+  "stabilizers": [
+    "Latissimus dorsi",
+    "Trapezius",
+    "Forearm flexors"
+  ],
+  "description": "Execute a bilateral hip-hinge Romanian deadlift holding two dumbbells, driving the hips back with a flat back and lowering the dumbbells to mid-shin level before returning upright.",
+  "setup": [
+    "Stand upright with feet hip-width apart holding a dumbbell in each hand in front of the thighs.",
+    "Soften the knees slightly and keep the shins relatively vertical.",
+    "Draw the shoulder blades back and engage the lats to keep weights close to the legs."
+  ],
+  "instructions": [
+    "Initiate the movement by hinging backward at the hips, keeping the spine completely flat and neutral.",
+    "Lower the dumbbells vertically in front of the shins until reaching full hamstring stretch (approx. mid-shin).",
+    "Pause briefly without letting the dumbbells touch the floor or allowing the lumbar spine to flex.",
+    "Drive the hips forward to return to standing tall, squeezing the glutes at the lockout."
+  ],
+  "cues": [
+    "Push the hips to the wall behind you.",
+    "Keep dumbbells shaving down the front of the shins.",
+    "Maintain a proud chest and neutral spine throughout."
+  ],
+  "commonMistakes": [
+    "Squatting down by bending knees forward instead of hinging hips back.",
+    "Rounding the lower back to force extra depth.",
+    "Allowing dumbbells to drift away from the legs, increasing lumbar torque."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 24 kg dumbbells: record 24 kg per dumbbell.",
+    "note": "Record the mass of an individual dumbbell rather than the combined total weight of both dumbbells."
+  },
+  "alternatives": [
+    "Barbell Romanian Deadlift",
+    "Barbell Deadlift"
+  ],
+  "variantNote": "Bilateral dumbbell variation allowing independent wrist positioning while loading the posterior chain through a standard hip hinge.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 144 (Dumbbell Romanian Deadlift).",
+    "Dumbbells reverse at mid-shin depth under control without touching the floor."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Dumbbell Romanian Deadlift",
+      "url": "https://exrx.net/WeightExercises/Hamstrings/DBRomanianDeadlift",
+      "scope": "Bilateral hip-hinge kinematics, hamstring stretching mechanics, and spinal stability."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "c033616aaf2af73f67312a5be3c312431a3995c7b50dc0d032208c1370039aa9",
+    "url": "/media/c033616aaf2af73f67312a5be3c312431a3995c7b50dc0d032208c1370039aa9.png",
+    "left": "Standing tall holding dumbbells at thighs",
+    "right": "Hinged at hips with dumbbells along shins and neutral spine",
+    "alt": "Paired black-and-white instructional line drawings of a dumbbell Romanian deadlift showing start and bottom hinge poses.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "dumbbell-romanian-deadlift",
+      "model": null
+    }
+  }
+}

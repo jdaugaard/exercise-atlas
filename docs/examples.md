@@ -1,6 +1,6 @@
 # Illustrated exercise catalog
 
-23 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+31 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
@@ -11,14 +11,20 @@
 - [Bent-Over Barbell Row](../catalog/exercises/bent-over-barbell-row.json)
 - [Cable Triceps Pushdown](../catalog/exercises/cable-triceps-pushdown.json)
 - [Decline Dumbbell Bench Press](../catalog/exercises/decline-dumbbell-bench-press.json)
+- [Dumbbell Bench Press](../catalog/exercises/dumbbell-bench-press.json)
+- [Dumbbell Biceps Curl](../catalog/exercises/dumbbell-biceps-curl.json)
 - [Dumbbell Hammer Curl](../catalog/exercises/dumbbell-hammer-curl.json)
 - [Dumbbell Lateral Raise](../catalog/exercises/dumbbell-lateral-raise.json)
+- [Dumbbell Romanian Deadlift](../catalog/exercises/dumbbell-romanian-deadlift.json)
 - [Dumbbell Spider Curl](../catalog/exercises/dumbbell-spider-curl.json)
 - [Flat Dumbbell Fly](../catalog/exercises/flat-dumbbell-fly.json)
+- [Incline Chest Press Machine](../catalog/exercises/incline-chest-press-machine.json)
 - [Incline Dumbbell Biceps Curl](../catalog/exercises/incline-dumbbell-biceps-curl.json)
 - [Machine Hip Thrust](../catalog/exercises/machine-hip-thrust.json)
 - [Machine Preacher Curl](../catalog/exercises/machine-preacher-curl.json)
 - [Overhead Rope Cable Triceps Extension](../catalog/exercises/overhead-rope-cable-triceps-extension.json)
+- [Pec Deck](../catalog/exercises/pec-deck.json)
+- [Pendlay Row](../catalog/exercises/pendlay-row.json)
 - [Seated Cable Row](../catalog/exercises/seated-cable-row.json)
 - [Seated Cable Row with Wrist Cuffs](../catalog/exercises/seated-cable-row-wrist-cuffs.json)
 - [Seated Lat Pulldown Machine](../catalog/exercises/seated-lat-pulldown-machine.json)
@@ -27,6 +33,8 @@
 - [Standing Barbell Strict Press](../catalog/exercises/standing-barbell-strict-press.json)
 - [Standing Dumbbell Strict Press](../catalog/exercises/standing-dumbbell-strict-press.json)
 - [Supinated Barbell Bent-Over Row](../catalog/exercises/supinated-barbell-bent-over-row.json)
+- [Trap-Bar Deadlift](../catalog/exercises/trap-bar-deadlift.json)
+- [Wide-Grip Upright Row](../catalog/exercises/wide-grip-upright-row.json)
 
 ## Barbell Back Squat
 
@@ -494,6 +502,144 @@ An incline press is a separate exercise; bench direction matters.
 
 [Editable JSON](../catalog/exercises/decline-dumbbell-bench-press.json)
 
+## Dumbbell Bench Press
+
+![Paired black-and-white line drawings of a flat dumbbell bench press showing bottom and top positions.](../catalog/media/657922fa18027f72b30c60ef070f2ef36c4a52a1cf27fd3154fd37f2555c9a47.png)
+
+Lying flat on bench with dumbbells lowered at chest sides / Dumbbells pressed vertically over chest with extended arms
+
+Lie supine on a flat bench and press two dumbbells vertically from chest level to full arm extension, controlling the descent to a comfortable stretch.
+
+- **Danish:** Bænkpres med håndvægte
+- **Aliases:** Flat dumbbell bench press, Flat dumbbell press, Dumbbell chest press, DB bench press
+- **Primary muscles:** Pectoralis major (sternal head)
+- **Assisting muscles:** Anterior deltoid, Triceps brachii, Pectoralis major (clavicular head)
+- **Stabilizers:** Rotator cuff, Serratus anterior
+- **Equipment:** Two dumbbells, Flat bench
+- **Movement:** Horizontal press - flat torso; Bilateral
+- **Grip:** Pronated to slightly semi-neutral (angled approx. 45 degrees).
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Sit on the edge of a flat horizontal bench with a dumbbell resting upright on each knee.
+- Lie back smoothly while guiding the dumbbells to the sides of the lower chest with forearms vertical.
+- Plant feet firmly flat on the floor, retract shoulder blades, and brace the core.
+
+### Execution
+
+1. Press both dumbbells upward vertically until the arms are fully extended over the mid-chest without locking the elbows.
+2. Keep wrists stacked directly over elbows throughout the press.
+3. Pause under control at the top, then slowly lower the dumbbells back toward the chest.
+4. Stop when a gentle stretch is felt across the chest, maintaining shoulder blade contact with the bench.
+
+### Cues
+
+- Drive straight up over the chest.
+- Keep feet planted and shoulder blades pinched.
+- Control the descent without bouncing.
+
+### Common mistakes
+
+- Flaring elbows straight out to 90 degrees, increasing shoulder stress.
+- Arching the lower back excessively or lifting hips off the bench.
+- Clanging the dumbbells together at the top of the repetition.
+
+### Logging convention
+
+Two 32 kg dumbbells: record 32 kg per dumbbell.
+
+Record the mass of an individual dumbbell rather than the combined total weight of both dumbbells.
+
+### Variants and alternatives
+
+Flat horizontal bench variation. Allows independent arm movement and natural wrist rotation compared to a straight barbell.
+
+- Barbell Bench Press
+- Decline Dumbbell Bench Press
+- Incline Chest Press Machine
+
+### Review notes
+
+- Drafted from FitTrack ID 101 (Dumbbell Bench Press).
+- Illustration confirms flat horizontal bench setup and vertical pressing path over mid-chest.
+
+### References
+
+- [ExRx.net - Dumbbell Bench Press](https://exrx.net/WeightExercises/PectoralSternal/DBBenchPress): Flat dumbbell chest press mechanics, muscle recruitment, and joint motion.
+
+[Editable JSON](../catalog/exercises/dumbbell-bench-press.json)
+
+## Dumbbell Biceps Curl
+
+![Paired black-and-white instructional line drawings of a standing bilateral dumbbell biceps curl.](../catalog/media/c1fdf8e0c799cb21c697ff75abf1fdf19449e9d74501b416a94a3140c71b5647.png)
+
+Arms hanging at sides holding dumbbells / Dumbbells curled to upper chest with supinated palms
+
+Stand upright and curl two dumbbells simultaneously toward shoulder height while maintaining a stable torso and keeping the upper arms pinned at the sides.
+
+- **Danish:** Bicepscurl med håndvægte
+- **Aliases:** Standing dumbbell curl, Dumbbell curl, Biceps curl with dumbbells, Standing dumbbell biceps curl
+- **Primary muscles:** Biceps brachii
+- **Assisting muscles:** Brachialis, Brachioradialis
+- **Stabilizers:** Forearm flexors, Anterior deltoid
+- **Equipment:** Two dumbbells
+- **Movement:** Elbow flexion - standing upright; Bilateral
+- **Grip:** Supinated, starting with palms facing thighs or slightly forward and rotating into full supination as elbows flex.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Stand tall with feet hip-width apart and knees softly unlocked.
+- Hold a dumbbell in each hand with arms extended downward at the sides.
+- Engage the core and pull the shoulder blades down and back.
+
+### Execution
+
+1. Curl both dumbbells upward simultaneously by flexing the elbows.
+2. Keep the upper arms vertical and fixed against the sides of the torso.
+3. Rotate palms into full supination facing upward near chest height.
+4. Squeeze the biceps at peak contraction, then lower slowly back to full extension under control.
+
+### Cues
+
+- Keep upper arms pinned.
+- Turn palms up through the curl.
+- Lower under strict control without swinging.
+
+### Common mistakes
+
+- Swinging the hips or using momentum to heave weights upward.
+- Flaring the elbows outward or allowing upper arms to drift forward.
+- Cutting the range of motion short at the bottom.
+
+### Logging convention
+
+Two 14 kg dumbbells: record 14 kg per dumbbell.
+
+Record the individual dumbbell mass rather than the combined load of the pair.
+
+### Variants and alternatives
+
+Standing bilateral variant. In the illustration, the starting pose shows dumbbells hanging at the sides with relaxed wrists before rotating into full supination at the peak.
+
+- Incline Dumbbell Biceps Curl
+- Standing Barbell Curl
+- Dumbbell Hammer Curl
+
+### Review notes
+
+- Drafted from FitTrack ID 150 (Dumbbell Biceps Curl).
+- Starting pose depicts a natural sagittal hang before full supination at the top of the curl.
+
+### References
+
+- [ExRx.net - Dumbbell Biceps Curl](https://exrx.net/WeightExercises/Biceps/DBCurl): Standing bilateral dumbbell curl technique, joint movement, and mover classifications.
+
+[Editable JSON](../catalog/exercises/dumbbell-biceps-curl.json)
+
 ## Dumbbell Hammer Curl
 
 ![Two black-and-white drawings of a standing hammer curl with palms facing inward throughout.](../catalog/media/feb54a190a964f8b67a32ee893fecf85eb9bb07ae41647618ed22727893e4ae2.png)
@@ -625,6 +771,74 @@ Elbow angle and arm path distinguish this movement from an upright row or front 
 - [ACE - Lateral Raise](https://www.acefitness.org/resources/everyone/exercise-library/26/lateral-raise/): General lateral-raise setup and movement.
 
 [Editable JSON](../catalog/exercises/dumbbell-lateral-raise.json)
+
+## Dumbbell Romanian Deadlift
+
+![Paired black-and-white instructional line drawings of a dumbbell Romanian deadlift showing start and bottom hinge poses.](../catalog/media/c033616aaf2af73f67312a5be3c312431a3995c7b50dc0d032208c1370039aa9.png)
+
+Standing tall holding dumbbells at thighs / Hinged at hips with dumbbells along shins and neutral spine
+
+Execute a bilateral hip-hinge Romanian deadlift holding two dumbbells, driving the hips back with a flat back and lowering the dumbbells to mid-shin level before returning upright.
+
+- **Danish:** Rumænsk dødløft med håndvægte
+- **Aliases:** Dumbbell RDL, DB Romanian deadlift, Romanian deadlift with dumbbells
+- **Primary muscles:** Gluteus maximus, Hamstrings
+- **Assisting muscles:** Erector spinae, Adductor magnus
+- **Stabilizers:** Latissimus dorsi, Trapezius, Forearm flexors
+- **Equipment:** Two dumbbells
+- **Movement:** Hip hinge; Bilateral
+- **Grip:** Pronated (overhand), holding dumbbell handles horizontally in front of the thighs.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Stand upright with feet hip-width apart holding a dumbbell in each hand in front of the thighs.
+- Soften the knees slightly and keep the shins relatively vertical.
+- Draw the shoulder blades back and engage the lats to keep weights close to the legs.
+
+### Execution
+
+1. Initiate the movement by hinging backward at the hips, keeping the spine completely flat and neutral.
+2. Lower the dumbbells vertically in front of the shins until reaching full hamstring stretch (approx. mid-shin).
+3. Pause briefly without letting the dumbbells touch the floor or allowing the lumbar spine to flex.
+4. Drive the hips forward to return to standing tall, squeezing the glutes at the lockout.
+
+### Cues
+
+- Push the hips to the wall behind you.
+- Keep dumbbells shaving down the front of the shins.
+- Maintain a proud chest and neutral spine throughout.
+
+### Common mistakes
+
+- Squatting down by bending knees forward instead of hinging hips back.
+- Rounding the lower back to force extra depth.
+- Allowing dumbbells to drift away from the legs, increasing lumbar torque.
+
+### Logging convention
+
+Two 24 kg dumbbells: record 24 kg per dumbbell.
+
+Record the mass of an individual dumbbell rather than the combined total weight of both dumbbells.
+
+### Variants and alternatives
+
+Bilateral dumbbell variation allowing independent wrist positioning while loading the posterior chain through a standard hip hinge.
+
+- Barbell Romanian Deadlift
+- Barbell Deadlift
+
+### Review notes
+
+- Drafted from FitTrack ID 144 (Dumbbell Romanian Deadlift).
+- Dumbbells reverse at mid-shin depth under control without touching the floor.
+
+### References
+
+- [ExRx.net - Dumbbell Romanian Deadlift](https://exrx.net/WeightExercises/Hamstrings/DBRomanianDeadlift): Bilateral hip-hinge kinematics, hamstring stretching mechanics, and spinal stability.
+
+[Editable JSON](../catalog/exercises/dumbbell-romanian-deadlift.json)
 
 ## Dumbbell Spider Curl
 
@@ -761,6 +975,74 @@ Flat bench with a neutral grip and nearly fixed elbow bend. Incline and decline 
 - [Muscle & Strength - Dumbbell Flys](https://www.muscleandstrength.com/exercises/dumbbell-flys.html): Flat-bench fly, neutral hand position, controlled shoulder arc and consistent elbow bend.
 
 [Editable JSON](../catalog/exercises/flat-dumbbell-fly.json)
+
+## Incline Chest Press Machine
+
+![Paired black-and-white instructional line drawings of a seated incline chest press on a machine.](../catalog/media/5fc04441aa7630cc4d4379beb8530a4a97e1feb7657efaae08f6b156efb0a55d.png)
+
+Seated on incline machine with handles retracted at chest / Press handles pushed forward and upward along incline arc with extended arms
+
+Perform a seated press on an incline chest machine, pressing along a fixed upward arc that emphasizes the upper clavicular portion of the chest.
+
+- **Danish:** Incline brystpres i maskine
+- **Aliases:** Machine incline chest press, Incline machine press, Seated incline chest press machine
+- **Primary muscles:** Pectoralis major (clavicular head)
+- **Assisting muscles:** Anterior deltoid, Triceps brachii, Pectoralis major (sternal head)
+- **Stabilizers:** Rotator cuff, Serratus anterior
+- **Equipment:** Incline chest press machine
+- **Movement:** Horizontal and inclined chest press - guided machine; Bilateral
+- **Grip:** Pronated or neutral grip on guided machine press handles.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust the seat so the press handles sit level with the upper chest.
+- Sit firmly with back and head resting against the incline backrest, feet flat on the floor.
+- Grip the handles firmly with forearms aligned with the machine levers.
+
+### Execution
+
+1. Press the handles forward and upward along the machine track until the arms are extended without locking the elbows.
+2. Keep the head and upper back firmly braced against the back pad.
+3. Pause under control at extension, then lower slowly until a comfortable chest stretch is achieved.
+4. Do not let the weight stack touch down abruptly between repetitions.
+
+### Cues
+
+- Keep back glued to the pad.
+- Press up along the machine angle.
+- Lower slowly with control.
+
+### Common mistakes
+
+- Lifting shoulders or upper back off the backrest at lockout.
+- Arching the lower back excessively to change the pressing angle.
+- Letting the weight plates slam at the bottom of the movement.
+
+### Logging convention
+
+Weight pin set to 55 kg: record 55 kg selected machine load.
+
+Machine lever arms, cams, and pulley ratios vary widely across manufacturers; record the selected stack pin or plate load without assuming 1:1 free-weight equivalency.
+
+### Variants and alternatives
+
+Dedicated seated incline chest press machine with approx. 45-degree backrest. Levers travel along a guided incline path.
+
+- Decline Dumbbell Bench Press
+- Barbell Bench Press
+
+### Review notes
+
+- Drafted from FitTrack ID 135 (Incline Chest Press Machine).
+- Illustration depicts a standardized converging incline lever machine frame; specific gym models vary.
+
+### References
+
+- [ExRx.net - Lever Incline Chest Press](https://exrx.net/WeightExercises/PectoralClavicular/LVInclineChestPress): Machine incline pressing mechanics, clavicular pectoral recruitment, and setup standards.
+
+[Editable JSON](../catalog/exercises/incline-chest-press-machine.json)
 
 ## Incline Dumbbell Biceps Curl
 
@@ -1029,6 +1311,144 @@ Overhead rope version, distinct from a pushdown. A low pulley behind the standin
 - [Muscle & Strength - Seated Cable Tricep Extension](https://www.muscleandstrength.com/node/4120): Seated low-pulley overhead rope extension; standing stance is an editorial adaptation requiring review.
 
 [Editable JSON](../catalog/exercises/overhead-rope-cable-triceps-extension.json)
+
+## Pec Deck
+
+![Paired black-and-white instructional line drawings of a seated pec deck chest fly.](../catalog/media/2b7a141f45c959f31ec20a235385f69566f10ee60acf127a020adb0fae541ef2.png)
+
+Seated with arms open wide holding machine fly handles / Handles brought together in front of chest in horizontal adduction
+
+Sit upright against the back pad of a pec deck machine and adduct both arms horizontally toward the center line in a controlled hugging arc.
+
+- **Danish:** Pec deck
+- **Aliases:** Pec deck fly, Machine chest fly, Seated machine fly, Butterfly machine
+- **Primary muscles:** Pectoralis major (sternal head)
+- **Assisting muscles:** Pectoralis major (clavicular head), Anterior deltoid
+- **Stabilizers:** Biceps brachii (short head), Pectoralis minor
+- **Equipment:** Pec deck machine
+- **Movement:** Horizontal adduction - seated machine; Bilateral
+- **Grip:** Neutral or semi-pronated grip holding the vertical padded machine handles.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust seat height so the handles align across mid-chest level when gripped.
+- Sit with hips, upper back, and head firmly supported against the vertical back pad.
+- Grip the vertical handles with a slight, fixed bend in the elbows.
+
+### Execution
+
+1. Contract the chest muscles to bring the lever handles together in front of the sternum.
+2. Maintain the same soft elbow angle throughout the horizontal arc; do not turn the fly into a press.
+3. Squeeze the chest at full adduction for a brief pause.
+4. Slowly return the arms back to the starting stretch position under control without letting the weight stack slam.
+
+### Cues
+
+- Hug a wide barrel.
+- Keep upper back pinned to the pad.
+- Lead with the inner elbows and chest.
+
+### Common mistakes
+
+- Pressing with the triceps by straightening the elbows during adduction.
+- Shrugging the shoulders up toward the ears.
+- Overextending the arms backward past active shoulder mobility at the stretch.
+
+### Logging convention
+
+Pin placed at 45 kg: record 45 kg selected machine load.
+
+Machine lever arms, cams, and pulley ratios vary widely across manufacturers; record the selected stack pin load.
+
+### Variants and alternatives
+
+Dedicated seated machine chest fly with vertical handles. Maintains continuous tension on pectoralis major through horizontal adduction.
+
+- Flat Dumbbell Fly
+- Cable High Fly
+
+### Review notes
+
+- Drafted from FitTrack ID 114 (Pec Deck).
+- Illustration captures the horizontal fly arc with soft constant elbow bend.
+
+### References
+
+- [ExRx.net - Lever Chest Fly](https://exrx.net/WeightExercises/PectoralSternal/LVChestFly): Lever machine chest fly mechanics, horizontal adduction, and stabilizer involvement.
+
+[Editable JSON](../catalog/exercises/pec-deck.json)
+
+## Pendlay Row
+
+![Paired black-and-white instructional line drawings of a Pendlay row from floor to chest.](../catalog/media/7ddb71cf5a70c1c9b1e231ee637f7acab7b0fc1c71376b59248a346655a79609.png)
+
+Hinged with torso parallel to floor gripping barbell resting on floor / Barbell rowed up to lower sternum with elbows driven high
+
+Perform a strict bent-over barbell row starting from a dead stop on the floor for each repetition, maintaining a strictly horizontal torso parallel to the ground.
+
+- **Danish:** Pendlay row
+- **Aliases:** Dead-stop barbell row, Strict barbell row from floor, Strict Pendlay row
+- **Primary muscles:** Latissimus dorsi, Trapezius, Rhomboids
+- **Assisting muscles:** Posterior deltoid, Infraspinatus, Teres minor, Brachialis, Brachioradialis
+- **Stabilizers:** Erector spinae, Hamstrings, Gluteus maximus
+- **Equipment:** Barbell, Weight plates
+- **Movement:** Horizontal pull - parallel torso from floor; Bilateral
+- **Grip:** Pronated (overhand) grip slightly wider than shoulder width.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Step up to a loaded barbell on the floor with feet hip-width apart.
+- Hinge deeply at the hips and bend knees until torso is strictly parallel to the floor.
+- Grip the barbell with an overhand pronated grip slightly wider than shoulder width.
+- Brace the core, flatten the spine, and take the slack out of the barbell.
+
+### Execution
+
+1. Explosively pull the barbell upward from the floor by driving elbows toward the ceiling.
+2. Contact the barbell against the lower chest or upper abdomen without standing up or raising torso angle.
+3. Lower the barbell under control all the way back to a dead stop on the floor.
+4. Reset spinal tension completely between every repetition.
+
+### Cues
+
+- Torso stays parallel like a table.
+- Pull from a dead stop.
+- Drive elbows to the ceiling.
+
+### Common mistakes
+
+- Rising the torso into a 45-degree angle to heave the bar upward.
+- Bouncing the bar off the floor instead of pulling from a complete dead stop.
+- Rounding the lower spine under heavy loads.
+
+### Logging convention
+
+Bar (20 kg) plus 50 kg plates: record 70 kg total barbell mass.
+
+Record total combined mass of the barbell and loaded plates.
+
+### Variants and alternatives
+
+Strict dead-stop barbell row with horizontal torso parallel to the floor. Eliminates stretch-shortening cycle momentum.
+
+- Bent-Over Barbell Row
+- Supinated Barbell Bent-Over Row
+- T-Bar Row
+
+### Review notes
+
+- Drafted from FitTrack ID 116 (Pendlay Row).
+- Illustration shows dead stop on floor and horizontal torso; minor knee angle extension between panels noted.
+
+### References
+
+- [ExRx.net - Barbell Bent-over Row](https://exrx.net/WeightExercises/BackGeneral/BBBentOverRow): Bent-over barbell row mechanics, back musculature recruitment, and spinal brace requirements.
+
+[Editable JSON](../catalog/exercises/pendlay-row.json)
 
 ## Seated Cable Row
 
@@ -1562,3 +1982,139 @@ Supinated grip with a stable inclined torso. This is a row, not a standing curl;
 - [Muscle & Strength - Reverse Grip Bent Over Row](https://www.muscleandstrength.com/exercises/reverse-grip-bent-over-row.html): Underhand grip, hip-hinged torso and controlled row with close elbows.
 
 [Editable JSON](../catalog/exercises/supinated-barbell-bent-over-row.json)
+
+## Trap-Bar Deadlift
+
+![Paired black-and-white instructional line drawings of a trap-bar deadlift at start and lockout.](../catalog/media/636d0f4dbb028452573d921c4f39f2705b581439d8ea89f8afe3b7984a8546bb.png)
+
+Hinged inside hex bar with knees bent gripping side handles / Standing fully erect with neutral grip handles at sides
+
+Stand centered inside a hexagonal trap bar, hinge at the hips and bend knees to grip the neutral side handles, and drive through the floor to stand fully erect.
+
+- **Danish:** Trap-bar dødløft
+- **Aliases:** Hex bar deadlift, Hex-bar deadlift, Trap bar deadlift
+- **Primary muscles:** Quadriceps, Gluteus maximus, Hamstrings
+- **Assisting muscles:** Erector spinae, Adductor magnus, Soleus
+- **Stabilizers:** Trapezius, Rhomboids, Latissimus dorsi, Forearm flexors
+- **Equipment:** Trap bar (hex bar), Weight plates
+- **Movement:** Hip hinge and knee extension - vertical pull; Bilateral
+- **Grip:** Neutral grip holding the dual parallel side handles of the trap bar.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Stand centered inside the trap bar with feet hip- to shoulder-width apart.
+- Hinge at the hips and bend knees until hands can grip the neutral side handles firmly.
+- Keep chest lifted, shoulders pulled back and down, and spine neutral.
+
+### Execution
+
+1. Push forcefully through the floor with feet to drive hips and knees into extension simultaneously.
+2. Keep arms straight and handles centered along the mid-thigh as you stand tall.
+3. Lock out hips and knees with a tall posture without leaning backward.
+4. Reverse the movement by hinging hips back and bending knees to return weights to the floor under control.
+
+### Cues
+
+- Push the floor away.
+- Stand tall through the hips.
+- Keep arms long like ropes.
+
+### Common mistakes
+
+- Hyperextending the lower back at the top lockout.
+- Allowing the knees to cave inward during the drive.
+- Jerking the bar off the floor rather than building tension.
+
+### Logging convention
+
+Trap bar (25 kg) plus 75 kg plates: record 100 kg total mass.
+
+Record total combined mass including the trap bar frame and all loaded weight plates.
+
+### Variants and alternatives
+
+Neutral-grip trap bar variation. Positions the load in line with the body's center of mass, reducing lumbar shear forces relative to a conventional straight barbell.
+
+- Barbell Deadlift
+- Barbell Romanian Deadlift
+
+### Review notes
+
+- Drafted from FitTrack ID 115 (Trap-Bar Deadlift).
+- Depicts low/standard handle orientation with neutral grip centered inside hexagonal frame.
+
+### References
+
+- [ExRx.net - Trap Bar Deadlift](https://exrx.net/WeightExercises/GluteusMaximus/TBDL): Hex bar deadlift mechanics, joint moments, and prime mover distribution.
+
+[Editable JSON](../catalog/exercises/trap-bar-deadlift.json)
+
+## Wide-Grip Upright Row
+
+![Paired black-and-white instructional line drawings of a wide-grip barbell upright row.](../catalog/media/5636fc5b58baef57edcc202b089bc694b50d9a392316fdbfc61743ce847379a8.png)
+
+Standing upright holding barbell across thighs with wide grip / Barbell pulled to mid-chest with elbows flared high and wide
+
+Stand upright and pull a barbell vertically to mid-chest height using a wide overhand grip, leading with the elbows flared outward to emphasize the lateral deltoids while minimizing shoulder impingement.
+
+- **Danish:** Bredt oprejst roning med vægtstang
+- **Aliases:** Wide grip upright row, Barbell wide-grip upright row, Upright barbell row wide grip
+- **Primary muscles:** Lateral deltoid, Trapezius
+- **Assisting muscles:** Anterior deltoid, Brachialis, Brachioradialis, Biceps brachii
+- **Stabilizers:** Erector spinae, Core musculature
+- **Equipment:** Barbell, Weight plates
+- **Movement:** Vertical pull - shoulder abduction and elbow flexion; Bilateral
+- **Grip:** Wide pronated (overhand) grip, approximately 1.5 times shoulder width.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Stand tall with feet hip-width apart and knees softly unlocked.
+- Grip the barbell with an overhand grip approximately 1.5 times shoulder width.
+- Let the bar hang at arms length across the upper thighs, shoulders retracted and depressed.
+
+### Execution
+
+1. Pull the barbell upward along the torso by flaring elbows upward and outward.
+2. Continue lifting until elbows reach shoulder height and the bar reaches mid-chest level.
+3. Ensure hands remain below the level of the elbows at the apex of the pull.
+4. Lower the barbell under control back to the starting hang position.
+
+### Cues
+
+- Lead with the elbows wide.
+- Keep hands below elbows.
+- Stand tall without swinging the hips.
+
+### Common mistakes
+
+- Using a narrow grip which causes internal shoulder impingement.
+- Pulling the bar too high to the chin, forcing wrists above elbows.
+- Using excessive body momentum or hip thrusting to lift the weight.
+
+### Logging convention
+
+Bar (20 kg) plus 20 kg plates: record 40 kg total barbell mass.
+
+Record total combined mass of the barbell and loaded plates.
+
+### Variants and alternatives
+
+Wide-grip barbell variation (hands approx. 1.5x shoulder width). Minimizes subacromial impingement compared to narrow-grip upright rows.
+
+- Dumbbell Lateral Raise
+- Single-Arm Rear-Delt Cable Fly
+
+### Review notes
+
+- Drafted from FitTrack ID 120 (Wide-Grip Upright Row).
+- Illustration confirms wide grip and elbows driven higher than hands at mid-chest level.
+
+### References
+
+- [ExRx.net - Barbell Upright Row](https://exrx.net/WeightExercises/DeltoidLateral/BBUprightRow): Barbell upright row biomechanics, grip width considerations, and lateral deltoid activation.
+
+[Editable JSON](../catalog/exercises/wide-grip-upright-row.json)

@@ -1,0 +1,100 @@
+{
+  "id": "trap-bar-deadlift",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Trap-Bar Deadlift",
+  "nameDa": "Trap-bar dødløft",
+  "aliases": [
+    "Hex bar deadlift",
+    "Hex-bar deadlift",
+    "Trap bar deadlift"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Thighs",
+    "Hips",
+    "Lower Back"
+  ],
+  "movementPattern": "Hip hinge and knee extension - vertical pull",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Trap bar (hex bar)",
+    "Weight plates"
+  ],
+  "grip": "Neutral grip holding the dual parallel side handles of the trap bar.",
+  "primaryMuscles": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+  ],
+  "secondaryMuscles": [
+    "Erector spinae",
+    "Adductor magnus",
+    "Soleus"
+  ],
+  "stabilizers": [
+    "Trapezius",
+    "Rhomboids",
+    "Latissimus dorsi",
+    "Forearm flexors"
+  ],
+  "description": "Stand centered inside a hexagonal trap bar, hinge at the hips and bend knees to grip the neutral side handles, and drive through the floor to stand fully erect.",
+  "setup": [
+    "Stand centered inside the trap bar with feet hip- to shoulder-width apart.",
+    "Hinge at the hips and bend knees until hands can grip the neutral side handles firmly.",
+    "Keep chest lifted, shoulders pulled back and down, and spine neutral."
+  ],
+  "instructions": [
+    "Push forcefully through the floor with feet to drive hips and knees into extension simultaneously.",
+    "Keep arms straight and handles centered along the mid-thigh as you stand tall.",
+    "Lock out hips and knees with a tall posture without leaning backward.",
+    "Reverse the movement by hinging hips back and bending knees to return weights to the floor under control."
+  ],
+  "cues": [
+    "Push the floor away.",
+    "Stand tall through the hips.",
+    "Keep arms long like ropes."
+  ],
+  "commonMistakes": [
+    "Hyperextending the lower back at the top lockout.",
+    "Allowing the knees to cave inward during the drive.",
+    "Jerking the bar off the floor rather than building tension."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "Trap bar (25 kg) plus 75 kg plates: record 100 kg total mass.",
+    "note": "Record total combined mass including the trap bar frame and all loaded weight plates."
+  },
+  "alternatives": [
+    "Barbell Deadlift",
+    "Barbell Romanian Deadlift"
+  ],
+  "variantNote": "Neutral-grip trap bar variation. Positions the load in line with the body's center of mass, reducing lumbar shear forces relative to a conventional straight barbell.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 115 (Trap-Bar Deadlift).",
+    "Depicts low/standard handle orientation with neutral grip centered inside hexagonal frame."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Trap Bar Deadlift",
+      "url": "https://exrx.net/WeightExercises/GluteusMaximus/TBDL",
+      "scope": "Hex bar deadlift mechanics, joint moments, and prime mover distribution."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "636d0f4dbb028452573d921c4f39f2705b581439d8ea89f8afe3b7984a8546bb",
+    "url": "/media/636d0f4dbb028452573d921c4f39f2705b581439d8ea89f8afe3b7984a8546bb.png",
+    "left": "Hinged inside hex bar with knees bent gripping side handles",
+    "right": "Standing fully erect with neutral grip handles at sides",
+    "alt": "Paired black-and-white instructional line drawings of a trap-bar deadlift at start and lockout.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "trap-bar-deadlift",
+      "model": null
+    }
+  }
+}

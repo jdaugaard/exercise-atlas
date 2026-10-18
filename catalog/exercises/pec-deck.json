@@ -1,0 +1,93 @@
+{
+  "id": "pec-deck",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Pec Deck",
+  "nameDa": "Pec deck",
+  "aliases": [
+    "Pec deck fly",
+    "Machine chest fly",
+    "Seated machine fly",
+    "Butterfly machine"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Chest"
+  ],
+  "movementPattern": "Horizontal adduction - seated machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Pec deck machine"
+  ],
+  "grip": "Neutral or semi-pronated grip holding the vertical padded machine handles.",
+  "primaryMuscles": [
+    "Pectoralis major (sternal head)"
+  ],
+  "secondaryMuscles": [
+    "Pectoralis major (clavicular head)",
+    "Anterior deltoid"
+  ],
+  "stabilizers": [
+    "Biceps brachii (short head)",
+    "Pectoralis minor"
+  ],
+  "description": "Sit upright against the back pad of a pec deck machine and adduct both arms horizontally toward the center line in a controlled hugging arc.",
+  "setup": [
+    "Adjust seat height so the handles align across mid-chest level when gripped.",
+    "Sit with hips, upper back, and head firmly supported against the vertical back pad.",
+    "Grip the vertical handles with a slight, fixed bend in the elbows."
+  ],
+  "instructions": [
+    "Contract the chest muscles to bring the lever handles together in front of the sternum.",
+    "Maintain the same soft elbow angle throughout the horizontal arc; do not turn the fly into a press.",
+    "Squeeze the chest at full adduction for a brief pause.",
+    "Slowly return the arms back to the starting stretch position under control without letting the weight stack slam."
+  ],
+  "cues": [
+    "Hug a wide barrel.",
+    "Keep upper back pinned to the pad.",
+    "Lead with the inner elbows and chest."
+  ],
+  "commonMistakes": [
+    "Pressing with the triceps by straightening the elbows during adduction.",
+    "Shrugging the shoulders up toward the ears.",
+    "Overextending the arms backward past active shoulder mobility at the stretch."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Pin placed at 45 kg: record 45 kg selected machine load.",
+    "note": "Machine lever arms, cams, and pulley ratios vary widely across manufacturers; record the selected stack pin load."
+  },
+  "alternatives": [
+    "Flat Dumbbell Fly",
+    "Cable High Fly"
+  ],
+  "variantNote": "Dedicated seated machine chest fly with vertical handles. Maintains continuous tension on pectoralis major through horizontal adduction.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 114 (Pec Deck).",
+    "Illustration captures the horizontal fly arc with soft constant elbow bend."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Chest Fly",
+      "url": "https://exrx.net/WeightExercises/PectoralSternal/LVChestFly",
+      "scope": "Lever machine chest fly mechanics, horizontal adduction, and stabilizer involvement."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "2b7a141f45c959f31ec20a235385f69566f10ee60acf127a020adb0fae541ef2",
+    "url": "/media/2b7a141f45c959f31ec20a235385f69566f10ee60acf127a020adb0fae541ef2.png",
+    "left": "Seated with arms open wide holding machine fly handles",
+    "right": "Handles brought together in front of chest in horizontal adduction",
+    "alt": "Paired black-and-white instructional line drawings of a seated pec deck chest fly.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "pec-deck",
+      "model": null
+    }
+  }
+}
