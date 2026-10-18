@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { ExerciseSchema } from '../../../src/schema.ts';
+import { ExerciseSchema } from '../../../../src/schema.ts';
 
 export function convertToSha256Png(srcPath, mediaDir = 'catalog/media') {
   if (!fs.existsSync(srcPath)) {

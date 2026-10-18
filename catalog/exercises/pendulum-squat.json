@@ -1,0 +1,96 @@
+{
+  "id": "pendulum-squat",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Pendulum Squat",
+  "nameDa": "Pendulum squat",
+  "aliases": [
+    "Pendulum Squat",
+    "Pendulum Squat Machine"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Thighs",
+    "Glutes",
+    "Hips"
+  ],
+  "movementPattern": "Squat - guided pendulum machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Pendulum squat machine"
+  ],
+  "grip": "Hands gripping support handles on machine shoulder harness.",
+  "primaryMuscles": [
+    "Quadriceps"
+  ],
+  "secondaryMuscles": [
+    "Gluteus maximus",
+    "Adductor magnus",
+    "Soleus"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Erector spinae"
+  ],
+  "description": "Perform a guided squat on a counterweighted pendulum machine along a curved arc that maximizes knee flexion and quad loading while minimizing lumbar stress.",
+  "setup": [
+    "Load weight plates onto the machine's counterbalanced pendulum horn.",
+    "Step onto the angled footplate with feet shoulder-width apart.",
+    "Position shoulders snugly under the padded harness and back resting flat against the pivoting back support.",
+    "Release the safety latch and stand tall with knees softly unlocked."
+  ],
+  "instructions": [
+    "Descend smoothly by flexing knees and hips, allowing the pendulum arm to swing backward along its curved arc.",
+    "Lower until thighs reach parallel to the footplate or full knee flexion is achieved, keeping back flat against the pad.",
+    "Pause briefly at the bottom under complete muscular control.",
+    "Drive through the mid-foot to push back up along the pendulum arc to the starting position without forcefully locking knees."
+  ],
+  "cues": [
+    "Keep back flat against the pad.",
+    "Track knees over toes along the arc.",
+    "Drive through the mid-foot."
+  ],
+  "commonMistakes": [
+    "Letting lower back or pelvis lift off the back support at depth.",
+    "Locking knees aggressively at the top.",
+    "Bouncing out of the bottom position."
+  ],
+  "logging": {
+    "basis": "total_plate_load",
+    "example": "Two 20 kg plates on weight horn: record 40 kg total plate load.",
+    "note": "Pendulum squat machines feature counterweights and curved mechanical leverage arcs; record total loaded plate mass rather than attempting free barbell equivalency."
+  },
+  "alternatives": [
+    "Barbell Back Squat",
+    "Hack Squat",
+    "Leg Press"
+  ],
+  "variantNote": "Guided squat on a counterweighted pendulum machine with angled footplate and pivoting back support.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 109 (Pendulum Squat).",
+    "Illustration accurately captures the counterweighted pivot frame and curved movement arc."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Squat",
+      "url": "https://exrx.net/WeightExercises/Quadriceps/LVSquat",
+      "scope": "Guided machine squat mechanics, knee flexion torque, and footplate positioning."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "efd1020b71477b85bacb6aa6db9d7fc63dc0874948bd155438459528e7525398",
+    "url": "/media/efd1020b71477b85bacb6aa6db9d7fc63dc0874948bd155438459528e7525398.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Pendulum Squat.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "pendulum-squat",
+      "model": null
+    }
+  }
+}

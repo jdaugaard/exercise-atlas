@@ -1,6 +1,6 @@
 # Illustrated exercise catalog
 
-31 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+36 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
@@ -20,19 +20,24 @@
 - [Flat Dumbbell Fly](../catalog/exercises/flat-dumbbell-fly.json)
 - [Incline Chest Press Machine](../catalog/exercises/incline-chest-press-machine.json)
 - [Incline Dumbbell Biceps Curl](../catalog/exercises/incline-dumbbell-biceps-curl.json)
+- [Machine Chest Press](../catalog/exercises/machine-chest-press.json)
 - [Machine Hip Thrust](../catalog/exercises/machine-hip-thrust.json)
 - [Machine Preacher Curl](../catalog/exercises/machine-preacher-curl.json)
 - [Overhead Rope Cable Triceps Extension](../catalog/exercises/overhead-rope-cable-triceps-extension.json)
 - [Pec Deck](../catalog/exercises/pec-deck.json)
 - [Pendlay Row](../catalog/exercises/pendlay-row.json)
+- [Pendulum Squat](../catalog/exercises/pendulum-squat.json)
 - [Seated Cable Row](../catalog/exercises/seated-cable-row.json)
 - [Seated Cable Row with Wrist Cuffs](../catalog/exercises/seated-cable-row-wrist-cuffs.json)
 - [Seated Lat Pulldown Machine](../catalog/exercises/seated-lat-pulldown-machine.json)
 - [Single-Arm Rear-Delt Cable Fly](../catalog/exercises/single-arm-rear-delt-cable-fly.json)
+- [Single-Arm Supinated Pulldown](../catalog/exercises/single-arm-supinated-pulldown.json)
 - [Standing Barbell Curl](../catalog/exercises/standing-barbell-curl.json)
 - [Standing Barbell Strict Press](../catalog/exercises/standing-barbell-strict-press.json)
 - [Standing Dumbbell Strict Press](../catalog/exercises/standing-dumbbell-strict-press.json)
+- [Standing Single-Arm Cable Biceps Curl](../catalog/exercises/standing-single-arm-cable-biceps-curl.json)
 - [Supinated Barbell Bent-Over Row](../catalog/exercises/supinated-barbell-bent-over-row.json)
+- [T-Bar Row](../catalog/exercises/t-bar-row.json)
 - [Trap-Bar Deadlift](../catalog/exercises/trap-bar-deadlift.json)
 - [Wide-Grip Upright Row](../catalog/exercises/wide-grip-upright-row.json)
 
@@ -1111,6 +1116,75 @@ Seated incline, both arms curling together with palms supinated. The illustratio
 
 [Editable JSON](../catalog/exercises/incline-dumbbell-biceps-curl.json)
 
+## Machine Chest Press
+
+![Paired black-and-white instructional line drawings of Machine Chest Press.](../catalog/media/f678d266526cf851fbf52445c6651ceaf51c5bcc0f5b99008b52284193143ef4.png)
+
+Starting position / Peak contraction position
+
+Perform a seated horizontal press on a chest machine, pushing handles forward along a guided path while keeping the back supported.
+
+- **Danish:** Brystpres i maskine
+- **Aliases:** Chest Press, Machine Chest Press, Seated Chest Press Machine, Selectorized Chest Press
+- **Primary muscles:** Pectoralis major (sternal head)
+- **Assisting muscles:** Pectoralis major (clavicular head), Anterior deltoid, Triceps brachii
+- **Stabilizers:** Rotator cuff, Serratus anterior
+- **Equipment:** Seated chest press machine
+- **Movement:** Horizontal chest press - guided machine; Bilateral
+- **Grip:** Pronated or neutral grip on guided horizontal press handles.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust the seat height so the machine handles align with the mid-to-lower chest.
+- Sit with back, shoulders, and head resting against the vertical back pad, feet firmly planted on the floor.
+- Grasp the horizontal press handles with a pronated grip and elbows bent comfortably behind the handles.
+
+### Execution
+
+1. Press the handles forward smoothly along the machine's guide track until arms are fully extended without locking the elbows.
+2. Maintain steady contact between the upper back and back pad throughout the press.
+3. Pause briefly at peak extension under control.
+4. Lower the weight smoothly under control until hands return to chest level, feeling a gentle stretch in the pectorals before initiating the next rep.
+
+### Cues
+
+- Keep back flat against the pad.
+- Press straight forward.
+- Control the return without slamming the stack.
+
+### Common mistakes
+
+- Arching the lower back off the pad to assist the press.
+- Locking the elbows forcefully at full extension.
+- Letting weight plates slam between repetitions.
+
+### Logging convention
+
+Weight pin set to 60 kg: record 60 kg selected machine load.
+
+Machine lever cams and pulley ratios vary between manufacturers; record the selected stack pin or plate load without assuming 1:1 free-weight equivalency.
+
+### Variants and alternatives
+
+Standard seated selectorized machine chest press with vertical back pad support and bilateral horizontal pressing levers.
+
+- Incline Chest Press Machine
+- Dumbbell Bench Press
+- Barbell Bench Press
+
+### Review notes
+
+- Drafted from FitTrack ID 123 (Chest Press).
+- Illustration shows seated upright position with pronated grip; minor forward lean at lockout noted in right panel, but machine geometry and mechanics remain consistent.
+
+### References
+
+- [ExRx.net - Lever Chest Press](https://exrx.net/WeightExercises/PectoralSternal/LVChestPress): Machine chest press mechanics, pectoral activation, and seat height setup.
+
+[Editable JSON](../catalog/exercises/machine-chest-press.json)
+
 ## Machine Hip Thrust
 
 ![Two black-and-white drawings of a generic belt-loaded hip-thrust machine in lowered and raised positions.](../catalog/media/2c053800f6ec03846c37c15be4bcc7c036fe86ce53ad69b0e9ca7e45f28d35fe.png)
@@ -1450,6 +1524,76 @@ Strict dead-stop barbell row with horizontal torso parallel to the floor. Elimin
 
 [Editable JSON](../catalog/exercises/pendlay-row.json)
 
+## Pendulum Squat
+
+![Paired black-and-white instructional line drawings of Pendulum Squat.](../catalog/media/efd1020b71477b85bacb6aa6db9d7fc63dc0874948bd155438459528e7525398.png)
+
+Starting position / Peak contraction position
+
+Perform a guided squat on a counterweighted pendulum machine along a curved arc that maximizes knee flexion and quad loading while minimizing lumbar stress.
+
+- **Danish:** Pendulum squat
+- **Aliases:** Pendulum Squat, Pendulum Squat Machine
+- **Primary muscles:** Quadriceps
+- **Assisting muscles:** Gluteus maximus, Adductor magnus, Soleus
+- **Stabilizers:** Abdominal wall, Erector spinae
+- **Equipment:** Pendulum squat machine
+- **Movement:** Squat - guided pendulum machine; Bilateral
+- **Grip:** Hands gripping support handles on machine shoulder harness.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Load weight plates onto the machine's counterbalanced pendulum horn.
+- Step onto the angled footplate with feet shoulder-width apart.
+- Position shoulders snugly under the padded harness and back resting flat against the pivoting back support.
+- Release the safety latch and stand tall with knees softly unlocked.
+
+### Execution
+
+1. Descend smoothly by flexing knees and hips, allowing the pendulum arm to swing backward along its curved arc.
+2. Lower until thighs reach parallel to the footplate or full knee flexion is achieved, keeping back flat against the pad.
+3. Pause briefly at the bottom under complete muscular control.
+4. Drive through the mid-foot to push back up along the pendulum arc to the starting position without forcefully locking knees.
+
+### Cues
+
+- Keep back flat against the pad.
+- Track knees over toes along the arc.
+- Drive through the mid-foot.
+
+### Common mistakes
+
+- Letting lower back or pelvis lift off the back support at depth.
+- Locking knees aggressively at the top.
+- Bouncing out of the bottom position.
+
+### Logging convention
+
+Two 20 kg plates on weight horn: record 40 kg total plate load.
+
+Pendulum squat machines feature counterweights and curved mechanical leverage arcs; record total loaded plate mass rather than attempting free barbell equivalency.
+
+### Variants and alternatives
+
+Guided squat on a counterweighted pendulum machine with angled footplate and pivoting back support.
+
+- Barbell Back Squat
+- Hack Squat
+- Leg Press
+
+### Review notes
+
+- Drafted from FitTrack ID 109 (Pendulum Squat).
+- Illustration accurately captures the counterweighted pivot frame and curved movement arc.
+
+### References
+
+- [ExRx.net - Lever Squat](https://exrx.net/WeightExercises/Quadriceps/LVSquat): Guided machine squat mechanics, knee flexion torque, and footplate positioning.
+
+[Editable JSON](../catalog/exercises/pendulum-squat.json)
+
 ## Seated Cable Row
 
 ![Two line drawings of a seated low cable row using a hand-held neutral row handle.](../catalog/media/9808596a3454faaa9b1d442bf4b557d00bede50f1f94a4e1e468ca096f254f5a.png)
@@ -1718,6 +1862,77 @@ One hand-held cable, standing with a shoulder-height pulley. Cuff attachment, lo
 
 [Editable JSON](../catalog/exercises/single-arm-rear-delt-cable-fly.json)
 
+## Single-Arm Supinated Pulldown
+
+![Paired black-and-white instructional line drawings of Single-Arm Supinated Pulldown.](../catalog/media/410b1474a6035b2fc4b5a751a2f0ed4303eaba56affc7c8e920b7ba1a819aeeb.png)
+
+Starting position / Peak contraction position
+
+Pull a high cable D-handle downward with a supinated grip to the upper chest, aligning elbow path with latissimus fibers while seated.
+
+- **Danish:** Enarms underhånds træk til bryst
+- **Aliases:** Single Arm Pulldown, Single-Arm Supinated Pulldown, Unilateral Supinated Lat Pulldown, One-Arm Underhand Pulldown
+- **Primary muscles:** Latissimus dorsi
+- **Assisting muscles:** Biceps brachii, Brachialis, Teres major, Lower trapezius, Rhomboids
+- **Stabilizers:** Abdominal wall, Rotator cuff, Forearm flexors
+- **Equipment:** High cable pulley, Single D-handle, Lat-pulldown bench with thigh pads
+- **Movement:** Vertical pull; Unilateral
+- **Grip:** Supinated (underhand) grip on D-handle with palm facing inward/backward.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Attach a single D-handle to an overhead cable pulley and adjust the thigh pads to secure your legs.
+- Sit tall on the bench, sliding thighs snugly under the pads with feet flat on the floor.
+- Reach overhead with working arm and grasp D-handle with a supinated (underhand) grip, allowing arm to fully extend.
+- Rest non-working hand on thigh pad or bench for stability.
+
+### Execution
+
+1. Initiate the pull by drawing the elbow down and slightly inward toward your hip.
+2. Keep torso tall with a slight natural thoracic arch, avoiding twisting or leaning sideways.
+3. Pull until the handle approaches collarbone or upper chest level, achieving a strong contraction in the lat.
+4. Control the return upward until the working arm is fully extended overhead and the lat is stretched.
+5. Complete all repetitions, then switch to the other arm.
+
+### Cues
+
+- Drive elbow down to your hip.
+- Keep torso upright and braced.
+- Control the stretch overhead.
+
+### Common mistakes
+
+- Twisting or leaning the torso laterally to yank the handle down.
+- Using an overhand grip instead of supinated, altering the pulling plane.
+- Failing to secure thighs under pads.
+
+### Logging convention
+
+Cable pin set to 30 kg: record 30 kg selected stack load per side.
+
+High pulley ratios and friction vary; record stack pin setting per working arm without converting to bilateral bar numbers.
+
+### Variants and alternatives
+
+Unilateral vertical pulldown using a high cable pulley and D-handle with a supinated grip, emphasizing lat adduction.
+
+- Seated Lat Pulldown Machine
+- Seated Cable Row
+- Bent-Over Barbell Row
+
+### Review notes
+
+- Drafted from FitTrack ID 117 (Single Arm Pulldown).
+- Supinated underhand grip specified canonically to optimize lat muscle fiber recruitment.
+
+### References
+
+- [ExRx.net - Cable Underhand Lat Pulldown](https://exrx.net/WeightExercises/LatissimusDorsi/CBUnderhandPulldown): Underhand vertical pulling mechanics and latissimus recruitment patterns.
+
+[Editable JSON](../catalog/exercises/single-arm-supinated-pulldown.json)
+
 ## Standing Barbell Curl
 
 ![Two line drawings of an underhand standing straight-bar biceps curl.](../catalog/media/ae7e70d2d7f3018bf4b05a9ab7fa4a90265db67df1c522cb98892a2db88765f4.png)
@@ -1917,6 +2132,76 @@ Standing, simultaneous two-dumbbell press. Seated and alternating presses are se
 
 [Editable JSON](../catalog/exercises/standing-dumbbell-strict-press.json)
 
+## Standing Single-Arm Cable Biceps Curl
+
+![Paired black-and-white instructional line drawings of Standing Single-Arm Cable Biceps Curl.](../catalog/media/9e187bf6168a5d047dacea054d607d90d780af71c280129cb52f5f2072fc3e00.png)
+
+Starting position / Peak contraction position
+
+Flex one elbow to curl a low cable D-handle upward, maintaining constant cable tension on the biceps throughout the range of motion.
+
+- **Danish:** Stående enarms kabel-bicepscurl
+- **Aliases:** Single Arm Cable Biceps Curl, Standing Single-Arm Cable Curl, Unilateral Cable Biceps Curl, One-Arm Low Cable Curl
+- **Primary muscles:** Biceps brachii
+- **Assisting muscles:** Brachialis, Brachioradialis
+- **Stabilizers:** Abdominal wall, Forearm flexors, Rotator cuff
+- **Equipment:** Adjustable cable pulley, Single D-handle
+- **Movement:** Elbow flexion; Unilateral
+- **Grip:** Supinated grip on D-handle with palm facing upward.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Position the cable pulley at the lowest setting and attach a single D-handle.
+- Stand facing the pulley or slightly offset, grasping the handle in one hand with a supinated (underhand) grip.
+- Keep feet shoulder-width apart, knees softly unlocked, and upper arm pinned vertically to your side.
+- Non-working arm rests relaxed at your side or braced on your hip.
+
+### Execution
+
+1. Curl the D-handle upward toward shoulder height by flexing the elbow, keeping the upper arm strictly stationary.
+2. Squeeze the biceps firmly at the top of the curl without swinging the torso or letting the elbow drift forward.
+3. Lower the handle slowly under control along the cable line until the elbow is fully extended.
+4. Complete the desired repetitions, then switch to the opposite arm.
+
+### Cues
+
+- Keep elbow pinned at your side.
+- Curl up smoothly against continuous cable tension.
+- Lower all the way down with control.
+
+### Common mistakes
+
+- Swinging the torso or using hip momentum to start the curl.
+- Drifting the elbow forward, turning elbow flexion into front shoulder raise.
+- Cutting the bottom range of motion short.
+
+### Logging convention
+
+Cable pin set to 12.5 kg: record 12.5 kg selected stack load per side.
+
+Pulley mechanical advantages vary (often 2:1 on dual adjustable pulleys); record the pin setting on that specific station.
+
+### Variants and alternatives
+
+Unilateral standing biceps curl using a low cable pulley and single D-handle, keeping upper arm stationary.
+
+- Dumbbell Biceps Curl
+- Incline Dumbbell Biceps Curl
+- Machine Preacher Curl
+
+### Review notes
+
+- Drafted from FitTrack ID 131 (Single Arm Cable Biceps Curl).
+- Illustration shows clean unilateral low-pulley mechanics with supinated palm orientation throughout.
+
+### References
+
+- [ExRx.net - Cable One Arm Curl](https://exrx.net/WeightExercises/Biceps/CBOneArmCurl): Unilateral cable biceps curl biomechanics, arm stabilization, and execution.
+
+[Editable JSON](../catalog/exercises/standing-single-arm-cable-biceps-curl.json)
+
 ## Supinated Barbell Bent-Over Row
 
 ![Two black-and-white drawings of an underhand barbell row with the torso inclined and elbows drawing backward.](../catalog/media/e9a09fbd266420ffb53b763dcb0d2a97de2a798402c1ebfb96c6d3c99cca3018.png)
@@ -1982,6 +2267,75 @@ Supinated grip with a stable inclined torso. This is a row, not a standing curl;
 - [Muscle & Strength - Reverse Grip Bent Over Row](https://www.muscleandstrength.com/exercises/reverse-grip-bent-over-row.html): Underhand grip, hip-hinged torso and controlled row with close elbows.
 
 [Editable JSON](../catalog/exercises/supinated-barbell-bent-over-row.json)
+
+## T-Bar Row
+
+![Paired black-and-white instructional line drawings of T-Bar Row.](../catalog/media/54ef59b15b672ab54952fde10e7dbe15f07ea8c4b0b0b9f27a665ec5313b64de.png)
+
+Starting position / Peak contraction position
+
+Pull an angled lever row upward while lying prone on a chest-support pad, isolating the upper back musculature without lumbar strain.
+
+- **Danish:** T-bar roning med bryststøtte
+- **Aliases:** T-Bar Row, Chest-Supported T-Bar Row, Machine T-Bar Row, Prone Incline T-Bar Row
+- **Primary muscles:** Latissimus dorsi, Rhomboids, Middle trapezius
+- **Assisting muscles:** Biceps brachii, Brachialis, Posterior deltoid, Lower trapezius
+- **Stabilizers:** Forearm flexors
+- **Equipment:** Chest-supported T-bar row machine
+- **Movement:** Horizontal pull - chest supported; Bilateral
+- **Grip:** Pronated or neutral closed grip on row handles.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust the footplate height so your chest rests comfortably against the upper angled pad (~45 degrees).
+- Lie face down with chest firmly supported and feet braced securely on the footrests.
+- Reach down to grasp the row handles with an overhand or neutral grip, extending arms fully to take up the load.
+
+### Execution
+
+1. Pull the handles upward and backward toward your lower ribs or upper abdomen by driving elbows behind the torso.
+2. Squeeze the shoulder blades together at the top of the pull while keeping your chest glued to the pad.
+3. Pause briefly at peak contraction without extending your lumbar spine or lifting off the pad.
+4. Lower the weight under control until arms are fully extended and lats/rhomboids are comfortably stretched.
+
+### Cues
+
+- Chest stays glued to pad.
+- Drive elbows high and back.
+- Squeeze shoulder blades together.
+
+### Common mistakes
+
+- Arching the back or lifting the sternum off the chest pad.
+- Using excessive momentum or jerking the lever at the start of the pull.
+- Failing to achieve full arm extension at the bottom.
+
+### Logging convention
+
+Two 20 kg plates on lever peg: record 40 kg total plate load.
+
+Chest-supported T-bar rows use pivoted lever arms with varying mechanical advantage; record loaded plate mass rather than free-weight barbell equivalent.
+
+### Variants and alternatives
+
+Chest-supported incline T-bar machine variant (~45° pad angle), which eliminates lower-back shear compared to bent-over free-weight T-bar rows.
+
+- Pendlay Row
+- Bent-Over Barbell Row
+- Seated Cable Row
+
+### Review notes
+
+- Drafted from FitTrack ID 113 (T-Bar Row).
+- Illustration depicts chest-supported variant to match modern commercial gym setups and eliminate lumbar fatigue.
+
+### References
+
+- [ExRx.net - Lever Incline Row (Chest Supported)](https://exrx.net/WeightExercises/BackGeneral/LVInclineRow): Chest-supported lever row execution, latissimus and rhomboid biomechanics.
+
+[Editable JSON](../catalog/exercises/t-bar-row.json)
 
 ## Trap-Bar Deadlift
 

@@ -1,0 +1,103 @@
+{
+  "id": "single-arm-supinated-pulldown",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Single-Arm Supinated Pulldown",
+  "nameDa": "Enarms underhånds træk til bryst",
+  "aliases": [
+    "Single Arm Pulldown",
+    "Single-Arm Supinated Pulldown",
+    "Unilateral Supinated Lat Pulldown",
+    "One-Arm Underhand Pulldown"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Vertical pull",
+  "laterality": "Unilateral",
+  "equipmentItems": [
+    "High cable pulley",
+    "Single D-handle",
+    "Lat-pulldown bench with thigh pads"
+  ],
+  "grip": "Supinated (underhand) grip on D-handle with palm facing inward/backward.",
+  "primaryMuscles": [
+    "Latissimus dorsi"
+  ],
+  "secondaryMuscles": [
+    "Biceps brachii",
+    "Brachialis",
+    "Teres major",
+    "Lower trapezius",
+    "Rhomboids"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff",
+    "Forearm flexors"
+  ],
+  "description": "Pull a high cable D-handle downward with a supinated grip to the upper chest, aligning elbow path with latissimus fibers while seated.",
+  "setup": [
+    "Attach a single D-handle to an overhead cable pulley and adjust the thigh pads to secure your legs.",
+    "Sit tall on the bench, sliding thighs snugly under the pads with feet flat on the floor.",
+    "Reach overhead with working arm and grasp D-handle with a supinated (underhand) grip, allowing arm to fully extend.",
+    "Rest non-working hand on thigh pad or bench for stability."
+  ],
+  "instructions": [
+    "Initiate the pull by drawing the elbow down and slightly inward toward your hip.",
+    "Keep torso tall with a slight natural thoracic arch, avoiding twisting or leaning sideways.",
+    "Pull until the handle approaches collarbone or upper chest level, achieving a strong contraction in the lat.",
+    "Control the return upward until the working arm is fully extended overhead and the lat is stretched.",
+    "Complete all repetitions, then switch to the other arm."
+  ],
+  "cues": [
+    "Drive elbow down to your hip.",
+    "Keep torso upright and braced.",
+    "Control the stretch overhead."
+  ],
+  "commonMistakes": [
+    "Twisting or leaning the torso laterally to yank the handle down.",
+    "Using an overhand grip instead of supinated, altering the pulling plane.",
+    "Failing to secure thighs under pads."
+  ],
+  "logging": {
+    "basis": "selected_stack_load_per_side",
+    "example": "Cable pin set to 30 kg: record 30 kg selected stack load per side.",
+    "note": "High pulley ratios and friction vary; record stack pin setting per working arm without converting to bilateral bar numbers."
+  },
+  "alternatives": [
+    "Seated Lat Pulldown Machine",
+    "Seated Cable Row",
+    "Bent-Over Barbell Row"
+  ],
+  "variantNote": "Unilateral vertical pulldown using a high cable pulley and D-handle with a supinated grip, emphasizing lat adduction.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 117 (Single Arm Pulldown).",
+    "Supinated underhand grip specified canonically to optimize lat muscle fiber recruitment."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Cable Underhand Lat Pulldown",
+      "url": "https://exrx.net/WeightExercises/LatissimusDorsi/CBUnderhandPulldown",
+      "scope": "Underhand vertical pulling mechanics and latissimus recruitment patterns."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "410b1474a6035b2fc4b5a751a2f0ed4303eaba56affc7c8e920b7ba1a819aeeb",
+    "url": "/media/410b1474a6035b2fc4b5a751a2f0ed4303eaba56affc7c8e920b7ba1a819aeeb.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Single-Arm Supinated Pulldown.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "single-arm-supinated-pulldown",
+      "model": null
+    }
+  }
+}

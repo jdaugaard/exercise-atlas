@@ -1,0 +1,97 @@
+{
+  "id": "machine-chest-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Machine Chest Press",
+  "nameDa": "Brystpres i maskine",
+  "aliases": [
+    "Chest Press",
+    "Machine Chest Press",
+    "Seated Chest Press Machine",
+    "Selectorized Chest Press"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Chest",
+    "Shoulders",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal chest press - guided machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Seated chest press machine"
+  ],
+  "grip": "Pronated or neutral grip on guided horizontal press handles.",
+  "primaryMuscles": [
+    "Pectoralis major (sternal head)"
+  ],
+  "secondaryMuscles": [
+    "Pectoralis major (clavicular head)",
+    "Anterior deltoid",
+    "Triceps brachii"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Serratus anterior"
+  ],
+  "description": "Perform a seated horizontal press on a chest machine, pushing handles forward along a guided path while keeping the back supported.",
+  "setup": [
+    "Adjust the seat height so the machine handles align with the mid-to-lower chest.",
+    "Sit with back, shoulders, and head resting against the vertical back pad, feet firmly planted on the floor.",
+    "Grasp the horizontal press handles with a pronated grip and elbows bent comfortably behind the handles."
+  ],
+  "instructions": [
+    "Press the handles forward smoothly along the machine's guide track until arms are fully extended without locking the elbows.",
+    "Maintain steady contact between the upper back and back pad throughout the press.",
+    "Pause briefly at peak extension under control.",
+    "Lower the weight smoothly under control until hands return to chest level, feeling a gentle stretch in the pectorals before initiating the next rep."
+  ],
+  "cues": [
+    "Keep back flat against the pad.",
+    "Press straight forward.",
+    "Control the return without slamming the stack."
+  ],
+  "commonMistakes": [
+    "Arching the lower back off the pad to assist the press.",
+    "Locking the elbows forcefully at full extension.",
+    "Letting weight plates slam between repetitions."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight pin set to 60 kg: record 60 kg selected machine load.",
+    "note": "Machine lever cams and pulley ratios vary between manufacturers; record the selected stack pin or plate load without assuming 1:1 free-weight equivalency."
+  },
+  "alternatives": [
+    "Incline Chest Press Machine",
+    "Dumbbell Bench Press",
+    "Barbell Bench Press"
+  ],
+  "variantNote": "Standard seated selectorized machine chest press with vertical back pad support and bilateral horizontal pressing levers.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 123 (Chest Press).",
+    "Illustration shows seated upright position with pronated grip; minor forward lean at lockout noted in right panel, but machine geometry and mechanics remain consistent."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Chest Press",
+      "url": "https://exrx.net/WeightExercises/PectoralSternal/LVChestPress",
+      "scope": "Machine chest press mechanics, pectoral activation, and seat height setup."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "f678d266526cf851fbf52445c6651ceaf51c5bcc0f5b99008b52284193143ef4",
+    "url": "/media/f678d266526cf851fbf52445c6651ceaf51c5bcc0f5b99008b52284193143ef4.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Machine Chest Press.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "machine-chest-press",
+      "model": null
+    }
+  }
+}

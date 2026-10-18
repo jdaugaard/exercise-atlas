@@ -1,0 +1,97 @@
+{
+  "id": "standing-single-arm-cable-biceps-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Standing Single-Arm Cable Biceps Curl",
+  "nameDa": "Stående enarms kabel-bicepscurl",
+  "aliases": [
+    "Single Arm Cable Biceps Curl",
+    "Standing Single-Arm Cable Curl",
+    "Unilateral Cable Biceps Curl",
+    "One-Arm Low Cable Curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow flexion",
+  "laterality": "Unilateral",
+  "equipmentItems": [
+    "Adjustable cable pulley",
+    "Single D-handle"
+  ],
+  "grip": "Supinated grip on D-handle with palm facing upward.",
+  "primaryMuscles": [
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Forearm flexors",
+    "Rotator cuff"
+  ],
+  "description": "Flex one elbow to curl a low cable D-handle upward, maintaining constant cable tension on the biceps throughout the range of motion.",
+  "setup": [
+    "Position the cable pulley at the lowest setting and attach a single D-handle.",
+    "Stand facing the pulley or slightly offset, grasping the handle in one hand with a supinated (underhand) grip.",
+    "Keep feet shoulder-width apart, knees softly unlocked, and upper arm pinned vertically to your side.",
+    "Non-working arm rests relaxed at your side or braced on your hip."
+  ],
+  "instructions": [
+    "Curl the D-handle upward toward shoulder height by flexing the elbow, keeping the upper arm strictly stationary.",
+    "Squeeze the biceps firmly at the top of the curl without swinging the torso or letting the elbow drift forward.",
+    "Lower the handle slowly under control along the cable line until the elbow is fully extended.",
+    "Complete the desired repetitions, then switch to the opposite arm."
+  ],
+  "cues": [
+    "Keep elbow pinned at your side.",
+    "Curl up smoothly against continuous cable tension.",
+    "Lower all the way down with control."
+  ],
+  "commonMistakes": [
+    "Swinging the torso or using hip momentum to start the curl.",
+    "Drifting the elbow forward, turning elbow flexion into front shoulder raise.",
+    "Cutting the bottom range of motion short."
+  ],
+  "logging": {
+    "basis": "selected_stack_load_per_side",
+    "example": "Cable pin set to 12.5 kg: record 12.5 kg selected stack load per side.",
+    "note": "Pulley mechanical advantages vary (often 2:1 on dual adjustable pulleys); record the pin setting on that specific station."
+  },
+  "alternatives": [
+    "Dumbbell Biceps Curl",
+    "Incline Dumbbell Biceps Curl",
+    "Machine Preacher Curl"
+  ],
+  "variantNote": "Unilateral standing biceps curl using a low cable pulley and single D-handle, keeping upper arm stationary.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 131 (Single Arm Cable Biceps Curl).",
+    "Illustration shows clean unilateral low-pulley mechanics with supinated palm orientation throughout."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Cable One Arm Curl",
+      "url": "https://exrx.net/WeightExercises/Biceps/CBOneArmCurl",
+      "scope": "Unilateral cable biceps curl biomechanics, arm stabilization, and execution."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "9e187bf6168a5d047dacea054d607d90d780af71c280129cb52f5f2072fc3e00",
+    "url": "/media/9e187bf6168a5d047dacea054d607d90d780af71c280129cb52f5f2072fc3e00.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Standing Single-Arm Cable Biceps Curl.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "standing-single-arm-cable-biceps-curl",
+      "model": null
+    }
+  }
+}

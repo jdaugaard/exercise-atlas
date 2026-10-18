@@ -1,0 +1,98 @@
+{
+  "id": "t-bar-row",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "T-Bar Row",
+  "nameDa": "T-bar roning med bryststøtte",
+  "aliases": [
+    "T-Bar Row",
+    "Chest-Supported T-Bar Row",
+    "Machine T-Bar Row",
+    "Prone Incline T-Bar Row"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal pull - chest supported",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Chest-supported T-bar row machine"
+  ],
+  "grip": "Pronated or neutral closed grip on row handles.",
+  "primaryMuscles": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Middle trapezius"
+  ],
+  "secondaryMuscles": [
+    "Biceps brachii",
+    "Brachialis",
+    "Posterior deltoid",
+    "Lower trapezius"
+  ],
+  "stabilizers": [
+    "Forearm flexors"
+  ],
+  "description": "Pull an angled lever row upward while lying prone on a chest-support pad, isolating the upper back musculature without lumbar strain.",
+  "setup": [
+    "Adjust the footplate height so your chest rests comfortably against the upper angled pad (~45 degrees).",
+    "Lie face down with chest firmly supported and feet braced securely on the footrests.",
+    "Reach down to grasp the row handles with an overhand or neutral grip, extending arms fully to take up the load."
+  ],
+  "instructions": [
+    "Pull the handles upward and backward toward your lower ribs or upper abdomen by driving elbows behind the torso.",
+    "Squeeze the shoulder blades together at the top of the pull while keeping your chest glued to the pad.",
+    "Pause briefly at peak contraction without extending your lumbar spine or lifting off the pad.",
+    "Lower the weight under control until arms are fully extended and lats/rhomboids are comfortably stretched."
+  ],
+  "cues": [
+    "Chest stays glued to pad.",
+    "Drive elbows high and back.",
+    "Squeeze shoulder blades together."
+  ],
+  "commonMistakes": [
+    "Arching the back or lifting the sternum off the chest pad.",
+    "Using excessive momentum or jerking the lever at the start of the pull.",
+    "Failing to achieve full arm extension at the bottom."
+  ],
+  "logging": {
+    "basis": "total_plate_load",
+    "example": "Two 20 kg plates on lever peg: record 40 kg total plate load.",
+    "note": "Chest-supported T-bar rows use pivoted lever arms with varying mechanical advantage; record loaded plate mass rather than free-weight barbell equivalent."
+  },
+  "alternatives": [
+    "Pendlay Row",
+    "Bent-Over Barbell Row",
+    "Seated Cable Row"
+  ],
+  "variantNote": "Chest-supported incline T-bar machine variant (~45° pad angle), which eliminates lower-back shear compared to bent-over free-weight T-bar rows.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 113 (T-Bar Row).",
+    "Illustration depicts chest-supported variant to match modern commercial gym setups and eliminate lumbar fatigue."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Incline Row (Chest Supported)",
+      "url": "https://exrx.net/WeightExercises/BackGeneral/LVInclineRow",
+      "scope": "Chest-supported lever row execution, latissimus and rhomboid biomechanics."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "54ef59b15b672ab54952fde10e7dbe15f07ea8c4b0b0b9f27a665ec5313b64de",
+    "url": "/media/54ef59b15b672ab54952fde10e7dbe15f07ea8c4b0b0b9f27a665ec5313b64de.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of T-Bar Row.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-18",
+      "promptId": "t-bar-row",
+      "model": null
+    }
+  }
+}
