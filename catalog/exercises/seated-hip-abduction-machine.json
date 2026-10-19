@@ -1,0 +1,94 @@
+{
+  "id": "seated-hip-abduction-machine",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Seated Hip Abduction Machine",
+  "nameDa": "Siddende hofteabduktion i maskine",
+  "aliases": [
+    "Hip Abduction Machine",
+    "Seated Hip Abduction",
+    "Outer thigh machine",
+    "Machine abductor"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Hips",
+    "Glutes"
+  ],
+  "movementPattern": "Hip abduction",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Seated hip abduction machine"
+  ],
+  "grip": "Hands gripping side support handles beside seat.",
+  "primaryMuscles": [
+    "Gluteus medius",
+    "Gluteus minimus"
+  ],
+  "secondaryMuscles": [
+    "Tensor fasciae latae",
+    "Gluteus maximus"
+  ],
+  "stabilizers": [
+    "Abdominal wall"
+  ],
+  "description": "Push the knees outward against padded machine levers while seated, isolating the gluteus medius and outer hip stabilizers.",
+  "setup": [
+    "Select the desired weight stack load and adjust the swing arms so the lever pads rest against the outer sides of your knees with legs closed.",
+    "Sit firmly with your back and hips flat against the backrest, feet placed on the foot supports.",
+    "Grasp the side stability handles for support."
+  ],
+  "instructions": [
+    "Push your knees outward away from each other against the padded levers into wide hip abduction.",
+    "Hold the peak contraction at the widest point for a count of one, feeling the squeeze in your side glutes.",
+    "Return slowly under control back to the center position without allowing the weight plates to crash.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "cues": [
+    "Push outward through the knees.",
+    "Hold the peak contraction.",
+    "Control the return to the center."
+  ],
+  "commonMistakes": [
+    "Leaning or sliding forward on the seat to change the leverage angle.",
+    "Using jerky explosive momentum instead of controlled glute contraction.",
+    "Allowing the stack to slam between reps."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight pin set to 45 kg: record 45 kg selected machine load.",
+    "note": "Lever mechanics and cam shapes differ across equipment brands; record the selected stack pin load."
+  },
+  "alternatives": [
+    "Machine Hip Thrust",
+    "Barbell Romanian Deadlift"
+  ],
+  "variantNote": "Selectorized seated outer-hip abduction machine isolating the gluteus medius and hip abductors.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 86 (Hip Abduction Machine) and ID 57 (Seated Hip Abduction).",
+    "Illustration depicts closed start position in panel A and wide outward push in panel B; slight perspective asymmetry noted between legs."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Seated Hip Abduction",
+      "url": "https://exrx.net/WeightExercises/HipAbductors/LVSeatedHipAbduction",
+      "scope": "Machine hip abduction mechanics, gluteus medius recruitment, and proper seated posture."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "617865107f0aacb3c63cb2639d6de4ecda2f8fb70e9580fc5f8d744576e1c018",
+    "url": "/media/617865107f0aacb3c63cb2639d6de4ecda2f8fb70e9580fc5f8d744576e1c018.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Seated Hip Abduction Machine.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "seated-hip-abduction-machine",
+      "model": null
+    }
+  }
+}

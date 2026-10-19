@@ -35,7 +35,7 @@ test('search finds cuff variation, Danish names, aliases and muscle names', asyn
     assert(result.total >= 1, term);
   }
   const cuff = await (await get('/v1/exercises?q=cuffs')).json();
-  assert.equal(cuff.data[0].id, 'seated-cable-row-wrist-cuffs');
+  assert(cuff.data.some((e: { id: string }) => e.id === 'seated-cable-row-wrist-cuffs'));
 });
 
 test('taxonomy values can be used as exact case-insensitive AND filters', async () => {

@@ -1,0 +1,98 @@
+{
+  "id": "plate-loaded-lat-pulldown",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Plate Loaded Lat Pulldown",
+  "nameDa": "Brysttræk i maskine med vægtskiver",
+  "aliases": [
+    "Plate Loaded Lat Pulldown",
+    "Lever lat pulldown",
+    "Converging lat pulldown machine",
+    "Plate-loaded pulldown"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Vertical pull",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Plate-loaded lat pulldown machine"
+  ],
+  "grip": "Semi-neutral or underhand grip on machine lever handles.",
+  "primaryMuscles": [
+    "Latissimus dorsi"
+  ],
+  "secondaryMuscles": [
+    "Teres major",
+    "Biceps brachii",
+    "Brachialis",
+    "Lower trapezius",
+    "Rhomboids"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff"
+  ],
+  "description": "Pull bilateral converging plate-loaded lever arms downward to the upper chest while seated with thighs secured under roller pads.",
+  "setup": [
+    "Load weight plates evenly onto both machine lever horns.",
+    "Adjust the thigh pads so your legs are firmly secured with feet flat on the floor.",
+    "Sit tall, grasp the overhead lever handles, and allow arms to fully extend overhead into a deep lat stretch."
+  ],
+  "instructions": [
+    "Pull both lever arms downward and slightly inward toward your upper chest along the converging arc.",
+    "Drive your elbows down and back tight toward your ribcage.",
+    "Pause briefly at peak contraction with chest lifted and lats fully engaged.",
+    "Control the ascent slowly until your arms are fully extended overhead before initiating the next repetition."
+  ],
+  "cues": [
+    "Drive elbows down to the ribs.",
+    "Keep chest lifted tall.",
+    "Control the overhead stretch."
+  ],
+  "commonMistakes": [
+    "Leaning excessively backward to swing the weight down.",
+    "Letting the levers crash into the top stops between reps.",
+    "Lifting thighs off the support pads."
+  ],
+  "logging": {
+    "basis": "total_plate_load",
+    "example": "Two 20 kg plates loaded (one per lever): record 40 kg total plate load.",
+    "note": "Plate-loaded machines feature converging lever arcs; record the total mass of plates loaded across both horns."
+  },
+  "alternatives": [
+    "Single-Arm Plate Loaded Lat Pulldown",
+    "Seated Lat Pulldown Machine",
+    "Single-Arm Supinated Pulldown"
+  ],
+  "variantNote": "Bilateral vertical pull on a converging plate-loaded machine with dual lever arms.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 93 (Plate Loaded Lat Pulldown).",
+    "Illustration depicts bilateral execution on converging lever machine with thigh support."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Front Pulldown",
+      "url": "https://exrx.net/WeightExercises/LatissimusDorsi/LVFrontPulldown",
+      "scope": "Converging lever pulldown mechanics, latissimus dorsi recruitment, and seated execution."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "7ed7b42d50815aeff9a6ef6f6af72b148d50add8b1982a99d8bdcd42d517fac8",
+    "url": "/media/7ed7b42d50815aeff9a6ef6f6af72b148d50add8b1982a99d8bdcd42d517fac8.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Plate Loaded Lat Pulldown.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "plate-loaded-lat-pulldown",
+      "model": null
+    }
+  }
+}

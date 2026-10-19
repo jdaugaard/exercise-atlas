@@ -1,0 +1,96 @@
+{
+  "id": "seated-hip-adduction-machine",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Seated Hip Adduction Machine",
+  "nameDa": "Siddende hofteadduktion i maskine",
+  "aliases": [
+    "Hip Adduction Machine",
+    "Seated Hip Adduction",
+    "Inner thigh machine",
+    "Machine adductor"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Hips",
+    "Thighs"
+  ],
+  "movementPattern": "Hip adduction",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Seated hip adduction machine"
+  ],
+  "grip": "Hands gripping side support handles beside seat.",
+  "primaryMuscles": [
+    "Adductor magnus",
+    "Adductor longus",
+    "Adductor brevis"
+  ],
+  "secondaryMuscles": [
+    "Gracilis",
+    "Pectineus"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Pelvic floor"
+  ],
+  "description": "Squeeze the thighs inward against padded machine levers while seated, isolating the adductor muscle group of the inner thighs.",
+  "setup": [
+    "Select the desired weight stack setting and release the range-of-motion lever to open the swing arms to a comfortable wide stretch.",
+    "Sit with your back firmly against the backrest, knees bent at 90 degrees, and inner knees resting against the padded lever arms.",
+    "Grasp the side stability handles lightly."
+  ],
+  "instructions": [
+    "Squeeze your thighs smoothly together against the lever pads until they touch or meet in the center.",
+    "Pause under complete muscular control at the peak adduction contraction.",
+    "Slowly open your legs back to the wide starting position, resisting the stack resistance across the full range.",
+    "Do not let the weight stack smash down between repetitions."
+  ],
+  "cues": [
+    "Squeeze thighs together with control.",
+    "Keep back flat against the backrest.",
+    "Open slowly into the stretch."
+  ],
+  "commonMistakes": [
+    "Using momentum or bouncing out of the wide stretch position.",
+    "Lifting the pelvis or lower back off the seat to force the pads together.",
+    "Setting the starting width beyond safe hip mobility."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight pin set to 40 kg: record 40 kg selected machine load.",
+    "note": "Cam geometry and lever arm ratios vary between manufacturers; record selected stack pin load."
+  },
+  "alternatives": [
+    "Barbell Back Squat",
+    "Seated Leg Press"
+  ],
+  "variantNote": "Selectorized seated inner-thigh adduction machine isolating the adductor complex through a horizontal squeezing arc.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 87 (Hip Adduction Machine) and ID 58 (Seated Hip Adduction).",
+    "Illustration depicts seated posture with wide-spread start in panel A and closed center adduction in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Seated Hip Adduction",
+      "url": "https://exrx.net/WeightExercises/HipAdductors/LVSeatedHipAdduction",
+      "scope": "Machine hip adduction execution, adductor magnus/longus recruitment, and pelvic alignment."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "43e2e1d26613ec25474af132ce2283910580ee167522515d7c090856109e7f21",
+    "url": "/media/43e2e1d26613ec25474af132ce2283910580ee167522515d7c090856109e7f21.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Seated Hip Adduction Machine.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "seated-hip-adduction-machine",
+      "model": null
+    }
+  }
+}

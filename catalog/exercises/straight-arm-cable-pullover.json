@@ -1,0 +1,99 @@
+{
+  "id": "straight-arm-cable-pullover",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Straight-Arm Cable Pullover",
+  "nameDa": "Stående straight-arm kabel pullover",
+  "aliases": [
+    "Lat Cable Pullover",
+    "Straight-arm cable pulldown",
+    "Cable lat pullover",
+    "Standing cable pullover"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Shoulder extension - sagittal plane",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "High cable pulley",
+    "Straight-bar attachment"
+  ],
+  "grip": "Overhand grip on straight bar slightly wider than shoulder-width.",
+  "primaryMuscles": [
+    "Latissimus dorsi"
+  ],
+  "secondaryMuscles": [
+    "Teres major",
+    "Triceps brachii",
+    "Posterior deltoid",
+    "Pectoralis major (sternal head)"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff",
+    "Forearm flexors"
+  ],
+  "description": "Sweep a high-cable bar downward in a wide arc to the upper thighs with softly unlocked elbows, isolating the latissimus dorsi through pure shoulder extension.",
+  "setup": [
+    "Attach a straight bar to a high cable pulley and select the stack weight.",
+    "Grasp the bar with an overhand shoulder-width grip and take a step back.",
+    "Hinge forward at the hips approximately 30 degrees with a flat spine, knees softly bent, and arms reaching toward head level into a full lat stretch."
+  ],
+  "instructions": [
+    "Pull the bar downward and backward in a wide circular arc toward your upper thighs by contracting your lats.",
+    "Maintain a constant, subtle bend in your elbows throughout the entire path (do not bend into a triceps pushdown).",
+    "Squeeze your lats firmly as the bar approaches your thighs.",
+    "Slowly allow the bar to return along the same arc back to eye/head height, feeling a full stretch in the lats."
+  ],
+  "cues": [
+    "Pull with the lats, not the triceps.",
+    "Keep elbows softly locked at a fixed angle.",
+    "Hinge hips back and keep torso steady."
+  ],
+  "commonMistakes": [
+    "Bending and straightening the elbows, turning the exercise into a triceps pushdown.",
+    "Swinging the torso upright and backward to yank the weight down.",
+    "Shrugging the shoulders upward at the bottom."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "Weight pin set to 25 kg: record 25 kg on that cable station.",
+    "note": "High pulley resistance and cable friction vary between single and dual cable stations; record selected stack setting."
+  },
+  "alternatives": [
+    "Single-Arm Supinated Pulldown",
+    "Seated Cable Row",
+    "Pendlay Row"
+  ],
+  "variantNote": "Standing straight-arm cable pullover using a high pulley and straight bar, keeping elbow angle fixed to isolate shoulder extension.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 85 (Lat Cable Pullover).",
+    "Illustration depicts hinged torso stance with wide circular arm arc finishing at upper thighs without elbow flexion."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Cable Pulldown (Straight Arm)",
+      "url": "https://exrx.net/WeightExercises/LatissimusDorsi/CBStraightArmPulldown",
+      "scope": "Straight-arm cable pulldown mechanics, latissimus isolation through shoulder extension, and torso stabilization."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "1820b7214439814c747ccbad9ed386a9c80d9eb1096104f9aa4182373ba1425e",
+    "url": "/media/1820b7214439814c747ccbad9ed386a9c80d9eb1096104f9aa4182373ba1425e.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Straight-Arm Cable Pullover.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "straight-arm-cable-pullover",
+      "model": null
+    }
+  }
+}

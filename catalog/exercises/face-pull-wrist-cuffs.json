@@ -1,0 +1,99 @@
+{
+  "id": "face-pull-wrist-cuffs",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Face Pulls with Wrist Cuffs",
+  "nameDa": "Face pulls med håndledsmanchetter i kabel",
+  "aliases": [
+    "Face Pulls with Cuffs",
+    "Cuff face pull",
+    "Cable face pull with wrist cuffs",
+    "Cable Rope Face Curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Shoulders",
+    "Back"
+  ],
+  "movementPattern": "Shoulder horizontal abduction and external rotation",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "High cable pulley",
+    "Padded wrist cuffs"
+  ],
+  "grip": "Hands relaxed in padded wrist cuffs fastened around the wrists, with tension applied directly to D-rings.",
+  "primaryMuscles": [
+    "Posterior deltoid",
+    "Infraspinatus",
+    "Teres minor"
+  ],
+  "secondaryMuscles": [
+    "Middle trapezius",
+    "Rhomboids",
+    "Lateral deltoid"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall"
+  ],
+  "description": "Perform high-cable face pulls using padded wrist cuffs rather than handles, eliminating forearm grip fatigue and isolating shoulder external rotation and rear deltoid recruitment.",
+  "setup": [
+    "Attach dual cables or a split cable to a high pulley set around eye or forehead height.",
+    "Fasten padded wrist cuffs securely around both wrists and attach them to the cable carabiners.",
+    "Step back into a stable staggered stance with arms extended forward and upward toward the pulley, hands relaxed."
+  ],
+  "instructions": [
+    "Initiate the pull by drawing your elbows backward and outward at eye level.",
+    "Externally rotate your shoulders as your hands approach your face, finishing with hands beside your temples/ears.",
+    "Keep hands and fingers completely relaxed inside the cuffs so the tension pulls through the wrists.",
+    "Pause for a second at peak contraction, squeezing rear deltoids and external rotators.",
+    "Slowly extend your arms back toward the pulley under control."
+  ],
+  "cues": [
+    "Lead with the elbows high and wide.",
+    "Keep hands relaxed.",
+    "Rotate shoulders outward at the finish."
+  ],
+  "commonMistakes": [
+    "Clenching fists or trying to grip the straps, negating cuff benefits.",
+    "Dropping elbows low into a row instead of keeping them at eye level.",
+    "Leaning the torso backward to use bodyweight."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "Stack pin set to 15 kg: record 15 kg selected stack load.",
+    "note": "Record selected stack load, pulley height, and cuff attachment. Using wrist cuffs eliminates grip limitations."
+  },
+  "alternatives": [
+    "Single-Arm Rear-Delt Cable Fly",
+    "Seated Machine Lateral Raise"
+  ],
+  "variantNote": "Face pull adaptation using padded wrist cuffs attached to high cable pulley, removing forearm/grip fatigue and isolating posterior deltoids and external rotators.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 80 (Face Pulls with Cuffs) and reconciles ID 130 (Cable Rope Face Curl).",
+    "Illustration accurately reflects relaxed hands in wrist cuffs with cables pulling through D-rings to temple level."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Cable Face Pull",
+      "url": "https://exrx.net/WeightExercises/DeltoidPosterior/CBFacePull",
+      "scope": "High cable face pull mechanics, posterior deltoid and external rotator activation."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "4ef3ea19c80b15915b828fbbf74750f072dff3c8a6a9215a817d9473efc6ac8a",
+    "url": "/media/4ef3ea19c80b15915b828fbbf74750f072dff3c8a6a9215a817d9473efc6ac8a.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Face Pulls with Wrist Cuffs.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "face-pull-wrist-cuffs",
+      "model": null
+    }
+  }
+}

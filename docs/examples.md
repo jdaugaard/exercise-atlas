@@ -1,6 +1,6 @@
 # Illustrated exercise catalog
 
-42 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+47 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
@@ -18,6 +18,7 @@
 - [Dumbbell Lateral Raise](../catalog/exercises/dumbbell-lateral-raise.json)
 - [Dumbbell Romanian Deadlift](../catalog/exercises/dumbbell-romanian-deadlift.json)
 - [Dumbbell Spider Curl](../catalog/exercises/dumbbell-spider-curl.json)
+- [Face Pulls with Wrist Cuffs](../catalog/exercises/face-pull-wrist-cuffs.json)
 - [Flat Dumbbell Fly](../catalog/exercises/flat-dumbbell-fly.json)
 - [Incline Chest Press Machine](../catalog/exercises/incline-chest-press-machine.json)
 - [Incline Dumbbell Biceps Curl](../catalog/exercises/incline-dumbbell-biceps-curl.json)
@@ -29,8 +30,11 @@
 - [Pec Deck](../catalog/exercises/pec-deck.json)
 - [Pendlay Row](../catalog/exercises/pendlay-row.json)
 - [Pendulum Squat](../catalog/exercises/pendulum-squat.json)
+- [Plate Loaded Lat Pulldown](../catalog/exercises/plate-loaded-lat-pulldown.json)
 - [Seated Cable Row](../catalog/exercises/seated-cable-row.json)
 - [Seated Cable Row with Wrist Cuffs](../catalog/exercises/seated-cable-row-wrist-cuffs.json)
+- [Seated Hip Abduction Machine](../catalog/exercises/seated-hip-abduction-machine.json)
+- [Seated Hip Adduction Machine](../catalog/exercises/seated-hip-adduction-machine.json)
 - [Seated Lat Pulldown Machine](../catalog/exercises/seated-lat-pulldown-machine.json)
 - [Seated Leg Press](../catalog/exercises/seated-leg-press.json)
 - [Seated Machine Lateral Raise](../catalog/exercises/seated-machine-lateral-raise.json)
@@ -42,6 +46,7 @@
 - [Standing Barbell Strict Press](../catalog/exercises/standing-barbell-strict-press.json)
 - [Standing Dumbbell Strict Press](../catalog/exercises/standing-dumbbell-strict-press.json)
 - [Standing Single-Arm Cable Biceps Curl](../catalog/exercises/standing-single-arm-cable-biceps-curl.json)
+- [Straight-Arm Cable Pullover](../catalog/exercises/straight-arm-cable-pullover.json)
 - [Supinated Barbell Bent-Over Row](../catalog/exercises/supinated-barbell-bent-over-row.json)
 - [T-Bar Row](../catalog/exercises/t-bar-row.json)
 - [Trap-Bar Deadlift](../catalog/exercises/trap-bar-deadlift.json)
@@ -990,6 +995,75 @@ Assumption: bilateral dumbbell spider curl lying prone on an ~45-degree incline 
 
 [Editable JSON](../catalog/exercises/dumbbell-spider-curl.json)
 
+## Face Pulls with Wrist Cuffs
+
+![Paired black-and-white instructional line drawings of Face Pulls with Wrist Cuffs.](../catalog/media/4ef3ea19c80b15915b828fbbf74750f072dff3c8a6a9215a817d9473efc6ac8a.png)
+
+Starting position / Peak contraction position
+
+Perform high-cable face pulls using padded wrist cuffs rather than handles, eliminating forearm grip fatigue and isolating shoulder external rotation and rear deltoid recruitment.
+
+- **Danish:** Face pulls med håndledsmanchetter i kabel
+- **Aliases:** Face Pulls with Cuffs, Cuff face pull, Cable face pull with wrist cuffs, Cable Rope Face Curl
+- **Primary muscles:** Posterior deltoid, Infraspinatus, Teres minor
+- **Assisting muscles:** Middle trapezius, Rhomboids, Lateral deltoid
+- **Stabilizers:** Rotator cuff, Abdominal wall
+- **Equipment:** High cable pulley, Padded wrist cuffs
+- **Movement:** Shoulder horizontal abduction and external rotation; Bilateral
+- **Grip:** Hands relaxed in padded wrist cuffs fastened around the wrists, with tension applied directly to D-rings.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Attach dual cables or a split cable to a high pulley set around eye or forehead height.
+- Fasten padded wrist cuffs securely around both wrists and attach them to the cable carabiners.
+- Step back into a stable staggered stance with arms extended forward and upward toward the pulley, hands relaxed.
+
+### Execution
+
+1. Initiate the pull by drawing your elbows backward and outward at eye level.
+2. Externally rotate your shoulders as your hands approach your face, finishing with hands beside your temples/ears.
+3. Keep hands and fingers completely relaxed inside the cuffs so the tension pulls through the wrists.
+4. Pause for a second at peak contraction, squeezing rear deltoids and external rotators.
+5. Slowly extend your arms back toward the pulley under control.
+
+### Cues
+
+- Lead with the elbows high and wide.
+- Keep hands relaxed.
+- Rotate shoulders outward at the finish.
+
+### Common mistakes
+
+- Clenching fists or trying to grip the straps, negating cuff benefits.
+- Dropping elbows low into a row instead of keeping them at eye level.
+- Leaning the torso backward to use bodyweight.
+
+### Logging convention
+
+Stack pin set to 15 kg: record 15 kg selected stack load.
+
+Record selected stack load, pulley height, and cuff attachment. Using wrist cuffs eliminates grip limitations.
+
+### Variants and alternatives
+
+Face pull adaptation using padded wrist cuffs attached to high cable pulley, removing forearm/grip fatigue and isolating posterior deltoids and external rotators.
+
+- Single-Arm Rear-Delt Cable Fly
+- Seated Machine Lateral Raise
+
+### Review notes
+
+- Drafted from FitTrack ID 80 (Face Pulls with Cuffs) and reconciles ID 130 (Cable Rope Face Curl).
+- Illustration accurately reflects relaxed hands in wrist cuffs with cables pulling through D-rings to temple level.
+
+### References
+
+- [ExRx.net - Cable Face Pull](https://exrx.net/WeightExercises/DeltoidPosterior/CBFacePull): High cable face pull mechanics, posterior deltoid and external rotator activation.
+
+[Editable JSON](../catalog/exercises/face-pull-wrist-cuffs.json)
+
 ## Flat Dumbbell Fly
 
 ![Two line drawings of a flat dumbbell fly, with weights together above the chest and arms opened beside the bench.](../catalog/media/1b2515635db0c9d9635cac4c2598f66a7afb87b4a9c1291b18b988a1361927f3.png)
@@ -1738,6 +1812,75 @@ Guided squat on a counterweighted pendulum machine with angled footplate and piv
 
 [Editable JSON](../catalog/exercises/pendulum-squat.json)
 
+## Plate Loaded Lat Pulldown
+
+![Paired black-and-white instructional line drawings of Plate Loaded Lat Pulldown.](../catalog/media/7ed7b42d50815aeff9a6ef6f6af72b148d50add8b1982a99d8bdcd42d517fac8.png)
+
+Starting position / Peak contraction position
+
+Pull bilateral converging plate-loaded lever arms downward to the upper chest while seated with thighs secured under roller pads.
+
+- **Danish:** Brysttræk i maskine med vægtskiver
+- **Aliases:** Plate Loaded Lat Pulldown, Lever lat pulldown, Converging lat pulldown machine, Plate-loaded pulldown
+- **Primary muscles:** Latissimus dorsi
+- **Assisting muscles:** Teres major, Biceps brachii, Brachialis, Lower trapezius, Rhomboids
+- **Stabilizers:** Abdominal wall, Rotator cuff
+- **Equipment:** Plate-loaded lat pulldown machine
+- **Movement:** Vertical pull; Bilateral
+- **Grip:** Semi-neutral or underhand grip on machine lever handles.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Load weight plates evenly onto both machine lever horns.
+- Adjust the thigh pads so your legs are firmly secured with feet flat on the floor.
+- Sit tall, grasp the overhead lever handles, and allow arms to fully extend overhead into a deep lat stretch.
+
+### Execution
+
+1. Pull both lever arms downward and slightly inward toward your upper chest along the converging arc.
+2. Drive your elbows down and back tight toward your ribcage.
+3. Pause briefly at peak contraction with chest lifted and lats fully engaged.
+4. Control the ascent slowly until your arms are fully extended overhead before initiating the next repetition.
+
+### Cues
+
+- Drive elbows down to the ribs.
+- Keep chest lifted tall.
+- Control the overhead stretch.
+
+### Common mistakes
+
+- Leaning excessively backward to swing the weight down.
+- Letting the levers crash into the top stops between reps.
+- Lifting thighs off the support pads.
+
+### Logging convention
+
+Two 20 kg plates loaded (one per lever): record 40 kg total plate load.
+
+Plate-loaded machines feature converging lever arcs; record the total mass of plates loaded across both horns.
+
+### Variants and alternatives
+
+Bilateral vertical pull on a converging plate-loaded machine with dual lever arms.
+
+- Single-Arm Plate Loaded Lat Pulldown
+- Seated Lat Pulldown Machine
+- Single-Arm Supinated Pulldown
+
+### Review notes
+
+- Drafted from FitTrack ID 93 (Plate Loaded Lat Pulldown).
+- Illustration depicts bilateral execution on converging lever machine with thigh support.
+
+### References
+
+- [ExRx.net - Lever Front Pulldown](https://exrx.net/WeightExercises/LatissimusDorsi/LVFrontPulldown): Converging lever pulldown mechanics, latissimus dorsi recruitment, and seated execution.
+
+[Editable JSON](../catalog/exercises/plate-loaded-lat-pulldown.json)
+
 ## Seated Cable Row
 
 ![Two line drawings of a seated low cable row using a hand-held neutral row handle.](../catalog/media/9808596a3454faaa9b1d442bf4b557d00bede50f1f94a4e1e468ca096f254f5a.png)
@@ -1871,6 +2014,142 @@ Assumption: cuffs around the wrists, two low cables, close-elbow row. Upper-arm 
 - [GymPin - Handles and Grips](https://gym-pin.co.uk/collections/handles-grips): Manufacturer lists cuffs for wrist and upper-arm cable training; not a cuff-row technique guide.
 
 [Editable JSON](../catalog/exercises/seated-cable-row-wrist-cuffs.json)
+
+## Seated Hip Abduction Machine
+
+![Paired black-and-white instructional line drawings of Seated Hip Abduction Machine.](../catalog/media/617865107f0aacb3c63cb2639d6de4ecda2f8fb70e9580fc5f8d744576e1c018.png)
+
+Starting position / Peak contraction position
+
+Push the knees outward against padded machine levers while seated, isolating the gluteus medius and outer hip stabilizers.
+
+- **Danish:** Siddende hofteabduktion i maskine
+- **Aliases:** Hip Abduction Machine, Seated Hip Abduction, Outer thigh machine, Machine abductor
+- **Primary muscles:** Gluteus medius, Gluteus minimus
+- **Assisting muscles:** Tensor fasciae latae, Gluteus maximus
+- **Stabilizers:** Abdominal wall
+- **Equipment:** Seated hip abduction machine
+- **Movement:** Hip abduction; Bilateral
+- **Grip:** Hands gripping side support handles beside seat.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Select the desired weight stack load and adjust the swing arms so the lever pads rest against the outer sides of your knees with legs closed.
+- Sit firmly with your back and hips flat against the backrest, feet placed on the foot supports.
+- Grasp the side stability handles for support.
+
+### Execution
+
+1. Push your knees outward away from each other against the padded levers into wide hip abduction.
+2. Hold the peak contraction at the widest point for a count of one, feeling the squeeze in your side glutes.
+3. Return slowly under control back to the center position without allowing the weight plates to crash.
+4. Repeat for the desired number of repetitions.
+
+### Cues
+
+- Push outward through the knees.
+- Hold the peak contraction.
+- Control the return to the center.
+
+### Common mistakes
+
+- Leaning or sliding forward on the seat to change the leverage angle.
+- Using jerky explosive momentum instead of controlled glute contraction.
+- Allowing the stack to slam between reps.
+
+### Logging convention
+
+Weight pin set to 45 kg: record 45 kg selected machine load.
+
+Lever mechanics and cam shapes differ across equipment brands; record the selected stack pin load.
+
+### Variants and alternatives
+
+Selectorized seated outer-hip abduction machine isolating the gluteus medius and hip abductors.
+
+- Machine Hip Thrust
+- Barbell Romanian Deadlift
+
+### Review notes
+
+- Drafted from FitTrack ID 86 (Hip Abduction Machine) and ID 57 (Seated Hip Abduction).
+- Illustration depicts closed start position in panel A and wide outward push in panel B; slight perspective asymmetry noted between legs.
+
+### References
+
+- [ExRx.net - Lever Seated Hip Abduction](https://exrx.net/WeightExercises/HipAbductors/LVSeatedHipAbduction): Machine hip abduction mechanics, gluteus medius recruitment, and proper seated posture.
+
+[Editable JSON](../catalog/exercises/seated-hip-abduction-machine.json)
+
+## Seated Hip Adduction Machine
+
+![Paired black-and-white instructional line drawings of Seated Hip Adduction Machine.](../catalog/media/43e2e1d26613ec25474af132ce2283910580ee167522515d7c090856109e7f21.png)
+
+Starting position / Peak contraction position
+
+Squeeze the thighs inward against padded machine levers while seated, isolating the adductor muscle group of the inner thighs.
+
+- **Danish:** Siddende hofteadduktion i maskine
+- **Aliases:** Hip Adduction Machine, Seated Hip Adduction, Inner thigh machine, Machine adductor
+- **Primary muscles:** Adductor magnus, Adductor longus, Adductor brevis
+- **Assisting muscles:** Gracilis, Pectineus
+- **Stabilizers:** Abdominal wall, Pelvic floor
+- **Equipment:** Seated hip adduction machine
+- **Movement:** Hip adduction; Bilateral
+- **Grip:** Hands gripping side support handles beside seat.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Select the desired weight stack setting and release the range-of-motion lever to open the swing arms to a comfortable wide stretch.
+- Sit with your back firmly against the backrest, knees bent at 90 degrees, and inner knees resting against the padded lever arms.
+- Grasp the side stability handles lightly.
+
+### Execution
+
+1. Squeeze your thighs smoothly together against the lever pads until they touch or meet in the center.
+2. Pause under complete muscular control at the peak adduction contraction.
+3. Slowly open your legs back to the wide starting position, resisting the stack resistance across the full range.
+4. Do not let the weight stack smash down between repetitions.
+
+### Cues
+
+- Squeeze thighs together with control.
+- Keep back flat against the backrest.
+- Open slowly into the stretch.
+
+### Common mistakes
+
+- Using momentum or bouncing out of the wide stretch position.
+- Lifting the pelvis or lower back off the seat to force the pads together.
+- Setting the starting width beyond safe hip mobility.
+
+### Logging convention
+
+Weight pin set to 40 kg: record 40 kg selected machine load.
+
+Cam geometry and lever arm ratios vary between manufacturers; record selected stack pin load.
+
+### Variants and alternatives
+
+Selectorized seated inner-thigh adduction machine isolating the adductor complex through a horizontal squeezing arc.
+
+- Barbell Back Squat
+- Seated Leg Press
+
+### Review notes
+
+- Drafted from FitTrack ID 87 (Hip Adduction Machine) and ID 58 (Seated Hip Adduction).
+- Illustration depicts seated posture with wide-spread start in panel A and closed center adduction in panel B.
+
+### References
+
+- [ExRx.net - Lever Seated Hip Adduction](https://exrx.net/WeightExercises/HipAdductors/LVSeatedHipAdduction): Machine hip adduction execution, adductor magnus/longus recruitment, and pelvic alignment.
+
+[Editable JSON](../catalog/exercises/seated-hip-adduction-machine.json)
 
 ## Seated Lat Pulldown Machine
 
@@ -2625,6 +2904,75 @@ Unilateral standing biceps curl using a low cable pulley and single D-handle, ke
 - [ExRx.net - Cable One Arm Curl](https://exrx.net/WeightExercises/Biceps/CBOneArmCurl): Unilateral cable biceps curl biomechanics, arm stabilization, and execution.
 
 [Editable JSON](../catalog/exercises/standing-single-arm-cable-biceps-curl.json)
+
+## Straight-Arm Cable Pullover
+
+![Paired black-and-white instructional line drawings of Straight-Arm Cable Pullover.](../catalog/media/1820b7214439814c747ccbad9ed386a9c80d9eb1096104f9aa4182373ba1425e.png)
+
+Starting position / Peak contraction position
+
+Sweep a high-cable bar downward in a wide arc to the upper thighs with softly unlocked elbows, isolating the latissimus dorsi through pure shoulder extension.
+
+- **Danish:** Stående straight-arm kabel pullover
+- **Aliases:** Lat Cable Pullover, Straight-arm cable pulldown, Cable lat pullover, Standing cable pullover
+- **Primary muscles:** Latissimus dorsi
+- **Assisting muscles:** Teres major, Triceps brachii, Posterior deltoid, Pectoralis major (sternal head)
+- **Stabilizers:** Abdominal wall, Rotator cuff, Forearm flexors
+- **Equipment:** High cable pulley, Straight-bar attachment
+- **Movement:** Shoulder extension - sagittal plane; Bilateral
+- **Grip:** Overhand grip on straight bar slightly wider than shoulder-width.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Attach a straight bar to a high cable pulley and select the stack weight.
+- Grasp the bar with an overhand shoulder-width grip and take a step back.
+- Hinge forward at the hips approximately 30 degrees with a flat spine, knees softly bent, and arms reaching toward head level into a full lat stretch.
+
+### Execution
+
+1. Pull the bar downward and backward in a wide circular arc toward your upper thighs by contracting your lats.
+2. Maintain a constant, subtle bend in your elbows throughout the entire path (do not bend into a triceps pushdown).
+3. Squeeze your lats firmly as the bar approaches your thighs.
+4. Slowly allow the bar to return along the same arc back to eye/head height, feeling a full stretch in the lats.
+
+### Cues
+
+- Pull with the lats, not the triceps.
+- Keep elbows softly locked at a fixed angle.
+- Hinge hips back and keep torso steady.
+
+### Common mistakes
+
+- Bending and straightening the elbows, turning the exercise into a triceps pushdown.
+- Swinging the torso upright and backward to yank the weight down.
+- Shrugging the shoulders upward at the bottom.
+
+### Logging convention
+
+Weight pin set to 25 kg: record 25 kg on that cable station.
+
+High pulley resistance and cable friction vary between single and dual cable stations; record selected stack setting.
+
+### Variants and alternatives
+
+Standing straight-arm cable pullover using a high pulley and straight bar, keeping elbow angle fixed to isolate shoulder extension.
+
+- Single-Arm Supinated Pulldown
+- Seated Cable Row
+- Pendlay Row
+
+### Review notes
+
+- Drafted from FitTrack ID 85 (Lat Cable Pullover).
+- Illustration depicts hinged torso stance with wide circular arm arc finishing at upper thighs without elbow flexion.
+
+### References
+
+- [ExRx.net - Cable Pulldown (Straight Arm)](https://exrx.net/WeightExercises/LatissimusDorsi/CBStraightArmPulldown): Straight-arm cable pulldown mechanics, latissimus isolation through shoulder extension, and torso stabilization.
+
+[Editable JSON](../catalog/exercises/straight-arm-cable-pullover.json)
 
 ## Supinated Barbell Bent-Over Row
 
