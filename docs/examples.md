@@ -465,7 +465,7 @@ Elbows bent beside torso / Bar at upper thighs
 Push a short cable bar downward by straightening the elbows while the upper arms stay beside the torso.
 
 - **Danish:** Tricepspres ned i kabel med stang
-- **Aliases:** Cable Triceps Pushdown, Straight-bar triceps pushdown, Tricep pushdown, Cable Triceps Pushdown (Straight Bar)
+- **Aliases:** Cable Triceps Pushdown, Straight-bar triceps pushdown, Tricep pushdown, Cable Triceps Pushdown (Straight Bar), Cable Triceps Pushdown (V-Bar)
 - **Primary muscles:** Triceps brachii
 - **Assisting muscles:** Anconeus
 - **Stabilizers:** Forearm flexors, Rotator cuff, Abdominal wall
@@ -1547,7 +1547,7 @@ Elbows bent overhead / Elbows extended overhead
 Extend both elbows with the upper arms overhead while a rope connects to a cable behind the body.
 
 - **Danish:** Overhead tricepsextension med reb i kabel
-- **Aliases:** Overhead rope extension, Cable rope triceps extension, Tricep Extension, Triceps Extension
+- **Aliases:** Overhead rope extension, Cable rope triceps extension, Standing Rope Triceps Extension, Cable High-Pulley Overhead Triceps Extension, Tricep Extension, Triceps Extension
 - **Primary muscles:** Triceps brachii
 - **Assisting muscles:** Anconeus
 - **Stabilizers:** Rotator cuff, Abdominal wall, Forearm flexors
