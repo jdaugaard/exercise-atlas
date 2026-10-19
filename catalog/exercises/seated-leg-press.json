@@ -1,0 +1,96 @@
+{
+  "id": "seated-leg-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Seated Leg Press",
+  "nameDa": "Siddende benpres",
+  "aliases": [
+    "Seated Leg Press",
+    "45-degree leg press",
+    "Sled leg press",
+    "Incline leg press"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Thighs",
+    "Glutes",
+    "Hips"
+  ],
+  "movementPattern": "Squat - 45-degree sled",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "45-degree sled leg press machine"
+  ],
+  "grip": "Hands gripping side handles beside seat.",
+  "primaryMuscles": [
+    "Quadriceps"
+  ],
+  "secondaryMuscles": [
+    "Gluteus maximus",
+    "Adductor magnus",
+    "Soleus"
+  ],
+  "stabilizers": [
+    "Abdominal wall"
+  ],
+  "description": "Press a weighted sled upward along 45-degree rails using hip and knee extension while seated with back and hips fully supported.",
+  "setup": [
+    "Sit firmly in the leg press seat with your back and glutes pressed securely against the back pad.",
+    "Place feet flat on the center of the footplate shoulder-width apart, toes pointing slightly outward.",
+    "Press the plate slightly to disengage the safety levers, then grasp the side handles for stability."
+  ],
+  "instructions": [
+    "Lower the sled smoothly by bending your knees and hips, allowing knees to track in line with your toes.",
+    "Descend until knees reach approximately 90 degrees or as deep as possible without rounding your lower back off the pad.",
+    "Drive through your mid-foot and heels to push the sled back up along the rails.",
+    "Stop just short of complete knee lockout (soft knees) to maintain tension and protect joints."
+  ],
+  "cues": [
+    "Keep lower back and glutes glued to the pad.",
+    "Track knees over toes.",
+    "Press through the mid-foot without locking knees."
+  ],
+  "commonMistakes": [
+    "Allowing the lower back or pelvis to curl off the pad (butt wink) at the bottom.",
+    "Forcefully hyperextending or slamming the knees into lockout at the top.",
+    "Letting knees collapse inward (valgus collapse) during the press."
+  ],
+  "logging": {
+    "basis": "total_sled_plate_load",
+    "example": "Six 20 kg plates loaded (three per side): record 120 kg total plate load on sled.",
+    "note": "45-degree sled leg presses feature guided rails with approximately 70% effective load resistance plus carriage mass; record loaded plate mass."
+  },
+  "alternatives": [
+    "Barbell Back Squat",
+    "Pendulum Squat",
+    "Barbell Deadlift"
+  ],
+  "variantNote": "Standard 45-degree incline sled leg press with wide footplate and back support.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 91 (Seated Leg Press).",
+    "Illustration depicts 45-degree sled carriage with deep knee flexion in panel A and soft extension in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Sled 45° Leg Press",
+      "url": "https://exrx.net/WeightExercises/Quadriceps/SL45LegPress",
+      "scope": "45-degree leg press execution, quadriceps and gluteal biomechanics, and spinal safety standards."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "f8abde06fca2490a430e588fcdd23c196c77cf546d1a86b28305b03a5edcd21d",
+    "url": "/media/f8abde06fca2490a430e588fcdd23c196c77cf546d1a86b28305b03a5edcd21d.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Seated Leg Press.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "seated-leg-press",
+      "model": null
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "seated-machine-lateral-raise",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Seated Machine Lateral Raise",
+  "nameDa": "Siddende lateral raise i maskine",
+  "aliases": [
+    "Seated Machine Lateral Raise",
+    "Machine lateral raise",
+    "Lever lateral raise",
+    "Seated side delt machine"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Shoulders"
+  ],
+  "movementPattern": "Shoulder abduction",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Seated lateral raise machine"
+  ],
+  "grip": "Light neutral grip on machine handles with elbows against roller pads.",
+  "primaryMuscles": [
+    "Lateral deltoid"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Supraspinatus",
+    "Middle trapezius",
+    "Serratus anterior"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall"
+  ],
+  "description": "Abduct both arms outward and upward against padded machine levers while seated, isolating the lateral deltoids through guided resistance.",
+  "setup": [
+    "Adjust the seat height so your shoulder joints align directly with the machine's pivot axes.",
+    "Sit tall with your chest or back firmly supported by the torso pad and feet flat on the floor.",
+    "Place your upper arms/elbows against the inside of the roller pads, holding the guide handles lightly with elbows bent ~90 degrees."
+  ],
+  "instructions": [
+    "Raise both arms outward and upward by driving your elbows into the roller pads until upper arms are parallel to the floor (shoulder height).",
+    "Keep your torso completely stationary against the pad, avoiding leaning backward or using body momentum.",
+    "Pause briefly at shoulder height, squeezing the lateral deltoids.",
+    "Lower the arms slowly under control back to the starting position beside your hips without letting the weight stack crash."
+  ],
+  "cues": [
+    "Lead with the elbows.",
+    "Keep torso glued to the support pad.",
+    "Control the descent."
+  ],
+  "commonMistakes": [
+    "Setting seat too high or too low, misaligning shoulder pivot with machine axis.",
+    "Shrugging upper traps to heave the weight up instead of abducting with deltoids.",
+    "Swinging the torso backward to generate momentum."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight pin set to 35 kg: record 35 kg selected machine load.",
+    "note": "Cam shapes, lever lengths, and pulley configurations differ widely across machine brands; record selected stack setting without assuming free-weight equivalency."
+  },
+  "alternatives": [
+    "Dumbbell Lateral Raise",
+    "Single-Arm Rear-Delt Cable Fly",
+    "Standing Barbell Strict Press"
+  ],
+  "variantNote": "Guided lever machine lateral raise with padded arm rollers and fixed rotational axis isolating the lateral deltoid head.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 90 (Seated Machine Lateral Raise).",
+    "Illustration depicts seated position with 90-degree elbow flexion driving roller levers to parallel shoulder height."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Lateral Raise",
+      "url": "https://exrx.net/WeightExercises/DeltoidLateral/LVLateralRaise",
+      "scope": "Machine lateral raise biomechanics, lateral deltoid isolation, and machine pivot axis alignment."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "81f77c7b7d776ed90c6fb97f47cc81c42ab13facbb15e93b792c0ce6df3451a0",
+    "url": "/media/81f77c7b7d776ed90c6fb97f47cc81c42ab13facbb15e93b792c0ce6df3451a0.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Seated Machine Lateral Raise.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "seated-machine-lateral-raise",
+      "model": null
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "leg-press-calf-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Leg Press Calf Press",
+  "nameDa": "Lægpres i benpresmaskine",
+  "aliases": [
+    "Calf Press (Leg Press)",
+    "Leg press calf raise",
+    "45-degree leg press calf press",
+    "Calf press on leg press"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Calves"
+  ],
+  "movementPattern": "Ankle plantar flexion",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "45-degree sled leg press machine"
+  ],
+  "grip": "Hands holding side safety handles of the leg press carriage.",
+  "primaryMuscles": [
+    "Gastrocnemius"
+  ],
+  "secondaryMuscles": [
+    "Soleus",
+    "Tibialis posterior"
+  ],
+  "stabilizers": [
+    "Quadriceps"
+  ],
+  "description": "Perform ankle plantar flexion against the leg press footplate with knees softly extended, emphasizing the gastrocnemius.",
+  "setup": [
+    "Sit firmly in the 45-degree leg press with back and hips supported against the pads.",
+    "Place the balls of both feet along the lower edge of the footplate, hip-width apart, with heels free to drop into dorsiflexion.",
+    "Extend legs so knees are softly unlocked (never hyperextended) and disengage the safety bars."
+  ],
+  "instructions": [
+    "Lower the carriage by allowing your ankles to dorsiflex, letting your heels drop below the footplate edge until you feel a deep calf stretch.",
+    "Press through the balls of your feet into full plantar flexion, driving the sled upward with your calves.",
+    "Hold the peak contraction at the top for a moment on your toes.",
+    "Lower slowly under control back into the full stretch before beginning the next repetition."
+  ],
+  "cues": [
+    "Keep knees softly unlocked and motionless.",
+    "Press through the balls of the feet.",
+    "Pause at the bottom stretch."
+  ],
+  "commonMistakes": [
+    "Bending and straightening the knees to turn the exercise into a leg press.",
+    "Hyperextending or locking out the knees under heavy sled load.",
+    "Bouncing out of the bottom stretch without control."
+  ],
+  "logging": {
+    "basis": "total_sled_plate_load",
+    "example": "Four 20 kg plates loaded (two per side): record 80 kg total plate load on sled.",
+    "note": "45-degree sleds have an effective load of approximately 70% of plate mass plus carriage weight; record loaded plate mass."
+  },
+  "alternatives": [
+    "Dumbbell Romanian Deadlift",
+    "Pendulum Squat"
+  ],
+  "variantNote": "Calf press performed on a 45-degree sled leg press machine with straight legs to recruit the gastrocnemius under stretch.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 100 (Calf Press (Leg Press)).",
+    "Illustration depicts soft knee extension and ankle dorsiflexion to plantar flexion range of motion on an incline carriage."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Sled 45° Calf Press",
+      "url": "https://exrx.net/WeightExercises/Gastrocnemius/SL45CalfPress",
+      "scope": "45-degree sled calf press biomechanics, gastrocnemius isolation, and safety considerations."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "be2004fa24e9e28fb0782a8be355181f7474c24b8b86a3f75ae6424ec4798001",
+    "url": "/media/be2004fa24e9e28fb0782a8be355181f7474c24b8b86a3f75ae6424ec4798001.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Leg Press Calf Press.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "leg-press-calf-press",
+      "model": null
+    }
+  }
+}

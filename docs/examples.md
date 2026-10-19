@@ -1,6 +1,6 @@
 # Illustrated exercise catalog
 
-37 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+42 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
@@ -9,6 +9,7 @@
 - [Barbell Deadlift](../catalog/exercises/barbell-deadlift.json)
 - [Barbell Romanian Deadlift](../catalog/exercises/barbell-romanian-deadlift.json)
 - [Bent-Over Barbell Row](../catalog/exercises/bent-over-barbell-row.json)
+- [Cable Rope Triceps Pushdown](../catalog/exercises/cable-rope-triceps-pushdown.json)
 - [Cable Triceps Pushdown](../catalog/exercises/cable-triceps-pushdown.json)
 - [Decline Dumbbell Bench Press](../catalog/exercises/decline-dumbbell-bench-press.json)
 - [Dumbbell Bench Press](../catalog/exercises/dumbbell-bench-press.json)
@@ -20,6 +21,7 @@
 - [Flat Dumbbell Fly](../catalog/exercises/flat-dumbbell-fly.json)
 - [Incline Chest Press Machine](../catalog/exercises/incline-chest-press-machine.json)
 - [Incline Dumbbell Biceps Curl](../catalog/exercises/incline-dumbbell-biceps-curl.json)
+- [Leg Press Calf Press](../catalog/exercises/leg-press-calf-press.json)
 - [Machine Chest Press](../catalog/exercises/machine-chest-press.json)
 - [Machine Hip Thrust](../catalog/exercises/machine-hip-thrust.json)
 - [Machine Preacher Curl](../catalog/exercises/machine-preacher-curl.json)
@@ -30,6 +32,9 @@
 - [Seated Cable Row](../catalog/exercises/seated-cable-row.json)
 - [Seated Cable Row with Wrist Cuffs](../catalog/exercises/seated-cable-row-wrist-cuffs.json)
 - [Seated Lat Pulldown Machine](../catalog/exercises/seated-lat-pulldown-machine.json)
+- [Seated Leg Press](../catalog/exercises/seated-leg-press.json)
+- [Seated Machine Lateral Raise](../catalog/exercises/seated-machine-lateral-raise.json)
+- [Single-Arm Plate Loaded Lat Pulldown](../catalog/exercises/single-arm-plate-loaded-lat-pulldown.json)
 - [Single-Arm Rear-Delt Cable Fly](../catalog/exercises/single-arm-rear-delt-cable-fly.json)
 - [Single-Arm Seated Row (Plate Loaded)](../catalog/exercises/single-arm-seated-plate-loaded-row.json)
 - [Single-Arm Supinated Pulldown](../catalog/exercises/single-arm-supinated-pulldown.json)
@@ -374,6 +379,76 @@ Pronated overhand grip with the bar suspended between repetitions. A floor-reset
 - [Muscle & Strength - Bent Over Barbell Row](https://www.muscleandstrength.com/exercises/bent-over-barbell-row.html): Overhand bent-over row, fixed hip hinge and controlled pull toward the torso.
 
 [Editable JSON](../catalog/exercises/bent-over-barbell-row.json)
+
+## Cable Rope Triceps Pushdown
+
+![Paired black-and-white instructional line drawings of Cable Rope Triceps Pushdown.](../catalog/media/60523037fbf7ca3c7baf95967cc8abb86fe607c67d3eafa2b0938e61eaf479f5.png)
+
+Starting position / Peak contraction position
+
+Push a cable rope downward by straightening the elbows, spreading the rope ends slightly outward at the bottom to maximize triceps peak contraction.
+
+- **Danish:** Tricepspres ned i kabel med reb
+- **Aliases:** Cable Triceps Pushdown (Rope), Rope pushdown, Tricep rope pushdown, Cable rope pushdown
+- **Primary muscles:** Triceps brachii
+- **Assisting muscles:** Anconeus
+- **Stabilizers:** Forearm flexors, Rotator cuff, Abdominal wall
+- **Equipment:** High cable pulley, Rope attachment
+- **Movement:** Elbow extension - upper arms at sides; Bilateral
+- **Grip:** Neutral grip with one rope knot in each hand, palms facing each other.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Attach a two-strand flexible rope to a high cable pulley and select the appropriate pin setting.
+- Face the pulley and grasp the rope ends with a neutral grip (palms facing inward).
+- Step back slightly, establish a stable hip-width stance with a subtle forward torso hinge.
+- Tuck elbows tight to your ribs with forearms angled upward around 90 degrees.
+
+### Execution
+
+1. Straighten your elbows to push the rope downward toward your thighs, keeping your upper arms stationary at your sides.
+2. As you approach full extension, spread the rope ends outward beside your hips and actively squeeze the triceps.
+3. Pause under control at the bottom lockout without locking joints forcefully.
+4. Allow the elbows to flex smoothly to return the rope to the 90-degree starting position, resisting the cable pull.
+
+### Cues
+
+- Keep elbows pinned at your sides.
+- Spread the rope at the bottom.
+- Control the eccentric return.
+
+### Common mistakes
+
+- Allowing the elbows to drift forward and backward, using shoulder momentum.
+- Rounding the upper back or leaning excessively over the rope.
+- Failing to spread the rope at the bottom, reducing lateral head recruitment.
+
+### Logging convention
+
+Cable stack pin set to 22.5 kg: record 22.5 kg on that machine.
+
+Record selected stack weight, rope attachment, and pulley station. Pulley ratios and cable friction vary across manufacturers.
+
+### Variants and alternatives
+
+Standing cable pushdown using a flexible rope attachment, allowing forearm pronation and rope flare at peak contraction.
+
+- Cable Triceps Pushdown
+- Overhead Rope Cable Triceps Extension
+- Standing Barbell Strict Press
+
+### Review notes
+
+- Drafted from FitTrack ID 103 (Cable Triceps Pushdown (Rope)).
+- Illustration depicts standing high pulley pushdown with neutral grip at start and flared rope ends at bottom lockout.
+
+### References
+
+- [ExRx.net - Cable Pushdown (Rope)](https://exrx.net/WeightExercises/Triceps/CBPushdownRope): Cable rope pushdown biomechanics, lateral and medial head triceps recruitment, and execution cues.
+
+[Editable JSON](../catalog/exercises/cable-rope-triceps-pushdown.json)
 
 ## Cable Triceps Pushdown
 
@@ -1117,6 +1192,74 @@ Seated incline, both arms curling together with palms supinated. The illustratio
 
 [Editable JSON](../catalog/exercises/incline-dumbbell-biceps-curl.json)
 
+## Leg Press Calf Press
+
+![Paired black-and-white instructional line drawings of Leg Press Calf Press.](../catalog/media/be2004fa24e9e28fb0782a8be355181f7474c24b8b86a3f75ae6424ec4798001.png)
+
+Starting position / Peak contraction position
+
+Perform ankle plantar flexion against the leg press footplate with knees softly extended, emphasizing the gastrocnemius.
+
+- **Danish:** Lægpres i benpresmaskine
+- **Aliases:** Calf Press (Leg Press), Leg press calf raise, 45-degree leg press calf press, Calf press on leg press
+- **Primary muscles:** Gastrocnemius
+- **Assisting muscles:** Soleus, Tibialis posterior
+- **Stabilizers:** Quadriceps
+- **Equipment:** 45-degree sled leg press machine
+- **Movement:** Ankle plantar flexion; Bilateral
+- **Grip:** Hands holding side safety handles of the leg press carriage.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Sit firmly in the 45-degree leg press with back and hips supported against the pads.
+- Place the balls of both feet along the lower edge of the footplate, hip-width apart, with heels free to drop into dorsiflexion.
+- Extend legs so knees are softly unlocked (never hyperextended) and disengage the safety bars.
+
+### Execution
+
+1. Lower the carriage by allowing your ankles to dorsiflex, letting your heels drop below the footplate edge until you feel a deep calf stretch.
+2. Press through the balls of your feet into full plantar flexion, driving the sled upward with your calves.
+3. Hold the peak contraction at the top for a moment on your toes.
+4. Lower slowly under control back into the full stretch before beginning the next repetition.
+
+### Cues
+
+- Keep knees softly unlocked and motionless.
+- Press through the balls of the feet.
+- Pause at the bottom stretch.
+
+### Common mistakes
+
+- Bending and straightening the knees to turn the exercise into a leg press.
+- Hyperextending or locking out the knees under heavy sled load.
+- Bouncing out of the bottom stretch without control.
+
+### Logging convention
+
+Four 20 kg plates loaded (two per side): record 80 kg total plate load on sled.
+
+45-degree sleds have an effective load of approximately 70% of plate mass plus carriage weight; record loaded plate mass.
+
+### Variants and alternatives
+
+Calf press performed on a 45-degree sled leg press machine with straight legs to recruit the gastrocnemius under stretch.
+
+- Dumbbell Romanian Deadlift
+- Pendulum Squat
+
+### Review notes
+
+- Drafted from FitTrack ID 100 (Calf Press (Leg Press)).
+- Illustration depicts soft knee extension and ankle dorsiflexion to plantar flexion range of motion on an incline carriage.
+
+### References
+
+- [ExRx.net - Sled 45° Calf Press](https://exrx.net/WeightExercises/Gastrocnemius/SL45CalfPress): 45-degree sled calf press biomechanics, gastrocnemius isolation, and safety considerations.
+
+[Editable JSON](../catalog/exercises/leg-press-calf-press.json)
+
 ## Machine Chest Press
 
 ![Paired black-and-white instructional line drawings of Machine Chest Press.](../catalog/media/f678d266526cf851fbf52445c6651ceaf51c5bcc0f5b99008b52284193143ef4.png)
@@ -1795,6 +1938,215 @@ Assumes a selectorized high cable, wide overhand bar and thigh pads. A plate-loa
 - [Muscle & Strength - Lat Pull Down](https://www.muscleandstrength.com/exercises/lat-pull-down.html): Seated high-cable overhand pulldown, elbow path and controlled return; exact machine geometry is unspecified.
 
 [Editable JSON](../catalog/exercises/seated-lat-pulldown-machine.json)
+
+## Seated Leg Press
+
+![Paired black-and-white instructional line drawings of Seated Leg Press.](../catalog/media/f8abde06fca2490a430e588fcdd23c196c77cf546d1a86b28305b03a5edcd21d.png)
+
+Starting position / Peak contraction position
+
+Press a weighted sled upward along 45-degree rails using hip and knee extension while seated with back and hips fully supported.
+
+- **Danish:** Siddende benpres
+- **Aliases:** Seated Leg Press, 45-degree leg press, Sled leg press, Incline leg press
+- **Primary muscles:** Quadriceps
+- **Assisting muscles:** Gluteus maximus, Adductor magnus, Soleus
+- **Stabilizers:** Abdominal wall
+- **Equipment:** 45-degree sled leg press machine
+- **Movement:** Squat - 45-degree sled; Bilateral
+- **Grip:** Hands gripping side handles beside seat.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Sit firmly in the leg press seat with your back and glutes pressed securely against the back pad.
+- Place feet flat on the center of the footplate shoulder-width apart, toes pointing slightly outward.
+- Press the plate slightly to disengage the safety levers, then grasp the side handles for stability.
+
+### Execution
+
+1. Lower the sled smoothly by bending your knees and hips, allowing knees to track in line with your toes.
+2. Descend until knees reach approximately 90 degrees or as deep as possible without rounding your lower back off the pad.
+3. Drive through your mid-foot and heels to push the sled back up along the rails.
+4. Stop just short of complete knee lockout (soft knees) to maintain tension and protect joints.
+
+### Cues
+
+- Keep lower back and glutes glued to the pad.
+- Track knees over toes.
+- Press through the mid-foot without locking knees.
+
+### Common mistakes
+
+- Allowing the lower back or pelvis to curl off the pad (butt wink) at the bottom.
+- Forcefully hyperextending or slamming the knees into lockout at the top.
+- Letting knees collapse inward (valgus collapse) during the press.
+
+### Logging convention
+
+Six 20 kg plates loaded (three per side): record 120 kg total plate load on sled.
+
+45-degree sled leg presses feature guided rails with approximately 70% effective load resistance plus carriage mass; record loaded plate mass.
+
+### Variants and alternatives
+
+Standard 45-degree incline sled leg press with wide footplate and back support.
+
+- Barbell Back Squat
+- Pendulum Squat
+- Barbell Deadlift
+
+### Review notes
+
+- Drafted from FitTrack ID 91 (Seated Leg Press).
+- Illustration depicts 45-degree sled carriage with deep knee flexion in panel A and soft extension in panel B.
+
+### References
+
+- [ExRx.net - Sled 45° Leg Press](https://exrx.net/WeightExercises/Quadriceps/SL45LegPress): 45-degree leg press execution, quadriceps and gluteal biomechanics, and spinal safety standards.
+
+[Editable JSON](../catalog/exercises/seated-leg-press.json)
+
+## Seated Machine Lateral Raise
+
+![Paired black-and-white instructional line drawings of Seated Machine Lateral Raise.](../catalog/media/81f77c7b7d776ed90c6fb97f47cc81c42ab13facbb15e93b792c0ce6df3451a0.png)
+
+Starting position / Peak contraction position
+
+Abduct both arms outward and upward against padded machine levers while seated, isolating the lateral deltoids through guided resistance.
+
+- **Danish:** Siddende lateral raise i maskine
+- **Aliases:** Seated Machine Lateral Raise, Machine lateral raise, Lever lateral raise, Seated side delt machine
+- **Primary muscles:** Lateral deltoid
+- **Assisting muscles:** Anterior deltoid, Supraspinatus, Middle trapezius, Serratus anterior
+- **Stabilizers:** Rotator cuff, Abdominal wall
+- **Equipment:** Seated lateral raise machine
+- **Movement:** Shoulder abduction; Bilateral
+- **Grip:** Light neutral grip on machine handles with elbows against roller pads.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust the seat height so your shoulder joints align directly with the machine's pivot axes.
+- Sit tall with your chest or back firmly supported by the torso pad and feet flat on the floor.
+- Place your upper arms/elbows against the inside of the roller pads, holding the guide handles lightly with elbows bent ~90 degrees.
+
+### Execution
+
+1. Raise both arms outward and upward by driving your elbows into the roller pads until upper arms are parallel to the floor (shoulder height).
+2. Keep your torso completely stationary against the pad, avoiding leaning backward or using body momentum.
+3. Pause briefly at shoulder height, squeezing the lateral deltoids.
+4. Lower the arms slowly under control back to the starting position beside your hips without letting the weight stack crash.
+
+### Cues
+
+- Lead with the elbows.
+- Keep torso glued to the support pad.
+- Control the descent.
+
+### Common mistakes
+
+- Setting seat too high or too low, misaligning shoulder pivot with machine axis.
+- Shrugging upper traps to heave the weight up instead of abducting with deltoids.
+- Swinging the torso backward to generate momentum.
+
+### Logging convention
+
+Weight pin set to 35 kg: record 35 kg selected machine load.
+
+Cam shapes, lever lengths, and pulley configurations differ widely across machine brands; record selected stack setting without assuming free-weight equivalency.
+
+### Variants and alternatives
+
+Guided lever machine lateral raise with padded arm rollers and fixed rotational axis isolating the lateral deltoid head.
+
+- Dumbbell Lateral Raise
+- Single-Arm Rear-Delt Cable Fly
+- Standing Barbell Strict Press
+
+### Review notes
+
+- Drafted from FitTrack ID 90 (Seated Machine Lateral Raise).
+- Illustration depicts seated position with 90-degree elbow flexion driving roller levers to parallel shoulder height.
+
+### References
+
+- [ExRx.net - Lever Lateral Raise](https://exrx.net/WeightExercises/DeltoidLateral/LVLateralRaise): Machine lateral raise biomechanics, lateral deltoid isolation, and machine pivot axis alignment.
+
+[Editable JSON](../catalog/exercises/seated-machine-lateral-raise.json)
+
+## Single-Arm Plate Loaded Lat Pulldown
+
+![Paired black-and-white instructional line drawings of Single-Arm Plate Loaded Lat Pulldown.](../catalog/media/4569de58a612b2bb8d2e4d9db9babfc0eecbe16b82f4d2547fafb90a7eb63376.png)
+
+Starting position / Peak contraction position
+
+Pull an independent plate-loaded overhead lever arm downward with one arm, securing thighs under machine pads to target latissimus fibers.
+
+- **Danish:** Enarms pulldown i maskine med vægtskiver
+- **Aliases:** Single-Arm Plate Loaded Lat Pulldown, Unilateral plate loaded lat pulldown, Iso-lateral lat pulldown, Single-arm converging pulldown
+- **Primary muscles:** Latissimus dorsi
+- **Assisting muscles:** Teres major, Biceps brachii, Brachialis, Lower trapezius, Rhomboids
+- **Stabilizers:** Abdominal wall, Rotator cuff
+- **Equipment:** Plate-loaded lat pulldown machine
+- **Movement:** Vertical pull; Unilateral
+- **Grip:** Semi-neutral or underhand grip on machine lever handle.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Load weight plates onto the working side lever horn.
+- Adjust the thigh pads so your legs are securely anchored with feet flat on the floor.
+- Sit upright, reach overhead with working arm to grasp the handle, and allow non-working arm to rest relaxed on your thigh.
+- Take up the load with arm extended overhead into a full lat stretch.
+
+### Execution
+
+1. Drive the working elbow downward and slightly inward toward your hip along the lever's natural converging arc.
+2. Keep your chest lifted with a natural thoracic arch, avoiding lateral torso leaning.
+3. Squeeze the lat firmly as the handle reaches upper chest level.
+4. Return the handle slowly upward until the arm is fully extended overhead under control.
+5. Complete the set, then switch to the other arm.
+
+### Cues
+
+- Drive elbow straight down to the hip.
+- Keep torso upright and braced.
+- Non-working arm stays relaxed.
+
+### Common mistakes
+
+- Leaning or twisting the torso sideways to heave the lever down.
+- Letting the non-working arm assist the movement.
+- Letting the lever slam against the top stops.
+
+### Logging convention
+
+One 20 kg plate loaded on working lever: record 20 kg per side.
+
+Plate-loaded machines feature independent lever arms with specific pivot mechanics; record the plate mass loaded on that working side.
+
+### Variants and alternatives
+
+Unilateral vertical pull on a plate-loaded machine with independent converging lever arms, isolating each lat.
+
+- Single-Arm Supinated Pulldown
+- Seated Lat Pulldown Machine
+- Single-Arm Seated Row (Plate Loaded)
+
+### Review notes
+
+- Drafted from FitTrack ID 95 (Single-Arm Plate Loaded Lat Pulldown).
+- Illustration strictly depicts unilateral execution with non-working arm resting motionless on thigh and opposite lever disengaged.
+
+### References
+
+- [ExRx.net - Lever Front Pulldown](https://exrx.net/WeightExercises/LatissimusDorsi/LVFrontPulldown): Converging lever pulldown mechanics, latissimus dorsi activation, and seated positioning.
+
+[Editable JSON](../catalog/exercises/single-arm-plate-loaded-lat-pulldown.json)
 
 ## Single-Arm Rear-Delt Cable Fly
 

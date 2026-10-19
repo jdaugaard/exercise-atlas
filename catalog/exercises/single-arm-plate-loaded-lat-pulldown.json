@@ -1,0 +1,100 @@
+{
+  "id": "single-arm-plate-loaded-lat-pulldown",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Single-Arm Plate Loaded Lat Pulldown",
+  "nameDa": "Enarms pulldown i maskine med vægtskiver",
+  "aliases": [
+    "Single-Arm Plate Loaded Lat Pulldown",
+    "Unilateral plate loaded lat pulldown",
+    "Iso-lateral lat pulldown",
+    "Single-arm converging pulldown"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Vertical pull",
+  "laterality": "Unilateral",
+  "equipmentItems": [
+    "Plate-loaded lat pulldown machine"
+  ],
+  "grip": "Semi-neutral or underhand grip on machine lever handle.",
+  "primaryMuscles": [
+    "Latissimus dorsi"
+  ],
+  "secondaryMuscles": [
+    "Teres major",
+    "Biceps brachii",
+    "Brachialis",
+    "Lower trapezius",
+    "Rhomboids"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff"
+  ],
+  "description": "Pull an independent plate-loaded overhead lever arm downward with one arm, securing thighs under machine pads to target latissimus fibers.",
+  "setup": [
+    "Load weight plates onto the working side lever horn.",
+    "Adjust the thigh pads so your legs are securely anchored with feet flat on the floor.",
+    "Sit upright, reach overhead with working arm to grasp the handle, and allow non-working arm to rest relaxed on your thigh.",
+    "Take up the load with arm extended overhead into a full lat stretch."
+  ],
+  "instructions": [
+    "Drive the working elbow downward and slightly inward toward your hip along the lever's natural converging arc.",
+    "Keep your chest lifted with a natural thoracic arch, avoiding lateral torso leaning.",
+    "Squeeze the lat firmly as the handle reaches upper chest level.",
+    "Return the handle slowly upward until the arm is fully extended overhead under control.",
+    "Complete the set, then switch to the other arm."
+  ],
+  "cues": [
+    "Drive elbow straight down to the hip.",
+    "Keep torso upright and braced.",
+    "Non-working arm stays relaxed."
+  ],
+  "commonMistakes": [
+    "Leaning or twisting the torso sideways to heave the lever down.",
+    "Letting the non-working arm assist the movement.",
+    "Letting the lever slam against the top stops."
+  ],
+  "logging": {
+    "basis": "plate_load_per_side",
+    "example": "One 20 kg plate loaded on working lever: record 20 kg per side.",
+    "note": "Plate-loaded machines feature independent lever arms with specific pivot mechanics; record the plate mass loaded on that working side."
+  },
+  "alternatives": [
+    "Single-Arm Supinated Pulldown",
+    "Seated Lat Pulldown Machine",
+    "Single-Arm Seated Row (Plate Loaded)"
+  ],
+  "variantNote": "Unilateral vertical pull on a plate-loaded machine with independent converging lever arms, isolating each lat.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 95 (Single-Arm Plate Loaded Lat Pulldown).",
+    "Illustration strictly depicts unilateral execution with non-working arm resting motionless on thigh and opposite lever disengaged."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Front Pulldown",
+      "url": "https://exrx.net/WeightExercises/LatissimusDorsi/LVFrontPulldown",
+      "scope": "Converging lever pulldown mechanics, latissimus dorsi activation, and seated positioning."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "4569de58a612b2bb8d2e4d9db9babfc0eecbe16b82f4d2547fafb90a7eb63376",
+    "url": "/media/4569de58a612b2bb8d2e4d9db9babfc0eecbe16b82f4d2547fafb90a7eb63376.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Single-Arm Plate Loaded Lat Pulldown.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "single-arm-plate-loaded-lat-pulldown",
+      "model": null
+    }
+  }
+}

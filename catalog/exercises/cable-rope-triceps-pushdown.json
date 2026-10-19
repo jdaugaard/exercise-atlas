@@ -1,0 +1,96 @@
+{
+  "id": "cable-rope-triceps-pushdown",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Cable Rope Triceps Pushdown",
+  "nameDa": "Tricepspres ned i kabel med reb",
+  "aliases": [
+    "Cable Triceps Pushdown (Rope)",
+    "Rope pushdown",
+    "Tricep rope pushdown",
+    "Cable rope pushdown"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow extension - upper arms at sides",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "High cable pulley",
+    "Rope attachment"
+  ],
+  "grip": "Neutral grip with one rope knot in each hand, palms facing each other.",
+  "primaryMuscles": [
+    "Triceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Anconeus"
+  ],
+  "stabilizers": [
+    "Forearm flexors",
+    "Rotator cuff",
+    "Abdominal wall"
+  ],
+  "description": "Push a cable rope downward by straightening the elbows, spreading the rope ends slightly outward at the bottom to maximize triceps peak contraction.",
+  "setup": [
+    "Attach a two-strand flexible rope to a high cable pulley and select the appropriate pin setting.",
+    "Face the pulley and grasp the rope ends with a neutral grip (palms facing inward).",
+    "Step back slightly, establish a stable hip-width stance with a subtle forward torso hinge.",
+    "Tuck elbows tight to your ribs with forearms angled upward around 90 degrees."
+  ],
+  "instructions": [
+    "Straighten your elbows to push the rope downward toward your thighs, keeping your upper arms stationary at your sides.",
+    "As you approach full extension, spread the rope ends outward beside your hips and actively squeeze the triceps.",
+    "Pause under control at the bottom lockout without locking joints forcefully.",
+    "Allow the elbows to flex smoothly to return the rope to the 90-degree starting position, resisting the cable pull."
+  ],
+  "cues": [
+    "Keep elbows pinned at your sides.",
+    "Spread the rope at the bottom.",
+    "Control the eccentric return."
+  ],
+  "commonMistakes": [
+    "Allowing the elbows to drift forward and backward, using shoulder momentum.",
+    "Rounding the upper back or leaning excessively over the rope.",
+    "Failing to spread the rope at the bottom, reducing lateral head recruitment."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "Cable stack pin set to 22.5 kg: record 22.5 kg on that machine.",
+    "note": "Record selected stack weight, rope attachment, and pulley station. Pulley ratios and cable friction vary across manufacturers."
+  },
+  "alternatives": [
+    "Cable Triceps Pushdown",
+    "Overhead Rope Cable Triceps Extension",
+    "Standing Barbell Strict Press"
+  ],
+  "variantNote": "Standing cable pushdown using a flexible rope attachment, allowing forearm pronation and rope flare at peak contraction.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 103 (Cable Triceps Pushdown (Rope)).",
+    "Illustration depicts standing high pulley pushdown with neutral grip at start and flared rope ends at bottom lockout."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Cable Pushdown (Rope)",
+      "url": "https://exrx.net/WeightExercises/Triceps/CBPushdownRope",
+      "scope": "Cable rope pushdown biomechanics, lateral and medial head triceps recruitment, and execution cues."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "60523037fbf7ca3c7baf95967cc8abb86fe607c67d3eafa2b0938e61eaf479f5",
+    "url": "/media/60523037fbf7ca3c7baf95967cc8abb86fe607c67d3eafa2b0938e61eaf479f5.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Cable Rope Triceps Pushdown.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "cable-rope-triceps-pushdown",
+      "model": null
+    }
+  }
+}
