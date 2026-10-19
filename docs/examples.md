@@ -1,6 +1,6 @@
 # Illustrated exercise catalog
 
-47 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+48 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
@@ -44,6 +44,7 @@
 - [Single-Arm Supinated Pulldown](../catalog/exercises/single-arm-supinated-pulldown.json)
 - [Standing Barbell Curl](../catalog/exercises/standing-barbell-curl.json)
 - [Standing Barbell Strict Press](../catalog/exercises/standing-barbell-strict-press.json)
+- [Standing Calf Raise](../catalog/exercises/standing-calf-raise.json)
 - [Standing Dumbbell Strict Press](../catalog/exercises/standing-dumbbell-strict-press.json)
 - [Standing Single-Arm Cable Biceps Curl](../catalog/exercises/standing-single-arm-cable-biceps-curl.json)
 - [Straight-Arm Cable Pullover](../catalog/exercises/straight-arm-cable-pullover.json)
@@ -2768,6 +2769,73 @@ Standing front-of-neck strict barbell press. The generic alias Strict Press is m
 - [Muscle & Strength - Military Press](https://www.muscleandstrength.com/exercises/military-press.html): Standing barbell strict press, rack setup, no leg drive and overhead scapular movement.
 
 [Editable JSON](../catalog/exercises/standing-barbell-strict-press.json)
+
+## Standing Calf Raise
+
+![Paired black-and-white instructional line drawings of Standing Calf Raise.](../catalog/media/4eb5a51ae0da1a7cf93624f2c15be5158cdf7a7a352fa6b5010e6e2280d82d90.png)
+
+Starting position / Peak contraction position
+
+Raise heels off the ground by performing bilateral ankle plantar flexion with knees softly extended, emphasizing the gastrocnemius under loaded stretch.
+
+- **Danish:** Stående lægløft
+- **Aliases:** Dumbbell Standing Calf Raise, Standing dumbbell calf raise, Two-legged standing calf raise
+- **Primary muscles:** Gastrocnemius
+- **Assisting muscles:** Soleus, Tibialis posterior
+- **Stabilizers:** Abdominal wall, Forearm flexors, Quadriceps
+- **Equipment:** Two dumbbells, Raised calf block or step
+- **Movement:** Ankle plantar flexion; Bilateral
+- **Grip:** Neutral grip holding dumbbells at sides with arms fully extended.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Hold a dumbbell in each hand with arms straight at your sides.
+- Step onto a raised calf block or sturdy platform with the balls of both feet on the edge and heels hanging freely.
+- Stand tall with chest lifted, core braced, and knees softly extended without locking them out.
+
+### Execution
+
+1. Lower your heels smoothly below the level of the block into deep ankle dorsiflexion until you feel a complete stretch through your calves.
+2. Press forcefully through the balls of both feet into full plantar flexion, elevating your heels as high as possible onto your tiptoes.
+3. Hold the peak contraction briefly at the top, squeezing your calves firmly.
+4. Lower your heels in a slow, controlled descent back into the deep bottom stretch before initiating the next repetition.
+
+### Cues
+
+- Press through the balls of the feet.
+- Keep knees motionless and softly unlocked.
+- Pause in the bottom stretch.
+
+### Common mistakes
+
+- Bending the knees to bounce or turn the movement into a squat.
+- Cutting the bottom range of motion short and failing to reach a full stretch.
+- Swinging dumbbells or using upper body momentum.
+
+### Logging convention
+
+Two 16 kg dumbbells: record 16 kg per dumbbell.
+
+Record the mass of an individual dumbbell rather than the combined total of the pair.
+
+### Variants and alternatives
+
+Standing bilateral calf raise performed on a raised block holding dumbbells, keeping knees straight to recruit the gastrocnemius.
+
+- Leg Press Calf Press
+
+### Review notes
+
+- Drafted from FitTrack ID 71 (Standing Calf Raise).
+- Illustration depicts bilateral standing calf raise on a raised platform from stretch to tiptoe plantar flexion.
+
+### References
+
+- [ExRx.net - Dumbbell Standing Calf Raise](https://exrx.net/WeightExercises/Gastrocnemius/DBStandingCalfRaise): Dumbbell standing calf raise execution, gastrocnemius recruitment, and stretch mechanics.
+
+[Editable JSON](../catalog/exercises/standing-calf-raise.json)
 
 ## Standing Dumbbell Strict Press
 

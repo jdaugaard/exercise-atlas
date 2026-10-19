@@ -1,0 +1,93 @@
+{
+  "id": "standing-calf-raise",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Standing Calf Raise",
+  "nameDa": "Stående lægløft",
+  "aliases": [
+    "Dumbbell Standing Calf Raise",
+    "Standing dumbbell calf raise",
+    "Two-legged standing calf raise"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Calves"
+  ],
+  "movementPattern": "Ankle plantar flexion",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells",
+    "Raised calf block or step"
+  ],
+  "grip": "Neutral grip holding dumbbells at sides with arms fully extended.",
+  "primaryMuscles": [
+    "Gastrocnemius"
+  ],
+  "secondaryMuscles": [
+    "Soleus",
+    "Tibialis posterior"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Forearm flexors",
+    "Quadriceps"
+  ],
+  "description": "Raise heels off the ground by performing bilateral ankle plantar flexion with knees softly extended, emphasizing the gastrocnemius under loaded stretch.",
+  "setup": [
+    "Hold a dumbbell in each hand with arms straight at your sides.",
+    "Step onto a raised calf block or sturdy platform with the balls of both feet on the edge and heels hanging freely.",
+    "Stand tall with chest lifted, core braced, and knees softly extended without locking them out."
+  ],
+  "instructions": [
+    "Lower your heels smoothly below the level of the block into deep ankle dorsiflexion until you feel a complete stretch through your calves.",
+    "Press forcefully through the balls of both feet into full plantar flexion, elevating your heels as high as possible onto your tiptoes.",
+    "Hold the peak contraction briefly at the top, squeezing your calves firmly.",
+    "Lower your heels in a slow, controlled descent back into the deep bottom stretch before initiating the next repetition."
+  ],
+  "cues": [
+    "Press through the balls of the feet.",
+    "Keep knees motionless and softly unlocked.",
+    "Pause in the bottom stretch."
+  ],
+  "commonMistakes": [
+    "Bending the knees to bounce or turn the movement into a squat.",
+    "Cutting the bottom range of motion short and failing to reach a full stretch.",
+    "Swinging dumbbells or using upper body momentum."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 16 kg dumbbells: record 16 kg per dumbbell.",
+    "note": "Record the mass of an individual dumbbell rather than the combined total of the pair."
+  },
+  "alternatives": [
+    "Leg Press Calf Press"
+  ],
+  "variantNote": "Standing bilateral calf raise performed on a raised block holding dumbbells, keeping knees straight to recruit the gastrocnemius.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 71 (Standing Calf Raise).",
+    "Illustration depicts bilateral standing calf raise on a raised platform from stretch to tiptoe plantar flexion."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Dumbbell Standing Calf Raise",
+      "url": "https://exrx.net/WeightExercises/Gastrocnemius/DBStandingCalfRaise",
+      "scope": "Dumbbell standing calf raise execution, gastrocnemius recruitment, and stretch mechanics."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "4eb5a51ae0da1a7cf93624f2c15be5158cdf7a7a352fa6b5010e6e2280d82d90",
+    "url": "/media/4eb5a51ae0da1a7cf93624f2c15be5158cdf7a7a352fa6b5010e6e2280d82d90.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Standing Calf Raise.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-19",
+      "promptId": "standing-calf-raise",
+      "model": null
+    }
+  }
+}

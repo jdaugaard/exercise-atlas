@@ -542,6 +542,17 @@
       "createdDate": "2026-10-19",
       "model": null,
       "mediaId": "4ef3ea19c80b15915b828fbbf74750f072dff3c8a6a9215a817d9473efc6ac8a"
+    },
+    {
+      "id": "standing-calf-raise",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Standing Calf Raise (bilateral standing calf raise with dumbbells)\ncamera: Front three-quarter view facing slightly right, showing athlete standing tall on raised calf block holding dumbbells\nequipment: Raised calf block or step and a pair of dumbbells\npositionA: Left panel: Athlete stands tall with balls of both feet on edge of block, heels hanging off into deep dorsiflexion stretch, holding a dumbbell in each hand at sides with arms straight.\npositionB: Right panel: EXACT SAME standing posture and block. Athlete presses through balls of both feet into full plantar flexion (standing high on tiptoes), contracting calves; knees remain softly extended; dumbbells hang stationary at sides.\nmechanics: Bilateral ankle plantar flexion. Torso stays upright and vertical; knees remain softly extended without flexing.\navoid: Do not bend knees, no bouncing out of the stretch, no swinging dumbbells, no extra limbs, no text/labels/arrows.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-19",
+      "model": null,
+      "mediaId": "4eb5a51ae0da1a7cf93624f2c15be5158cdf7a7a352fa6b5010e6e2280d82d90"
     }
   ]
 }
