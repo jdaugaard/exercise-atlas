@@ -1,15 +1,17 @@
 # Illustrated exercise catalog
 
-63 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+68 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
+- [Assisted Pull-Up](../catalog/exercises/assisted-pull-up.json)
 - [Barbell Back Squat](../catalog/exercises/barbell-back-squat.json)
 - [Barbell Bench Press](../catalog/exercises/barbell-bench-press.json)
 - [Barbell Deadlift](../catalog/exercises/barbell-deadlift.json)
 - [Barbell Incline Bench Press](../catalog/exercises/barbell-incline-bench-press.json)
 - [Barbell Reverse Wrist Curl](../catalog/exercises/barbell-reverse-wrist-curl.json)
 - [Barbell Romanian Deadlift](../catalog/exercises/barbell-romanian-deadlift.json)
+- [Barbell Wrist Curl](../catalog/exercises/barbell-wrist-curl.json)
 - [Bayesian Curl](../catalog/exercises/bayesian-curl.json)
 - [Bent-Over Barbell Row](../catalog/exercises/bent-over-barbell-row.json)
 - [Cable Curl](../catalog/exercises/cable-curl.json)
@@ -24,6 +26,7 @@
 - [Dumbbell Hammer Curl](../catalog/exercises/dumbbell-hammer-curl.json)
 - [Dumbbell Lateral Raise](../catalog/exercises/dumbbell-lateral-raise.json)
 - [Dumbbell Romanian Deadlift](../catalog/exercises/dumbbell-romanian-deadlift.json)
+- [Dumbbell Seated Shoulder Press](../catalog/exercises/dumbbell-seated-shoulder-press.json)
 - [Dumbbell Single-Leg Calf Raise](../catalog/exercises/dumbbell-single-leg-calf-raise.json)
 - [Dumbbell Spider Curl](../catalog/exercises/dumbbell-spider-curl.json)
 - [Face Pulls with Wrist Cuffs](../catalog/exercises/face-pull-wrist-cuffs.json)
@@ -37,6 +40,7 @@
 - [Machine Chest Press](../catalog/exercises/machine-chest-press.json)
 - [Machine Hip Thrust](../catalog/exercises/machine-hip-thrust.json)
 - [Machine Inner Chest Press](../catalog/exercises/machine-inner-chest-press.json)
+- [Machine Leg Extension](../catalog/exercises/machine-leg-extension.json)
 - [Machine Preacher Curl](../catalog/exercises/machine-preacher-curl.json)
 - [Negative Pull-Up](../catalog/exercises/negative-pull-up.json)
 - [Overhead Rope Cable Triceps Extension](../catalog/exercises/overhead-rope-cable-triceps-extension.json)
@@ -45,6 +49,7 @@
 - [Pendulum Squat](../catalog/exercises/pendulum-squat.json)
 - [Plate Loaded Lat Pulldown](../catalog/exercises/plate-loaded-lat-pulldown.json)
 - [Reverse Pec Deck](../catalog/exercises/reverse-pec-deck.json)
+- [Scapular Pull-Up](../catalog/exercises/scapular-pull-up.json)
 - [Seated Cable Row](../catalog/exercises/seated-cable-row.json)
 - [Seated Cable Row with Wrist Cuffs](../catalog/exercises/seated-cable-row-wrist-cuffs.json)
 - [Seated Hip Abduction Machine](../catalog/exercises/seated-hip-abduction-machine.json)
@@ -67,6 +72,76 @@
 - [Trap-Bar Deadlift](../catalog/exercises/trap-bar-deadlift.json)
 - [Weighted Dips](../catalog/exercises/weighted-dip.json)
 - [Wide-Grip Upright Row](../catalog/exercises/wide-grip-upright-row.json)
+
+## Assisted Pull-Up
+
+![Paired black-and-white instructional line drawings of Assisted Pull-Up.](../catalog/media/b3b63828ac4cc95eef7b6b04bcdfbdb91259b2a528cd31239ec24d7499050f01.png)
+
+Starting position / Peak contraction position
+
+Perform a vertical pull-up while kneeling on a counterbalanced weight pad, reducing effective bodyweight to build pulling strength and technique across a full range of motion.
+
+- **Danish:** Assisteret pull-up i maskine
+- **Aliases:** Assisted Pull-Up, Machine assisted pull-up, Counterbalance pull-up, Assisted chin-up machine, Weight-assisted pull-up
+- **Primary muscles:** Latissimus dorsi
+- **Assisting muscles:** Biceps brachii, Brachialis, Brachioradialis, Rhomboids, Middle trapezius, Teres major
+- **Stabilizers:** Abdominal wall, Rotator cuff
+- **Equipment:** Assisted pull-up machine with kneeling pad
+- **Movement:** Vertical pull - counterbalance machine; Bilateral
+- **Grip:** Overhand pronated grip on overhead handles, slightly wider than shoulder-width.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Select the counterbalance weight on the machine stack (higher weight provides more assistance; lower weight provides less).
+- Grasp the overhead handles with an overhand pronated grip slightly wider than shoulder-width.
+- Step onto the foot assist and place both knees securely onto the padded counterbalance lever.
+- Lower into a full dead hang with arms extended and core braced.
+
+### Execution
+
+1. Pull your body upward by driving your elbows down and back toward your ribcage.
+2. Continue pulling until your chin comfortably clears the height of the handles, keeping your chest lifted toward the bar.
+3. Pause briefly at the top peak contraction, squeezing your lats.
+4. Lower your body slowly under control, resisting the upward push of the knee pad until arms are fully extended at the bottom.
+
+### Cues
+
+- Drive elbows down to your pockets.
+- Chest up, chin over the handles.
+- Lower with control to full arm extension.
+
+### Common mistakes
+
+- Kicking off the counterbalance pad to bounce out of the bottom.
+- Cutting the bottom range short without reaching full arm extension.
+- Shrugging shoulders into the neck at the top of the pull.
+
+### Logging convention
+
+Selected 30 kg assistance load on stack: record 30 kg counterbalance assistance (effective load = bodyweight - 30 kg).
+
+Higher stack load equals greater assistance; record the selected counterbalance pin load. Document athlete bodyweight for net workload.
+
+### Variants and alternatives
+
+Counterbalanced vertical pull using a kneeling lever pad. Allows precise load progression toward unassisted bodyweight pull-ups.
+
+- Pull-Up
+- Negative Pull-Up
+- Seated Lat Pulldown Machine
+
+### Review notes
+
+- Drafted from FitTrack ID 25 (Assisted Pull-Up).
+- Illustration depicts athlete with knees on counterbalance pad, starting from full hang in panel A to chin-over-handles in panel B.
+
+### References
+
+- [ExRx.net - Lever Assisted Pull-up](https://exrx.net/WeightExercises/LatissimusDorsi/LVAssistedPullup): Counterbalance machine kinematics, vertical pulling progression, and latissimus recruitment.
+
+[Editable JSON](../catalog/exercises/assisted-pull-up.json)
 
 ## Barbell Back Squat
 
@@ -474,6 +549,74 @@ Starts upright and reverses at your controlled hinge depth; a conventional deadl
 - [ACE - Romanian Deadlift Technique Guide](https://www.acefitness.org/continuing-education/prosource/january-2016/5767/ace-technique-series-romanian-deadlift/): Hip hinge, setup, execution and involved muscle groups.
 
 [Editable JSON](../catalog/exercises/barbell-romanian-deadlift.json)
+
+## Barbell Wrist Curl
+
+![Paired black-and-white instructional line drawings of Barbell Wrist Curl.](../catalog/media/50a36bcb985eb669f20aeff0d3479f596c7f50ec224a1f3af64a581e53146a72.png)
+
+Starting position / Peak contraction position
+
+Flex the wrists upward against a barbell while forearms rest supported along a bench or thighs with palms facing upward, isolating the deep and superficial wrist flexors.
+
+- **Danish:** Håndledscurl med vægtstang
+- **Aliases:** Barbell Wrist Curl, Underhand barbell wrist curl, Seated barbell wrist curl, Barbell wrist flexion, Palms-up wrist curl
+- **Primary muscles:** Flexor carpi radialis, Flexor carpi ulnaris
+- **Assisting muscles:** Flexor digitorum superficialis, Flexor digitorum profundus
+- **Stabilizers:** Biceps brachii, Abdominal wall
+- **Equipment:** Barbell, Weight plates, Flat bench
+- **Movement:** Wrist flexion - forearm supported; Bilateral
+- **Grip:** Underhand supinated grip with palms facing upward and thumbs under or around the bar, hands shoulder-width apart.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Kneel beside or sit on the edge of a flat bench holding a loaded barbell with an underhand supinated grip, hands shoulder-width apart.
+- Rest your forearms flat against the bench pad with wrists and hands extending just beyond the edge.
+- Keep shoulders relaxed and elbows stationary.
+
+### Execution
+
+1. Lower the barbell by allowing your wrists to extend toward the floor, optionally letting the bar roll gently into your fingers for a deeper stretch.
+2. Curl the bar back into your palms and flex your wrists upward as high as possible, squeezing the inner forearm muscles.
+3. Hold the peak flexion contraction for a brief pause.
+4. Lower the bar slowly under control back to the starting stretch before beginning the next repetition.
+
+### Cues
+
+- Keep forearms glued to the bench pad.
+- Curl wrists upward toward the ceiling.
+- Control the lowering phase without bouncing.
+
+### Common mistakes
+
+- Lifting the elbows or forearms off the bench to assist the lift.
+- Using heavy loads that force rapid, jerky reps with incomplete wrist range.
+- Dropping the barbell off the fingertips.
+
+### Logging convention
+
+Barbell loaded to 20 kg: record 20 kg total barbell mass.
+
+Record the total system mass of the barbell plus all loaded plates.
+
+### Variants and alternatives
+
+Supinated forearm-supported wrist flexion targeting the flexor carpi group. Direct counterpart to the reverse wrist curl.
+
+- Barbell Reverse Wrist Curl
+- Dumbbell Hammer Curl
+
+### Review notes
+
+- Drafted from FitTrack ID 41 (Barbell Wrist Curl).
+- Illustration depicts forearms resting on bench, wrists hanging off edge with supinated underhand grip from extended downward stretch in panel A to curled peak in panel B.
+
+### References
+
+- [ExRx.net - Barbell Wrist Curl](https://exrx.net/WeightExercises/WristFlexors/BBWristCurl): Barbell wrist flexion biomechanics, flexor carpi recruitment, and bench forearm support protocols.
+
+[Editable JSON](../catalog/exercises/barbell-wrist-curl.json)
 
 ## Bayesian Curl
 
@@ -1431,6 +1574,75 @@ Bilateral dumbbell variation allowing independent wrist positioning while loadin
 
 [Editable JSON](../catalog/exercises/dumbbell-romanian-deadlift.json)
 
+## Dumbbell Seated Shoulder Press
+
+![Paired black-and-white instructional line drawings of Dumbbell Seated Shoulder Press.](../catalog/media/32a0054f9cee2178f8e3c98c171e025c71695e9de7c54e12a0010401cf6f591e.png)
+
+Starting position / Peak contraction position
+
+Press two dumbbells overhead from shoulder height while seated upright against a high bench backrest, developing anterior and lateral deltoid mass with back support.
+
+- **Danish:** Siddende skulderpres med håndvægte
+- **Aliases:** Dumbbell Seated Shoulder Press, Seated dumbbell overhead press, Seated dumbbell shoulder press, Seated DB shoulder press, Seated dumbbell military press
+- **Primary muscles:** Anterior deltoid, Lateral deltoid
+- **Assisting muscles:** Triceps brachii, Pectoralis major (clavicular head), Upper trapezius
+- **Stabilizers:** Rotator cuff, Abdominal wall, Rhomboids, Middle trapezius
+- **Equipment:** Two dumbbells, Adjustable incline bench (set to 75-85 degrees)
+- **Movement:** Vertical push - seated free weight; Bilateral
+- **Grip:** Pronated or semi-pronated grip holding dumbbells at shoulder level with forearms vertical and wrists stacked.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Set an adjustable bench to an upright position (approximately 75 to 85 degrees to support the spine without excessive cervical strain).
+- Sit firmly with your hips and upper back pressed against the backrest pad, feet flat on the floor.
+- Kick the dumbbells up to shoulder height using your knees, holding them with palms facing forward or angled slightly inward (scapular plane), forearms vertical.
+
+### Execution
+
+1. Press both dumbbells upward and slightly inward overhead in a smooth, converging vertical path.
+2. Extend your arms fully overhead with elbows softly unlocked at the top without banging the dumbbells together.
+3. Pause for a brief count at the lockout, feeling tension in the deltoids.
+4. Lower the dumbbells slowly under complete control back to ear or shoulder level before starting the next repetition.
+
+### Cues
+
+- Keep forearms vertical under the dumbbells.
+- Press upward in the natural scapular plane (~30° forward).
+- Keep upper back and glutes against the pad.
+
+### Common mistakes
+
+- Flaring elbows completely out to 90 degrees in the coronal plane, causing shoulder impingement.
+- Arching the lower back excessively off the bench to turn the exercise into an incline chest press.
+- Banging the dumbbells together at the top of the press.
+
+### Logging convention
+
+Two 22 kg dumbbells: record 22 kg per dumbbell.
+
+Record the mass of an individual dumbbell rather than the combined total pair mass.
+
+### Variants and alternatives
+
+Seated dumbbell overhead press with back support. Eliminates standing balance demands to focus maximal overload on deltoids while allowing independent arm movement.
+
+- Standing Dumbbell Strict Press
+- Standing Barbell Strict Press
+- Machine Chest Press
+
+### Review notes
+
+- Drafted from FitTrack ID 20 (Dumbbell Seated Shoulder Press).
+- Illustration depicts athlete seated upright with back supported against ~80-degree bench pad, pressing dumbbells overhead from shoulder height.
+
+### References
+
+- [ExRx.net - Dumbbell Seated Shoulder Press](https://exrx.net/WeightExercises/DeltoidAnterior/DBSeatedShoulderPress): Seated dumbbell shoulder press kinematics, deltoid recruitment, and scapular plane pressing alignment.
+
+[Editable JSON](../catalog/exercises/dumbbell-seated-shoulder-press.json)
+
 ## Dumbbell Single-Leg Calf Raise
 
 ![Paired black-and-white instructional line drawings of Dumbbell Single-Leg Calf Raise.](../catalog/media/ecbcfefe5bdd25fc86dd73d87481b6ede55d9410cab19e22d12d11411e4daa2d.png)
@@ -2323,6 +2535,75 @@ Seated machine chest press utilizing inner or converging handles to maximize hor
 
 [Editable JSON](../catalog/exercises/machine-inner-chest-press.json)
 
+## Machine Leg Extension
+
+![Paired black-and-white instructional line drawings of Machine Leg Extension.](../catalog/media/36bedab510f4905b07f29c627cffe5e9a11471a4a5ab53a2e0c11f30c3ea8a1f.png)
+
+Starting position / Peak contraction position
+
+Extend the knees against a padded roller while seated upright on a selectorized machine, isolating all four heads of the quadriceps through open-chain knee extension.
+
+- **Danish:** Benspark i maskine
+- **Aliases:** Machine Leg Extension, Leg extension, Seated leg extension, Leg extension machine, Quadriceps extension machine
+- **Primary muscles:** Quadriceps
+- **Assisting muscles:** Rectus femoris, Vastus lateralis, Vastus medialis, Vastus intermedius
+- **Stabilizers:** Abdominal wall, Forearm flexors
+- **Equipment:** Seated leg extension machine
+- **Movement:** Knee extension - seated machine; Bilateral
+- **Grip:** Hands gripping side support handles beside the seat.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust the backrest so your knees align directly with the machine's pivot axis when seated.
+- Position the padded shin roller against the front of your lower shins just above the ankles.
+- Sit firmly with your lower back and glutes pressed against the backrest pad and grip the side stability handles.
+
+### Execution
+
+1. Extend both knees smoothly forward and upward against the padded roller until legs are fully extended.
+2. Pause for a moment at peak knee extension, squeezing your quadriceps forcefully.
+3. Do not violently hyperextend or kick the weight up.
+4. Lower the lever slowly under complete control back to the 90-degree starting knee flexion without allowing the weight stack to slam.
+
+### Cues
+
+- Align knees with the machine pivot.
+- Extend legs smoothly and squeeze quads at the top.
+- Control the negative descent.
+
+### Common mistakes
+
+- Kicking the weight explosively and hyperextending the knee joints.
+- Lifting hips and glutes off the seat to leverage heavier weight.
+- Setting the roller pad too high on the mid-shin or too low on the toes.
+
+### Logging convention
+
+Weight stack pin set to 50 kg: record 50 kg selected machine load.
+
+Lever arm lengths and cam profiles vary across machine models; record selected stack pin load.
+
+### Variants and alternatives
+
+Open-chain selectorized quadriceps isolation exercise. Unlike squats or leg presses, places peak tension on the rectus femoris and terminal knee extension.
+
+- Pendulum Squat
+- Seated Leg Press
+- Barbell Back Squat
+
+### Review notes
+
+- Drafted from FitTrack ID 27 (Machine Leg Extension).
+- Illustration depicts seated position with back supported, shin roller resting above ankles, 90-degree knee bend in panel A, full straight-leg extension in panel B.
+
+### References
+
+- [ExRx.net - Lever Leg Extension](https://exrx.net/WeightExercises/Quadriceps/LVLegExtension): Open-chain knee extension kinematics, quadriceps recruitment, and patellofemoral joint mechanics.
+
+[Editable JSON](../catalog/exercises/machine-leg-extension.json)
+
 ## Machine Preacher Curl
 
 ![Two schematic line drawings of a seated machine preacher curl with the upper arms supported on an angled pad.](../catalog/media/517e8d87f04672a98545d4430fa99474453592d3b21640fc352a3b90725101d9.png)
@@ -2873,6 +3154,75 @@ Chest-supported reverse machine fly on a dual-function pec deck / rear delt mach
 - [ExRx.net - Lever Seated Rear Lateral Raise](https://exrx.net/WeightExercises/DeltoidPosterior/LVSeatedRearLateralRaise): Seated machine rear lateral raise mechanics, posterior deltoid isolation, and pelvic/torso alignment.
 
 [Editable JSON](../catalog/exercises/reverse-pec-deck.json)
+
+## Scapular Pull-Up
+
+![Paired black-and-white instructional line drawings of Scapular Pull-Up.](../catalog/media/6f9cac5e9a291be74c63eb24b45998549e0b9a63fcefe92287d48c9de00355da.png)
+
+Starting position / Peak contraction position
+
+Hang from a pull-up bar with completely straight arms and initiate vertical movement exclusively through scapular depression and retraction, elevating the torso without bending the elbows.
+
+- **Danish:** Skapulær pull-up
+- **Aliases:** Scapular Pull-Up, Scap pull-up, Scapular shrug pull-up, Hanging scapular depression, Straight-arm pull-up
+- **Primary muscles:** Lower trapezius, Rhomboids
+- **Assisting muscles:** Latissimus dorsi, Pectoralis minor, Serratus anterior
+- **Stabilizers:** Rotator cuff, Abdominal wall, Forearm flexors
+- **Equipment:** Pull-up bar
+- **Movement:** Scapular depression and retraction - hanging straight-arm pull; Bilateral
+- **Grip:** Overhand pronated grip slightly wider than shoulder-width, thumbs wrapped securely.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Grasp an overhead pull-up bar with an overhand pronated grip slightly wider than shoulder-width.
+- Hang freely with arms completely straight in a relaxed dead hang, feet together and core braced.
+- Ensure elbows remain locked and motionless throughout.
+
+### Execution
+
+1. Depress and retract your shoulder blades by pulling them down and together toward your spine.
+2. Feel your chest lift and your body rise slightly (2 to 4 inches) toward the bar solely from scapular movement.
+3. Hold the peak scapular retraction and depression for 1 to 2 seconds.
+4. Slowly relax your shoulder blades back up toward your ears into the full dead hang under control.
+
+### Cues
+
+- Pull shoulder blades down into your back pockets.
+- Keep arms completely straight without bending elbows.
+- Pause and squeeze at the top of the shrug.
+
+### Common mistakes
+
+- Bending elbows to pull with the arms rather than isolating the scapulae.
+- Swinging the legs or kipping to create momentum.
+- Rushing through the movement without holding peak depression.
+
+### Logging convention
+
+Bodyweight: record repetitions performed.
+
+Strict straight-arm movement; count repetitions with full scapular range of motion from passive dead hang to active depression.
+
+### Variants and alternatives
+
+Straight-arm scapular isolation movement training lower trapezius and latissimus engagement at the initiation of vertical pulling movements.
+
+- Negative Pull-Up
+- Isometric Hold (Pull-Up)
+- Assisted Pull-Up
+
+### Review notes
+
+- Drafted from FitTrack ID 29 (Scapular Pull-Up).
+- Elbows must remain completely straight in both panels; panel A shows passive dead hang with elevated shoulders, panel B shows depressed scapulae with chest lifted.
+
+### References
+
+- [ExRx.net - Pull-up](https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup): Scapular mechanics in vertical pulling, lower trapezius activation, and hanging shoulder depression.
+
+[Editable JSON](../catalog/exercises/scapular-pull-up.json)
 
 ## Seated Cable Row
 

@@ -1,0 +1,99 @@
+{
+  "id": "scapular-pull-up",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Scapular Pull-Up",
+  "nameDa": "Skapulær pull-up",
+  "aliases": [
+    "Scapular Pull-Up",
+    "Scap pull-up",
+    "Scapular shrug pull-up",
+    "Hanging scapular depression",
+    "Straight-arm pull-up"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Back",
+    "Shoulders"
+  ],
+  "movementPattern": "Scapular depression and retraction - hanging straight-arm pull",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Pull-up bar"
+  ],
+  "grip": "Overhand pronated grip slightly wider than shoulder-width, thumbs wrapped securely.",
+  "primaryMuscles": [
+    "Lower trapezius",
+    "Rhomboids"
+  ],
+  "secondaryMuscles": [
+    "Latissimus dorsi",
+    "Pectoralis minor",
+    "Serratus anterior"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall",
+    "Forearm flexors"
+  ],
+  "description": "Hang from a pull-up bar with completely straight arms and initiate vertical movement exclusively through scapular depression and retraction, elevating the torso without bending the elbows.",
+  "setup": [
+    "Grasp an overhead pull-up bar with an overhand pronated grip slightly wider than shoulder-width.",
+    "Hang freely with arms completely straight in a relaxed dead hang, feet together and core braced.",
+    "Ensure elbows remain locked and motionless throughout."
+  ],
+  "instructions": [
+    "Depress and retract your shoulder blades by pulling them down and together toward your spine.",
+    "Feel your chest lift and your body rise slightly (2 to 4 inches) toward the bar solely from scapular movement.",
+    "Hold the peak scapular retraction and depression for 1 to 2 seconds.",
+    "Slowly relax your shoulder blades back up toward your ears into the full dead hang under control."
+  ],
+  "cues": [
+    "Pull shoulder blades down into your back pockets.",
+    "Keep arms completely straight without bending elbows.",
+    "Pause and squeeze at the top of the shrug."
+  ],
+  "commonMistakes": [
+    "Bending elbows to pull with the arms rather than isolating the scapulae.",
+    "Swinging the legs or kipping to create momentum.",
+    "Rushing through the movement without holding peak depression."
+  ],
+  "logging": {
+    "basis": "bodyweight_only",
+    "example": "Bodyweight: record repetitions performed.",
+    "note": "Strict straight-arm movement; count repetitions with full scapular range of motion from passive dead hang to active depression."
+  },
+  "alternatives": [
+    "Negative Pull-Up",
+    "Isometric Hold (Pull-Up)",
+    "Assisted Pull-Up"
+  ],
+  "variantNote": "Straight-arm scapular isolation movement training lower trapezius and latissimus engagement at the initiation of vertical pulling movements.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 29 (Scapular Pull-Up).",
+    "Elbows must remain completely straight in both panels; panel A shows passive dead hang with elevated shoulders, panel B shows depressed scapulae with chest lifted."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Pull-up",
+      "url": "https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup",
+      "scope": "Scapular mechanics in vertical pulling, lower trapezius activation, and hanging shoulder depression."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "6f9cac5e9a291be74c63eb24b45998549e0b9a63fcefe92287d48c9de00355da",
+    "url": "/media/6f9cac5e9a291be74c63eb24b45998549e0b9a63fcefe92287d48c9de00355da.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Scapular Pull-Up.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "scapular-pull-up",
+      "model": null
+    }
+  }
+}

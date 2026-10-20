@@ -1,0 +1,101 @@
+{
+  "id": "assisted-pull-up",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Assisted Pull-Up",
+  "nameDa": "Assisteret pull-up i maskine",
+  "aliases": [
+    "Assisted Pull-Up",
+    "Machine assisted pull-up",
+    "Counterbalance pull-up",
+    "Assisted chin-up machine",
+    "Weight-assisted pull-up"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Vertical pull - counterbalance machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Assisted pull-up machine with kneeling pad"
+  ],
+  "grip": "Overhand pronated grip on overhead handles, slightly wider than shoulder-width.",
+  "primaryMuscles": [
+    "Latissimus dorsi"
+  ],
+  "secondaryMuscles": [
+    "Biceps brachii",
+    "Brachialis",
+    "Brachioradialis",
+    "Rhomboids",
+    "Middle trapezius",
+    "Teres major"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff"
+  ],
+  "description": "Perform a vertical pull-up while kneeling on a counterbalanced weight pad, reducing effective bodyweight to build pulling strength and technique across a full range of motion.",
+  "setup": [
+    "Select the counterbalance weight on the machine stack (higher weight provides more assistance; lower weight provides less).",
+    "Grasp the overhead handles with an overhand pronated grip slightly wider than shoulder-width.",
+    "Step onto the foot assist and place both knees securely onto the padded counterbalance lever.",
+    "Lower into a full dead hang with arms extended and core braced."
+  ],
+  "instructions": [
+    "Pull your body upward by driving your elbows down and back toward your ribcage.",
+    "Continue pulling until your chin comfortably clears the height of the handles, keeping your chest lifted toward the bar.",
+    "Pause briefly at the top peak contraction, squeezing your lats.",
+    "Lower your body slowly under control, resisting the upward push of the knee pad until arms are fully extended at the bottom."
+  ],
+  "cues": [
+    "Drive elbows down to your pockets.",
+    "Chest up, chin over the handles.",
+    "Lower with control to full arm extension."
+  ],
+  "commonMistakes": [
+    "Kicking off the counterbalance pad to bounce out of the bottom.",
+    "Cutting the bottom range short without reaching full arm extension.",
+    "Shrugging shoulders into the neck at the top of the pull."
+  ],
+  "logging": {
+    "basis": "counterbalance_assistance_load",
+    "example": "Selected 30 kg assistance load on stack: record 30 kg counterbalance assistance (effective load = bodyweight - 30 kg).",
+    "note": "Higher stack load equals greater assistance; record the selected counterbalance pin load. Document athlete bodyweight for net workload."
+  },
+  "alternatives": [
+    "Pull-Up",
+    "Negative Pull-Up",
+    "Seated Lat Pulldown Machine"
+  ],
+  "variantNote": "Counterbalanced vertical pull using a kneeling lever pad. Allows precise load progression toward unassisted bodyweight pull-ups.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 25 (Assisted Pull-Up).",
+    "Illustration depicts athlete with knees on counterbalance pad, starting from full hang in panel A to chin-over-handles in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Assisted Pull-up",
+      "url": "https://exrx.net/WeightExercises/LatissimusDorsi/LVAssistedPullup",
+      "scope": "Counterbalance machine kinematics, vertical pulling progression, and latissimus recruitment."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "b3b63828ac4cc95eef7b6b04bcdfbdb91259b2a528cd31239ec24d7499050f01",
+    "url": "/media/b3b63828ac4cc95eef7b6b04bcdfbdb91259b2a528cd31239ec24d7499050f01.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Assisted Pull-Up.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "assisted-pull-up",
+      "model": null
+    }
+  }
+}
