@@ -1,0 +1,99 @@
+{
+  "id": "machine-seated-leg-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Machine Seated Leg Curl",
+  "nameDa": "Siddende lårcurl i maskine",
+  "aliases": [
+    "Machine Seated Leg Curl",
+    "Seated leg curl",
+    "Seated machine hamstring curl",
+    "Seated hamstring curl machine",
+    "Lever seated leg curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Thighs"
+  ],
+  "movementPattern": "Knee flexion - seated machine with hip flexion",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Seated leg curl machine"
+  ],
+  "grip": "Hands gripping side stability handles beside the seat.",
+  "primaryMuscles": [
+    "Biceps femoris",
+    "Semitendinosus",
+    "Semimembranosus"
+  ],
+  "secondaryMuscles": [
+    "Gastrocnemius",
+    "Gracilis",
+    "Sartorius"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Forearm flexors"
+  ],
+  "description": "Flex knees against a padded lever roller while seated with thighs locked under a support pad, placing the hamstrings in a lengthened hip-flexed position for superior hypertrophy.",
+  "setup": [
+    "Adjust the backrest so your knees align directly with the machine's pivot axis when seated upright.",
+    "Lower and secure the thigh restraint pad firmly over your lower thighs just above your knees.",
+    "Place the back of your lower calves/Achilles tendons against the top of the lower padded roller.",
+    "Grasp the side stability handles to secure your hips down into the seat."
+  ],
+  "instructions": [
+    "Curl your heels downward and backward toward the underside of the seat by flexing your knees.",
+    "Continue curling through a complete arc until knees are flexed past 90 degrees.",
+    "Squeeze your hamstrings forcefully at peak contraction.",
+    "Slowly extend your knees under complete control, resisting the weight stack until legs are almost fully extended in front."
+  ],
+  "cues": [
+    "Lock thigh pad down tight.",
+    "Drive heels back under the seat.",
+    "Control the eccentric return."
+  ],
+  "commonMistakes": [
+    "Failing to secure the thigh pad, causing thighs and hips to lift during the curl.",
+    "Letting the weight stack slam at the top of the extension.",
+    "Cutting the curl short before reaching full 90+ degree knee flexion."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight stack pin set to 45 kg: record 45 kg selected machine load.",
+    "note": "Cam profiles and leverage vary between manufacturers; record the selected stack pin load."
+  },
+  "alternatives": [
+    "Lying Leg Curl",
+    "Barbell Romanian Deadlift",
+    "Dumbbell Romanian Deadlift"
+  ],
+  "variantNote": "Seated machine hamstring curl. Seated hip flexion lengthens the hamstring muscles at the pelvis, providing greater passive and active stretch-mediated hypertrophy than lying leg curls.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 15 (Machine Seated Leg Curl).",
+    "Illustration depicts seated athlete with thighs pinned under upper pad, lower roller behind Achilles, showing legs extended in panel A and curled under seat in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Seated Leg Curl",
+      "url": "https://exrx.net/WeightExercises/Hamstrings/LVSeatedLegCurl",
+      "scope": "Seated leg curl kinematics, hamstring lengthened-position recruitment, and comparison to prone curls."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "35ac4785397e96bffdb8eff1b3e07059bbf47967659bcc1c6d0decab31c750b2",
+    "url": "/media/35ac4785397e96bffdb8eff1b3e07059bbf47967659bcc1c6d0decab31c750b2.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Machine Seated Leg Curl.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "machine-seated-leg-curl",
+      "model": null
+    }
+  }
+}

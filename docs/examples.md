@@ -1,9 +1,10 @@
 # Illustrated exercise catalog
 
-68 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+73 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
+- [Assisted Hanging Knee Raise](../catalog/exercises/assisted-hanging-knee-raise.json)
 - [Assisted Pull-Up](../catalog/exercises/assisted-pull-up.json)
 - [Barbell Back Squat](../catalog/exercises/barbell-back-squat.json)
 - [Barbell Bench Press](../catalog/exercises/barbell-bench-press.json)
@@ -20,6 +21,7 @@
 - [Cable Rope Triceps Pushdown](../catalog/exercises/cable-rope-triceps-pushdown.json)
 - [Cable Triceps Pushdown](../catalog/exercises/cable-triceps-pushdown.json)
 - [Captain's Chair Straight-Leg Raise](../catalog/exercises/captains-chair-straight-leg-raise.json)
+- [Chin-Up](../catalog/exercises/chin-up.json)
 - [Decline Dumbbell Bench Press](../catalog/exercises/decline-dumbbell-bench-press.json)
 - [Dumbbell Bench Press](../catalog/exercises/dumbbell-bench-press.json)
 - [Dumbbell Biceps Curl](../catalog/exercises/dumbbell-biceps-curl.json)
@@ -42,6 +44,9 @@
 - [Machine Inner Chest Press](../catalog/exercises/machine-inner-chest-press.json)
 - [Machine Leg Extension](../catalog/exercises/machine-leg-extension.json)
 - [Machine Preacher Curl](../catalog/exercises/machine-preacher-curl.json)
+- [Machine Seated Calf Raise](../catalog/exercises/machine-seated-calf-raise.json)
+- [Machine Seated Crunch](../catalog/exercises/machine-seated-crunch.json)
+- [Machine Seated Leg Curl](../catalog/exercises/machine-seated-leg-curl.json)
 - [Negative Pull-Up](../catalog/exercises/negative-pull-up.json)
 - [Overhead Rope Cable Triceps Extension](../catalog/exercises/overhead-rope-cable-triceps-extension.json)
 - [Pec Deck](../catalog/exercises/pec-deck.json)
@@ -72,6 +77,75 @@
 - [Trap-Bar Deadlift](../catalog/exercises/trap-bar-deadlift.json)
 - [Weighted Dips](../catalog/exercises/weighted-dip.json)
 - [Wide-Grip Upright Row](../catalog/exercises/wide-grip-upright-row.json)
+
+## Assisted Hanging Knee Raise
+
+![Paired black-and-white instructional line drawings of Assisted Hanging Knee Raise.](../catalog/media/d362ab15dae85f71cb4348a1e1e0de152ff4165014468a6054003c63d6771f05.png)
+
+Starting position / Peak contraction position
+
+Hang from an overhead bar using padded ab slings supporting the upper arms and flex hips and knees upward toward the chest, curling the pelvis into posterior tilt to isolate the rectus abdominis without grip fatigue.
+
+- **Danish:** Assisteret hængende knæløft
+- **Aliases:** Assisted Hanging Knee Raise, Ab sling hanging knee raise, Hanging knee raise with straps, Arm strap hanging knee raise, Supported hanging knee raise
+- **Primary muscles:** Rectus abdominis
+- **Assisting muscles:** Iliopsoas, Tensor fasciae latae, Rectus femoris, Obliques
+- **Stabilizers:** Latissimus dorsi, Lower trapezius
+- **Equipment:** Pull-up bar, Hanging ab slings (elbow straps)
+- **Movement:** Hip flexion and posterior pelvic tilt - suspended arm straps; Bilateral
+- **Grip:** Upper arms and elbows supported in padded hanging ab slings suspended from an overhead bar, hands gripping the upper strap straps.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Attach heavy-duty padded ab slings to an overhead pull-up bar shoulder-width apart.
+- Slip your upper arms through the padded slings so your triceps and elbows are comfortably cradled.
+- Grasp the upper straps lightly and allow your body and legs to hang freely vertically, engaging your lats.
+
+### Execution
+
+1. Inhale and brace your abdominal wall.
+2. Lift your knees smoothly upward toward your chest by flexing your hips and curling your pelvis toward your ribcage.
+3. Raise your knees until your thighs are above horizontal, achieving full posterior pelvic tilt.
+4. Pause briefly at the top peak contraction, squeezing your abdominal muscles.
+5. Lower your legs slowly under control back to the vertical hang without allowing your body to swing.
+
+### Cues
+
+- Roll your pelvis up toward your sternum.
+- Lead with the knees, do not swing.
+- Control the descent back to vertical.
+
+### Common mistakes
+
+- Swinging the legs back and forth to use momentum instead of abdominal contraction.
+- Only flexing the hip flexors without curling the pelvis, leaving the rectus abdominis under-recruited.
+- Shrugging the neck down into the straps.
+
+### Logging convention
+
+Bodyweight: record repetitions performed.
+
+Suspended strap bodyweight exercise; record clean repetitions with complete pelvic tilt.
+
+### Variants and alternatives
+
+Hanging knee raise performed with elbow support straps / ab slings. Eliminates forearm and grip failure as limiting factors, allowing strict focus on pelvic flexion.
+
+- Captain's Chair Straight-Leg Raise
+- Machine Seated Crunch
+
+### Review notes
+
+- Drafted from FitTrack ID 18 (Assisted Hanging Knee Raise).
+- Illustration depicts athlete suspended via padded ab slings cradling elbows/triceps from overhead bar.
+
+### References
+
+- [ExRx.net - Hanging Leg-Hip Raise](https://exrx.net/WeightExercises/RectusAbdominis/BWHangingLegHipRaise): Hanging knee raise biomechanics, arm strap suspension benefits, and rectus abdominis kinematics.
+
+[Editable JSON](../catalog/exercises/assisted-hanging-knee-raise.json)
 
 ## Assisted Pull-Up
 
@@ -1169,6 +1243,75 @@ Straight-leg variant of the captain's chair raise. Longer lever arm significantl
 - [ExRx.net - Vertical Leg-Hip Raise](https://exrx.net/WeightExercises/RectusAbdominis/BWVerticalLegHipRaise): Captain's chair leg raise biomechanics, abdominal activation, and pelvic tilt.
 
 [Editable JSON](../catalog/exercises/captains-chair-straight-leg-raise.json)
+
+## Chin-Up
+
+![Paired black-and-white instructional line drawings of Chin-Up.](../catalog/media/7aec6c7f8e116b85f291f148fb5f387058add050da4091076d8edccd396fbfe0.png)
+
+Starting position / Peak contraction position
+
+Pull bodyweight vertically to an overhead bar using a shoulder-width supinated grip until the chin clears the bar, emphasizing the biceps brachii and lower latissimus fibers.
+
+- **Danish:** Chin-up
+- **Aliases:** Chin-Up, Underhand pull-up, Supinated pull-up, Chin up, Bodyweight chin-up
+- **Primary muscles:** Latissimus dorsi, Biceps brachii
+- **Assisting muscles:** Brachialis, Brachioradialis, Teres major, Rhomboids, Pectoralis major (sternal head)
+- **Stabilizers:** Abdominal wall, Rotator cuff, Forearm flexors
+- **Equipment:** Pull-up bar
+- **Movement:** Vertical pull - supinated grip; Bilateral
+- **Grip:** Underhand supinated grip, shoulder-width apart, with palms facing toward the athlete.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Grasp an overhead bar with a shoulder-width supinated grip (palms facing inward toward your face).
+- Hang in a complete, active dead hang with arms fully extended and shoulders depressed away from ears.
+- Brace your core, cross your ankles slightly behind you, and keep a tall chest.
+
+### Execution
+
+1. Pull your body upward by driving your elbows down and back toward your ribcage.
+2. Lead with the upper chest and pull until your chin comfortably clears the top edge of the bar.
+3. Pause briefly at peak contraction, squeezing your lats and biceps.
+4. Lower your body in a slow, uniform descent back to a complete dead hang with arms fully extended before beginning the next repetition.
+
+### Cues
+
+- Drive elbows down and back.
+- Chest to the bar, chin clearly over.
+- Lower to a full dead hang on every rep.
+
+### Common mistakes
+
+- Kipping or swinging the hips and legs to generate upward momentum.
+- Cutting the bottom range of motion short without fully extending the elbows.
+- Reaching the chin upward frantically without completing full humeral adduction.
+
+### Logging convention
+
+Bodyweight: record repetitions performed (or note added external weight if dipping belt is used).
+
+Record clean repetitions performed from full hang to chin-over-bar.
+
+### Variants and alternatives
+
+Supinated-grip vertical pull. Compared to the pronated pull-up, the underhand grip places the biceps brachii in an optimal line of pull for increased mechanical advantage and elbow flexion torque.
+
+- Pull-Up
+- Assisted Pull-Up
+- Single-Arm Supinated Pulldown
+
+### Review notes
+
+- Drafted from FitTrack ID 19 (Chin-Up).
+- Illustration depicts underhand supinated grip with arms hanging in panel A and chin cleared above bar in panel B.
+
+### References
+
+- [ExRx.net - Chin-up](https://exrx.net/WeightExercises/LatissimusDorsi/BWChinup): Supinated vertical pull biomechanics, biceps brachii and latissimus dorsi activation, and dead-hang standards.
+
+[Editable JSON](../catalog/exercises/chin-up.json)
 
 ## Decline Dumbbell Bench Press
 
@@ -2670,6 +2813,215 @@ Machine preacher version is confirmed. Selectorized, bilateral shared lever is a
 - [Life Fitness - Insignia Series Biceps Curl](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-biceps-curl): Manufacturer example of a supported-arm selectorized biceps machine. Does not identify the gym machine or validate this generic illustration.
 
 [Editable JSON](../catalog/exercises/machine-preacher-curl.json)
+
+## Machine Seated Calf Raise
+
+![Paired black-and-white instructional line drawings of Machine Seated Calf Raise.](../catalog/media/dc344db927d9893481c903f8be134d64abc67a0d9a9b2646038b9ccebdfdb149.png)
+
+Starting position / Peak contraction position
+
+Perform bilateral ankle plantar flexion against padded thigh supports while seated with knees bent to 90 degrees, biomechanically unloading the gastrocnemius to isolate the soleus.
+
+- **Danish:** Siddende lægløft i maskine
+- **Aliases:** Machine Seated Calf Raise, Seated calf raise machine, Seated calf raise, Bent-knee calf raise, Soleus calf raise
+- **Primary muscles:** Soleus
+- **Assisting muscles:** Gastrocnemius, Tibialis posterior
+- **Stabilizers:** Forearm flexors
+- **Equipment:** Seated calf raise machine, Weight plates
+- **Movement:** Ankle plantar flexion - 90-degree knee flexion; Bilateral
+- **Grip:** Hands holding stability handles or the release lever beside the thigh pads.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Sit on the machine and place the balls of both feet on the lower edge of the footplate with heels hanging freely.
+- Adjust and secure the padded thigh lever snugly across your lower thighs just above your knees.
+- Disengage the safety support release bar and allow your heels to lower into full ankle dorsiflexion.
+
+### Execution
+
+1. Lower your heels down into a deep, comfortable stretch below the footplate level.
+2. Press forcefully through the balls of both feet into full plantar flexion, driving the thigh pad upward onto your tiptoes.
+3. Hold the peak contraction at the top for a count of one, squeezing the deep calf muscles.
+4. Lower slowly under complete control back into the full bottom stretch before beginning the next repetition.
+5. Re-engage the safety catch lever when the set is finished.
+
+### Cues
+
+- Drop heels deep for a loaded stretch.
+- Press high onto the balls of the feet.
+- Pause at both the stretch and the top.
+
+### Common mistakes
+
+- Bouncing rapidly out of the bottom stretch using Achilles tendon elasticity instead of muscular contraction.
+- Cutting the range of motion short.
+- Placing the thigh pads too high on the upper thighs instead of just above the knees.
+
+### Logging convention
+
+Two 20 kg plates loaded on horn: record 40 kg total plate load.
+
+Most seated calf raise machines are plate-loaded lever arms; record the total mass of weight plates loaded.
+
+### Variants and alternatives
+
+Bent-knee calf raise. Flexing the knee to 90 degrees causes active insufficiency of the biarticular gastrocnemius, isolating the monoarticular soleus under direct load.
+
+- Standing Calf Raise
+- Leg Press Calf Press
+- Dumbbell Single-Leg Calf Raise
+
+### Review notes
+
+- Drafted from FitTrack ID 16 (Machine Seated Calf Raise).
+- Illustration depicts seated 90-degree bent knee position under thigh pad with balls of feet on block edge, showing dorsiflexion in panel A and peak plantar flexion in panel B.
+
+### References
+
+- [ExRx.net - Lever Seated Calf Raise](https://exrx.net/WeightExercises/Soleus/LVSeatedCalfRaise): Seated calf raise biomechanics, soleus isolation via knee flexion, and gastrocnemius active insufficiency.
+
+[Editable JSON](../catalog/exercises/machine-seated-calf-raise.json)
+
+## Machine Seated Crunch
+
+![Paired black-and-white instructional line drawings of Machine Seated Crunch.](../catalog/media/59a865bf865f62ea58ed2e47d2f77a7f761ca870acce3a06c2a32925971dfe8f.png)
+
+Starting position / Peak contraction position
+
+Flex the spine forward against a padded chest lever or harness while seated on an abdominal machine, curling the ribcage toward the pelvis against adjustable stack resistance.
+
+- **Danish:** Siddende mavebøjning i maskine
+- **Aliases:** Machine Seated Crunch, Seated ab crunch machine, Abdominal crunch machine, Machine abdominal crunch, Lever seated crunch
+- **Primary muscles:** Rectus abdominis
+- **Assisting muscles:** Obliques
+- **Stabilizers:** Transverse abdominis, Iliopsoas
+- **Equipment:** Seated abdominal crunch machine
+- **Movement:** Spinal flexion - seated machine; Bilateral
+- **Grip:** Hands holding upper chest handles or shoulder harness straps beside the neck.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Select the desired weight stack pin load.
+- Adjust the seat height so the machine's pivot axis aligns directly with your lumbar/thoracic flexion zone (mid-torso).
+- Sit firmly with your lower back against the lumbar pad, feet secured behind roller pads or flat on foot rests.
+- Grasp the overhead handles or place the padded chest harness against your upper chest/shoulders.
+
+### Execution
+
+1. Exhale and flex your spine forward, curling your ribcage down toward your pelvis.
+2. Focus all movement on curling the upper torso into a tight ball using only abdominal contraction.
+3. Hold the fully crunched position for a brief moment of peak contraction.
+4. Inhale and reverse the motion slowly under complete control, allowing your spine to unroll back to an upright position without hyperextending.
+
+### Cues
+
+- Pull your ribs down to your hip bones.
+- Do not pull with your arms or neck.
+- Control the unrolling on the way back.
+
+### Common mistakes
+
+- Pulling with the arms and shoulders instead of curling with the abdominals.
+- Hinging purely at the hip flexors with a flat back instead of flexing the spine.
+- Allowing the weight plates to slam into the stack between reps.
+
+### Logging convention
+
+Weight pin set to 40 kg: record 40 kg selected machine load.
+
+Cam profiles and lever mechanics vary between manufacturers; record the selected stack pin load.
+
+### Variants and alternatives
+
+Selectorized seated crunch machine providing a direct, progressive resistance curve for spinal flexion that cannot be easily achieved with bodyweight floor crunches.
+
+- Captain's Chair Straight-Leg Raise
+- Assisted Hanging Knee Raise
+
+### Review notes
+
+- Drafted from FitTrack ID 17 (Machine Seated Crunch).
+- Illustration depicts seated posture with padded upper chest harness/lever, starting upright in panel A and fully crunched forward in panel B.
+
+### References
+
+- [ExRx.net - Lever Seated Crunch](https://exrx.net/WeightExercises/RectusAbdominis/LVSeatedCrunch): Machine seated crunch kinematics, rectus abdominis spinal flexion, and pivot axis alignment.
+
+[Editable JSON](../catalog/exercises/machine-seated-crunch.json)
+
+## Machine Seated Leg Curl
+
+![Paired black-and-white instructional line drawings of Machine Seated Leg Curl.](../catalog/media/35ac4785397e96bffdb8eff1b3e07059bbf47967659bcc1c6d0decab31c750b2.png)
+
+Starting position / Peak contraction position
+
+Flex knees against a padded lever roller while seated with thighs locked under a support pad, placing the hamstrings in a lengthened hip-flexed position for superior hypertrophy.
+
+- **Danish:** Siddende lårcurl i maskine
+- **Aliases:** Machine Seated Leg Curl, Seated leg curl, Seated machine hamstring curl, Seated hamstring curl machine, Lever seated leg curl
+- **Primary muscles:** Biceps femoris, Semitendinosus, Semimembranosus
+- **Assisting muscles:** Gastrocnemius, Gracilis, Sartorius
+- **Stabilizers:** Abdominal wall, Forearm flexors
+- **Equipment:** Seated leg curl machine
+- **Movement:** Knee flexion - seated machine with hip flexion; Bilateral
+- **Grip:** Hands gripping side stability handles beside the seat.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust the backrest so your knees align directly with the machine's pivot axis when seated upright.
+- Lower and secure the thigh restraint pad firmly over your lower thighs just above your knees.
+- Place the back of your lower calves/Achilles tendons against the top of the lower padded roller.
+- Grasp the side stability handles to secure your hips down into the seat.
+
+### Execution
+
+1. Curl your heels downward and backward toward the underside of the seat by flexing your knees.
+2. Continue curling through a complete arc until knees are flexed past 90 degrees.
+3. Squeeze your hamstrings forcefully at peak contraction.
+4. Slowly extend your knees under complete control, resisting the weight stack until legs are almost fully extended in front.
+
+### Cues
+
+- Lock thigh pad down tight.
+- Drive heels back under the seat.
+- Control the eccentric return.
+
+### Common mistakes
+
+- Failing to secure the thigh pad, causing thighs and hips to lift during the curl.
+- Letting the weight stack slam at the top of the extension.
+- Cutting the curl short before reaching full 90+ degree knee flexion.
+
+### Logging convention
+
+Weight stack pin set to 45 kg: record 45 kg selected machine load.
+
+Cam profiles and leverage vary between manufacturers; record the selected stack pin load.
+
+### Variants and alternatives
+
+Seated machine hamstring curl. Seated hip flexion lengthens the hamstring muscles at the pelvis, providing greater passive and active stretch-mediated hypertrophy than lying leg curls.
+
+- Lying Leg Curl
+- Barbell Romanian Deadlift
+- Dumbbell Romanian Deadlift
+
+### Review notes
+
+- Drafted from FitTrack ID 15 (Machine Seated Leg Curl).
+- Illustration depicts seated athlete with thighs pinned under upper pad, lower roller behind Achilles, showing legs extended in panel A and curled under seat in panel B.
+
+### References
+
+- [ExRx.net - Lever Seated Leg Curl](https://exrx.net/WeightExercises/Hamstrings/LVSeatedLegCurl): Seated leg curl kinematics, hamstring lengthened-position recruitment, and comparison to prone curls.
+
+[Editable JSON](../catalog/exercises/machine-seated-leg-curl.json)
 
 ## Negative Pull-Up
 

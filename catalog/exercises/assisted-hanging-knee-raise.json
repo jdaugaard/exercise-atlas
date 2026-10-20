@@ -1,0 +1,99 @@
+{
+  "id": "assisted-hanging-knee-raise",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Assisted Hanging Knee Raise",
+  "nameDa": "Assisteret hængende knæløft",
+  "aliases": [
+    "Assisted Hanging Knee Raise",
+    "Ab sling hanging knee raise",
+    "Hanging knee raise with straps",
+    "Arm strap hanging knee raise",
+    "Supported hanging knee raise"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Core",
+    "Hips"
+  ],
+  "movementPattern": "Hip flexion and posterior pelvic tilt - suspended arm straps",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Pull-up bar",
+    "Hanging ab slings (elbow straps)"
+  ],
+  "grip": "Upper arms and elbows supported in padded hanging ab slings suspended from an overhead bar, hands gripping the upper strap straps.",
+  "primaryMuscles": [
+    "Rectus abdominis"
+  ],
+  "secondaryMuscles": [
+    "Iliopsoas",
+    "Tensor fasciae latae",
+    "Rectus femoris",
+    "Obliques"
+  ],
+  "stabilizers": [
+    "Latissimus dorsi",
+    "Lower trapezius"
+  ],
+  "description": "Hang from an overhead bar using padded ab slings supporting the upper arms and flex hips and knees upward toward the chest, curling the pelvis into posterior tilt to isolate the rectus abdominis without grip fatigue.",
+  "setup": [
+    "Attach heavy-duty padded ab slings to an overhead pull-up bar shoulder-width apart.",
+    "Slip your upper arms through the padded slings so your triceps and elbows are comfortably cradled.",
+    "Grasp the upper straps lightly and allow your body and legs to hang freely vertically, engaging your lats."
+  ],
+  "instructions": [
+    "Inhale and brace your abdominal wall.",
+    "Lift your knees smoothly upward toward your chest by flexing your hips and curling your pelvis toward your ribcage.",
+    "Raise your knees until your thighs are above horizontal, achieving full posterior pelvic tilt.",
+    "Pause briefly at the top peak contraction, squeezing your abdominal muscles.",
+    "Lower your legs slowly under control back to the vertical hang without allowing your body to swing."
+  ],
+  "cues": [
+    "Roll your pelvis up toward your sternum.",
+    "Lead with the knees, do not swing.",
+    "Control the descent back to vertical."
+  ],
+  "commonMistakes": [
+    "Swinging the legs back and forth to use momentum instead of abdominal contraction.",
+    "Only flexing the hip flexors without curling the pelvis, leaving the rectus abdominis under-recruited.",
+    "Shrugging the neck down into the straps."
+  ],
+  "logging": {
+    "basis": "bodyweight_only",
+    "example": "Bodyweight: record repetitions performed.",
+    "note": "Suspended strap bodyweight exercise; record clean repetitions with complete pelvic tilt."
+  },
+  "alternatives": [
+    "Captain's Chair Straight-Leg Raise",
+    "Machine Seated Crunch"
+  ],
+  "variantNote": "Hanging knee raise performed with elbow support straps / ab slings. Eliminates forearm and grip failure as limiting factors, allowing strict focus on pelvic flexion.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 18 (Assisted Hanging Knee Raise).",
+    "Illustration depicts athlete suspended via padded ab slings cradling elbows/triceps from overhead bar."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Hanging Leg-Hip Raise",
+      "url": "https://exrx.net/WeightExercises/RectusAbdominis/BWHangingLegHipRaise",
+      "scope": "Hanging knee raise biomechanics, arm strap suspension benefits, and rectus abdominis kinematics."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "d362ab15dae85f71cb4348a1e1e0de152ff4165014468a6054003c63d6771f05",
+    "url": "/media/d362ab15dae85f71cb4348a1e1e0de152ff4165014468a6054003c63d6771f05.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Assisted Hanging Knee Raise.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "assisted-hanging-knee-raise",
+      "model": null
+    }
+  }
+}
