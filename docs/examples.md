@@ -1,6 +1,6 @@
 # Illustrated exercise catalog
 
-73 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+79 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
@@ -10,6 +10,7 @@
 - [Barbell Bench Press](../catalog/exercises/barbell-bench-press.json)
 - [Barbell Deadlift](../catalog/exercises/barbell-deadlift.json)
 - [Barbell Incline Bench Press](../catalog/exercises/barbell-incline-bench-press.json)
+- [Barbell Lying Triceps Extension](../catalog/exercises/barbell-lying-triceps-extension.json)
 - [Barbell Reverse Wrist Curl](../catalog/exercises/barbell-reverse-wrist-curl.json)
 - [Barbell Romanian Deadlift](../catalog/exercises/barbell-romanian-deadlift.json)
 - [Barbell Wrist Curl](../catalog/exercises/barbell-wrist-curl.json)
@@ -25,7 +26,9 @@
 - [Decline Dumbbell Bench Press](../catalog/exercises/decline-dumbbell-bench-press.json)
 - [Dumbbell Bench Press](../catalog/exercises/dumbbell-bench-press.json)
 - [Dumbbell Biceps Curl](../catalog/exercises/dumbbell-biceps-curl.json)
+- [Dumbbell Cross-Body Hammer Curl](../catalog/exercises/dumbbell-cross-body-hammer-curl.json)
 - [Dumbbell Hammer Curl](../catalog/exercises/dumbbell-hammer-curl.json)
+- [Dumbbell Incline Bench Press](../catalog/exercises/dumbbell-incline-bench-press.json)
 - [Dumbbell Lateral Raise](../catalog/exercises/dumbbell-lateral-raise.json)
 - [Dumbbell Romanian Deadlift](../catalog/exercises/dumbbell-romanian-deadlift.json)
 - [Dumbbell Seated Shoulder Press](../catalog/exercises/dumbbell-seated-shoulder-press.json)
@@ -47,12 +50,14 @@
 - [Machine Seated Calf Raise](../catalog/exercises/machine-seated-calf-raise.json)
 - [Machine Seated Crunch](../catalog/exercises/machine-seated-crunch.json)
 - [Machine Seated Leg Curl](../catalog/exercises/machine-seated-leg-curl.json)
+- [Machine Seated Row](../catalog/exercises/machine-seated-row.json)
 - [Negative Pull-Up](../catalog/exercises/negative-pull-up.json)
 - [Overhead Rope Cable Triceps Extension](../catalog/exercises/overhead-rope-cable-triceps-extension.json)
 - [Pec Deck](../catalog/exercises/pec-deck.json)
 - [Pendlay Row](../catalog/exercises/pendlay-row.json)
 - [Pendulum Squat](../catalog/exercises/pendulum-squat.json)
 - [Plate Loaded Lat Pulldown](../catalog/exercises/plate-loaded-lat-pulldown.json)
+- [Pull-Up](../catalog/exercises/pull-up.json)
 - [Reverse Pec Deck](../catalog/exercises/reverse-pec-deck.json)
 - [Scapular Pull-Up](../catalog/exercises/scapular-pull-up.json)
 - [Seated Cable Row](../catalog/exercises/seated-cable-row.json)
@@ -66,6 +71,7 @@
 - [Single-Arm Rear-Delt Cable Fly](../catalog/exercises/single-arm-rear-delt-cable-fly.json)
 - [Single-Arm Seated Row (Plate Loaded)](../catalog/exercises/single-arm-seated-plate-loaded-row.json)
 - [Single-Arm Supinated Pulldown](../catalog/exercises/single-arm-supinated-pulldown.json)
+- [Sled Hack Squat](../catalog/exercises/sled-hack-squat.json)
 - [Standing Barbell Curl](../catalog/exercises/standing-barbell-curl.json)
 - [Standing Barbell Strict Press](../catalog/exercises/standing-barbell-strict-press.json)
 - [Standing Calf Raise](../catalog/exercises/standing-calf-raise.json)
@@ -489,6 +495,75 @@ Free-weight incline pressing movement angled at 30 to 45 degrees, providing unre
 - [ExRx.net - Barbell Incline Bench Press](https://exrx.net/WeightExercises/PectoralClavicular/BBInclineBenchPress): Incline barbell pressing mechanics, clavicular pectoralis recruitment, bench incline angle optimization, and safety protocols.
 
 [Editable JSON](../catalog/exercises/barbell-incline-bench-press.json)
+
+## Barbell Lying Triceps Extension
+
+![Paired black-and-white instructional line drawings of Barbell Lying Triceps Extension.](../catalog/media/42aabff0ce0789859d44b4c1289a43e70c2bcff5add65a8a6ce09721c9f1b532.png)
+
+Starting position / Peak contraction position
+
+Lower a barbell toward the forehead or crown of the head by bending the elbows while lying supine on a flat bench, then extend the elbows to isolate all three heads of the triceps brachii.
+
+- **Danish:** Liggende tricepsextension med vægtstang (skull crusher)
+- **Aliases:** Barbell Lying Triceps Extension (Skull Crusher), Skull crusher, Lying triceps extension, Barbell skull crusher, Lying barbell triceps extension
+- **Primary muscles:** Triceps brachii
+- **Assisting muscles:** Anconeus
+- **Stabilizers:** Anterior deltoid, Pectoralis major (clavicular head), Abdominal wall, Rotator cuff
+- **Equipment:** Barbell, Weight plates, Flat bench
+- **Movement:** Elbow extension - supine barbell; Bilateral
+- **Grip:** Overhand pronated grip with hands approximately shoulder-width apart (or slightly narrower) on the barbell.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Lie flat on a bench with your head near the end of the pad and feet firmly planted on the floor.
+- Hold a barbell with an overhand grip, hands spaced 6 to 10 inches apart (shoulder-width or slightly narrower).
+- Extend your arms straight up over your chest or angled slightly backward toward your head (~10-15 degrees) to keep continuous tension on the triceps.
+
+### Execution
+
+1. Lower the barbell slowly by bending your elbows, allowing the bar to descend toward your forehead or just past the crown of your head.
+2. Keep your upper arms stationary and elbows tucked in without flaring outward excessively.
+3. Pause briefly just above the forehead/crown without letting the bar touch the head or rest.
+4. Extend your elbows smoothly by contracting your triceps to press the bar back up to the starting position.
+
+### Cues
+
+- Keep elbows tucked and pointing toward the ceiling.
+- Move only at the elbows.
+- Control the negative descent to the forehead.
+
+### Common mistakes
+
+- Flaring the elbows outward, transforming the movement into a close-grip press.
+- Swinging the upper arms forward and back to use shoulder momentum.
+- Descending too fast with heavy loads, risking impact with the head.
+
+### Logging convention
+
+Barbell loaded to 30 kg: record 30 kg total barbell mass.
+
+Record total mass of barbell plus all loaded plates. Often performed with an EZ-curl bar; note bar type if applicable.
+
+### Variants and alternatives
+
+Supine free-weight triceps extension isolating elbow extension. Angling the upper arms slightly backward maintains tension on the triceps long head even at the top of the movement.
+
+- Cable Rope Triceps Pushdown
+- Overhead Rope Cable Triceps Extension
+- Cable Triceps Pushdown
+
+### Review notes
+
+- Drafted from FitTrack ID 6 (Barbell Lying Triceps Extension (Skull Crusher)).
+- Illustration depicts athlete lying supine on flat bench holding barbell with straight arms in panel A and elbows flexed with bar near forehead in panel B.
+
+### References
+
+- [ExRx.net - Barbell Lying Triceps Extension](https://exrx.net/WeightExercises/Triceps/BBLyingTriExt): Lying triceps extension biomechanics, elbow joint shear angles, and triceps head recruitment.
+
+[Editable JSON](../catalog/exercises/barbell-lying-triceps-extension.json)
 
 ## Barbell Reverse Wrist Curl
 
@@ -1517,6 +1592,75 @@ Standing bilateral variant. In the illustration, the starting pose shows dumbbel
 
 [Editable JSON](../catalog/exercises/dumbbell-biceps-curl.json)
 
+## Dumbbell Cross-Body Hammer Curl
+
+![Paired black-and-white instructional line drawings of Dumbbell Cross-Body Hammer Curl.](../catalog/media/dd146e62d714831c5e8f94267b6dc4644304c33b2bd997c9a125fcfea2512b71.png)
+
+Starting position / Peak contraction position
+
+Curl dumbbells diagonally across the torso toward the opposite clavicle while maintaining a strict neutral grip, placing peak mechanical emphasis on the brachialis and brachioradialis.
+
+- **Danish:** Kryds-krops hammercurl med håndvægte
+- **Aliases:** Dumbbell Cross-Body Hammer Curl, Cross body hammer curl, Pinwheel curl, Alternating cross-body hammer curl, Cross-body dumbbell curl
+- **Primary muscles:** Brachialis, Brachioradialis
+- **Assisting muscles:** Biceps brachii
+- **Stabilizers:** Forearm flexors, Abdominal wall, Rotator cuff
+- **Equipment:** Two dumbbells
+- **Movement:** Elbow flexion - cross-body neutral grip; Alternating
+- **Grip:** Neutral grip throughout, palms facing toward the torso, thumbs pointing along the dumbbell shaft.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Stand tall with feet shoulder-width apart, holding a dumbbell in each hand beside your thighs with a neutral grip.
+- Keep your shoulders relaxed, chest proud, and core braced.
+
+### Execution
+
+1. Curl one dumbbell diagonally upward and across your chest toward the opposite shoulder/clavicle.
+2. Maintain a strict neutral hand position (thumb pointing upward and inward) throughout the entire path.
+3. Keep your elbow stationary at your side without swinging it forward.
+4. Squeeze your forearm and brachialis firmly at peak contraction near the opposite pectoral.
+5. Lower the dumbbell under complete control along the same diagonal path back to your side before repeating with the opposite arm.
+
+### Cues
+
+- Curl across the chest to the opposite collarbone.
+- Keep palm facing your torso throughout.
+- Pin elbow at your side, do not swing.
+
+### Common mistakes
+
+- Swinging the torso side-to-side to generate momentum.
+- Rotating the wrist into supination, turning the movement into a standard bicep curl.
+- Letting the elbow drift high into the air.
+
+### Logging convention
+
+Two 16 kg dumbbells used: record 16 kg per dumbbell.
+
+Record the mass of an individual dumbbell rather than the combined total pair mass.
+
+### Variants and alternatives
+
+Cross-body variation of the hammer curl (also known as the pinwheel curl). Curling diagonally across the torso alters the line of pull to emphasize the brachialis and long head of the biceps.
+
+- Dumbbell Hammer Curl
+- Dumbbell Biceps Curl
+- Machine Preacher Curl
+
+### Review notes
+
+- Drafted from FitTrack ID 12 (Dumbbell Cross-Body Hammer Curl).
+- Illustration depicts athlete with dumbbells at sides in panel A, working arm curled diagonally across chest toward opposite shoulder in panel B.
+
+### References
+
+- [ExRx.net - Dumbbell Hammer Curl](https://exrx.net/WeightExercises/Brachioradialis/DBHammerCurl): Neutral-grip elbow flexion, brachialis and brachioradialis activation, and diagonal plane variations.
+
+[Editable JSON](../catalog/exercises/dumbbell-cross-body-hammer-curl.json)
+
 ## Dumbbell Hammer Curl
 
 ![Two black-and-white drawings of a standing hammer curl with palms facing inward throughout.](../catalog/media/feb54a190a964f8b67a32ee893fecf85eb9bb07ae41647618ed22727893e4ae2.png)
@@ -1582,6 +1726,77 @@ Standing simultaneous neutral-grip curl. Alternating and cross-body versions dif
 - [ACE - Hammer Curl](https://www.acefitness.org/resources/everyone/exercise-library/10/hammer-curl/): Standing dumbbell hammer curl and neutral hand position; anatomical role ordering is editorial.
 
 [Editable JSON](../catalog/exercises/dumbbell-hammer-curl.json)
+
+## Dumbbell Incline Bench Press
+
+![Paired black-and-white instructional line drawings of Dumbbell Incline Bench Press.](../catalog/media/5a12d8ded364628677d62294833e443796be525f5a94ddf9487d1b6c9a7f821b.png)
+
+Starting position / Peak contraction position
+
+Press two dumbbells upward from upper-chest level while lying on an incline bench angled between 30 and 45 degrees, allowing an unrestricted pressing path and deep stretch for upper pectoral development.
+
+- **Danish:** Skrå bænkpres med håndvægte
+- **Aliases:** Dumbbell Incline Bench Press, Incline dumbbell bench press, Incline dumbbell press, Incline DB bench press, DB incline press
+- **Primary muscles:** Pectoralis major (clavicular head)
+- **Assisting muscles:** Anterior deltoid, Triceps brachii, Pectoralis major (sternal head)
+- **Stabilizers:** Rotator cuff, Abdominal wall, Rhomboids, Middle trapezius
+- **Equipment:** Two dumbbells, Adjustable incline bench
+- **Movement:** Incline chest press - free weight dumbbell; Bilateral
+- **Grip:** Pronated or semi-pronated grip holding dumbbells at shoulder level with wrists stacked over forearms.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Set an adjustable bench to an incline between 30 and 45 degrees.
+- Sit with a dumbbell resting upright on each knee, back pressed firmly against the pad, feet flat on the floor.
+- Kick the dumbbells up to your shoulders with your knees one at a time as you lie back on the incline pad.
+- Position the dumbbells beside your upper chest with forearms vertical and elbows tucked at approximately 45 degrees to your torso.
+
+### Execution
+
+1. Press both dumbbells upward and slightly inward in a smooth, converging vertical path.
+2. Extend your arms fully overhead without violently locking your elbows or banging the dumbbells together.
+3. Pause briefly at peak contraction over your upper chest.
+4. Lower the dumbbells slowly under complete control back to the deep chest stretch position beside your upper pectorals before beginning the next repetition.
+
+### Cues
+
+- Tuck elbows to 45 degrees.
+- Press up and converge over the upper chest.
+- Control the lowering into a deep chest stretch.
+
+### Common mistakes
+
+- Flaring elbows out to 90 degrees, causing anterior shoulder impingement.
+- Setting the incline too steep (>45 degrees), shifting load from the chest to the anterior deltoids.
+- Banging the dumbbells together at the top of the press.
+
+### Logging convention
+
+Two 26 kg dumbbells: record 26 kg per dumbbell.
+
+Record the mass of an individual dumbbell rather than the combined total pair mass.
+
+### Variants and alternatives
+
+Incline dumbbell chest press with independent arm movement. Allows greater range of motion and personalized wrist rotation compared to fixed barbell pressing.
+
+- Barbell Incline Bench Press
+- Dumbbell Bench Press
+- Incline Chest Press Machine
+- Incline Smith Machine Press
+
+### Review notes
+
+- Drafted from FitTrack ID 3 (Dumbbell Incline Bench Press).
+- Illustration depicts athlete lying on 30-45 degree incline bench holding dumbbells beside upper chest in panel A and pressed overhead in panel B.
+
+### References
+
+- [ExRx.net - Dumbbell Incline Bench Press](https://exrx.net/WeightExercises/PectoralClavicular/DBInclineBenchPress): Incline dumbbell pressing kinematics, clavicular pectoralis activation, and bench angle optimization.
+
+[Editable JSON](../catalog/exercises/dumbbell-incline-bench-press.json)
 
 ## Dumbbell Lateral Raise
 
@@ -3023,6 +3238,77 @@ Seated machine hamstring curl. Seated hip flexion lengthens the hamstring muscle
 
 [Editable JSON](../catalog/exercises/machine-seated-leg-curl.json)
 
+## Machine Seated Row
+
+![Paired black-and-white instructional line drawings of Machine Seated Row.](../catalog/media/cdaf908c2bf5ead696bbdf0b69c25467cbf23d82a552cf4545faf0a4383d52b8.png)
+
+Starting position / Peak contraction position
+
+Pull bilateral machine handles horizontally toward the torso while seated with chest supported against a vertical pad, developing upper back and lat thickness without lower back fatigue.
+
+- **Danish:** Siddende roning i maskine
+- **Aliases:** Machine Seated Row, Seated chest-supported machine row, Selectorized seated row, Machine row, Chest-supported machine row
+- **Primary muscles:** Latissimus dorsi, Rhomboids, Middle trapezius
+- **Assisting muscles:** Posterior deltoid, Biceps brachii, Brachialis, Teres major
+- **Stabilizers:** Abdominal wall, Spinal erectors, Rotator cuff
+- **Equipment:** Seated chest-supported row machine
+- **Movement:** Horizontal pull - chest-supported bilateral machine; Bilateral
+- **Grip:** Pronated overhand or neutral grip on machine lever handles.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust the seat height so the machine handles align across mid-chest level when gripped.
+- Adjust the chest support pad forward or backward so you can reach the handles with arms extended without rounding your spine.
+- Sit firmly with your chest against the pad and feet planted on the foot supports.
+- Grasp the handles with an overhand or neutral grip.
+
+### Execution
+
+1. Initiate the pull by retracting your shoulder blades and driving your elbows backward in a horizontal path.
+2. Pull the handles toward your ribcage until elbows pass the torso line, keeping chest firmly against the pad.
+3. Squeeze your shoulder blades together forcefully at peak contraction.
+4. Slowly extend your arms under control, resisting the weight stack until arms are fully extended and back muscles feel a deep stretch before the next rep.
+
+### Cues
+
+- Lead with the elbows, squeeze shoulder blades.
+- Keep chest glued to the support pad.
+- Control the stretch on the return.
+
+### Common mistakes
+
+- Arching backward and pulling the chest off the support pad to jerk the weight.
+- Shrugging shoulders upward toward the ears.
+- Shortening the range of motion by stopping short of a full stretch.
+
+### Logging convention
+
+Weight pin set to 50 kg: record 50 kg selected machine load.
+
+Lever arm lengths and cam profiles vary across machine manufacturers; record selected stack pin load.
+
+### Variants and alternatives
+
+Bilateral chest-supported machine row. The vertical chest pad stabilizes the torso, eliminating lower back shear stress and preventing cheating.
+
+- Seated Cable Row
+- Single-Arm Seated Row (Plate Loaded)
+- T-Bar Row
+- Bent-Over Barbell Row
+
+### Review notes
+
+- Drafted from FitTrack ID 8 (Machine Seated Row).
+- Distinguished from unilateral plate-loaded row and cable row by selectorized bilateral chest-supported configuration.
+
+### References
+
+- [ExRx.net - Lever Seated Row](https://exrx.net/WeightExercises/BackGeneral/LVSeatedRow): Seated machine row biomechanics, latissimus and rhomboid recruitment, and chest pad stabilization.
+
+[Editable JSON](../catalog/exercises/machine-seated-row.json)
+
 ## Negative Pull-Up
 
 ![Paired black-and-white instructional line drawings of Negative Pull-Up.](../catalog/media/1db04e68f3abc4936dc1a1a4ae40f1dc5db5cf4ecdd44adb3852c7e65dc915d1.png)
@@ -3436,6 +3722,76 @@ Bilateral vertical pull on a converging plate-loaded machine with dual lever arm
 - [ExRx.net - Lever Front Pulldown](https://exrx.net/WeightExercises/LatissimusDorsi/LVFrontPulldown): Converging lever pulldown mechanics, latissimus dorsi recruitment, and seated execution.
 
 [Editable JSON](../catalog/exercises/plate-loaded-lat-pulldown.json)
+
+## Pull-Up
+
+![Paired black-and-white instructional line drawings of Pull-Up.](../catalog/media/b5a5c92440c57b6253f6f7168ff4578446434037fa1283ed1683fc7c162c3cab.png)
+
+Starting position / Peak contraction position
+
+Pull bodyweight vertically to an overhead bar using a wide overhand pronated grip until the chin clears the bar, building classic V-taper latissimus width and upper body pulling strength.
+
+- **Danish:** Pull-up
+- **Aliases:** Pull-Up, Pronated pull-up, Overhand pull-up, Bodyweight pull-up, Strict pull-up
+- **Primary muscles:** Latissimus dorsi
+- **Assisting muscles:** Teres major, Biceps brachii, Brachialis, Brachioradialis, Lower trapezius, Rhomboids, Posterior deltoid
+- **Stabilizers:** Abdominal wall, Rotator cuff, Forearm flexors
+- **Equipment:** Pull-up bar
+- **Movement:** Vertical pull - overhand pronated grip; Bilateral
+- **Grip:** Overhand pronated grip slightly wider than shoulder width, palms facing away from the athlete.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Grasp an overhead pull-up bar with a pronated overhand grip slightly wider than shoulder-width.
+- Hang freely in a full dead hang with arms completely extended and shoulders actively engaged.
+- Brace your core, cross your ankles slightly behind you or keep legs straight with toes pointed.
+
+### Execution
+
+1. Initiate the movement by depressing your scapulae, then pull your body upward by driving your elbows down and out toward your ribs.
+2. Keep your chest lifted and pull until your chin comfortably clears the top of the bar.
+3. Pause for a brief count at the top peak contraction, squeezing your lats.
+4. Lower your body smoothly under complete control back to a full dead hang with arms fully extended before beginning the next repetition.
+
+### Cues
+
+- Drive elbows down to your ribs.
+- Chest to the bar, chin over.
+- Full dead hang at the bottom on every rep.
+
+### Common mistakes
+
+- Kipping, swinging, or bicycling the legs to generate momentum.
+- Cutting the bottom range of motion short without full elbow extension.
+- Reaching the chin up with cervical hyperextension rather than pulling the chest to the bar.
+
+### Logging convention
+
+Bodyweight: record repetitions performed (or note added external weight if dipping belt is used).
+
+Strict bodyweight pull-up; count clean repetitions from dead hang to chin-over-bar.
+
+### Variants and alternatives
+
+Canonical pronated vertical pull-up. The overhand grip emphasizes frontal plane shoulder adduction, placing primary emphasis on the latissimus dorsi and teres major.
+
+- Chin-Up
+- Assisted Pull-Up
+- Seated Lat Pulldown Machine
+- Plate Loaded Lat Pulldown
+
+### Review notes
+
+- Drafted from FitTrack ID 7 (Pull-Up).
+- Illustration depicts overhand pronated grip with arms hanging in panel A and chin cleared above bar in panel B.
+
+### References
+
+- [ExRx.net - Pull-up](https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup): Pull-up kinematics, pronated grip adduction mechanics, and latissimus dorsi recruitment.
+
+[Editable JSON](../catalog/exercises/pull-up.json)
 
 ## Reverse Pec Deck
 
@@ -4330,6 +4686,77 @@ Unilateral vertical pulldown using a high cable pulley and D-handle with a supin
 - [ExRx.net - Cable Underhand Lat Pulldown](https://exrx.net/WeightExercises/LatissimusDorsi/CBUnderhandPulldown): Underhand vertical pulling mechanics and latissimus recruitment patterns.
 
 [Editable JSON](../catalog/exercises/single-arm-supinated-pulldown.json)
+
+## Sled Hack Squat
+
+![Paired black-and-white instructional line drawings of Sled Hack Squat.](../catalog/media/ada06c990fdc517034812f5f615a344258e961fa2095c324352b7c1a6ec9ab36.png)
+
+Starting position / Peak contraction position
+
+Squat along a 45-degree angled sled track with back and shoulders supported against padded carriage rests, placing high knee-flexion demand and direct mechanical load on the quadriceps with spinal support.
+
+- **Danish:** Hacksquat i slædemaskine
+- **Aliases:** Sled Hack Squat, Hack squat machine, Machine hack squat, 45-degree hack squat, Linear hack squat
+- **Primary muscles:** Quadriceps
+- **Assisting muscles:** Gluteus maximus, Adductor magnus, Soleus
+- **Stabilizers:** Abdominal wall, Spinal erectors
+- **Equipment:** 45-degree sled hack squat machine, Weight plates
+- **Movement:** Squat - angled sled track; Bilateral
+- **Grip:** Hands gripping side safety release handles beside the carriage.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Load weight plates evenly onto both carriage horns of the 45-degree hack squat machine.
+- Step onto the footplate with feet shoulder-width apart, middle or lower on the plate according to knee comfort, toes angled slightly outward.
+- Rest your upper back and head firmly against the back pad with shoulders fitted under the padded shoulder rests.
+- Extend your legs to unlock the safety handles, keeping knees softly unlocked.
+
+### Execution
+
+1. Lower the carriage slowly by bending your knees and hips, allowing your knees to track forward over your toes.
+2. Descend until your thighs reach at least parallel to the footplate (approximately 90 degrees of knee flexion) without allowing lower back to round or hips to tuck off the pad.
+3. Pause briefly at the bottom stretch.
+4. Press forcefully through your mid-foot and heels to drive the carriage back upward along the rails until legs are extended with knees softly unlocked.
+5. Re-engage the safety catch handles when the set is finished.
+
+### Cues
+
+- Keep back and glutes glued to the backrest.
+- Track knees over toes.
+- Press through mid-foot and heels.
+
+### Common mistakes
+
+- Allowing hips or lower back to peel away from the pad at bottom depth (pelvic tilt / butt wink).
+- Violently locking out or hyperextending knees at the top.
+- Placing feet too high on the plate, turning the movement into a hip press instead of a quad-focused squat.
+
+### Logging convention
+
+Four 20 kg plates loaded (two per side): record 80 kg total plate load on sled.
+
+Record loaded plate mass; carriage angle (~45 degrees) creates an effective resistance of ~70% of loaded plate mass plus carriage weight.
+
+### Variants and alternatives
+
+Angled sled machine hack squat with torso supported against backrest. Removes spinal compression and balance limits of barbell squats to maximize quadriceps overload.
+
+- Pendulum Squat
+- Seated Leg Press
+- Barbell Back Squat
+
+### Review notes
+
+- Drafted from FitTrack ID 14 (Sled Hack Squat).
+- Illustration depicts 45-degree sled machine with padded shoulder and back supports, starting from extended soft lockout in panel A and deep squat in panel B.
+
+### References
+
+- [ExRx.net - Sled 45° Hack Squat](https://exrx.net/WeightExercises/Quadriceps/SL45HackSquat): 45-degree hack squat mechanics, quadriceps load distribution, and spinal support kinematics.
+
+[Editable JSON](../catalog/exercises/sled-hack-squat.json)
 
 ## Standing Barbell Curl
 

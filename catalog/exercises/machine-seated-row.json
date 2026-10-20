@@ -1,0 +1,103 @@
+{
+  "id": "machine-seated-row",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Machine Seated Row",
+  "nameDa": "Siddende roning i maskine",
+  "aliases": [
+    "Machine Seated Row",
+    "Seated chest-supported machine row",
+    "Selectorized seated row",
+    "Machine row",
+    "Chest-supported machine row"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Horizontal pull - chest-supported bilateral machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Seated chest-supported row machine"
+  ],
+  "grip": "Pronated overhand or neutral grip on machine lever handles.",
+  "primaryMuscles": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Middle trapezius"
+  ],
+  "secondaryMuscles": [
+    "Posterior deltoid",
+    "Biceps brachii",
+    "Brachialis",
+    "Teres major"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Spinal erectors",
+    "Rotator cuff"
+  ],
+  "description": "Pull bilateral machine handles horizontally toward the torso while seated with chest supported against a vertical pad, developing upper back and lat thickness without lower back fatigue.",
+  "setup": [
+    "Adjust the seat height so the machine handles align across mid-chest level when gripped.",
+    "Adjust the chest support pad forward or backward so you can reach the handles with arms extended without rounding your spine.",
+    "Sit firmly with your chest against the pad and feet planted on the foot supports.",
+    "Grasp the handles with an overhand or neutral grip."
+  ],
+  "instructions": [
+    "Initiate the pull by retracting your shoulder blades and driving your elbows backward in a horizontal path.",
+    "Pull the handles toward your ribcage until elbows pass the torso line, keeping chest firmly against the pad.",
+    "Squeeze your shoulder blades together forcefully at peak contraction.",
+    "Slowly extend your arms under control, resisting the weight stack until arms are fully extended and back muscles feel a deep stretch before the next rep."
+  ],
+  "cues": [
+    "Lead with the elbows, squeeze shoulder blades.",
+    "Keep chest glued to the support pad.",
+    "Control the stretch on the return."
+  ],
+  "commonMistakes": [
+    "Arching backward and pulling the chest off the support pad to jerk the weight.",
+    "Shrugging shoulders upward toward the ears.",
+    "Shortening the range of motion by stopping short of a full stretch."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight pin set to 50 kg: record 50 kg selected machine load.",
+    "note": "Lever arm lengths and cam profiles vary across machine manufacturers; record selected stack pin load."
+  },
+  "alternatives": [
+    "Seated Cable Row",
+    "Single-Arm Seated Row (Plate Loaded)",
+    "T-Bar Row",
+    "Bent-Over Barbell Row"
+  ],
+  "variantNote": "Bilateral chest-supported machine row. The vertical chest pad stabilizes the torso, eliminating lower back shear stress and preventing cheating.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 8 (Machine Seated Row).",
+    "Distinguished from unilateral plate-loaded row and cable row by selectorized bilateral chest-supported configuration."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Seated Row",
+      "url": "https://exrx.net/WeightExercises/BackGeneral/LVSeatedRow",
+      "scope": "Seated machine row biomechanics, latissimus and rhomboid recruitment, and chest pad stabilization."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "cdaf908c2bf5ead696bbdf0b69c25467cbf23d82a552cf4545faf0a4383d52b8",
+    "url": "/media/cdaf908c2bf5ead696bbdf0b69c25467cbf23d82a552cf4545faf0a4383d52b8.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Machine Seated Row.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "machine-seated-row",
+      "model": null
+    }
+  }
+}

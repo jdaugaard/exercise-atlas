@@ -1,0 +1,103 @@
+{
+  "id": "dumbbell-incline-bench-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Dumbbell Incline Bench Press",
+  "nameDa": "Skrå bænkpres med håndvægte",
+  "aliases": [
+    "Dumbbell Incline Bench Press",
+    "Incline dumbbell bench press",
+    "Incline dumbbell press",
+    "Incline DB bench press",
+    "DB incline press"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Chest",
+    "Shoulders",
+    "Upper Arms"
+  ],
+  "movementPattern": "Incline chest press - free weight dumbbell",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells",
+    "Adjustable incline bench"
+  ],
+  "grip": "Pronated or semi-pronated grip holding dumbbells at shoulder level with wrists stacked over forearms.",
+  "primaryMuscles": [
+    "Pectoralis major (clavicular head)"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Triceps brachii",
+    "Pectoralis major (sternal head)"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall",
+    "Rhomboids",
+    "Middle trapezius"
+  ],
+  "description": "Press two dumbbells upward from upper-chest level while lying on an incline bench angled between 30 and 45 degrees, allowing an unrestricted pressing path and deep stretch for upper pectoral development.",
+  "setup": [
+    "Set an adjustable bench to an incline between 30 and 45 degrees.",
+    "Sit with a dumbbell resting upright on each knee, back pressed firmly against the pad, feet flat on the floor.",
+    "Kick the dumbbells up to your shoulders with your knees one at a time as you lie back on the incline pad.",
+    "Position the dumbbells beside your upper chest with forearms vertical and elbows tucked at approximately 45 degrees to your torso."
+  ],
+  "instructions": [
+    "Press both dumbbells upward and slightly inward in a smooth, converging vertical path.",
+    "Extend your arms fully overhead without violently locking your elbows or banging the dumbbells together.",
+    "Pause briefly at peak contraction over your upper chest.",
+    "Lower the dumbbells slowly under complete control back to the deep chest stretch position beside your upper pectorals before beginning the next repetition."
+  ],
+  "cues": [
+    "Tuck elbows to 45 degrees.",
+    "Press up and converge over the upper chest.",
+    "Control the lowering into a deep chest stretch."
+  ],
+  "commonMistakes": [
+    "Flaring elbows out to 90 degrees, causing anterior shoulder impingement.",
+    "Setting the incline too steep (>45 degrees), shifting load from the chest to the anterior deltoids.",
+    "Banging the dumbbells together at the top of the press."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 26 kg dumbbells: record 26 kg per dumbbell.",
+    "note": "Record the mass of an individual dumbbell rather than the combined total pair mass."
+  },
+  "alternatives": [
+    "Barbell Incline Bench Press",
+    "Dumbbell Bench Press",
+    "Incline Chest Press Machine",
+    "Incline Smith Machine Press"
+  ],
+  "variantNote": "Incline dumbbell chest press with independent arm movement. Allows greater range of motion and personalized wrist rotation compared to fixed barbell pressing.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 3 (Dumbbell Incline Bench Press).",
+    "Illustration depicts athlete lying on 30-45 degree incline bench holding dumbbells beside upper chest in panel A and pressed overhead in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Dumbbell Incline Bench Press",
+      "url": "https://exrx.net/WeightExercises/PectoralClavicular/DBInclineBenchPress",
+      "scope": "Incline dumbbell pressing kinematics, clavicular pectoralis activation, and bench angle optimization."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "5a12d8ded364628677d62294833e443796be525f5a94ddf9487d1b6c9a7f821b",
+    "url": "/media/5a12d8ded364628677d62294833e443796be525f5a94ddf9487d1b6c9a7f821b.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Dumbbell Incline Bench Press.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "dumbbell-incline-bench-press",
+      "model": null
+    }
+  }
+}

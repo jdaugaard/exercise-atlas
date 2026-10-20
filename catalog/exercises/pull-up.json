@@ -1,0 +1,103 @@
+{
+  "id": "pull-up",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Pull-Up",
+  "nameDa": "Pull-up",
+  "aliases": [
+    "Pull-Up",
+    "Pronated pull-up",
+    "Overhand pull-up",
+    "Bodyweight pull-up",
+    "Strict pull-up"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Vertical pull - overhand pronated grip",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Pull-up bar"
+  ],
+  "grip": "Overhand pronated grip slightly wider than shoulder width, palms facing away from the athlete.",
+  "primaryMuscles": [
+    "Latissimus dorsi"
+  ],
+  "secondaryMuscles": [
+    "Teres major",
+    "Biceps brachii",
+    "Brachialis",
+    "Brachioradialis",
+    "Lower trapezius",
+    "Rhomboids",
+    "Posterior deltoid"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff",
+    "Forearm flexors"
+  ],
+  "description": "Pull bodyweight vertically to an overhead bar using a wide overhand pronated grip until the chin clears the bar, building classic V-taper latissimus width and upper body pulling strength.",
+  "setup": [
+    "Grasp an overhead pull-up bar with a pronated overhand grip slightly wider than shoulder-width.",
+    "Hang freely in a full dead hang with arms completely extended and shoulders actively engaged.",
+    "Brace your core, cross your ankles slightly behind you or keep legs straight with toes pointed."
+  ],
+  "instructions": [
+    "Initiate the movement by depressing your scapulae, then pull your body upward by driving your elbows down and out toward your ribs.",
+    "Keep your chest lifted and pull until your chin comfortably clears the top of the bar.",
+    "Pause for a brief count at the top peak contraction, squeezing your lats.",
+    "Lower your body smoothly under complete control back to a full dead hang with arms fully extended before beginning the next repetition."
+  ],
+  "cues": [
+    "Drive elbows down to your ribs.",
+    "Chest to the bar, chin over.",
+    "Full dead hang at the bottom on every rep."
+  ],
+  "commonMistakes": [
+    "Kipping, swinging, or bicycling the legs to generate momentum.",
+    "Cutting the bottom range of motion short without full elbow extension.",
+    "Reaching the chin up with cervical hyperextension rather than pulling the chest to the bar."
+  ],
+  "logging": {
+    "basis": "bodyweight_only",
+    "example": "Bodyweight: record repetitions performed (or note added external weight if dipping belt is used).",
+    "note": "Strict bodyweight pull-up; count clean repetitions from dead hang to chin-over-bar."
+  },
+  "alternatives": [
+    "Chin-Up",
+    "Assisted Pull-Up",
+    "Seated Lat Pulldown Machine",
+    "Plate Loaded Lat Pulldown"
+  ],
+  "variantNote": "Canonical pronated vertical pull-up. The overhand grip emphasizes frontal plane shoulder adduction, placing primary emphasis on the latissimus dorsi and teres major.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 7 (Pull-Up).",
+    "Illustration depicts overhand pronated grip with arms hanging in panel A and chin cleared above bar in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Pull-up",
+      "url": "https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup",
+      "scope": "Pull-up kinematics, pronated grip adduction mechanics, and latissimus dorsi recruitment."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "b5a5c92440c57b6253f6f7168ff4578446434037fa1283ed1683fc7c162c3cab",
+    "url": "/media/b5a5c92440c57b6253f6f7168ff4578446434037fa1283ed1683fc7c162c3cab.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Pull-Up.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "pull-up",
+      "model": null
+    }
+  }
+}

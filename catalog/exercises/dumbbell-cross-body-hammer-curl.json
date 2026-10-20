@@ -1,0 +1,97 @@
+{
+  "id": "dumbbell-cross-body-hammer-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Dumbbell Cross-Body Hammer Curl",
+  "nameDa": "Kryds-krops hammercurl med håndvægte",
+  "aliases": [
+    "Dumbbell Cross-Body Hammer Curl",
+    "Cross body hammer curl",
+    "Pinwheel curl",
+    "Alternating cross-body hammer curl",
+    "Cross-body dumbbell curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms",
+    "Forearms"
+  ],
+  "movementPattern": "Elbow flexion - cross-body neutral grip",
+  "laterality": "Alternating",
+  "equipmentItems": [
+    "Two dumbbells"
+  ],
+  "grip": "Neutral grip throughout, palms facing toward the torso, thumbs pointing along the dumbbell shaft.",
+  "primaryMuscles": [
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "secondaryMuscles": [
+    "Biceps brachii"
+  ],
+  "stabilizers": [
+    "Forearm flexors",
+    "Abdominal wall",
+    "Rotator cuff"
+  ],
+  "description": "Curl dumbbells diagonally across the torso toward the opposite clavicle while maintaining a strict neutral grip, placing peak mechanical emphasis on the brachialis and brachioradialis.",
+  "setup": [
+    "Stand tall with feet shoulder-width apart, holding a dumbbell in each hand beside your thighs with a neutral grip.",
+    "Keep your shoulders relaxed, chest proud, and core braced."
+  ],
+  "instructions": [
+    "Curl one dumbbell diagonally upward and across your chest toward the opposite shoulder/clavicle.",
+    "Maintain a strict neutral hand position (thumb pointing upward and inward) throughout the entire path.",
+    "Keep your elbow stationary at your side without swinging it forward.",
+    "Squeeze your forearm and brachialis firmly at peak contraction near the opposite pectoral.",
+    "Lower the dumbbell under complete control along the same diagonal path back to your side before repeating with the opposite arm."
+  ],
+  "cues": [
+    "Curl across the chest to the opposite collarbone.",
+    "Keep palm facing your torso throughout.",
+    "Pin elbow at your side, do not swing."
+  ],
+  "commonMistakes": [
+    "Swinging the torso side-to-side to generate momentum.",
+    "Rotating the wrist into supination, turning the movement into a standard bicep curl.",
+    "Letting the elbow drift high into the air."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 16 kg dumbbells used: record 16 kg per dumbbell.",
+    "note": "Record the mass of an individual dumbbell rather than the combined total pair mass."
+  },
+  "alternatives": [
+    "Dumbbell Hammer Curl",
+    "Dumbbell Biceps Curl",
+    "Machine Preacher Curl"
+  ],
+  "variantNote": "Cross-body variation of the hammer curl (also known as the pinwheel curl). Curling diagonally across the torso alters the line of pull to emphasize the brachialis and long head of the biceps.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 12 (Dumbbell Cross-Body Hammer Curl).",
+    "Illustration depicts athlete with dumbbells at sides in panel A, working arm curled diagonally across chest toward opposite shoulder in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Dumbbell Hammer Curl",
+      "url": "https://exrx.net/WeightExercises/Brachioradialis/DBHammerCurl",
+      "scope": "Neutral-grip elbow flexion, brachialis and brachioradialis activation, and diagonal plane variations."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "dd146e62d714831c5e8f94267b6dc4644304c33b2bd997c9a125fcfea2512b71",
+    "url": "/media/dd146e62d714831c5e8f94267b6dc4644304c33b2bd997c9a125fcfea2512b71.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Dumbbell Cross-Body Hammer Curl.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "dumbbell-cross-body-hammer-curl",
+      "model": null
+    }
+  }
+}

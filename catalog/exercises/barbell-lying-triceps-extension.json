@@ -1,0 +1,98 @@
+{
+  "id": "barbell-lying-triceps-extension",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Barbell Lying Triceps Extension",
+  "nameDa": "Liggende tricepsextension med vægtstang (skull crusher)",
+  "aliases": [
+    "Barbell Lying Triceps Extension (Skull Crusher)",
+    "Skull crusher",
+    "Lying triceps extension",
+    "Barbell skull crusher",
+    "Lying barbell triceps extension"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow extension - supine barbell",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates",
+    "Flat bench"
+  ],
+  "grip": "Overhand pronated grip with hands approximately shoulder-width apart (or slightly narrower) on the barbell.",
+  "primaryMuscles": [
+    "Triceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Anconeus"
+  ],
+  "stabilizers": [
+    "Anterior deltoid",
+    "Pectoralis major (clavicular head)",
+    "Abdominal wall",
+    "Rotator cuff"
+  ],
+  "description": "Lower a barbell toward the forehead or crown of the head by bending the elbows while lying supine on a flat bench, then extend the elbows to isolate all three heads of the triceps brachii.",
+  "setup": [
+    "Lie flat on a bench with your head near the end of the pad and feet firmly planted on the floor.",
+    "Hold a barbell with an overhand grip, hands spaced 6 to 10 inches apart (shoulder-width or slightly narrower).",
+    "Extend your arms straight up over your chest or angled slightly backward toward your head (~10-15 degrees) to keep continuous tension on the triceps."
+  ],
+  "instructions": [
+    "Lower the barbell slowly by bending your elbows, allowing the bar to descend toward your forehead or just past the crown of your head.",
+    "Keep your upper arms stationary and elbows tucked in without flaring outward excessively.",
+    "Pause briefly just above the forehead/crown without letting the bar touch the head or rest.",
+    "Extend your elbows smoothly by contracting your triceps to press the bar back up to the starting position."
+  ],
+  "cues": [
+    "Keep elbows tucked and pointing toward the ceiling.",
+    "Move only at the elbows.",
+    "Control the negative descent to the forehead."
+  ],
+  "commonMistakes": [
+    "Flaring the elbows outward, transforming the movement into a close-grip press.",
+    "Swinging the upper arms forward and back to use shoulder momentum.",
+    "Descending too fast with heavy loads, risking impact with the head."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "Barbell loaded to 30 kg: record 30 kg total barbell mass.",
+    "note": "Record total mass of barbell plus all loaded plates. Often performed with an EZ-curl bar; note bar type if applicable."
+  },
+  "alternatives": [
+    "Cable Rope Triceps Pushdown",
+    "Overhead Rope Cable Triceps Extension",
+    "Cable Triceps Pushdown"
+  ],
+  "variantNote": "Supine free-weight triceps extension isolating elbow extension. Angling the upper arms slightly backward maintains tension on the triceps long head even at the top of the movement.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 6 (Barbell Lying Triceps Extension (Skull Crusher)).",
+    "Illustration depicts athlete lying supine on flat bench holding barbell with straight arms in panel A and elbows flexed with bar near forehead in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Barbell Lying Triceps Extension",
+      "url": "https://exrx.net/WeightExercises/Triceps/BBLyingTriExt",
+      "scope": "Lying triceps extension biomechanics, elbow joint shear angles, and triceps head recruitment."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "42aabff0ce0789859d44b4c1289a43e70c2bcff5add65a8a6ce09721c9f1b532",
+    "url": "/media/42aabff0ce0789859d44b4c1289a43e70c2bcff5add65a8a6ce09721c9f1b532.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Barbell Lying Triceps Extension.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "barbell-lying-triceps-extension",
+      "model": null
+    }
+  }
+}
