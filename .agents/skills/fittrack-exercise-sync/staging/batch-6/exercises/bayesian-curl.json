@@ -1,0 +1,85 @@
+{
+  "id": "bayesian-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Bayesian Curl",
+  "nameDa": "Bayesian kabel-bicepscurl",
+  "aliases": [
+    "Bayesian Curl",
+    "Facing-away cable curl",
+    "Incline cable biceps curl",
+    "Lengthened-position cable curl",
+    "Behind-the-back cable curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Upper Arms"
+  ],
+  "movementPattern": "Elbow flexion - shoulder extended cable stretch",
+  "laterality": "Unilateral",
+  "equipmentItems": [
+    "Low cable pulley",
+    "Single D-handle"
+  ],
+  "grip": "Underhand supinated grip on single D-handle, palm facing forward and upward.",
+  "primaryMuscles": [
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "stabilizers": [
+    "Anterior deltoid",
+    "Abdominal wall",
+    "Rotator cuff"
+  ],
+  "description": "Perform a standing cable biceps curl facing away from a low pulley with the shoulder extended behind the torso, maximizing tension on the biceps in the fully lengthened stretch position.",
+  "setup": [
+    "Set an adjustable cable pulley to the lowest position and attach a single D-handle.",
+    "Grasp the handle with a supinated grip and take one to two paces forward, facing directly away from the cable stack.",
+    "Adopt a stable staggered stance with the working arm extended behind your torso into shoulder extension, feeling a deep stretch across the biceps."
+  ],
+  "instructions": [
+    "Curl the handle forward and upward toward your shoulder by flexing your elbow.",
+    "Keep your upper arm relatively stationary behind or beside your ribcage to maintain stretch on the long head.",
+    "Contract your biceps forcefully at the top position with wrist supinated.",
+    "Slowly extend your elbow back under control, allowing the cable to pull your arm back into full shoulder extension and loaded biceps stretch.",
+    "Complete all repetitions before switching to the opposite arm."
+  ],
+  "cues": [
+    "Feel the stretch behind you at the bottom.",
+    "Curl forward with elbow pinned.",
+    "Control the backward negative stretch."
+  ],
+  "commonMistakes": [
+    "Swinging the shoulder forward during the curl, turning the exercise into a front raise.",
+    "Standing too close to the pulley, losing tension in the lengthened stretch.",
+    "Leaning the torso forward and backward with each rep."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "Weight pin set to 12.5 kg on low pulley: record 12.5 kg on that cable station.",
+    "note": "Unilateral cable movement facing away from stack; record selected pin load and note pulley position."
+  },
+  "alternatives": [
+    "Incline Dumbbell Biceps Curl",
+    "Standing Single-Arm Cable Biceps Curl",
+    "Dumbbell Biceps Curl"
+  ],
+  "variantNote": "Facing-away unilateral low-cable curl with shoulder in passive extension, creating peak passive and active stretch tension on the biceps brachii long head.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 61 (Bayesian Curl).",
+    "FitTrack description notes: 'Cable biceps curl hvor du står et skridt foran kablet for at få stræk i biceps i bundpositionen.'",
+    "Prompt specifies standing facing away from low pulley with working arm trailing behind torso in loaded stretch in panel A, curled to shoulder in panel B."
+  ],
+  "sources": [
+    {
+      "title": "Menno Henselmans - The Bayesian Curl",
+      "url": "https://mennohenselmans.com/bayesian-curl/",
+      "scope": "Biomechanics of the facing-away cable curl, biceps long head stretch-mediated hypertrophy, and resistance curve alignment."
+    }
+  ]
+}

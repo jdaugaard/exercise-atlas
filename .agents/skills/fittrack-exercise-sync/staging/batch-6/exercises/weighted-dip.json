@@ -1,0 +1,86 @@
+{
+  "id": "weighted-dip",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Weighted Dips",
+  "nameDa": "Dips med ekstra vægt",
+  "aliases": [
+    "Weighted Dips",
+    "Weighted parallel bar dips",
+    "Parallel bar dips with weight",
+    "Weighted dip",
+    "Dips (Weighted)"
+  ],
+  "category": "Strength",
+  "difficulty": "Advanced",
+  "bodyParts": [
+    "Chest",
+    "Upper Arms",
+    "Shoulders"
+  ],
+  "movementPattern": "Vertical push - compound bodyweight extension",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Parallel dip bars",
+    "Dipping belt and weight plates"
+  ],
+  "grip": "Neutral grip with palms facing inward, grasping parallel bars firmly with wrists stacked over forearms.",
+  "primaryMuscles": [
+    "Triceps brachii",
+    "Pectoralis major (sternal head)"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Pectoralis minor"
+  ],
+  "stabilizers": [
+    "Rhomboids",
+    "Lower trapezius",
+    "Abdominal wall"
+  ],
+  "description": "Lower and press your bodyweight with added external plate resistance suspended from a dipping belt on parallel bars, developing pressing power in the triceps and chest.",
+  "setup": [
+    "Secure a dipping belt around your waist with the desired weight plate suspended comfortably between your legs.",
+    "Mount parallel dip bars with arms fully extended, shoulders depressed away from your ears, and elbows softly unlocked.",
+    "Incline your torso slightly forward (~15 degrees) with knees bent and feet crossed behind or held steady beneath you."
+  ],
+  "instructions": [
+    "Lower your body under control by bending your elbows and allowing shoulders to extend until upper arms are at least parallel to the floor (elbows at 90 degrees).",
+    "Maintain the slight forward torso tilt to protect the anterior shoulder capsule and engage the chest.",
+    "Push forcefully through your palms into the bars to extend your arms, driving your body back to the top lockout.",
+    "Do not bounce aggressively out of the bottom position; reverse smoothly under muscular tension."
+  ],
+  "cues": [
+    "Keep shoulders packed down away from ears.",
+    "Maintain a slight forward lean throughout.",
+    "Drive through the heels of the hands."
+  ],
+  "commonMistakes": [
+    "Descending too deep into uncontrolled hyperextension, placing extreme strain on anterior shoulder joint.",
+    "Swinging the suspended weight plates or kicking the legs to generate momentum.",
+    "Shrugging shoulders up toward the ears at the lockout."
+  ],
+  "logging": {
+    "basis": "added_external_load",
+    "example": "One 20 kg plate on dipping belt: record 20 kg added external load.",
+    "note": "Record only the external added plate mass on the dip belt; athlete bodyweight provides the baseline load."
+  },
+  "alternatives": [
+    "Barbell Bench Press",
+    "Cable Rope Triceps Pushdown",
+    "Dumbbell Bench Press"
+  ],
+  "variantNote": "Parallel bar dip performed with additional external weight suspended from a dip belt. Emphasizes triceps and lower chest.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 63 (Weighted Dips).",
+    "Illustration must depict parallel bars with dipping belt and suspended plate between thighs with controlled 15-degree forward lean."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Chest Dip",
+      "url": "https://exrx.net/WeightExercises/PectoralSternal/BWChestDip",
+      "scope": "Parallel bar dip biomechanics, shoulder safety angles, and added load considerations."
+    }
+  ]
+}
