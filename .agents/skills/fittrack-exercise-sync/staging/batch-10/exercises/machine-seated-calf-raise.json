@@ -1,0 +1,82 @@
+{
+  "id": "machine-seated-calf-raise",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Machine Seated Calf Raise",
+  "nameDa": "Siddende lægløft i maskine",
+  "aliases": [
+    "Machine Seated Calf Raise",
+    "Seated calf raise machine",
+    "Seated calf raise",
+    "Bent-knee calf raise",
+    "Soleus calf raise"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Calves"
+  ],
+  "movementPattern": "Ankle plantar flexion - 90-degree knee flexion",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Seated calf raise machine",
+    "Weight plates"
+  ],
+  "grip": "Hands holding stability handles or the release lever beside the thigh pads.",
+  "primaryMuscles": [
+    "Soleus"
+  ],
+  "secondaryMuscles": [
+    "Gastrocnemius",
+    "Tibialis posterior"
+  ],
+  "stabilizers": [
+    "Forearm flexors"
+  ],
+  "description": "Perform bilateral ankle plantar flexion against padded thigh supports while seated with knees bent to 90 degrees, biomechanically unloading the gastrocnemius to isolate the soleus.",
+  "setup": [
+    "Sit on the machine and place the balls of both feet on the lower edge of the footplate with heels hanging freely.",
+    "Adjust and secure the padded thigh lever snugly across your lower thighs just above your knees.",
+    "Disengage the safety support release bar and allow your heels to lower into full ankle dorsiflexion."
+  ],
+  "instructions": [
+    "Lower your heels down into a deep, comfortable stretch below the footplate level.",
+    "Press forcefully through the balls of both feet into full plantar flexion, driving the thigh pad upward onto your tiptoes.",
+    "Hold the peak contraction at the top for a count of one, squeezing the deep calf muscles.",
+    "Lower slowly under complete control back into the full bottom stretch before beginning the next repetition.",
+    "Re-engage the safety catch lever when the set is finished."
+  ],
+  "cues": [
+    "Drop heels deep for a loaded stretch.",
+    "Press high onto the balls of the feet.",
+    "Pause at both the stretch and the top."
+  ],
+  "commonMistakes": [
+    "Bouncing rapidly out of the bottom stretch using Achilles tendon elasticity instead of muscular contraction.",
+    "Cutting the range of motion short.",
+    "Placing the thigh pads too high on the upper thighs instead of just above the knees."
+  ],
+  "logging": {
+    "basis": "total_plate_load",
+    "example": "Two 20 kg plates loaded on horn: record 40 kg total plate load.",
+    "note": "Most seated calf raise machines are plate-loaded lever arms; record the total mass of weight plates loaded."
+  },
+  "alternatives": [
+    "Standing Calf Raise",
+    "Leg Press Calf Press",
+    "Dumbbell Single-Leg Calf Raise"
+  ],
+  "variantNote": "Bent-knee calf raise. Flexing the knee to 90 degrees causes active insufficiency of the biarticular gastrocnemius, isolating the monoarticular soleus under direct load.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 16 (Machine Seated Calf Raise).",
+    "Illustration depicts seated 90-degree bent knee position under thigh pad with balls of feet on block edge, showing dorsiflexion in panel A and peak plantar flexion in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Seated Calf Raise",
+      "url": "https://exrx.net/WeightExercises/Soleus/LVSeatedCalfRaise",
+      "scope": "Seated calf raise biomechanics, soleus isolation via knee flexion, and gastrocnemius active insufficiency."
+    }
+  ]
+}

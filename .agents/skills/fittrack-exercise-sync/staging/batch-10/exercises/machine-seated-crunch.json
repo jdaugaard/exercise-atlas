@@ -1,0 +1,80 @@
+{
+  "id": "machine-seated-crunch",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Machine Seated Crunch",
+  "nameDa": "Siddende mavebøjning i maskine",
+  "aliases": [
+    "Machine Seated Crunch",
+    "Seated ab crunch machine",
+    "Abdominal crunch machine",
+    "Machine abdominal crunch",
+    "Lever seated crunch"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Core"
+  ],
+  "movementPattern": "Spinal flexion - seated machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Seated abdominal crunch machine"
+  ],
+  "grip": "Hands holding upper chest handles or shoulder harness straps beside the neck.",
+  "primaryMuscles": [
+    "Rectus abdominis"
+  ],
+  "secondaryMuscles": [
+    "Obliques"
+  ],
+  "stabilizers": [
+    "Transverse abdominis",
+    "Iliopsoas"
+  ],
+  "description": "Flex the spine forward against a padded chest lever or harness while seated on an abdominal machine, curling the ribcage toward the pelvis against adjustable stack resistance.",
+  "setup": [
+    "Select the desired weight stack pin load.",
+    "Adjust the seat height so the machine's pivot axis aligns directly with your lumbar/thoracic flexion zone (mid-torso).",
+    "Sit firmly with your lower back against the lumbar pad, feet secured behind roller pads or flat on foot rests.",
+    "Grasp the overhead handles or place the padded chest harness against your upper chest/shoulders."
+  ],
+  "instructions": [
+    "Exhale and flex your spine forward, curling your ribcage down toward your pelvis.",
+    "Focus all movement on curling the upper torso into a tight ball using only abdominal contraction.",
+    "Hold the fully crunched position for a brief moment of peak contraction.",
+    "Inhale and reverse the motion slowly under complete control, allowing your spine to unroll back to an upright position without hyperextending."
+  ],
+  "cues": [
+    "Pull your ribs down to your hip bones.",
+    "Do not pull with your arms or neck.",
+    "Control the unrolling on the way back."
+  ],
+  "commonMistakes": [
+    "Pulling with the arms and shoulders instead of curling with the abdominals.",
+    "Hinging purely at the hip flexors with a flat back instead of flexing the spine.",
+    "Allowing the weight plates to slam into the stack between reps."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight pin set to 40 kg: record 40 kg selected machine load.",
+    "note": "Cam profiles and lever mechanics vary between manufacturers; record the selected stack pin load."
+  },
+  "alternatives": [
+    "Captain's Chair Straight-Leg Raise",
+    "Assisted Hanging Knee Raise"
+  ],
+  "variantNote": "Selectorized seated crunch machine providing a direct, progressive resistance curve for spinal flexion that cannot be easily achieved with bodyweight floor crunches.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 17 (Machine Seated Crunch).",
+    "Illustration depicts seated posture with padded upper chest harness/lever, starting upright in panel A and fully crunched forward in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Seated Crunch",
+      "url": "https://exrx.net/WeightExercises/RectusAbdominis/LVSeatedCrunch",
+      "scope": "Machine seated crunch kinematics, rectus abdominis spinal flexion, and pivot axis alignment."
+    }
+  ]
+}

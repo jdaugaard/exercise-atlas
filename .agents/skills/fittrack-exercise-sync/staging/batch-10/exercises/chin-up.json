@@ -1,0 +1,87 @@
+{
+  "id": "chin-up",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Chin-Up",
+  "nameDa": "Chin-up",
+  "aliases": [
+    "Chin-Up",
+    "Underhand pull-up",
+    "Supinated pull-up",
+    "Chin up",
+    "Bodyweight chin-up"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Back",
+    "Upper Arms"
+  ],
+  "movementPattern": "Vertical pull - supinated grip",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Pull-up bar"
+  ],
+  "grip": "Underhand supinated grip, shoulder-width apart, with palms facing toward the athlete.",
+  "primaryMuscles": [
+    "Latissimus dorsi",
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis",
+    "Teres major",
+    "Rhomboids",
+    "Pectoralis major (sternal head)"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff",
+    "Forearm flexors"
+  ],
+  "description": "Pull bodyweight vertically to an overhead bar using a shoulder-width supinated grip until the chin clears the bar, emphasizing the biceps brachii and lower latissimus fibers.",
+  "setup": [
+    "Grasp an overhead bar with a shoulder-width supinated grip (palms facing inward toward your face).",
+    "Hang in a complete, active dead hang with arms fully extended and shoulders depressed away from ears.",
+    "Brace your core, cross your ankles slightly behind you, and keep a tall chest."
+  ],
+  "instructions": [
+    "Pull your body upward by driving your elbows down and back toward your ribcage.",
+    "Lead with the upper chest and pull until your chin comfortably clears the top edge of the bar.",
+    "Pause briefly at peak contraction, squeezing your lats and biceps.",
+    "Lower your body in a slow, uniform descent back to a complete dead hang with arms fully extended before beginning the next repetition."
+  ],
+  "cues": [
+    "Drive elbows down and back.",
+    "Chest to the bar, chin clearly over.",
+    "Lower to a full dead hang on every rep."
+  ],
+  "commonMistakes": [
+    "Kipping or swinging the hips and legs to generate upward momentum.",
+    "Cutting the bottom range of motion short without fully extending the elbows.",
+    "Reaching the chin upward frantically without completing full humeral adduction."
+  ],
+  "logging": {
+    "basis": "bodyweight_only",
+    "example": "Bodyweight: record repetitions performed (or note added external weight if dipping belt is used).",
+    "note": "Record clean repetitions performed from full hang to chin-over-bar."
+  },
+  "alternatives": [
+    "Pull-Up",
+    "Assisted Pull-Up",
+    "Single-Arm Supinated Pulldown"
+  ],
+  "variantNote": "Supinated-grip vertical pull. Compared to the pronated pull-up, the underhand grip places the biceps brachii in an optimal line of pull for increased mechanical advantage and elbow flexion torque.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 19 (Chin-Up).",
+    "Illustration depicts underhand supinated grip with arms hanging in panel A and chin cleared above bar in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Chin-up",
+      "url": "https://exrx.net/WeightExercises/LatissimusDorsi/BWChinup",
+      "scope": "Supinated vertical pull biomechanics, biceps brachii and latissimus dorsi activation, and dead-hang standards."
+    }
+  ]
+}
