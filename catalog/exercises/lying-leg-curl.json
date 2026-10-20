@@ -1,0 +1,99 @@
+{
+  "id": "lying-leg-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Lying Leg Curl",
+  "nameDa": "Liggende lårcurl i maskine",
+  "aliases": [
+    "Lying Leg Curl",
+    "Prone leg curl",
+    "Prone machine hamstring curl",
+    "Lying hamstring curl",
+    "Lying leg curl machine"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Thighs"
+  ],
+  "movementPattern": "Knee flexion - prone machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Lying leg curl machine"
+  ],
+  "grip": "Hands gripping side support handles on the machine bench.",
+  "primaryMuscles": [
+    "Biceps femoris",
+    "Semitendinosus",
+    "Semimembranosus"
+  ],
+  "secondaryMuscles": [
+    "Gastrocnemius",
+    "Gracilis",
+    "Sartorius"
+  ],
+  "stabilizers": [
+    "Spinal erectors",
+    "Abdominal wall",
+    "Gluteus maximus"
+  ],
+  "description": "Flex knees against a padded machine roller while lying prone on an angled bench, isolating the hamstring complex through open-chain knee flexion.",
+  "setup": [
+    "Select the desired pin load on the weight stack.",
+    "Adjust the padded roller so it rests just below the calves against the lower Achilles tendon with knees aligned with the machine pivot axis.",
+    "Lie prone with your hips and torso supported against the angled bench pads and grasp the side handles firmly."
+  ],
+  "instructions": [
+    "Curl both heels upward and backward toward your glutes by flexing your knees through a smooth, controlled arc.",
+    "Keep your hips and pelvis pressed firmly against the bench pad without hyperextending your lower back.",
+    "Squeeze your hamstrings firmly at peak contraction when the roller approaches the glutes.",
+    "Lower the lever slowly under control back to the starting position with legs nearly fully extended before the next rep."
+  ],
+  "cues": [
+    "Glue your hips to the bench.",
+    "Pull heels all the way to the glutes.",
+    "Control the negative descent."
+  ],
+  "commonMistakes": [
+    "Lifting the pelvis and hips off the bench pad to recruit hip flexors and lower back.",
+    "Using explosive swinging momentum that slams the weight stack at the bottom.",
+    "Setting the roller pad too high on the calf or too low on the foot."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight stack pin set to 35 kg: record 35 kg selected machine load.",
+    "note": "Cam shapes and lever ratios vary across machine manufacturers; record the selected stack pin load."
+  },
+  "alternatives": [
+    "Barbell Romanian Deadlift",
+    "Dumbbell Romanian Deadlift",
+    "Machine Seated Leg Curl"
+  ],
+  "variantNote": "Prone selectorized lying leg curl machine isolating knee flexion. Angled bench pad reduces passive insufficiency by placing hips in slight flexion.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 62 (Lying Leg Curl).",
+    "Depicts prone position on angled bench with full knee flexion arc to glutes without pelvic elevation."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Lying Leg Curl",
+      "url": "https://exrx.net/WeightExercises/Hamstrings/LVLyingLegCurl",
+      "scope": "Prone machine leg curl kinematics, hamstring recruitment, and pelvic stabilization."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "5f260abdf37672f6c6a8f9a8f33dda47002295f8eab26097a091decee6f7a9cc",
+    "url": "/media/5f260abdf37672f6c6a8f9a8f33dda47002295f8eab26097a091decee6f7a9cc.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Lying Leg Curl.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "lying-leg-curl",
+      "model": null
+    }
+  }
+}

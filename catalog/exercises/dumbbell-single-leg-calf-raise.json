@@ -1,0 +1,97 @@
+{
+  "id": "dumbbell-single-leg-calf-raise",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Dumbbell Single-Leg Calf Raise",
+  "nameDa": "Etbens lægløft med håndvægt",
+  "aliases": [
+    "Dumbbell Single-Leg Calf Raise",
+    "Single-leg dumbbell calf raise",
+    "One-leg calf raise with dumbbell",
+    "Unilateral standing calf raise"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Calves"
+  ],
+  "movementPattern": "Ankle plantar flexion - unilateral",
+  "laterality": "Unilateral",
+  "equipmentItems": [
+    "One dumbbell",
+    "Raised calf block or step",
+    "Support post or wall for balance"
+  ],
+  "grip": "Working side hand holds dumbbell at side with straight arm; non-working side hand touches post for balance.",
+  "primaryMuscles": [
+    "Gastrocnemius"
+  ],
+  "secondaryMuscles": [
+    "Soleus",
+    "Tibialis posterior"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Quadriceps",
+    "Forearm flexors"
+  ],
+  "description": "Perform unilateral ankle plantar flexion on a raised calf block while holding a dumbbell on the working side, isolating the gastrocnemius under loaded stretch.",
+  "setup": [
+    "Stand on a raised calf block or sturdy platform with the ball of the working foot on the edge and the heel hanging freely.",
+    "Hold a dumbbell at your side on the working side with arm extended.",
+    "Hook the non-working foot behind the working ankle and place your free hand lightly against an upright post or wall for balance."
+  ],
+  "instructions": [
+    "Lower your working heel smoothly below the platform level into deep ankle dorsiflexion until you feel a complete stretch through the calf.",
+    "Press forcefully through the ball of the foot into full plantar flexion, rising onto your tiptoes as high as possible.",
+    "Hold the peak contraction at the top for a moment, squeezing the calf muscle.",
+    "Lower slowly under complete control back into the full bottom stretch before beginning the next repetition.",
+    "Complete all repetitions on one side before switching to the opposite leg."
+  ],
+  "cues": [
+    "Press straight up through the ball of the foot.",
+    "Keep the working knee motionless and softly unlocked.",
+    "Use the support post only for balance, not for assistance."
+  ],
+  "commonMistakes": [
+    "Bending the working knee into a single-leg squat to assist the lift.",
+    "Cutting the bottom stretch short without letting the heel drop below the block.",
+    "Pushing off the wall or post with the free hand."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Single 18 kg dumbbell held on working side: record 18 kg.",
+    "note": "Record the mass of the single dumbbell used. If performed with bodyweight only, record 0 kg external load."
+  },
+  "alternatives": [
+    "Standing Calf Raise",
+    "Leg Press Calf Press"
+  ],
+  "variantNote": "Unilateral standing calf raise on a raised platform holding a single dumbbell on the working side with knee straight to isolate gastrocnemius.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 72 (Dumbbell Single-Leg Calf Raise).",
+    "Requires strict unilateral depiction: working foot on block with heel in full dorsiflexion/plantar flexion, opposite foot hooked behind ankle."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Dumbbell Single Leg Calf Raise",
+      "url": "https://exrx.net/WeightExercises/Gastrocnemius/DBSingleLegCalfRaise",
+      "scope": "Unilateral calf raise mechanics, gastrocnemius recruitment under loaded stretch, and balance protocols."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "ecbcfefe5bdd25fc86dd73d87481b6ede55d9410cab19e22d12d11411e4daa2d",
+    "url": "/media/ecbcfefe5bdd25fc86dd73d87481b6ede55d9410cab19e22d12d11411e4daa2d.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Dumbbell Single-Leg Calf Raise.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "dumbbell-single-leg-calf-raise",
+      "model": null
+    }
+  }
+}

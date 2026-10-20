@@ -1,0 +1,99 @@
+{
+  "id": "cable-high-fly",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Cable High Fly",
+  "nameDa": "Kabel-flyes fra høj talje",
+  "aliases": [
+    "Cable High Fly",
+    "High-to-low cable fly",
+    "Standing cable high fly",
+    "Cable chest fly from high pulley",
+    "High cable fly"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Chest"
+  ],
+  "movementPattern": "Shoulder horizontal adduction - high-to-low arc",
+  "laterality": "Bilateral, dual cables",
+  "equipmentItems": [
+    "Two high cable pulleys",
+    "Two single D-handles"
+  ],
+  "grip": "Neutral or semi-pronated grip holding single D-handles with wrists straight.",
+  "primaryMuscles": [
+    "Pectoralis major (sternal head)",
+    "Pectoralis major (costal head)"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Pectoralis minor",
+    "Biceps brachii (short head)"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff",
+    "Quadriceps"
+  ],
+  "description": "Sweep dual high-cable handles downward and inward along a hugging arc toward the waist while standing in a staggered stance, isolating the lower and sternal sternocostal pectoralis fibers.",
+  "setup": [
+    "Attach single D-handles to two high cable pulleys positioned at or above head height.",
+    "Grasp a handle in each hand and step forward between the towers into an athletic staggered stance.",
+    "Lean your torso forward approximately 15 to 20 degrees with a flat spine, holding arms wide at chest level with elbows softly bent."
+  ],
+  "instructions": [
+    "Sweep both handles downward and forward in a wide hugging arc until your hands meet or cross slightly in front of your hips.",
+    "Maintain a fixed, soft bend in your elbows throughout the entire arc (avoid pressing or straightening into a pushdown).",
+    "Pause for a brief count at the bottom peak contraction, squeezing the lower and inner chest firmly.",
+    "Slowly allow your arms to open back out and upward along the same arc until you feel a comfortable stretch across the chest."
+  ],
+  "cues": [
+    "Lead with the elbows in a wide hugging arc.",
+    "Keep torso angle constant.",
+    "Squeeze hands down to the hips."
+  ],
+  "commonMistakes": [
+    "Pressing the handles forward like a chest press instead of sweeping in an arc.",
+    "Swinging the torso backward and forward to generate momentum.",
+    "Straightening elbows into a triceps pushdown at the finish."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "Weight pins set to 15 kg on each tower: record 15 kg per cable stack.",
+    "note": "Dual cable stations use independent weight stacks; record the selected stack pin load per side."
+  },
+  "alternatives": [
+    "Flat Dumbbell Fly",
+    "Pec Deck",
+    "Decline Dumbbell Bench Press"
+  ],
+  "variantNote": "Standing high-to-low cable chest fly performed from dual high pulleys. Emphasizes sternal and costal fibers of the pectoralis major through downward horizontal adduction.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 73 (Cable High Fly).",
+    "FitTrack description notes 'targets upper chest', but downward high-to-low trajectory biomechanically recruits sternocostal (lower/sternal) fibers; low-to-high recruits clavicular (upper) fibers. Documented explicitly."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Cable Standing Fly",
+      "url": "https://exrx.net/WeightExercises/PectoralSternal/CBStandingFly",
+      "scope": "Standing cable fly biomechanics, sternal pectoralis major activation, and shoulder kinematics."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "4aba112478ee0d8e500c238f01a41c5ed0676b5892de86e96787c5ab927f92a1",
+    "url": "/media/4aba112478ee0d8e500c238f01a41c5ed0676b5892de86e96787c5ab927f92a1.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Cable High Fly.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "cable-high-fly",
+      "model": null
+    }
+  }
+}

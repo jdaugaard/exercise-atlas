@@ -1,6 +1,6 @@
 # Illustrated exercise catalog
 
-48 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+53 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
@@ -8,7 +8,9 @@
 - [Barbell Bench Press](../catalog/exercises/barbell-bench-press.json)
 - [Barbell Deadlift](../catalog/exercises/barbell-deadlift.json)
 - [Barbell Romanian Deadlift](../catalog/exercises/barbell-romanian-deadlift.json)
+- [Bayesian Curl](../catalog/exercises/bayesian-curl.json)
 - [Bent-Over Barbell Row](../catalog/exercises/bent-over-barbell-row.json)
+- [Cable High Fly](../catalog/exercises/cable-high-fly.json)
 - [Cable Rope Triceps Pushdown](../catalog/exercises/cable-rope-triceps-pushdown.json)
 - [Cable Triceps Pushdown](../catalog/exercises/cable-triceps-pushdown.json)
 - [Decline Dumbbell Bench Press](../catalog/exercises/decline-dumbbell-bench-press.json)
@@ -17,12 +19,14 @@
 - [Dumbbell Hammer Curl](../catalog/exercises/dumbbell-hammer-curl.json)
 - [Dumbbell Lateral Raise](../catalog/exercises/dumbbell-lateral-raise.json)
 - [Dumbbell Romanian Deadlift](../catalog/exercises/dumbbell-romanian-deadlift.json)
+- [Dumbbell Single-Leg Calf Raise](../catalog/exercises/dumbbell-single-leg-calf-raise.json)
 - [Dumbbell Spider Curl](../catalog/exercises/dumbbell-spider-curl.json)
 - [Face Pulls with Wrist Cuffs](../catalog/exercises/face-pull-wrist-cuffs.json)
 - [Flat Dumbbell Fly](../catalog/exercises/flat-dumbbell-fly.json)
 - [Incline Chest Press Machine](../catalog/exercises/incline-chest-press-machine.json)
 - [Incline Dumbbell Biceps Curl](../catalog/exercises/incline-dumbbell-biceps-curl.json)
 - [Leg Press Calf Press](../catalog/exercises/leg-press-calf-press.json)
+- [Lying Leg Curl](../catalog/exercises/lying-leg-curl.json)
 - [Machine Chest Press](../catalog/exercises/machine-chest-press.json)
 - [Machine Hip Thrust](../catalog/exercises/machine-hip-thrust.json)
 - [Machine Preacher Curl](../catalog/exercises/machine-preacher-curl.json)
@@ -51,6 +55,7 @@
 - [Supinated Barbell Bent-Over Row](../catalog/exercises/supinated-barbell-bent-over-row.json)
 - [T-Bar Row](../catalog/exercises/t-bar-row.json)
 - [Trap-Bar Deadlift](../catalog/exercises/trap-bar-deadlift.json)
+- [Weighted Dips](../catalog/exercises/weighted-dip.json)
 - [Wide-Grip Upright Row](../catalog/exercises/wide-grip-upright-row.json)
 
 ## Barbell Back Squat
@@ -320,6 +325,77 @@ Starts upright and reverses at your controlled hinge depth; a conventional deadl
 
 [Editable JSON](../catalog/exercises/barbell-romanian-deadlift.json)
 
+## Bayesian Curl
+
+![Paired black-and-white instructional line drawings of Bayesian Curl.](../catalog/media/55ba6e792b1f06065dcd8bcf44147c33798b769d1c4a1311fb5d71e50ce5e1e3.png)
+
+Starting position / Peak contraction position
+
+Perform a standing cable biceps curl facing away from a low pulley with the shoulder extended behind the torso, maximizing tension on the biceps in the fully lengthened stretch position.
+
+- **Danish:** Bayesian kabel-bicepscurl
+- **Aliases:** Bayesian Curl, Facing-away cable curl, Incline cable biceps curl, Lengthened-position cable curl, Behind-the-back cable curl
+- **Primary muscles:** Biceps brachii
+- **Assisting muscles:** Brachialis, Brachioradialis
+- **Stabilizers:** Anterior deltoid, Abdominal wall, Rotator cuff
+- **Equipment:** Low cable pulley, Single D-handle
+- **Movement:** Elbow flexion - shoulder extended cable stretch; Unilateral
+- **Grip:** Underhand supinated grip on single D-handle, palm facing forward and upward.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Set an adjustable cable pulley to the lowest position and attach a single D-handle.
+- Grasp the handle with a supinated grip and take one to two paces forward, facing directly away from the cable stack.
+- Adopt a stable staggered stance with the working arm extended behind your torso into shoulder extension, feeling a deep stretch across the biceps.
+
+### Execution
+
+1. Curl the handle forward and upward toward your shoulder by flexing your elbow.
+2. Keep your upper arm relatively stationary behind or beside your ribcage to maintain stretch on the long head.
+3. Contract your biceps forcefully at the top position with wrist supinated.
+4. Slowly extend your elbow back under control, allowing the cable to pull your arm back into full shoulder extension and loaded biceps stretch.
+5. Complete all repetitions before switching to the opposite arm.
+
+### Cues
+
+- Feel the stretch behind you at the bottom.
+- Curl forward with elbow pinned.
+- Control the backward negative stretch.
+
+### Common mistakes
+
+- Swinging the shoulder forward during the curl, turning the exercise into a front raise.
+- Standing too close to the pulley, losing tension in the lengthened stretch.
+- Leaning the torso forward and backward with each rep.
+
+### Logging convention
+
+Weight pin set to 12.5 kg on low pulley: record 12.5 kg on that cable station.
+
+Unilateral cable movement facing away from stack; record selected pin load and note pulley position.
+
+### Variants and alternatives
+
+Facing-away unilateral low-cable curl with shoulder in passive extension, creating peak passive and active stretch tension on the biceps brachii long head.
+
+- Incline Dumbbell Biceps Curl
+- Standing Single-Arm Cable Biceps Curl
+- Dumbbell Biceps Curl
+
+### Review notes
+
+- Drafted from FitTrack ID 61 (Bayesian Curl).
+- FitTrack description notes: 'Cable biceps curl hvor du står et skridt foran kablet for at få stræk i biceps i bundpositionen.'
+- Prompt specifies standing facing away from low pulley with working arm trailing behind torso in loaded stretch in panel A, curled to shoulder in panel B.
+
+### References
+
+- [Menno Henselmans - The Bayesian Curl](https://mennohenselmans.com/bayesian-curl/): Biomechanics of the facing-away cable curl, biceps long head stretch-mediated hypertrophy, and resistance curve alignment.
+
+[Editable JSON](../catalog/exercises/bayesian-curl.json)
+
 ## Bent-Over Barbell Row
 
 ![Two line drawings of an overhand barbell row with the torso held in a hip hinge.](../catalog/media/8eb98df93d1fbf80b942ba09bd290a563368c4e2294c95e74fb57e43f91e1c04.png)
@@ -385,6 +461,75 @@ Pronated overhand grip with the bar suspended between repetitions. A floor-reset
 - [Muscle & Strength - Bent Over Barbell Row](https://www.muscleandstrength.com/exercises/bent-over-barbell-row.html): Overhand bent-over row, fixed hip hinge and controlled pull toward the torso.
 
 [Editable JSON](../catalog/exercises/bent-over-barbell-row.json)
+
+## Cable High Fly
+
+![Paired black-and-white instructional line drawings of Cable High Fly.](../catalog/media/4aba112478ee0d8e500c238f01a41c5ed0676b5892de86e96787c5ab927f92a1.png)
+
+Starting position / Peak contraction position
+
+Sweep dual high-cable handles downward and inward along a hugging arc toward the waist while standing in a staggered stance, isolating the lower and sternal sternocostal pectoralis fibers.
+
+- **Danish:** Kabel-flyes fra høj talje
+- **Aliases:** Cable High Fly, High-to-low cable fly, Standing cable high fly, Cable chest fly from high pulley, High cable fly
+- **Primary muscles:** Pectoralis major (sternal head), Pectoralis major (costal head)
+- **Assisting muscles:** Anterior deltoid, Pectoralis minor, Biceps brachii (short head)
+- **Stabilizers:** Abdominal wall, Rotator cuff, Quadriceps
+- **Equipment:** Two high cable pulleys, Two single D-handles
+- **Movement:** Shoulder horizontal adduction - high-to-low arc; Bilateral, dual cables
+- **Grip:** Neutral or semi-pronated grip holding single D-handles with wrists straight.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Attach single D-handles to two high cable pulleys positioned at or above head height.
+- Grasp a handle in each hand and step forward between the towers into an athletic staggered stance.
+- Lean your torso forward approximately 15 to 20 degrees with a flat spine, holding arms wide at chest level with elbows softly bent.
+
+### Execution
+
+1. Sweep both handles downward and forward in a wide hugging arc until your hands meet or cross slightly in front of your hips.
+2. Maintain a fixed, soft bend in your elbows throughout the entire arc (avoid pressing or straightening into a pushdown).
+3. Pause for a brief count at the bottom peak contraction, squeezing the lower and inner chest firmly.
+4. Slowly allow your arms to open back out and upward along the same arc until you feel a comfortable stretch across the chest.
+
+### Cues
+
+- Lead with the elbows in a wide hugging arc.
+- Keep torso angle constant.
+- Squeeze hands down to the hips.
+
+### Common mistakes
+
+- Pressing the handles forward like a chest press instead of sweeping in an arc.
+- Swinging the torso backward and forward to generate momentum.
+- Straightening elbows into a triceps pushdown at the finish.
+
+### Logging convention
+
+Weight pins set to 15 kg on each tower: record 15 kg per cable stack.
+
+Dual cable stations use independent weight stacks; record the selected stack pin load per side.
+
+### Variants and alternatives
+
+Standing high-to-low cable chest fly performed from dual high pulleys. Emphasizes sternal and costal fibers of the pectoralis major through downward horizontal adduction.
+
+- Flat Dumbbell Fly
+- Pec Deck
+- Decline Dumbbell Bench Press
+
+### Review notes
+
+- Drafted from FitTrack ID 73 (Cable High Fly).
+- FitTrack description notes 'targets upper chest', but downward high-to-low trajectory biomechanically recruits sternocostal (lower/sternal) fibers; low-to-high recruits clavicular (upper) fibers. Documented explicitly.
+
+### References
+
+- [ExRx.net - Cable Standing Fly](https://exrx.net/WeightExercises/PectoralSternal/CBStandingFly): Standing cable fly biomechanics, sternal pectoralis major activation, and shoulder kinematics.
+
+[Editable JSON](../catalog/exercises/cable-high-fly.json)
 
 ## Cable Rope Triceps Pushdown
 
@@ -927,6 +1072,75 @@ Bilateral dumbbell variation allowing independent wrist positioning while loadin
 
 [Editable JSON](../catalog/exercises/dumbbell-romanian-deadlift.json)
 
+## Dumbbell Single-Leg Calf Raise
+
+![Paired black-and-white instructional line drawings of Dumbbell Single-Leg Calf Raise.](../catalog/media/ecbcfefe5bdd25fc86dd73d87481b6ede55d9410cab19e22d12d11411e4daa2d.png)
+
+Starting position / Peak contraction position
+
+Perform unilateral ankle plantar flexion on a raised calf block while holding a dumbbell on the working side, isolating the gastrocnemius under loaded stretch.
+
+- **Danish:** Etbens lægløft med håndvægt
+- **Aliases:** Dumbbell Single-Leg Calf Raise, Single-leg dumbbell calf raise, One-leg calf raise with dumbbell, Unilateral standing calf raise
+- **Primary muscles:** Gastrocnemius
+- **Assisting muscles:** Soleus, Tibialis posterior
+- **Stabilizers:** Abdominal wall, Quadriceps, Forearm flexors
+- **Equipment:** One dumbbell, Raised calf block or step, Support post or wall for balance
+- **Movement:** Ankle plantar flexion - unilateral; Unilateral
+- **Grip:** Working side hand holds dumbbell at side with straight arm; non-working side hand touches post for balance.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Stand on a raised calf block or sturdy platform with the ball of the working foot on the edge and the heel hanging freely.
+- Hold a dumbbell at your side on the working side with arm extended.
+- Hook the non-working foot behind the working ankle and place your free hand lightly against an upright post or wall for balance.
+
+### Execution
+
+1. Lower your working heel smoothly below the platform level into deep ankle dorsiflexion until you feel a complete stretch through the calf.
+2. Press forcefully through the ball of the foot into full plantar flexion, rising onto your tiptoes as high as possible.
+3. Hold the peak contraction at the top for a moment, squeezing the calf muscle.
+4. Lower slowly under complete control back into the full bottom stretch before beginning the next repetition.
+5. Complete all repetitions on one side before switching to the opposite leg.
+
+### Cues
+
+- Press straight up through the ball of the foot.
+- Keep the working knee motionless and softly unlocked.
+- Use the support post only for balance, not for assistance.
+
+### Common mistakes
+
+- Bending the working knee into a single-leg squat to assist the lift.
+- Cutting the bottom stretch short without letting the heel drop below the block.
+- Pushing off the wall or post with the free hand.
+
+### Logging convention
+
+Single 18 kg dumbbell held on working side: record 18 kg.
+
+Record the mass of the single dumbbell used. If performed with bodyweight only, record 0 kg external load.
+
+### Variants and alternatives
+
+Unilateral standing calf raise on a raised platform holding a single dumbbell on the working side with knee straight to isolate gastrocnemius.
+
+- Standing Calf Raise
+- Leg Press Calf Press
+
+### Review notes
+
+- Drafted from FitTrack ID 72 (Dumbbell Single-Leg Calf Raise).
+- Requires strict unilateral depiction: working foot on block with heel in full dorsiflexion/plantar flexion, opposite foot hooked behind ankle.
+
+### References
+
+- [ExRx.net - Dumbbell Single Leg Calf Raise](https://exrx.net/WeightExercises/Gastrocnemius/DBSingleLegCalfRaise): Unilateral calf raise mechanics, gastrocnemius recruitment under loaded stretch, and balance protocols.
+
+[Editable JSON](../catalog/exercises/dumbbell-single-leg-calf-raise.json)
+
 ## Dumbbell Spider Curl
 
 ![Two black-and-white line drawings of a chest-supported dumbbell spider curl on an inclined bench.](../catalog/media/c4c72faa9113c19dfff1d76b8e094887a128285ab1a571cdc72c6a34a89542d4.png)
@@ -1334,6 +1548,75 @@ Calf press performed on a 45-degree sled leg press machine with straight legs to
 - [ExRx.net - Sled 45° Calf Press](https://exrx.net/WeightExercises/Gastrocnemius/SL45CalfPress): 45-degree sled calf press biomechanics, gastrocnemius isolation, and safety considerations.
 
 [Editable JSON](../catalog/exercises/leg-press-calf-press.json)
+
+## Lying Leg Curl
+
+![Paired black-and-white instructional line drawings of Lying Leg Curl.](../catalog/media/5f260abdf37672f6c6a8f9a8f33dda47002295f8eab26097a091decee6f7a9cc.png)
+
+Starting position / Peak contraction position
+
+Flex knees against a padded machine roller while lying prone on an angled bench, isolating the hamstring complex through open-chain knee flexion.
+
+- **Danish:** Liggende lårcurl i maskine
+- **Aliases:** Lying Leg Curl, Prone leg curl, Prone machine hamstring curl, Lying hamstring curl, Lying leg curl machine
+- **Primary muscles:** Biceps femoris, Semitendinosus, Semimembranosus
+- **Assisting muscles:** Gastrocnemius, Gracilis, Sartorius
+- **Stabilizers:** Spinal erectors, Abdominal wall, Gluteus maximus
+- **Equipment:** Lying leg curl machine
+- **Movement:** Knee flexion - prone machine; Bilateral
+- **Grip:** Hands gripping side support handles on the machine bench.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Select the desired pin load on the weight stack.
+- Adjust the padded roller so it rests just below the calves against the lower Achilles tendon with knees aligned with the machine pivot axis.
+- Lie prone with your hips and torso supported against the angled bench pads and grasp the side handles firmly.
+
+### Execution
+
+1. Curl both heels upward and backward toward your glutes by flexing your knees through a smooth, controlled arc.
+2. Keep your hips and pelvis pressed firmly against the bench pad without hyperextending your lower back.
+3. Squeeze your hamstrings firmly at peak contraction when the roller approaches the glutes.
+4. Lower the lever slowly under control back to the starting position with legs nearly fully extended before the next rep.
+
+### Cues
+
+- Glue your hips to the bench.
+- Pull heels all the way to the glutes.
+- Control the negative descent.
+
+### Common mistakes
+
+- Lifting the pelvis and hips off the bench pad to recruit hip flexors and lower back.
+- Using explosive swinging momentum that slams the weight stack at the bottom.
+- Setting the roller pad too high on the calf or too low on the foot.
+
+### Logging convention
+
+Weight stack pin set to 35 kg: record 35 kg selected machine load.
+
+Cam shapes and lever ratios vary across machine manufacturers; record the selected stack pin load.
+
+### Variants and alternatives
+
+Prone selectorized lying leg curl machine isolating knee flexion. Angled bench pad reduces passive insufficiency by placing hips in slight flexion.
+
+- Barbell Romanian Deadlift
+- Dumbbell Romanian Deadlift
+- Machine Seated Leg Curl
+
+### Review notes
+
+- Drafted from FitTrack ID 62 (Lying Leg Curl).
+- Depicts prone position on angled bench with full knee flexion arc to glutes without pelvic elevation.
+
+### References
+
+- [ExRx.net - Lever Lying Leg Curl](https://exrx.net/WeightExercises/Hamstrings/LVLyingLegCurl): Prone machine leg curl kinematics, hamstring recruitment, and pelvic stabilization.
+
+[Editable JSON](../catalog/exercises/lying-leg-curl.json)
 
 ## Machine Chest Press
 
@@ -3244,6 +3527,75 @@ Neutral-grip trap bar variation. Positions the load in line with the body's cent
 - [ExRx.net - Trap Bar Deadlift](https://exrx.net/WeightExercises/GluteusMaximus/TBDL): Hex bar deadlift mechanics, joint moments, and prime mover distribution.
 
 [Editable JSON](../catalog/exercises/trap-bar-deadlift.json)
+
+## Weighted Dips
+
+![Paired black-and-white instructional line drawings of Weighted Dips.](../catalog/media/ec5c91090c2cda153233c50c050cb3e22c69094daa602aaa46b6cc32bc4d187c.png)
+
+Starting position / Peak contraction position
+
+Lower and press your bodyweight with added external plate resistance suspended from a dipping belt on parallel bars, developing pressing power in the triceps and chest.
+
+- **Danish:** Dips med ekstra vægt
+- **Aliases:** Weighted Dips, Weighted parallel bar dips, Parallel bar dips with weight, Weighted dip, Dips (Weighted)
+- **Primary muscles:** Triceps brachii, Pectoralis major (sternal head)
+- **Assisting muscles:** Anterior deltoid, Pectoralis minor
+- **Stabilizers:** Rhomboids, Lower trapezius, Abdominal wall
+- **Equipment:** Parallel dip bars, Dipping belt and weight plates
+- **Movement:** Vertical push - compound bodyweight extension; Bilateral
+- **Grip:** Neutral grip with palms facing inward, grasping parallel bars firmly with wrists stacked over forearms.
+- **Difficulty:** Advanced (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Secure a dipping belt around your waist with the desired weight plate suspended comfortably between your legs.
+- Mount parallel dip bars with arms fully extended, shoulders depressed away from your ears, and elbows softly unlocked.
+- Incline your torso slightly forward (~15 degrees) with knees bent and feet crossed behind or held steady beneath you.
+
+### Execution
+
+1. Lower your body under control by bending your elbows and allowing shoulders to extend until upper arms are at least parallel to the floor (elbows at 90 degrees).
+2. Maintain the slight forward torso tilt to protect the anterior shoulder capsule and engage the chest.
+3. Push forcefully through your palms into the bars to extend your arms, driving your body back to the top lockout.
+4. Do not bounce aggressively out of the bottom position; reverse smoothly under muscular tension.
+
+### Cues
+
+- Keep shoulders packed down away from ears.
+- Maintain a slight forward lean throughout.
+- Drive through the heels of the hands.
+
+### Common mistakes
+
+- Descending too deep into uncontrolled hyperextension, placing extreme strain on anterior shoulder joint.
+- Swinging the suspended weight plates or kicking the legs to generate momentum.
+- Shrugging shoulders up toward the ears at the lockout.
+
+### Logging convention
+
+One 20 kg plate on dipping belt: record 20 kg added external load.
+
+Record only the external added plate mass on the dip belt; athlete bodyweight provides the baseline load.
+
+### Variants and alternatives
+
+Parallel bar dip performed with additional external weight suspended from a dip belt. Emphasizes triceps and lower chest.
+
+- Barbell Bench Press
+- Cable Rope Triceps Pushdown
+- Dumbbell Bench Press
+
+### Review notes
+
+- Drafted from FitTrack ID 63 (Weighted Dips).
+- Illustration must depict parallel bars with dipping belt and suspended plate between thighs with controlled 15-degree forward lean.
+
+### References
+
+- [ExRx.net - Chest Dip](https://exrx.net/WeightExercises/PectoralSternal/BWChestDip): Parallel bar dip biomechanics, shoulder safety angles, and added load considerations.
+
+[Editable JSON](../catalog/exercises/weighted-dip.json)
 
 ## Wide-Grip Upright Row
 
