@@ -1,0 +1,97 @@
+{
+  "id": "machine-inner-chest-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Machine Inner Chest Press",
+  "nameDa": "Brystpres med samlende greb i maskine",
+  "aliases": [
+    "Machine Inner Chest Press",
+    "Converging chest press machine",
+    "Neutral-grip machine chest press",
+    "Close-grip machine chest press"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Chest",
+    "Upper Arms",
+    "Shoulders"
+  ],
+  "movementPattern": "Horizontal push - converging machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Seated chest press machine"
+  ],
+  "grip": "Neutral or narrow overhand grip on inner converging machine handles.",
+  "primaryMuscles": [
+    "Pectoralis major (sternal head)"
+  ],
+  "secondaryMuscles": [
+    "Triceps brachii",
+    "Anterior deltoid",
+    "Pectoralis major (clavicular head)"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff"
+  ],
+  "description": "Press seated machine handles forward along a converging path using an inner neutral or narrow grip, creating peak horizontal adduction tension across the inner sternal pectorals at lockout.",
+  "setup": [
+    "Adjust the seat height so the inner handles align with mid-chest level.",
+    "Sit upright with hips, upper back, and head firmly against the vertical back pad, feet flat on the floor.",
+    "Grasp the inner/neutral handles with elbows tucked comfortably at ~45 degrees to the torso."
+  ],
+  "instructions": [
+    "Press the handles smoothly forward away from your chest along the machine's converging track.",
+    "Extend your arms fully, bringing your hands closer together in front of the center chest without locking out elbows aggressively.",
+    "Squeeze your pectorals forcefully at the peak contraction.",
+    "Return the handles slowly under complete control until hands are back beside the chest, feeling a comfortable chest stretch before the next rep."
+  ],
+  "cues": [
+    "Press forward and squeeze hands together in the center.",
+    "Keep upper back and head against the backrest.",
+    "Control the stretch on the return."
+  ],
+  "commonMistakes": [
+    "Allowing shoulders to roll forward off the backrest at peak extension.",
+    "Flaring elbows high and wide, shifting load away from the chest to anterior shoulders.",
+    "Bouncing weight plates off the stack stops between repetitions."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight pin set to 55 kg: record 55 kg selected machine load.",
+    "note": "Leverage and converging cam paths vary between manufacturers; record selected stack pin load."
+  },
+  "alternatives": [
+    "Machine Chest Press",
+    "Incline Chest Press Machine",
+    "Barbell Bench Press"
+  ],
+  "variantNote": "Seated machine chest press utilizing inner or converging handles to maximize horizontal adduction and peak sternal pectoral contraction.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 50 (Machine Inner Chest Press).",
+    "Focuses on inner/converging handle variation of selectorized chest press distinct from wide flat bench pressing."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Seated Chest Press",
+      "url": "https://exrx.net/WeightExercises/PectoralSternal/LVChestPress",
+      "scope": "Selectorized chest press mechanics, grip width variations, and converging lever advantages."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "3a0249aa22f7945244bdb225f1978b58c5864c5e5ca8d065ee4b28f4c2971e7f",
+    "url": "/media/3a0249aa22f7945244bdb225f1978b58c5864c5e5ca8d065ee4b28f4c2971e7f.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Machine Inner Chest Press.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "machine-inner-chest-press",
+      "model": null
+    }
+  }
+}

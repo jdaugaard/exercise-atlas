@@ -1,0 +1,105 @@
+{
+  "id": "barbell-incline-bench-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Barbell Incline Bench Press",
+  "nameDa": "Skrå bænkpres med vægtstang",
+  "aliases": [
+    "Barbell Incline Bench Press",
+    "Incline barbell bench press",
+    "Incline bench press",
+    "Incline barbell press"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Chest",
+    "Shoulders",
+    "Upper Arms"
+  ],
+  "movementPattern": "Incline chest press - free weight",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates",
+    "Adjustable incline bench",
+    "Rack with safety supports or a competent spotter"
+  ],
+  "grip": "Overhand pronated grip slightly wider than shoulder width with thumbs wrapped securely around the bar.",
+  "primaryMuscles": [
+    "Pectoralis major (clavicular head)"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Triceps brachii",
+    "Pectoralis major (sternal head)"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall",
+    "Rhomboids",
+    "Lower trapezius"
+  ],
+  "description": "Press a barbell from the upper chest while lying on an incline bench angled between 30 and 45 degrees, developing upper pectoral thickness and anterior deltoid strength.",
+  "setup": [
+    "Set an incline bench between 30 and 45 degrees inside a power rack or designated incline bench station.",
+    "Lie on the bench with eyes positioned directly under the racked barbell, feet flat and firmly pressed into the floor.",
+    "Retract and depress your scapulae, planting your shoulder blades firmly into the bench pad.",
+    "Grasp the bar with a full overhand grip slightly wider than shoulder width, wrists straight.",
+    "Unrack the barbell and settle it directly over the upper chest with arms straight and elbows softly unlocked."
+  ],
+  "instructions": [
+    "Lower the bar smoothly toward your upper chest (at or slightly below the clavicles), keeping elbows tucked at approximately a 45 to 60-degree angle to the torso.",
+    "Touch the barbell lightly to the chest without bouncing off the sternum.",
+    "Press the bar upward and slightly backward along an efficient diagonal pressing path until arms are fully extended over the shoulders.",
+    "Maintain leg drive and tight upper back tension throughout the entire repetition."
+  ],
+  "cues": [
+    "Pull the bar down to the upper chest.",
+    "Tuck elbows to 45 degrees.",
+    "Drive feet into the floor."
+  ],
+  "commonMistakes": [
+    "Setting bench angle excessively steep (e.g. 60+ degrees), transforming the exercise into a shoulder press.",
+    "Bouncing the barbell violently off the chest.",
+    "Flaring elbows straight out to 90 degrees, stressing the anterior shoulder capsule."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "Standard 20 kg barbell loaded with two 20 kg plates (one per side): record 60 kg total barbell mass.",
+    "note": "Record the total system mass of the barbell plus all loaded plates."
+  },
+  "alternatives": [
+    "Barbell Bench Press",
+    "Incline Smith Machine Press",
+    "Incline Chest Press Machine",
+    "Dumbbell Bench Press"
+  ],
+  "variantNote": "Free-weight incline pressing movement angled at 30 to 45 degrees, providing unrestricted barbell path and demanding significant shoulder stabilizer engagement.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 49 (Barbell Incline Bench Press).",
+    "Illustration depicts 30-45 degree incline bench with barbell lowered to upper chest / clavicular contact in panel A and full overhead lockout in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Barbell Incline Bench Press",
+      "url": "https://exrx.net/WeightExercises/PectoralClavicular/BBInclineBenchPress",
+      "scope": "Incline barbell pressing mechanics, clavicular pectoralis recruitment, bench incline angle optimization, and safety protocols."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "421971d81437185e02b1455627eb4e6508a0342de448039bcaea134cb7edcd7d",
+    "url": "/media/421971d81437185e02b1455627eb4e6508a0342de448039bcaea134cb7edcd7d.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Barbell Incline Bench Press.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "barbell-incline-bench-press",
+      "model": null
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "incline-smith-machine-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Incline Smith Machine Press",
+  "nameDa": "Skrå bænkpres i Smith-stativ",
+  "aliases": [
+    "Incline Smith Machine Press",
+    "Smith machine incline press",
+    "Incline Smith press",
+    "Smith incline bench press"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Chest",
+    "Shoulders",
+    "Upper Arms"
+  ],
+  "movementPattern": "Incline chest press - guided vertical/angled plane",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Smith machine",
+    "Adjustable incline bench",
+    "Weight plates"
+  ],
+  "grip": "Overhand pronated grip slightly wider than shoulder width with wrists straight and stacked over forearms.",
+  "primaryMuscles": [
+    "Pectoralis major (clavicular head)"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Triceps brachii",
+    "Pectoralis major (sternal head)"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall"
+  ],
+  "description": "Press a fixed-track Smith machine barbell from the upper chest along guided vertical guide rods while seated on an incline bench, emphasizing the clavicular head of the pectoralis major with maximum stability.",
+  "setup": [
+    "Position an adjustable incline bench at approximately 30 to 45 degrees inside the Smith machine.",
+    "Align the bench so the bar lowers across the upper clavicular chest (just below the collarbones) in a straight path.",
+    "Set safety catch pins just below the target bottom chest level.",
+    "Lie back with upper back and hips flat against the bench, feet firmly planted on the floor.",
+    "Grip the bar with an overhand grip slightly wider than shoulder-width and unrack the bar with a wrist rotation."
+  ],
+  "instructions": [
+    "Lower the bar slowly under control toward your upper chest, allowing elbows to tuck naturally to about 45 to 60 degrees relative to your torso.",
+    "Touch the bar lightly to the upper chest or stop just above without bouncing off the ribcage.",
+    "Press the bar upward along the fixed track by contracting the upper pectorals and triceps until arms are extended with elbows softly unlocked.",
+    "Rotate wrists to engage the safety catches when the set is finished."
+  ],
+  "cues": [
+    "Press through the upper chest.",
+    "Keep wrists straight and forearms vertical.",
+    "Control the descent to the clavicles."
+  ],
+  "commonMistakes": [
+    "Setting the bench too far forward or backward, forcing unnatural shoulder internal rotation along the fixed track.",
+    "Bouncing the bar off the chest.",
+    "Flaring elbows out to 90 degrees, causing anterior shoulder impingement."
+  ],
+  "logging": {
+    "basis": "total_plate_load_plus_smith_bar",
+    "example": "Two 20 kg plates loaded (40 kg plates) plus 10 kg counterbalance bar: record 50 kg total effective load (or record 40 kg plate load + note bar weight).",
+    "note": "Smith machine bars vary in counterbalance weight (typically 5 kg to 15 kg); record total loaded plate mass and note machine bar tare."
+  },
+  "alternatives": [
+    "Barbell Incline Bench Press",
+    "Incline Chest Press Machine",
+    "Dumbbell Bench Press"
+  ],
+  "variantNote": "Incline barbell pressing performed on a fixed-track Smith machine. Eliminates stabilization requirements to isolate clavicular pectoral recruitment along a linear guided path.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 54 (Incline Smith Machine Press).",
+    "Illustration depicts 30-45 degree incline bench centered inside vertical Smith machine frame with safety hooks."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Smith Incline Bench Press",
+      "url": "https://exrx.net/WeightExercises/PectoralClavicular/SMBenchPressIncline",
+      "scope": "Smith machine incline press kinematics, clavicular pectoralis recruitment, and guide-rod alignment."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "e9f6e751d01171eefb1346e50690940ef251de5396a1689d11202dbbb56d6fb0",
+    "url": "/media/e9f6e751d01171eefb1346e50690940ef251de5396a1689d11202dbbb56d6fb0.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Incline Smith Machine Press.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "incline-smith-machine-press",
+      "model": null
+    }
+  }
+}

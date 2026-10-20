@@ -1,16 +1,18 @@
 # Illustrated exercise catalog
 
-53 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+58 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
 - [Barbell Back Squat](../catalog/exercises/barbell-back-squat.json)
 - [Barbell Bench Press](../catalog/exercises/barbell-bench-press.json)
 - [Barbell Deadlift](../catalog/exercises/barbell-deadlift.json)
+- [Barbell Incline Bench Press](../catalog/exercises/barbell-incline-bench-press.json)
 - [Barbell Romanian Deadlift](../catalog/exercises/barbell-romanian-deadlift.json)
 - [Bayesian Curl](../catalog/exercises/bayesian-curl.json)
 - [Bent-Over Barbell Row](../catalog/exercises/bent-over-barbell-row.json)
 - [Cable High Fly](../catalog/exercises/cable-high-fly.json)
+- [Cable Low Fly](../catalog/exercises/cable-low-fly.json)
 - [Cable Rope Triceps Pushdown](../catalog/exercises/cable-rope-triceps-pushdown.json)
 - [Cable Triceps Pushdown](../catalog/exercises/cable-triceps-pushdown.json)
 - [Decline Dumbbell Bench Press](../catalog/exercises/decline-dumbbell-bench-press.json)
@@ -25,16 +27,19 @@
 - [Flat Dumbbell Fly](../catalog/exercises/flat-dumbbell-fly.json)
 - [Incline Chest Press Machine](../catalog/exercises/incline-chest-press-machine.json)
 - [Incline Dumbbell Biceps Curl](../catalog/exercises/incline-dumbbell-biceps-curl.json)
+- [Incline Smith Machine Press](../catalog/exercises/incline-smith-machine-press.json)
 - [Leg Press Calf Press](../catalog/exercises/leg-press-calf-press.json)
 - [Lying Leg Curl](../catalog/exercises/lying-leg-curl.json)
 - [Machine Chest Press](../catalog/exercises/machine-chest-press.json)
 - [Machine Hip Thrust](../catalog/exercises/machine-hip-thrust.json)
+- [Machine Inner Chest Press](../catalog/exercises/machine-inner-chest-press.json)
 - [Machine Preacher Curl](../catalog/exercises/machine-preacher-curl.json)
 - [Overhead Rope Cable Triceps Extension](../catalog/exercises/overhead-rope-cable-triceps-extension.json)
 - [Pec Deck](../catalog/exercises/pec-deck.json)
 - [Pendlay Row](../catalog/exercises/pendlay-row.json)
 - [Pendulum Squat](../catalog/exercises/pendulum-squat.json)
 - [Plate Loaded Lat Pulldown](../catalog/exercises/plate-loaded-lat-pulldown.json)
+- [Reverse Pec Deck](../catalog/exercises/reverse-pec-deck.json)
 - [Seated Cable Row](../catalog/exercises/seated-cable-row.json)
 - [Seated Cable Row with Wrist Cuffs](../catalog/exercises/seated-cable-row-wrist-cuffs.json)
 - [Seated Hip Abduction Machine](../catalog/exercises/seated-hip-abduction-machine.json)
@@ -258,6 +263,78 @@ Conventional floor-start stance, resetting each repetition. Sumo, trap-bar and R
 - [ACE - Deadlift](https://www.acefitness.org/resources/everyone/exercise-library/6/deadlift/): General conventional barbell deadlift setup and controlled floor-to-standing movement.
 
 [Editable JSON](../catalog/exercises/barbell-deadlift.json)
+
+## Barbell Incline Bench Press
+
+![Paired black-and-white instructional line drawings of Barbell Incline Bench Press.](../catalog/media/421971d81437185e02b1455627eb4e6508a0342de448039bcaea134cb7edcd7d.png)
+
+Starting position / Peak contraction position
+
+Press a barbell from the upper chest while lying on an incline bench angled between 30 and 45 degrees, developing upper pectoral thickness and anterior deltoid strength.
+
+- **Danish:** Skrå bænkpres med vægtstang
+- **Aliases:** Barbell Incline Bench Press, Incline barbell bench press, Incline bench press, Incline barbell press
+- **Primary muscles:** Pectoralis major (clavicular head)
+- **Assisting muscles:** Anterior deltoid, Triceps brachii, Pectoralis major (sternal head)
+- **Stabilizers:** Rotator cuff, Abdominal wall, Rhomboids, Lower trapezius
+- **Equipment:** Barbell, Weight plates, Adjustable incline bench, Rack with safety supports or a competent spotter
+- **Movement:** Incline chest press - free weight; Bilateral
+- **Grip:** Overhand pronated grip slightly wider than shoulder width with thumbs wrapped securely around the bar.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Set an incline bench between 30 and 45 degrees inside a power rack or designated incline bench station.
+- Lie on the bench with eyes positioned directly under the racked barbell, feet flat and firmly pressed into the floor.
+- Retract and depress your scapulae, planting your shoulder blades firmly into the bench pad.
+- Grasp the bar with a full overhand grip slightly wider than shoulder width, wrists straight.
+- Unrack the barbell and settle it directly over the upper chest with arms straight and elbows softly unlocked.
+
+### Execution
+
+1. Lower the bar smoothly toward your upper chest (at or slightly below the clavicles), keeping elbows tucked at approximately a 45 to 60-degree angle to the torso.
+2. Touch the barbell lightly to the chest without bouncing off the sternum.
+3. Press the bar upward and slightly backward along an efficient diagonal pressing path until arms are fully extended over the shoulders.
+4. Maintain leg drive and tight upper back tension throughout the entire repetition.
+
+### Cues
+
+- Pull the bar down to the upper chest.
+- Tuck elbows to 45 degrees.
+- Drive feet into the floor.
+
+### Common mistakes
+
+- Setting bench angle excessively steep (e.g. 60+ degrees), transforming the exercise into a shoulder press.
+- Bouncing the barbell violently off the chest.
+- Flaring elbows straight out to 90 degrees, stressing the anterior shoulder capsule.
+
+### Logging convention
+
+Standard 20 kg barbell loaded with two 20 kg plates (one per side): record 60 kg total barbell mass.
+
+Record the total system mass of the barbell plus all loaded plates.
+
+### Variants and alternatives
+
+Free-weight incline pressing movement angled at 30 to 45 degrees, providing unrestricted barbell path and demanding significant shoulder stabilizer engagement.
+
+- Barbell Bench Press
+- Incline Smith Machine Press
+- Incline Chest Press Machine
+- Dumbbell Bench Press
+
+### Review notes
+
+- Drafted from FitTrack ID 49 (Barbell Incline Bench Press).
+- Illustration depicts 30-45 degree incline bench with barbell lowered to upper chest / clavicular contact in panel A and full overhead lockout in panel B.
+
+### References
+
+- [ExRx.net - Barbell Incline Bench Press](https://exrx.net/WeightExercises/PectoralClavicular/BBInclineBenchPress): Incline barbell pressing mechanics, clavicular pectoralis recruitment, bench incline angle optimization, and safety protocols.
+
+[Editable JSON](../catalog/exercises/barbell-incline-bench-press.json)
 
 ## Barbell Romanian Deadlift
 
@@ -530,6 +607,75 @@ Standing high-to-low cable chest fly performed from dual high pulleys. Emphasize
 - [ExRx.net - Cable Standing Fly](https://exrx.net/WeightExercises/PectoralSternal/CBStandingFly): Standing cable fly biomechanics, sternal pectoralis major activation, and shoulder kinematics.
 
 [Editable JSON](../catalog/exercises/cable-high-fly.json)
+
+## Cable Low Fly
+
+![Paired black-and-white instructional line drawings of Cable Low Fly.](../catalog/media/7fa4fd1be66283827b640884536f3b45f0c42719ea4e55009d3ec2baa5af7ee4.png)
+
+Starting position / Peak contraction position
+
+Sweep dual low-cable handles upward and inward along a diagonal lifting arc toward upper-chest or chin height in a standing staggered stance, emphasizing the clavicular fibers of the pectoralis major.
+
+- **Danish:** Kabel-flyes fra lav talje
+- **Aliases:** Cable Low Fly, Low-to-high cable fly, Standing low cable fly, Low cable chest fly, Incline cable fly
+- **Primary muscles:** Pectoralis major (clavicular head)
+- **Assisting muscles:** Anterior deltoid, Biceps brachii (short head), Pectoralis major (sternal head)
+- **Stabilizers:** Abdominal wall, Rotator cuff, Quadriceps
+- **Equipment:** Two low cable pulleys, Two single D-handles
+- **Movement:** Shoulder flexion and horizontal adduction - low-to-high arc; Bilateral, dual cables
+- **Grip:** Supinated or semi-supinated grip holding single D-handles, palms facing forward and upward.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Set two cable pulleys to their lowest positions and attach a single D-handle to each.
+- Grasp a handle in each hand with palms facing forward/upward and step forward into an athletic staggered stance.
+- Stand tall with chest lifted, slight forward torso angle, and arms down and slightly back at your sides with elbows softly bent.
+
+### Execution
+
+1. Sweep both handles upward and inward in an arc toward the center line until your hands meet in front of your upper chest or chin level.
+2. Maintain a fixed, soft bend in your elbows throughout the movement (do not curl or press).
+3. Squeeze your upper pectorals firmly for a moment at peak contraction.
+4. Lower your arms slowly under control along the same diagonal path back to the starting stretch.
+
+### Cues
+
+- Scoop upward and inward with elbows soft.
+- Squeeze upper chest at chin level.
+- Keep torso tall and motionless.
+
+### Common mistakes
+
+- Bending elbows into a biceps curl instead of maintaining a wide fly arc.
+- Leaning the torso backward to swing the cables upward.
+- Using excessive shoulder shrugging at the top.
+
+### Logging convention
+
+Weight pins set to 10 kg on each low pulley: record 10 kg per cable stack.
+
+Dual cable stations use independent weight stacks; record selected stack pin load per side.
+
+### Variants and alternatives
+
+Low-to-high standing cable chest fly originating from floor-level pulleys, aligning the diagonal resistance line with the clavicular pectoral fiber orientation.
+
+- Cable High Fly
+- Flat Dumbbell Fly
+- Incline Chest Press Machine
+
+### Review notes
+
+- Drafted from FitTrack ID 52 (Cable Low Fly).
+- Direct counterpart to Cable High Fly; accurately pairs low-to-high line of action with clavicular chest recruitment.
+
+### References
+
+- [ExRx.net - Cable Standing Incline Fly](https://exrx.net/WeightExercises/PectoralClavicular/CBStandingInclineFly): Standing low-to-high cable fly mechanics, clavicular pectoralis major recruitment, and glenohumeral kinematics.
+
+[Editable JSON](../catalog/exercises/cable-low-fly.json)
 
 ## Cable Rope Triceps Pushdown
 
@@ -1481,6 +1627,77 @@ Seated incline, both arms curling together with palms supinated. The illustratio
 
 [Editable JSON](../catalog/exercises/incline-dumbbell-biceps-curl.json)
 
+## Incline Smith Machine Press
+
+![Paired black-and-white instructional line drawings of Incline Smith Machine Press.](../catalog/media/e9f6e751d01171eefb1346e50690940ef251de5396a1689d11202dbbb56d6fb0.png)
+
+Starting position / Peak contraction position
+
+Press a fixed-track Smith machine barbell from the upper chest along guided vertical guide rods while seated on an incline bench, emphasizing the clavicular head of the pectoralis major with maximum stability.
+
+- **Danish:** Skrå bænkpres i Smith-stativ
+- **Aliases:** Incline Smith Machine Press, Smith machine incline press, Incline Smith press, Smith incline bench press
+- **Primary muscles:** Pectoralis major (clavicular head)
+- **Assisting muscles:** Anterior deltoid, Triceps brachii, Pectoralis major (sternal head)
+- **Stabilizers:** Rotator cuff, Abdominal wall
+- **Equipment:** Smith machine, Adjustable incline bench, Weight plates
+- **Movement:** Incline chest press - guided vertical/angled plane; Bilateral
+- **Grip:** Overhand pronated grip slightly wider than shoulder width with wrists straight and stacked over forearms.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Position an adjustable incline bench at approximately 30 to 45 degrees inside the Smith machine.
+- Align the bench so the bar lowers across the upper clavicular chest (just below the collarbones) in a straight path.
+- Set safety catch pins just below the target bottom chest level.
+- Lie back with upper back and hips flat against the bench, feet firmly planted on the floor.
+- Grip the bar with an overhand grip slightly wider than shoulder-width and unrack the bar with a wrist rotation.
+
+### Execution
+
+1. Lower the bar slowly under control toward your upper chest, allowing elbows to tuck naturally to about 45 to 60 degrees relative to your torso.
+2. Touch the bar lightly to the upper chest or stop just above without bouncing off the ribcage.
+3. Press the bar upward along the fixed track by contracting the upper pectorals and triceps until arms are extended with elbows softly unlocked.
+4. Rotate wrists to engage the safety catches when the set is finished.
+
+### Cues
+
+- Press through the upper chest.
+- Keep wrists straight and forearms vertical.
+- Control the descent to the clavicles.
+
+### Common mistakes
+
+- Setting the bench too far forward or backward, forcing unnatural shoulder internal rotation along the fixed track.
+- Bouncing the bar off the chest.
+- Flaring elbows out to 90 degrees, causing anterior shoulder impingement.
+
+### Logging convention
+
+Two 20 kg plates loaded (40 kg plates) plus 10 kg counterbalance bar: record 50 kg total effective load (or record 40 kg plate load + note bar weight).
+
+Smith machine bars vary in counterbalance weight (typically 5 kg to 15 kg); record total loaded plate mass and note machine bar tare.
+
+### Variants and alternatives
+
+Incline barbell pressing performed on a fixed-track Smith machine. Eliminates stabilization requirements to isolate clavicular pectoral recruitment along a linear guided path.
+
+- Barbell Incline Bench Press
+- Incline Chest Press Machine
+- Dumbbell Bench Press
+
+### Review notes
+
+- Drafted from FitTrack ID 54 (Incline Smith Machine Press).
+- Illustration depicts 30-45 degree incline bench centered inside vertical Smith machine frame with safety hooks.
+
+### References
+
+- [ExRx.net - Smith Incline Bench Press](https://exrx.net/WeightExercises/PectoralClavicular/SMBenchPressIncline): Smith machine incline press kinematics, clavicular pectoralis recruitment, and guide-rod alignment.
+
+[Editable JSON](../catalog/exercises/incline-smith-machine-press.json)
+
 ## Leg Press Calf Press
 
 ![Paired black-and-white instructional line drawings of Leg Press Calf Press.](../catalog/media/be2004fa24e9e28fb0782a8be355181f7474c24b8b86a3f75ae6424ec4798001.png)
@@ -1753,6 +1970,75 @@ Illustrated as a generic belt-loaded model. Selectorized and rigid-pad machines 
 - [Life Fitness - Plate-Loaded Glute Drive](https://shop.lifefitness.com/products/hammer-strength-plate-loaded-glute-drive): Example of dedicated machine with upper-back support, footplate and hip strap; not confirmation of the user's model.
 
 [Editable JSON](../catalog/exercises/machine-hip-thrust.json)
+
+## Machine Inner Chest Press
+
+![Paired black-and-white instructional line drawings of Machine Inner Chest Press.](../catalog/media/3a0249aa22f7945244bdb225f1978b58c5864c5e5ca8d065ee4b28f4c2971e7f.png)
+
+Starting position / Peak contraction position
+
+Press seated machine handles forward along a converging path using an inner neutral or narrow grip, creating peak horizontal adduction tension across the inner sternal pectorals at lockout.
+
+- **Danish:** Brystpres med samlende greb i maskine
+- **Aliases:** Machine Inner Chest Press, Converging chest press machine, Neutral-grip machine chest press, Close-grip machine chest press
+- **Primary muscles:** Pectoralis major (sternal head)
+- **Assisting muscles:** Triceps brachii, Anterior deltoid, Pectoralis major (clavicular head)
+- **Stabilizers:** Abdominal wall, Rotator cuff
+- **Equipment:** Seated chest press machine
+- **Movement:** Horizontal push - converging machine; Bilateral
+- **Grip:** Neutral or narrow overhand grip on inner converging machine handles.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust the seat height so the inner handles align with mid-chest level.
+- Sit upright with hips, upper back, and head firmly against the vertical back pad, feet flat on the floor.
+- Grasp the inner/neutral handles with elbows tucked comfortably at ~45 degrees to the torso.
+
+### Execution
+
+1. Press the handles smoothly forward away from your chest along the machine's converging track.
+2. Extend your arms fully, bringing your hands closer together in front of the center chest without locking out elbows aggressively.
+3. Squeeze your pectorals forcefully at the peak contraction.
+4. Return the handles slowly under complete control until hands are back beside the chest, feeling a comfortable chest stretch before the next rep.
+
+### Cues
+
+- Press forward and squeeze hands together in the center.
+- Keep upper back and head against the backrest.
+- Control the stretch on the return.
+
+### Common mistakes
+
+- Allowing shoulders to roll forward off the backrest at peak extension.
+- Flaring elbows high and wide, shifting load away from the chest to anterior shoulders.
+- Bouncing weight plates off the stack stops between repetitions.
+
+### Logging convention
+
+Weight pin set to 55 kg: record 55 kg selected machine load.
+
+Leverage and converging cam paths vary between manufacturers; record selected stack pin load.
+
+### Variants and alternatives
+
+Seated machine chest press utilizing inner or converging handles to maximize horizontal adduction and peak sternal pectoral contraction.
+
+- Machine Chest Press
+- Incline Chest Press Machine
+- Barbell Bench Press
+
+### Review notes
+
+- Drafted from FitTrack ID 50 (Machine Inner Chest Press).
+- Focuses on inner/converging handle variation of selectorized chest press distinct from wide flat bench pressing.
+
+### References
+
+- [ExRx.net - Lever Seated Chest Press](https://exrx.net/WeightExercises/PectoralSternal/LVChestPress): Selectorized chest press mechanics, grip width variations, and converging lever advantages.
+
+[Editable JSON](../catalog/exercises/machine-inner-chest-press.json)
 
 ## Machine Preacher Curl
 
@@ -2164,6 +2450,76 @@ Bilateral vertical pull on a converging plate-loaded machine with dual lever arm
 - [ExRx.net - Lever Front Pulldown](https://exrx.net/WeightExercises/LatissimusDorsi/LVFrontPulldown): Converging lever pulldown mechanics, latissimus dorsi recruitment, and seated execution.
 
 [Editable JSON](../catalog/exercises/plate-loaded-lat-pulldown.json)
+
+## Reverse Pec Deck
+
+![Paired black-and-white instructional line drawings of Reverse Pec Deck.](../catalog/media/0e9d9caa68f52ff99ce06023bdec734a8f1135ddb735bde640e427095a4bd14b.png)
+
+Starting position / Peak contraction position
+
+Sit facing the chest support pad of a dual-function pec deck machine and horizontally abduct both arms outward and backward, isolating the posterior deltoids and external rotators.
+
+- **Danish:** Omvendt pec deck
+- **Aliases:** Reverse Pec Deck, Rear delt pec deck, Machine rear delt fly, Reverse fly machine, Pec deck rear delt
+- **Primary muscles:** Posterior deltoid
+- **Assisting muscles:** Infraspinatus, Teres minor, Middle trapezius, Rhomboids
+- **Stabilizers:** Rotator cuff, Abdominal wall
+- **Equipment:** Pec deck machine
+- **Movement:** Shoulder horizontal abduction - seated machine; Bilateral
+- **Grip:** Neutral or pronated grip holding the horizontal or vertical machine handles at shoulder height.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Adjust the seat height so the handles align directly with shoulder height when seated.
+- Set the machine arm stops to the rear-most position so handles meet directly in front of the chest.
+- Sit facing inward with chest pressed firmly against the vertical support pad and feet flat on the floor.
+- Grasp the handles with straight wrists and a slight, fixed bend in both elbows.
+
+### Execution
+
+1. Pull the handles outward and backward in a wide horizontal arc by contracting your rear deltoids.
+2. Maintain the fixed, subtle elbow bend throughout the entire motion.
+3. Continue until your arms are in line with your shoulders or slightly past, squeezing the back of your shoulders.
+4. Slowly reverse the movement under control, resisting the weight stack until hands return to the front starting position.
+
+### Cues
+
+- Lead with the elbows wide.
+- Keep chest pressed against the pad.
+- Do not shrug shoulders upward.
+
+### Common mistakes
+
+- Bending and straightening the elbows into a row instead of a fly.
+- Arching the spine and lifting the chest off the support pad to swing the load.
+- Shrugging the upper traps and pulling handles toward the neck.
+
+### Logging convention
+
+Stack pin set to 30 kg: record 30 kg selected machine load.
+
+Pec deck lever geometry and cam ratios vary between manufacturers; record selected stack pin load.
+
+### Variants and alternatives
+
+Chest-supported reverse machine fly on a dual-function pec deck / rear delt machine, isolating posterior deltoids through guided horizontal abduction.
+
+- Single-Arm Rear-Delt Cable Fly
+- Face Pulls with Wrist Cuffs
+- Seated Machine Lateral Raise
+
+### Review notes
+
+- Drafted from FitTrack ID 56 (Reverse Pec Deck).
+- Distinguished from anterior chest pec deck by inward-facing chest-supported orientation and horizontal abduction arc.
+
+### References
+
+- [ExRx.net - Lever Seated Rear Lateral Raise](https://exrx.net/WeightExercises/DeltoidPosterior/LVSeatedRearLateralRaise): Seated machine rear lateral raise mechanics, posterior deltoid isolation, and pelvic/torso alignment.
+
+[Editable JSON](../catalog/exercises/reverse-pec-deck.json)
 
 ## Seated Cable Row
 
