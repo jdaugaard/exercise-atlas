@@ -1,0 +1,86 @@
+{
+  "id": "sled-hack-squat",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Sled Hack Squat",
+  "nameDa": "Hacksquat i slædemaskine",
+  "aliases": [
+    "Sled Hack Squat",
+    "Hack squat machine",
+    "Machine hack squat",
+    "45-degree hack squat",
+    "Linear hack squat"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Thighs",
+    "Glutes"
+  ],
+  "movementPattern": "Squat - angled sled track",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "45-degree sled hack squat machine",
+    "Weight plates"
+  ],
+  "grip": "Hands gripping side safety release handles beside the carriage.",
+  "primaryMuscles": [
+    "Quadriceps"
+  ],
+  "secondaryMuscles": [
+    "Gluteus maximus",
+    "Adductor magnus",
+    "Soleus"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Spinal erectors"
+  ],
+  "description": "Squat along a 45-degree angled sled track with back and shoulders supported against padded carriage rests, placing high knee-flexion demand and direct mechanical load on the quadriceps with spinal support.",
+  "setup": [
+    "Load weight plates evenly onto both carriage horns of the 45-degree hack squat machine.",
+    "Step onto the footplate with feet shoulder-width apart, middle or lower on the plate according to knee comfort, toes angled slightly outward.",
+    "Rest your upper back and head firmly against the back pad with shoulders fitted under the padded shoulder rests.",
+    "Extend your legs to unlock the safety handles, keeping knees softly unlocked."
+  ],
+  "instructions": [
+    "Lower the carriage slowly by bending your knees and hips, allowing your knees to track forward over your toes.",
+    "Descend until your thighs reach at least parallel to the footplate (approximately 90 degrees of knee flexion) without allowing lower back to round or hips to tuck off the pad.",
+    "Pause briefly at the bottom stretch.",
+    "Press forcefully through your mid-foot and heels to drive the carriage back upward along the rails until legs are extended with knees softly unlocked.",
+    "Re-engage the safety catch handles when the set is finished."
+  ],
+  "cues": [
+    "Keep back and glutes glued to the backrest.",
+    "Track knees over toes.",
+    "Press through mid-foot and heels."
+  ],
+  "commonMistakes": [
+    "Allowing hips or lower back to peel away from the pad at bottom depth (pelvic tilt / butt wink).",
+    "Violently locking out or hyperextending knees at the top.",
+    "Placing feet too high on the plate, turning the movement into a hip press instead of a quad-focused squat."
+  ],
+  "logging": {
+    "basis": "total_sled_plate_load",
+    "example": "Four 20 kg plates loaded (two per side): record 80 kg total plate load on sled.",
+    "note": "Record loaded plate mass; carriage angle (~45 degrees) creates an effective resistance of ~70% of loaded plate mass plus carriage weight."
+  },
+  "alternatives": [
+    "Pendulum Squat",
+    "Seated Leg Press",
+    "Barbell Back Squat"
+  ],
+  "variantNote": "Angled sled machine hack squat with torso supported against backrest. Removes spinal compression and balance limits of barbell squats to maximize quadriceps overload.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 14 (Sled Hack Squat).",
+    "Illustration depicts 45-degree sled machine with padded shoulder and back supports, starting from extended soft lockout in panel A and deep squat in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Sled 45° Hack Squat",
+      "url": "https://exrx.net/WeightExercises/Quadriceps/SL45HackSquat",
+      "scope": "45-degree hack squat mechanics, quadriceps load distribution, and spinal support kinematics."
+    }
+  ]
+}

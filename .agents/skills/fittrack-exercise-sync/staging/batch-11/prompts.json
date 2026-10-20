@@ -1,0 +1,104 @@
+[
+  {
+    "id": "sled-hack-squat",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\machine-hip-thrust.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Sled Hack Squat (45-degree linear sled hack squat)\ncamera: Side three-quarter view facing right, showing athlete in a 45-degree sled hack squat machine\nequipment: 45-degree sled hack squat machine with angled backrest pad, shoulder pads, footplate, and side safety handles\npositionA: Left panel: Athlete stands in hack squat carriage with back and shoulders firmly supported under pads, legs extended with knees softly unlocked, feet flat on footplate shoulder-width apart (start position at top of rails).\npositionB: Right panel: EXACT SAME machine carriage and footplate. Athlete lowers into deep squat by bending knees and hips until thighs are parallel to the footplate (~90 degrees knee flexion); back and hips remain firmly glued to backrest pad; knees track over toes.\nmechanics: Guided linear hack squat isolating quadriceps along 45-degree carriage rails. Back remains supported throughout.\navoid: Do not show free barbell squat, no hips lifting off backrest pad, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "dumbbell-cross-body-hammer-curl",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\dumbbell-lateral-raise.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Dumbbell Cross-Body Hammer Curl (pinwheel curl)\ncamera: Front three-quarter view facing slightly right, showing athlete standing with dumbbells\nequipment: Pair of dumbbells\npositionA: Left panel: Athlete stands tall with feet shoulder-width apart, holding a dumbbell in each hand at sides with arms extended and palms facing thighs in a neutral grip (start position).\npositionB: Right panel: EXACT SAME standing posture. Working right arm curls dumbbell diagonally upward and across chest toward left collarbone/shoulder with strict neutral grip (thumb pointing upward/inward); right elbow stays pinned beside torso; non-working left arm remains hanging at side.\nmechanics: Diagonal cross-body elbow flexion isolating brachialis and brachioradialis. Torso stays completely upright and motionless.\navoid: Do not supinate wrist, do not swing torso side-to-side, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "machine-seated-row",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\machine-hip-thrust.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Machine Seated Row (chest-supported selectorized seated row)\ncamera: Side three-quarter view facing right, showing athlete seated in a chest-supported row machine\nequipment: Seated row machine with vertical chest support pad, seat, footplates, and dual horizontal lever handles\npositionA: Left panel: Athlete sits with chest firmly pressed against vertical chest pad, feet on footrests, arms fully extended forward holding machine handles with neutral/overhand grip (stretch at start).\npositionB: Right panel: EXACT SAME machine frame and seat. Athlete pulls handles horizontally backward toward ribcage, driving elbows behind torso and squeezing shoulder blades together; chest remains glued to support pad.\nmechanics: Bilateral horizontal rowing with chest support isolating latissimus dorsi and rhomboids without lower back fatigue.\navoid: Do not arch chest away from support pad, no shrugging shoulders up, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "pull-up",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\dumbbell-lateral-raise.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Pull-Up (pronated overhand pull-up)\ncamera: Front three-quarter view facing slightly right, showing athlete suspended from an overhead pull-up bar\nequipment: Horizontal overhead pull-up bar\npositionA: Left panel: Athlete hangs from overhead bar with wide overhand pronated grip (palms facing away), arms fully extended in an active dead hang, chest lifted, ankles crossed behind.\npositionB: Right panel: EXACT SAME pull-up bar. Athlete pulls body vertically until chin is cleared above the bar, driving elbows down and outward toward ribcage; chest proud, lats and upper back deeply contracted; ankles crossed.\nmechanics: Strict vertical pulling with pronated overhand grip isolating latissimus dorsi. No swinging or kipping.\navoid: Do not show underhand supinated grip, no kipping legs, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "barbell-lying-triceps-extension",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\decline-dumbbell-bench-press.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Barbell Lying Triceps Extension (skull crusher)\ncamera: Side three-quarter view facing right, showing athlete lying supine on a flat bench with a barbell\nequipment: Flat bench and a barbell with weight plates\npositionA: Left panel: Athlete lies flat on bench with feet planted on floor, arms extended straight over chest/head holding barbell with overhand grip (shoulder-width), elbows locked softly.\npositionB: Right panel: EXACT SAME flat bench and supine posture. Athlete flexes elbows to lower barbell toward forehead/crown of head; upper arms remain stationary pointing toward ceiling; elbows remain tucked without flaring outward.\nmechanics: Isolated elbow extension targeting triceps brachii. Upper arms and torso stay completely motionless throughout.\navoid: Do not flare elbows wide into a press, no moving upper arms forward and back, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "dumbbell-incline-bench-press",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\decline-dumbbell-bench-press.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Dumbbell Incline Bench Press (incline dumbbell chest press)\ncamera: Side three-quarter view facing right, showing athlete on a 30-45 degree incline bench holding dumbbells\nequipment: Adjustable incline bench set to 30-45 degrees and a pair of dumbbells\npositionA: Left panel: Athlete lies on incline bench with feet flat on floor, holding dumbbells beside upper chest with forearms vertical and elbows tucked ~45 degrees to torso (deep chest stretch at bottom).\npositionB: Right panel: EXACT SAME incline bench and posture. Athlete presses dumbbells upward and slightly inward overhead until arms are fully extended over upper chest with elbows softly unlocked; back remains planted on bench pad.\nmechanics: Bilateral free-weight incline chest press emphasizing clavicular pectoralis with independent arm movement.\navoid: Do not show flat or decline bench, no flaring elbows out to 90 degrees, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  }
+]
