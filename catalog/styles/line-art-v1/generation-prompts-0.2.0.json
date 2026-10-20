@@ -443,17 +443,6 @@
       "mediaId": "3a0249aa22f7945244bdb225f1978b58c5864c5e5ca8d065ee4b28f4c2971e7f"
     },
     {
-      "id": "captains-chair-straight-leg-raise",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Captain's Chair Straight-Leg Raise (vertical knee-raise tower leg raise)\ncamera: Side three-quarter view facing right, showing athlete in a captain's chair tower\nequipment: Captain's chair power tower with backrest pad, horizontal padded forearm rests, and vertical hand grips\npositionA: Left panel: Athlete supports bodyweight on forearms with hands gripping upright handles, back supported against vertical back pad, legs hanging straight down together (hanging start).\npositionB: Right panel: EXACT SAME power tower and upper body posture. Athlete raises both legs straight out in front of body until parallel to the floor (90 degrees at hips), knees fully extended, toes pointed; back stays firmly against pad; core deeply contracted.\nmechanics: Hip flexion and abdominal contraction lifting straight legs. Torso and arms remain completely stationary on tower pads.\navoid: Do not bend knees into a knee raise, no swinging legs from bottom, no shoulders shrugging into neck, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "ccf77ac9e8051a8940937094b8d5670f738f010a8239b95500383f21d7809169"
-    },
-    {
       "id": "isometric-hold-pull-up",
       "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Isometric Hold Pull-Up (pull-up flexed-arm hang)\ncamera: Front three-quarter view facing slightly right, showing athlete suspended from an overhead pull-up bar\nequipment: Horizontal overhead pull-up bar\npositionA: Left panel: Athlete hangs from overhead pull-up bar with overhand pronated grip slightly wider than shoulder-width, arms fully extended in an active dead hang with shoulders engaged, knees softly bent.\npositionB: Right panel: EXACT SAME pull-up bar. Athlete holds static top flexed position with chin cleared above the bar level, elbows driven down and back tight toward ribcage, chest lifted, shoulders depressed away from ears; ankles crossed behind.\nmechanics: Static isometric hold at peak concentric pull-up position. Core braced, shoulders packed down, no swinging.\navoid: Do not rest chin on bar, no rounded elevated shoulders, no extra limbs, no text/labels/arrows.",
       "references": [
@@ -474,17 +463,6 @@
       "createdDate": "2026-10-20",
       "model": null,
       "mediaId": "50a36bcb985eb669f20aeff0d3479f596c7f50ec224a1f3af64a581e53146a72"
-    },
-    {
-      "id": "scapular-pull-up",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Scapular Pull-Up (straight-arm hanging scapular depression)\ncamera: Front three-quarter view facing slightly right, showing athlete suspended from an overhead pull-up bar\nequipment: Horizontal overhead pull-up bar\npositionA: Left panel: Athlete hangs from pull-up bar with completely straight arms in a passive dead hang, overhand grip, shoulders elevated naturally toward ears, legs straight and together.\npositionB: Right panel: EXACT SAME pull-up bar. Athlete depresses and retracts shoulder blades, pulling shoulders down away from ears and lifting torso upward 2-3 inches; elbows MUST remain completely straight without bending; chest proud.\nmechanics: Isolated scapular depression and retraction with locked straight arms. No elbow flexion in either panel.\navoid: Do not bend elbows, no pull-up arm bend, no swinging legs, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "6f9cac5e9a291be74c63eb24b45998549e0b9a63fcefe92287d48c9de00355da"
     },
     {
       "id": "machine-leg-extension",
@@ -600,20 +578,6 @@
       ]
     },
     {
-      "id": "bayesian-curl",
-      "prompt": "Perform a standing cable biceps curl facing away from a low pulley with the shoulder extended behind the torso, maximizing tension on the biceps in the fully lengthened stretch position.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "e9c8bc92f6c6d2a2b98d0dc04dcd56405eff69fe8b28f00c533c68f7a67a1219",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
       "id": "barbell-incline-bench-press",
       "prompt": "Press a barbell from the upper chest while lying on an incline bench angled between 30 and 45 degrees, developing upper pectoral thickness and anterior deltoid strength.",
       "references": [
@@ -670,20 +634,6 @@
       ]
     },
     {
-      "id": "cable-low-fly",
-      "prompt": "Sweep dual low-cable handles upward and inward along a diagonal lifting arc toward upper-chest or chin height in a standing staggered stance, emphasizing the clavicular fibers of the pectoralis major.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "a548775b0bedea0413e8405e7cfa513672a20222925957e114eb43316cb9295e",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
       "id": "cable-rope-triceps-pushdown",
       "prompt": "Push a cable rope downward by straightening the elbows, spreading the rope ends slightly outward at the bottom to maximize triceps peak contraction.",
       "references": [
@@ -721,20 +671,6 @@
       "createdDate": "2026-10-20",
       "model": null,
       "mediaId": "c8dede889437373f804628a7c005677cfc38d7e84e7e7cf1760971a43bc48a41",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
-      "id": "leg-press-calf-press",
-      "prompt": "Perform ankle plantar flexion against the leg press footplate with knees softly extended, emphasizing the gastrocnemius.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "734c871653247fcc43ffb3be1ae75688edb2c4f53ce11341c6bee5ca83eea77d",
       "corrections": [
         "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
       ]
@@ -782,34 +718,6 @@
       ]
     },
     {
-      "id": "machine-seated-leg-curl",
-      "prompt": "Flex knees against a padded lever roller while seated with thighs locked under a support pad, placing the hamstrings in a lengthened hip-flexed position for superior hypertrophy.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "9c5ee4b8d1d7c7870b315692622666e40007edd3a3e0b9b0379596c9e901b290",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
-      "id": "machine-seated-row",
-      "prompt": "Pull bilateral machine handles horizontally toward the torso while seated with chest supported against a vertical pad, developing upper back and lat thickness without lower back fatigue.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "4181708fbe71301e455397adb8c3b804b470b9afef96f458403fb409b5323ed3",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
       "id": "negative-pull-up",
       "prompt": "Start at the top position with chin over the bar and lower your body in a slow, controlled eccentric descent to a full dead hang, overloading eccentric latissimus strength to build pull-up capacity.",
       "references": [
@@ -819,34 +727,6 @@
       "createdDate": "2026-10-20",
       "model": null,
       "mediaId": "4987ce0c2e1d98efeb006419c62540bc65a2eac3e3c7ee77b646b8d113c7f57c",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
-      "id": "pendulum-squat",
-      "prompt": "Perform a guided squat on a counterweighted pendulum machine along a curved arc that maximizes knee flexion and quad loading while minimizing lumbar stress.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "d3b4923925da56fa26ef7ab1d2ae46878b14d098b8ccf6e309ef9f3920328dc9",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
-      "id": "reverse-pec-deck",
-      "prompt": "Sit facing the chest support pad of a dual-function pec deck machine and horizontally abduct both arms outward and backward, isolating the posterior deltoids and external rotators.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "88ddd1f1c2e3573ed497d76213d5a744524a7f9772f3a7003b6f0530544efab9",
       "corrections": [
         "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
       ]
@@ -894,62 +774,6 @@
       ]
     },
     {
-      "id": "seated-machine-lateral-raise",
-      "prompt": "Abduct both arms outward and upward against padded machine levers while seated, isolating the lateral deltoids through guided resistance.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "c3eb2aa86e02fcce03b9ea1b6a5574d67e16943d4e19974d98bb2ad912447dd3",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
-      "id": "single-arm-plate-loaded-lat-pulldown",
-      "prompt": "Pull an independent plate-loaded overhead lever arm downward with one arm, securing thighs under machine pads to target latissimus fibers.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "f8ccb98416adc0329d7ef25eca38f606442c4e7b36d6ec04a66416c5fff03153",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
-      "id": "single-arm-rear-delt-cable-fly",
-      "prompt": "Open one arm away from a cross-body cable reach while keeping the torso and elbow bend nearly unchanged.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "56da718eeafac064df79c96a0c601142e393bbca98c8cc5f3ac3ff8c8a6894ed",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
-      "id": "single-arm-supinated-pulldown",
-      "prompt": "Pull a high cable D-handle downward with a supinated grip to the upper chest, aligning elbow path with latissimus fibers while seated.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "b4faab031dca2540838a98929c5c800ca21682e8e7f6e39b2e78984de77707f8",
-      "corrections": [
-        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
-      ]
-    },
-    {
       "id": "standing-single-arm-cable-biceps-curl",
       "prompt": "Flex one elbow to curl a low cable D-handle upward, maintaining constant cable tension on the biceps throughout the range of motion.",
       "references": [
@@ -975,6 +799,188 @@
       "mediaId": "80afacff6118b4dc107b96a56cd16fd3f9d905e6e3ccf10af430c7c8b1b6e814",
       "corrections": [
         "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "bayesian-curl",
+      "prompt": "Perform a standing cable biceps curl facing away from a low pulley with the shoulder extended behind the torso, maximizing tension on the biceps in the fully lengthened stretch position.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "c76bc6f46d740d17e21f5c25c772324750eaf0c5ee3b84469d68bacf775436a5",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "cable-low-fly",
+      "prompt": "Sweep dual low-cable handles upward and inward along a diagonal lifting arc toward upper-chest or chin height in a standing staggered stance, emphasizing the clavicular fibers of the pectoralis major.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "b0cb2b76e4519ecf56bff536804d06da1930c53a9af555984fb08983d49792b6",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "captains-chair-straight-leg-raise",
+      "prompt": "Support bodyweight on forearms in a captain's chair tower and elevate straight legs forward and upward to horizontal or above, engaging the hip flexors and curling the pelvis into posterior tilt to recruit the rectus abdominis.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "723018cb50b843afe331aa1e88f7c200171531d8a67c841221225ae6bae50bf5",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "leg-press-calf-press",
+      "prompt": "Perform ankle plantar flexion against the leg press footplate with knees softly extended, emphasizing the gastrocnemius.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "859fcd42dff5d305280e4b5735357143f52411cc42e213d8ae6e0419f5afb37f",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "machine-seated-leg-curl",
+      "prompt": "Flex knees against a padded lever roller while seated with thighs locked under a support pad, placing the hamstrings in a lengthened hip-flexed position for superior hypertrophy.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "75045862d666d53d01460936c00ca5d83a7f1eeb8e8d8e68e7447ef7bdb1d952",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "machine-seated-row",
+      "prompt": "Pull bilateral machine handles horizontally toward the torso while seated with chest supported against a vertical pad, developing upper back and lat thickness without lower back fatigue.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "7961e0f910d205416ce5b41aeeb23b7d65655f6854af6d73bbf33f176ae72bbc",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "pendulum-squat",
+      "prompt": "Perform a guided squat on a counterweighted pendulum machine along a curved arc that maximizes knee flexion and quad loading while minimizing lumbar stress.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "f7cbe6994ae388be428078ebfeed9d526b52c4981f22554f208d8e41ebb5d429",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "reverse-pec-deck",
+      "prompt": "Sit facing the chest support pad of a dual-function pec deck machine and horizontally abduct both arms outward and backward, isolating the posterior deltoids and external rotators.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "3b153e919532d9deca5313e62819e8dfb48ba4f15c07a97c157550a1b4075d69",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "scapular-pull-up",
+      "prompt": "Hang from a pull-up bar with completely straight arms and initiate vertical movement exclusively through scapular depression and retraction, elevating the torso without bending the elbows.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "eed3cd7ede8756567d1483d6aa5f1ed3934f6767cacb71098951a94130436991",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "seated-machine-lateral-raise",
+      "prompt": "Abduct both arms outward and upward against padded machine levers while seated, isolating the lateral deltoids through guided resistance.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "e6983cecdcb5281408f7bce858faf29c754254d496fd09a1e14b738f17962c56",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "single-arm-plate-loaded-lat-pulldown",
+      "prompt": "Pull an independent plate-loaded overhead lever arm downward with one arm, securing thighs under machine pads to target latissimus fibers.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "8fbf93cd65cafc730797d9cd6bcd1a023fc005f702e78fe308eb8ef9afdb2c1e",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "single-arm-rear-delt-cable-fly",
+      "prompt": "Open one arm away from a cross-body cable reach while keeping the torso and elbow bend nearly unchanged.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "c4dacb58a3c50c3babe5d5f3cd3d11e7a5e8806e990f67f34cd229f434851f11",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
+      ]
+    },
+    {
+      "id": "single-arm-supinated-pulldown",
+      "prompt": "Pull a high cable D-handle downward with a supinated grip to the upper chest, aligning elbow path with latissimus fibers while seated.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "57f1cf020aa3a95b6a5342a0a94298dc44d435b6d952b5a958d0bb808c651ba4",
+      "corrections": [
+        "Round 2 user feedback applied: biomechanical alignment, perspective, station styling, and solid black hair."
       ]
     }
   ]
