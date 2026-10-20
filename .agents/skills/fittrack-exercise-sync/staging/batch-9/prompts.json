@@ -1,0 +1,87 @@
+[
+  {
+    "id": "barbell-wrist-curl",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\decline-dumbbell-bench-press.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Barbell Wrist Curl (seated underhand wrist flexion)\ncamera: Side three-quarter view facing right, showing athlete kneeling or seated beside a flat bench with forearms supported\nequipment: Flat bench pad and a compact barbell\npositionA: Left panel: Athlete rests forearms flat along bench pad with wrists hanging off edge, holding barbell with underhand supinated grip (palms facing upward); wrists extended downward in deep flexor stretch.\npositionB: Right panel: EXACT SAME bench and seated posture. Athlete flexes wrists upward as high as possible, curling barbell toward forearms; forearms remain firmly glued to bench pad; elbows do not lift.\nmechanics: Isolated wrist flexion targeting forearm flexors. Forearms stay motionless against bench throughout.\navoid: Do not lift elbows off bench, no overhand pronated grip, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "scapular-pull-up",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\dumbbell-lateral-raise.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Scapular Pull-Up (straight-arm hanging scapular depression)\ncamera: Front three-quarter view facing slightly right, showing athlete suspended from an overhead pull-up bar\nequipment: Horizontal overhead pull-up bar\npositionA: Left panel: Athlete hangs from pull-up bar with completely straight arms in a passive dead hang, overhand grip, shoulders elevated naturally toward ears, legs straight and together.\npositionB: Right panel: EXACT SAME pull-up bar. Athlete depresses and retracts shoulder blades, pulling shoulders down away from ears and lifting torso upward 2-3 inches; elbows MUST remain completely straight without bending; chest proud.\nmechanics: Isolated scapular depression and retraction with locked straight arms. No elbow flexion in either panel.\navoid: Do not bend elbows, no pull-up arm bend, no swinging legs, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "machine-leg-extension",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\machine-hip-thrust.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Machine Leg Extension (seated knee extension machine)\ncamera: Side three-quarter view facing right, showing athlete seated in leg extension machine\nequipment: Seated leg extension machine with angled backrest pad, side support handles, and padded shin roller lever\npositionA: Left panel: Athlete sits with back against backrest, holding side handles, knees bent 90 degrees with padded roller resting against lower shins just above ankles (start position).\npositionB: Right panel: EXACT SAME machine frame and seat. Athlete extends both knees fully forward and upward until legs are straight and parallel to the floor, squeezing quadriceps; back and hips remain firmly against backrest.\nmechanics: Open-chain knee extension isolating quadriceps. Hips and back stay firmly against seat pad throughout.\navoid: Do not lift hips off seat, no bent knees in right panel, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "assisted-pull-up",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\machine-hip-thrust.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Assisted Pull-Up (counterbalance kneeling pull-up machine)\ncamera: Side three-quarter view facing right, showing athlete on an assisted pull-up machine tower\nequipment: Assisted pull-up machine with overhead pull handles, vertical weight stack tower, and padded kneeling counterbalance lever\npositionA: Left panel: Athlete kneels with both knees on padded counterbalance lever, arms extended straight overhead holding handles with overhand grip (full hang start position).\npositionB: Right panel: EXACT SAME machine frame and tower. Athlete pulls body upward until chin is cleared above handle level, elbows driven down tight to ribcage; knees remain supported on kneeling pad as it rises.\nmechanics: Counterbalanced vertical pull with knees on assist pad. Torso stays upright, elbows track down and back.\navoid: Do not show standing feet on floor, no kicking legs off pad, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "dumbbell-seated-shoulder-press",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\decline-dumbbell-bench-press.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Dumbbell Seated Shoulder Press (seated dumbbell overhead press)\ncamera: Front three-quarter view facing slightly right, showing athlete seated on an upright incline bench holding dumbbells\nequipment: Upright bench set to 75-85 degrees and a pair of dumbbells\npositionA: Left panel: Athlete sits with back and hips firmly supported against upright backrest pad, feet flat on floor, holding dumbbells at shoulder level with forearms vertical and elbows bent ~90 degrees (start position).\npositionB: Right panel: EXACT SAME upright bench and posture. Athlete presses both dumbbells smoothly upward overhead until arms are extended with elbows softly unlocked; dumbbells converge slightly over head without touching; back remains firmly supported.\nmechanics: Bilateral overhead pressing in the scapular plane with back support. Torso and bench remain motionless throughout.\navoid: Do not show standing press, no arching lower back excessively, no banging dumbbells together, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  }
+]

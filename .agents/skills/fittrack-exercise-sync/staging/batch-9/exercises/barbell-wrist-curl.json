@@ -1,0 +1,83 @@
+{
+  "id": "barbell-wrist-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Barbell Wrist Curl",
+  "nameDa": "Håndledscurl med vægtstang",
+  "aliases": [
+    "Barbell Wrist Curl",
+    "Underhand barbell wrist curl",
+    "Seated barbell wrist curl",
+    "Barbell wrist flexion",
+    "Palms-up wrist curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Forearms"
+  ],
+  "movementPattern": "Wrist flexion - forearm supported",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates",
+    "Flat bench"
+  ],
+  "grip": "Underhand supinated grip with palms facing upward and thumbs under or around the bar, hands shoulder-width apart.",
+  "primaryMuscles": [
+    "Flexor carpi radialis",
+    "Flexor carpi ulnaris"
+  ],
+  "secondaryMuscles": [
+    "Flexor digitorum superficialis",
+    "Flexor digitorum profundus"
+  ],
+  "stabilizers": [
+    "Biceps brachii",
+    "Abdominal wall"
+  ],
+  "description": "Flex the wrists upward against a barbell while forearms rest supported along a bench or thighs with palms facing upward, isolating the deep and superficial wrist flexors.",
+  "setup": [
+    "Kneel beside or sit on the edge of a flat bench holding a loaded barbell with an underhand supinated grip, hands shoulder-width apart.",
+    "Rest your forearms flat against the bench pad with wrists and hands extending just beyond the edge.",
+    "Keep shoulders relaxed and elbows stationary."
+  ],
+  "instructions": [
+    "Lower the barbell by allowing your wrists to extend toward the floor, optionally letting the bar roll gently into your fingers for a deeper stretch.",
+    "Curl the bar back into your palms and flex your wrists upward as high as possible, squeezing the inner forearm muscles.",
+    "Hold the peak flexion contraction for a brief pause.",
+    "Lower the bar slowly under control back to the starting stretch before beginning the next repetition."
+  ],
+  "cues": [
+    "Keep forearms glued to the bench pad.",
+    "Curl wrists upward toward the ceiling.",
+    "Control the lowering phase without bouncing."
+  ],
+  "commonMistakes": [
+    "Lifting the elbows or forearms off the bench to assist the lift.",
+    "Using heavy loads that force rapid, jerky reps with incomplete wrist range.",
+    "Dropping the barbell off the fingertips."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "Barbell loaded to 20 kg: record 20 kg total barbell mass.",
+    "note": "Record the total system mass of the barbell plus all loaded plates."
+  },
+  "alternatives": [
+    "Barbell Reverse Wrist Curl",
+    "Dumbbell Hammer Curl"
+  ],
+  "variantNote": "Supinated forearm-supported wrist flexion targeting the flexor carpi group. Direct counterpart to the reverse wrist curl.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 41 (Barbell Wrist Curl).",
+    "Illustration depicts forearms resting on bench, wrists hanging off edge with supinated underhand grip from extended downward stretch in panel A to curled peak in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Barbell Wrist Curl",
+      "url": "https://exrx.net/WeightExercises/WristFlexors/BBWristCurl",
+      "scope": "Barbell wrist flexion biomechanics, flexor carpi recruitment, and bench forearm support protocols."
+    }
+  ]
+}

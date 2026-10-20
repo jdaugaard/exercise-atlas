@@ -1,0 +1,87 @@
+{
+  "id": "dumbbell-seated-shoulder-press",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Dumbbell Seated Shoulder Press",
+  "nameDa": "Siddende skulderpres med håndvægte",
+  "aliases": [
+    "Dumbbell Seated Shoulder Press",
+    "Seated dumbbell overhead press",
+    "Seated dumbbell shoulder press",
+    "Seated DB shoulder press",
+    "Seated dumbbell military press"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Shoulders",
+    "Upper Arms"
+  ],
+  "movementPattern": "Vertical push - seated free weight",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Two dumbbells",
+    "Adjustable incline bench (set to 75-85 degrees)"
+  ],
+  "grip": "Pronated or semi-pronated grip holding dumbbells at shoulder level with forearms vertical and wrists stacked.",
+  "primaryMuscles": [
+    "Anterior deltoid",
+    "Lateral deltoid"
+  ],
+  "secondaryMuscles": [
+    "Triceps brachii",
+    "Pectoralis major (clavicular head)",
+    "Upper trapezius"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall",
+    "Rhomboids",
+    "Middle trapezius"
+  ],
+  "description": "Press two dumbbells overhead from shoulder height while seated upright against a high bench backrest, developing anterior and lateral deltoid mass with back support.",
+  "setup": [
+    "Set an adjustable bench to an upright position (approximately 75 to 85 degrees to support the spine without excessive cervical strain).",
+    "Sit firmly with your hips and upper back pressed against the backrest pad, feet flat on the floor.",
+    "Kick the dumbbells up to shoulder height using your knees, holding them with palms facing forward or angled slightly inward (scapular plane), forearms vertical."
+  ],
+  "instructions": [
+    "Press both dumbbells upward and slightly inward overhead in a smooth, converging vertical path.",
+    "Extend your arms fully overhead with elbows softly unlocked at the top without banging the dumbbells together.",
+    "Pause for a brief count at the lockout, feeling tension in the deltoids.",
+    "Lower the dumbbells slowly under complete control back to ear or shoulder level before starting the next repetition."
+  ],
+  "cues": [
+    "Keep forearms vertical under the dumbbells.",
+    "Press upward in the natural scapular plane (~30° forward).",
+    "Keep upper back and glutes against the pad."
+  ],
+  "commonMistakes": [
+    "Flaring elbows completely out to 90 degrees in the coronal plane, causing shoulder impingement.",
+    "Arching the lower back excessively off the bench to turn the exercise into an incline chest press.",
+    "Banging the dumbbells together at the top of the press."
+  ],
+  "logging": {
+    "basis": "per_dumbbell",
+    "example": "Two 22 kg dumbbells: record 22 kg per dumbbell.",
+    "note": "Record the mass of an individual dumbbell rather than the combined total pair mass."
+  },
+  "alternatives": [
+    "Standing Dumbbell Strict Press",
+    "Standing Barbell Strict Press",
+    "Machine Chest Press"
+  ],
+  "variantNote": "Seated dumbbell overhead press with back support. Eliminates standing balance demands to focus maximal overload on deltoids while allowing independent arm movement.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 20 (Dumbbell Seated Shoulder Press).",
+    "Illustration depicts athlete seated upright with back supported against ~80-degree bench pad, pressing dumbbells overhead from shoulder height."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Dumbbell Seated Shoulder Press",
+      "url": "https://exrx.net/WeightExercises/DeltoidAnterior/DBSeatedShoulderPress",
+      "scope": "Seated dumbbell shoulder press kinematics, deltoid recruitment, and scapular plane pressing alignment."
+    }
+  ]
+}

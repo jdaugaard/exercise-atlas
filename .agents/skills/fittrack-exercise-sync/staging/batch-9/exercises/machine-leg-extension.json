@@ -1,0 +1,83 @@
+{
+  "id": "machine-leg-extension",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Machine Leg Extension",
+  "nameDa": "Benspark i maskine",
+  "aliases": [
+    "Machine Leg Extension",
+    "Leg extension",
+    "Seated leg extension",
+    "Leg extension machine",
+    "Quadriceps extension machine"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Thighs"
+  ],
+  "movementPattern": "Knee extension - seated machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Seated leg extension machine"
+  ],
+  "grip": "Hands gripping side support handles beside the seat.",
+  "primaryMuscles": [
+    "Quadriceps"
+  ],
+  "secondaryMuscles": [
+    "Rectus femoris",
+    "Vastus lateralis",
+    "Vastus medialis",
+    "Vastus intermedius"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Forearm flexors"
+  ],
+  "description": "Extend the knees against a padded roller while seated upright on a selectorized machine, isolating all four heads of the quadriceps through open-chain knee extension.",
+  "setup": [
+    "Adjust the backrest so your knees align directly with the machine's pivot axis when seated.",
+    "Position the padded shin roller against the front of your lower shins just above the ankles.",
+    "Sit firmly with your lower back and glutes pressed against the backrest pad and grip the side stability handles."
+  ],
+  "instructions": [
+    "Extend both knees smoothly forward and upward against the padded roller until legs are fully extended.",
+    "Pause for a moment at peak knee extension, squeezing your quadriceps forcefully.",
+    "Do not violently hyperextend or kick the weight up.",
+    "Lower the lever slowly under complete control back to the 90-degree starting knee flexion without allowing the weight stack to slam."
+  ],
+  "cues": [
+    "Align knees with the machine pivot.",
+    "Extend legs smoothly and squeeze quads at the top.",
+    "Control the negative descent."
+  ],
+  "commonMistakes": [
+    "Kicking the weight explosively and hyperextending the knee joints.",
+    "Lifting hips and glutes off the seat to leverage heavier weight.",
+    "Setting the roller pad too high on the mid-shin or too low on the toes."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Weight stack pin set to 50 kg: record 50 kg selected machine load.",
+    "note": "Lever arm lengths and cam profiles vary across machine models; record selected stack pin load."
+  },
+  "alternatives": [
+    "Pendulum Squat",
+    "Seated Leg Press",
+    "Barbell Back Squat"
+  ],
+  "variantNote": "Open-chain selectorized quadriceps isolation exercise. Unlike squats or leg presses, places peak tension on the rectus femoris and terminal knee extension.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 27 (Machine Leg Extension).",
+    "Illustration depicts seated position with back supported, shin roller resting above ankles, 90-degree knee bend in panel A, full straight-leg extension in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Leg Extension",
+      "url": "https://exrx.net/WeightExercises/Quadriceps/LVLegExtension",
+      "scope": "Open-chain knee extension kinematics, quadriceps recruitment, and patellofemoral joint mechanics."
+    }
+  ]
+}
