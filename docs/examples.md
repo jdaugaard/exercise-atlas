@@ -1,6 +1,6 @@
 # Illustrated exercise catalog
 
-58 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
+63 original draft entries in the line-art-v1 visual style. Technique review is pending; cuff and machine details need confirmation. These are catalog entries, not prescribed workout programs.
 
 ## Index
 
@@ -8,13 +8,16 @@
 - [Barbell Bench Press](../catalog/exercises/barbell-bench-press.json)
 - [Barbell Deadlift](../catalog/exercises/barbell-deadlift.json)
 - [Barbell Incline Bench Press](../catalog/exercises/barbell-incline-bench-press.json)
+- [Barbell Reverse Wrist Curl](../catalog/exercises/barbell-reverse-wrist-curl.json)
 - [Barbell Romanian Deadlift](../catalog/exercises/barbell-romanian-deadlift.json)
 - [Bayesian Curl](../catalog/exercises/bayesian-curl.json)
 - [Bent-Over Barbell Row](../catalog/exercises/bent-over-barbell-row.json)
+- [Cable Curl](../catalog/exercises/cable-curl.json)
 - [Cable High Fly](../catalog/exercises/cable-high-fly.json)
 - [Cable Low Fly](../catalog/exercises/cable-low-fly.json)
 - [Cable Rope Triceps Pushdown](../catalog/exercises/cable-rope-triceps-pushdown.json)
 - [Cable Triceps Pushdown](../catalog/exercises/cable-triceps-pushdown.json)
+- [Captain's Chair Straight-Leg Raise](../catalog/exercises/captains-chair-straight-leg-raise.json)
 - [Decline Dumbbell Bench Press](../catalog/exercises/decline-dumbbell-bench-press.json)
 - [Dumbbell Bench Press](../catalog/exercises/dumbbell-bench-press.json)
 - [Dumbbell Biceps Curl](../catalog/exercises/dumbbell-biceps-curl.json)
@@ -28,12 +31,14 @@
 - [Incline Chest Press Machine](../catalog/exercises/incline-chest-press-machine.json)
 - [Incline Dumbbell Biceps Curl](../catalog/exercises/incline-dumbbell-biceps-curl.json)
 - [Incline Smith Machine Press](../catalog/exercises/incline-smith-machine-press.json)
+- [Isometric Hold (Pull-Up)](../catalog/exercises/isometric-hold-pull-up.json)
 - [Leg Press Calf Press](../catalog/exercises/leg-press-calf-press.json)
 - [Lying Leg Curl](../catalog/exercises/lying-leg-curl.json)
 - [Machine Chest Press](../catalog/exercises/machine-chest-press.json)
 - [Machine Hip Thrust](../catalog/exercises/machine-hip-thrust.json)
 - [Machine Inner Chest Press](../catalog/exercises/machine-inner-chest-press.json)
 - [Machine Preacher Curl](../catalog/exercises/machine-preacher-curl.json)
+- [Negative Pull-Up](../catalog/exercises/negative-pull-up.json)
 - [Overhead Rope Cable Triceps Extension](../catalog/exercises/overhead-rope-cable-triceps-extension.json)
 - [Pec Deck](../catalog/exercises/pec-deck.json)
 - [Pendlay Row](../catalog/exercises/pendlay-row.json)
@@ -336,6 +341,74 @@ Free-weight incline pressing movement angled at 30 to 45 degrees, providing unre
 
 [Editable JSON](../catalog/exercises/barbell-incline-bench-press.json)
 
+## Barbell Reverse Wrist Curl
+
+![Paired black-and-white instructional line drawings of Barbell Reverse Wrist Curl.](../catalog/media/68e54627de0eee46ae19344921a1df6311d0790470875c5bae130e4eb18e9588.png)
+
+Starting position / Peak contraction position
+
+Extend the wrists upward against a barbell while forearms rest flat along a bench or thighs, isolating the forearm extensor muscles on the top of the forearm.
+
+- **Danish:** Omvendt håndledscurl med vægtstang
+- **Aliases:** Barbell Reverse Wrist Curl, Overhand barbell wrist curl, Barbell wrist extension, Reverse wrist curl, Seated barbell reverse wrist curl
+- **Primary muscles:** Extensor carpi radialis longus, Extensor carpi radialis brevis, Extensor carpi ulnaris
+- **Assisting muscles:** Extensor digitorum, Brachioradialis
+- **Stabilizers:** Forearm flexors, Abdominal wall
+- **Equipment:** Barbell, Weight plates, Flat bench
+- **Movement:** Wrist extension - forearm supported; Bilateral
+- **Grip:** Overhand pronated grip with palms facing down and thumbs wrapped around the barbell, hands shoulder-width apart.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Sit on the side of a flat bench or kneel beside it with a lightweight barbell.
+- Rest your forearms flat across the bench pad (or your thighs) with wrists hanging just over the edge.
+- Grasp the barbell with an overhand pronated grip (palms facing downward), hands shoulder-width apart.
+
+### Execution
+
+1. Lower the barbell by flexing your wrists downward until you feel a comfortable stretch in the forearm extensors.
+2. Raise the barbell by extending your wrists upward as high as possible, contracting the extensor muscles on the top of your forearms.
+3. Keep your forearms firmly glued to the bench pad throughout the entire motion (do not lift elbows).
+4. Pause briefly at peak extension, then slowly lower the bar back to the starting stretch.
+
+### Cues
+
+- Move only at the wrists.
+- Keep forearms glued to the bench.
+- Extend knuckles upward toward the ceiling.
+
+### Common mistakes
+
+- Lifting the elbows or forearms off the bench to assist the lift.
+- Using excessive weight that restricts wrist range of motion.
+- Bouncing or rolling the bar across the fingers.
+
+### Logging convention
+
+Light barbell loaded to 15 kg: record 15 kg total barbell mass.
+
+Wrist extensors are small muscle groups requiring modest loads; record total loaded barbell mass.
+
+### Variants and alternatives
+
+Pronated forearm-supported wrist extension targeting the extensor carpi group. Direct counterpart to the supinated barbell wrist curl.
+
+- Barbell Wrist Curl
+- Dumbbell Hammer Curl
+
+### Review notes
+
+- Drafted from FitTrack ID 42 (Barbell Reverse Wrist Curl).
+- Illustration depicts athlete seated with forearms on bench, wrists hanging off edge with pronated overhand grip from flexed downward stretch in panel A to extended peak in panel B.
+
+### References
+
+- [ExRx.net - Barbell Reverse Wrist Curl](https://exrx.net/WeightExercises/WristExtensors/BBReverseWristCurl): Barbell wrist extension mechanics, extensor carpi recruitment, and bench forearm support protocols.
+
+[Editable JSON](../catalog/exercises/barbell-reverse-wrist-curl.json)
+
 ## Barbell Romanian Deadlift
 
 ![Two black-and-white drawings showing an upright barbell hold and a hip hinge with the bar above the floor.](../catalog/media/86fb13d4d7467f54a66704cf44028e7ad3b0ff9d6ab861ad59ab7a5de1e20a2e.png)
@@ -538,6 +611,76 @@ Pronated overhand grip with the bar suspended between repetitions. A floor-reset
 - [Muscle & Strength - Bent Over Barbell Row](https://www.muscleandstrength.com/exercises/bent-over-barbell-row.html): Overhand bent-over row, fixed hip hinge and controlled pull toward the torso.
 
 [Editable JSON](../catalog/exercises/bent-over-barbell-row.json)
+
+## Cable Curl
+
+![Paired black-and-white instructional line drawings of Cable Curl.](../catalog/media/fab2986ebedc8f9388e6e6440fdf41a8f02bf27463d8def7d14cc3118e369d01.png)
+
+Starting position / Peak contraction position
+
+Curl a straight bar attachment attached to a low cable pulley toward the shoulders while standing upright, maintaining constant cable tension throughout the entire elbow flexion arc.
+
+- **Danish:** Kabel-bicepscurl
+- **Aliases:** Cable Curl, Standing cable curl, Low pulley cable curl, Biceps cable curl, Straight bar cable curl
+- **Primary muscles:** Biceps brachii
+- **Assisting muscles:** Brachialis, Brachioradialis
+- **Stabilizers:** Forearm flexors, Abdominal wall, Anterior deltoid
+- **Equipment:** Low cable pulley, Short straight-bar attachment
+- **Movement:** Elbow flexion - standing bilateral cable; Bilateral, shared cable
+- **Grip:** Supinated overhand grip holding short straight bar attachment, shoulder-width apart.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Attach a short straight bar or revolving curl bar to a low cable pulley.
+- Select the desired weight stack setting.
+- Stand facing the machine, step back slightly to establish cable tension, and adopt a balanced shoulder-width stance.
+- Grip the bar with an underhand supinated grip, arms fully extended down in front of your thighs.
+
+### Execution
+
+1. Curl the bar smoothly upward toward your shoulders by flexing your elbows.
+2. Keep your elbows pinned close to your ribcage and upper arms motionless.
+3. Squeeze your biceps firmly at the top peak contraction.
+4. Lower the bar slowly under control, resisting the cable tension until your arms are fully extended at the bottom.
+
+### Cues
+
+- Keep elbows tucked at your sides.
+- Curl upward without leaning backward.
+- Control the lowering phase completely.
+
+### Common mistakes
+
+- Drifting elbows forward and upward, using anterior deltoids instead of biceps.
+- Swinging the torso backward to yank the weight off the stack.
+- Cutting the bottom range of motion short.
+
+### Logging convention
+
+Weight pin set to 25 kg: record 25 kg on that cable station.
+
+Record the selected stack pin load and note the bar attachment used.
+
+### Variants and alternatives
+
+Standing bilateral low-cable curl with straight bar attachment. Provides consistent resistance profile across the entire range of motion unlike free weight curls.
+
+- Standing Barbell Curl
+- Dumbbell Biceps Curl
+- Standing Single-Arm Cable Biceps Curl
+
+### Review notes
+
+- Drafted from FitTrack ID 46 (Cable Curl).
+- Illustrated with short straight bar attachment on low pulley.
+
+### References
+
+- [ExRx.net - Cable Curl](https://exrx.net/WeightExercises/Biceps/CBCurl): Low cable biceps curl biomechanics, tension curve, and elbow stabilization.
+
+[Editable JSON](../catalog/exercises/cable-curl.json)
 
 ## Cable High Fly
 
@@ -813,6 +956,76 @@ Short straight-bar pushdown is the illustrated equipment assumption. A rope, V-b
 - [Muscle & Strength - Straight Bar Tricep Extension](https://www.muscleandstrength.com/exercises/tricep-extension.html): High-pulley straight-bar pushdown with overhand grip and elbow extension.
 
 [Editable JSON](../catalog/exercises/cable-triceps-pushdown.json)
+
+## Captain's Chair Straight-Leg Raise
+
+![Paired black-and-white instructional line drawings of Captain's Chair Straight-Leg Raise.](../catalog/media/ccf77ac9e8051a8940937094b8d5670f738f010a8239b95500383f21d7809169.png)
+
+Starting position / Peak contraction position
+
+Support bodyweight on forearms in a captain's chair tower and elevate straight legs forward and upward to horizontal or above, engaging the hip flexors and curling the pelvis into posterior tilt to recruit the rectus abdominis.
+
+- **Danish:** Lige benløft i kaptajnens stol
+- **Aliases:** Captain's Chair Straight-Leg Raise, Captain's chair leg raise, Straight leg raise on power tower, Vertical knee/leg raise station straight leg raise, Tower straight leg raise
+- **Primary muscles:** Rectus abdominis, Iliopsoas
+- **Assisting muscles:** Tensor fasciae latae, Rectus femoris, Obliques
+- **Stabilizers:** Latissimus dorsi, Middle trapezius, Forearm flexors
+- **Equipment:** Captain's chair (vertical knee-raise tower)
+- **Movement:** Hip flexion and posterior pelvic tilt - suspended forearm support; Bilateral
+- **Grip:** Forearms supported on padded horizontal rests with hands gripping vertical stabilization handles.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Step into the captain's chair tower and mount the padded forearm rests.
+- Grip the upright handles firmly and allow your legs to hang freely beneath you with back flat against the backrest pad.
+- Depress your shoulders away from your ears to maintain active upper-body stability.
+
+### Execution
+
+1. Inhale and brace your core.
+2. Raise both legs straight out in front of you without swinging or bending knees.
+3. Continue lifting until your thighs are at least parallel to the floor (90 degrees at hips), curling the pelvis upward slightly at the peak.
+4. Hold for a brief pause at peak contraction.
+5. Lower your legs slowly under control back to the hanging vertical position before initiating the next rep.
+
+### Cues
+
+- Keep legs straight and toes pointed.
+- Do not swing legs from the bottom.
+- Roll the pelvis upward at the top.
+
+### Common mistakes
+
+- Using swinging momentum to kick the legs up.
+- Letting shoulders shrug upward into the neck.
+- Arching the lumbar spine away from the backrest at the bottom.
+
+### Logging convention
+
+Bodyweight: record repetitions performed (or note ankle weight load if added).
+
+Bodyweight movement; record clean repetitions to horizontal without knee flexion.
+
+### Variants and alternatives
+
+Straight-leg variant of the captain's chair raise. Longer lever arm significantly increases torque and abdominal recruitment compared to bent-knee variations.
+
+- Hanging Leg Raise
+- Hanging Knee Raise
+- Captain's Chair Knee Raise
+
+### Review notes
+
+- Drafted from FitTrack ID 45 (Captain's Chair Straight-Leg Raise).
+- Illustration depicts forearms resting on tower pads, back against vertical support, legs straight in both hanging start and 90-degree horizontal raised position.
+
+### References
+
+- [ExRx.net - Vertical Leg-Hip Raise](https://exrx.net/WeightExercises/RectusAbdominis/BWVerticalLegHipRaise): Captain's chair leg raise biomechanics, abdominal activation, and pelvic tilt.
+
+[Editable JSON](../catalog/exercises/captains-chair-straight-leg-raise.json)
 
 ## Decline Dumbbell Bench Press
 
@@ -1698,6 +1911,76 @@ Incline barbell pressing performed on a fixed-track Smith machine. Eliminates st
 
 [Editable JSON](../catalog/exercises/incline-smith-machine-press.json)
 
+## Isometric Hold (Pull-Up)
+
+![Paired black-and-white instructional line drawings of Isometric Hold (Pull-Up).](../catalog/media/302c99dc259898c6765ce9906f2817e952e238977a83d8fca295b02a574aa794.png)
+
+Starting position / Peak contraction position
+
+Hold the top flexed position of a pull-up with chin over the bar for time, building maximum isometric pulling strength and scapular depression endurance.
+
+- **Danish:** Isometrisk pull-up hold
+- **Aliases:** Isometric Hold (Pull-Up), Pull-up flexed-arm hang, Flexed-arm hang, Pull-up top hold, Isometric chin-up hold
+- **Primary muscles:** Latissimus dorsi, Biceps brachii
+- **Assisting muscles:** Brachialis, Brachioradialis, Rhomboids, Middle trapezius, Posterior deltoid
+- **Stabilizers:** Abdominal wall, Rotator cuff, Forearm flexors
+- **Equipment:** Pull-up bar
+- **Movement:** Isometric vertical pull - top position hold; Bilateral
+- **Grip:** Overhand pronated or neutral grip slightly wider than shoulder width.
+- **Difficulty:** Intermediate (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Step onto a bench or plyo box beneath a sturdy pull-up bar.
+- Grasp the bar with an overhand pronated grip slightly wider than shoulder-width.
+- Step off or jump to bring your chin comfortably cleared above the bar level, elbows driven down and back.
+- Brace your core, cross ankles, and depress scapulae down away from your ears.
+
+### Execution
+
+1. Hold the top flexed position statically, resisting gravity through intense muscular contraction of the lats and arm flexors.
+2. Keep chest proud, chin above the bar, and shoulders actively packed down.
+3. Breathe steadily in short, controlled breaths throughout the hold duration.
+4. Lower yourself down under complete control when target hold duration is reached.
+
+### Cues
+
+- Keep chin above the bar.
+- Drive elbows down and back.
+- Pack shoulders tight away from ears.
+
+### Common mistakes
+
+- Resting chin on the bar to cheat the hold.
+- Letting shoulders elevate into a passive neck crunch.
+- Dropping suddenly from the bar without controlling the descent.
+
+### Logging convention
+
+30 seconds held at top: record 30 s duration.
+
+Record duration held in seconds with chin cleared over bar. If performed with added weight belt, record external load and duration.
+
+### Variants and alternatives
+
+Static isometric contraction held at peak concentric range of a pull-up. Used to develop pull-up capacity, lock-off strength, and grip endurance.
+
+- Pull-Up
+- Negative Pull-Up
+- Assisted Pull-Up
+
+### Review notes
+
+- Drafted from FitTrack ID 44 (Isometric Hold (Pull-Up)).
+- Illustration depicts hanging pull-up start in panel A and static chin-over-bar top flexed position in panel B.
+
+### References
+
+- [ExRx.net - Pull-up](https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup): Pull-up kinematics, isometric top lock-off mechanics, and scapular stabilization.
+
+[Editable JSON](../catalog/exercises/isometric-hold-pull-up.json)
+
 ## Leg Press Calf Press
 
 ![Paired black-and-white instructional line drawings of Leg Press Calf Press.](../catalog/media/be2004fa24e9e28fb0782a8be355181f7474c24b8b86a3f75ae6424ec4798001.png)
@@ -2106,6 +2389,76 @@ Machine preacher version is confirmed. Selectorized, bilateral shared lever is a
 - [Life Fitness - Insignia Series Biceps Curl](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-biceps-curl): Manufacturer example of a supported-arm selectorized biceps machine. Does not identify the gym machine or validate this generic illustration.
 
 [Editable JSON](../catalog/exercises/machine-preacher-curl.json)
+
+## Negative Pull-Up
+
+![Paired black-and-white instructional line drawings of Negative Pull-Up.](../catalog/media/1db04e68f3abc4936dc1a1a4ae40f1dc5db5cf4ecdd44adb3852c7e65dc915d1.png)
+
+Starting position / Peak contraction position
+
+Start at the top position with chin over the bar and lower your body in a slow, controlled eccentric descent to a full dead hang, overloading eccentric latissimus strength to build pull-up capacity.
+
+- **Danish:** Negativ pull-up
+- **Aliases:** Negative Pull-Up, Eccentric pull-up, Pull-up negative, Slow eccentric pull-up
+- **Primary muscles:** Latissimus dorsi, Biceps brachii
+- **Assisting muscles:** Brachialis, Brachioradialis, Lower trapezius, Rhomboids, Posterior deltoid
+- **Stabilizers:** Abdominal wall, Rotator cuff, Forearm flexors
+- **Equipment:** Pull-up bar, Stable bench or step for setup
+- **Movement:** Eccentric vertical pull - controlled descent; Bilateral
+- **Grip:** Overhand pronated grip slightly wider than shoulder-width.
+- **Difficulty:** Beginner (editorial label)
+- **Review:** draft; revision 1
+
+### Setup
+
+- Place a sturdy bench or box directly underneath a pull-up bar.
+- Step onto the box and grasp the bar with an overhand grip slightly wider than shoulder width.
+- Jump or step up to bring your chin cleared over the bar with chest lifted and shoulders depressed.
+
+### Execution
+
+1. Take your feet off the box, bracing your core and holding the top position momentarily.
+2. Lower your body in a deliberate, uniform descent lasting 3 to 5 seconds.
+3. Control the entire range of motion, actively resisting gravity with your lats and arm flexors.
+4. Continue lowering until your arms are fully extended in a dead hang at the bottom.
+5. Step back onto the box to reset for the next repetition.
+
+### Cues
+
+- Count 3 to 5 seconds on the way down.
+- Keep shoulders controlled, don't drop suddenly.
+- Lower all the way to straight arms.
+
+### Common mistakes
+
+- Free-falling or letting go in the bottom third of the descent.
+- Kicking the legs or swinging violently during the descent.
+- Failing to reach full dead-hang extension before resetting.
+
+### Logging convention
+
+5 repetitions with 5-second descent: record 5 reps (note 5s eccentric).
+
+Record repetitions and target eccentric duration per repetition (typically 3–5 seconds).
+
+### Variants and alternatives
+
+Eccentric-only pull-up protocol utilizing supra-maximal eccentric loading to develop neuromuscular lat recruitment and concentric pull-up capability.
+
+- Pull-Up
+- Assisted Pull-Up
+- Isometric Hold (Pull-Up)
+
+### Review notes
+
+- Drafted from FitTrack ID 43 (Negative Pull-Up).
+- Panel A shows top chin-over-bar position; panel B shows controlled lowering to full dead hang.
+
+### References
+
+- [ExRx.net - Pull-up](https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup): Pull-up eccentric contraction mechanics, latissimus dorsi eccentric overload, and progression models.
+
+[Editable JSON](../catalog/exercises/negative-pull-up.json)
 
 ## Overhead Rope Cable Triceps Extension
 

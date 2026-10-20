@@ -1,0 +1,99 @@
+{
+  "id": "cable-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Cable Curl",
+  "nameDa": "Kabel-bicepscurl",
+  "aliases": [
+    "Cable Curl",
+    "Standing cable curl",
+    "Low pulley cable curl",
+    "Biceps cable curl",
+    "Straight bar cable curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Upper Arms",
+    "Forearms"
+  ],
+  "movementPattern": "Elbow flexion - standing bilateral cable",
+  "laterality": "Bilateral, shared cable",
+  "equipmentItems": [
+    "Low cable pulley",
+    "Short straight-bar attachment"
+  ],
+  "grip": "Supinated overhand grip holding short straight bar attachment, shoulder-width apart.",
+  "primaryMuscles": [
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis"
+  ],
+  "stabilizers": [
+    "Forearm flexors",
+    "Abdominal wall",
+    "Anterior deltoid"
+  ],
+  "description": "Curl a straight bar attachment attached to a low cable pulley toward the shoulders while standing upright, maintaining constant cable tension throughout the entire elbow flexion arc.",
+  "setup": [
+    "Attach a short straight bar or revolving curl bar to a low cable pulley.",
+    "Select the desired weight stack setting.",
+    "Stand facing the machine, step back slightly to establish cable tension, and adopt a balanced shoulder-width stance.",
+    "Grip the bar with an underhand supinated grip, arms fully extended down in front of your thighs."
+  ],
+  "instructions": [
+    "Curl the bar smoothly upward toward your shoulders by flexing your elbows.",
+    "Keep your elbows pinned close to your ribcage and upper arms motionless.",
+    "Squeeze your biceps firmly at the top peak contraction.",
+    "Lower the bar slowly under control, resisting the cable tension until your arms are fully extended at the bottom."
+  ],
+  "cues": [
+    "Keep elbows tucked at your sides.",
+    "Curl upward without leaning backward.",
+    "Control the lowering phase completely."
+  ],
+  "commonMistakes": [
+    "Drifting elbows forward and upward, using anterior deltoids instead of biceps.",
+    "Swinging the torso backward to yank the weight off the stack.",
+    "Cutting the bottom range of motion short."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "Weight pin set to 25 kg: record 25 kg on that cable station.",
+    "note": "Record the selected stack pin load and note the bar attachment used."
+  },
+  "alternatives": [
+    "Standing Barbell Curl",
+    "Dumbbell Biceps Curl",
+    "Standing Single-Arm Cable Biceps Curl"
+  ],
+  "variantNote": "Standing bilateral low-cable curl with straight bar attachment. Provides consistent resistance profile across the entire range of motion unlike free weight curls.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 46 (Cable Curl).",
+    "Illustrated with short straight bar attachment on low pulley."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Cable Curl",
+      "url": "https://exrx.net/WeightExercises/Biceps/CBCurl",
+      "scope": "Low cable biceps curl biomechanics, tension curve, and elbow stabilization."
+    }
+  ],
+  "illustration": {
+    "styleId": "line-art-v1",
+    "mediaId": "fab2986ebedc8f9388e6e6440fdf41a8f02bf27463d8def7d14cc3118e369d01",
+    "url": "/media/fab2986ebedc8f9388e6e6440fdf41a8f02bf27463d8def7d14cc3118e369d01.png",
+    "left": "Starting position",
+    "right": "Peak contraction position",
+    "alt": "Paired black-and-white instructional line drawings of Cable Curl.",
+    "generation": {
+      "method": "built-in-image-gen",
+      "createdDate": "2026-10-20",
+      "promptId": "cable-curl",
+      "model": null
+    }
+  }
+}
