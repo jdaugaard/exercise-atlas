@@ -82,14 +82,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "9e187bf6168a5d047dacea054d607d90d780af71c280129cb52f5f2072fc3e00",
-    "url": "/media/9e187bf6168a5d047dacea054d607d90d780af71c280129cb52f5f2072fc3e00.png",
+    "mediaId": "6e82b7aeab411d8896ad69605ea106e56cb43add1968c0569589d2b21a6a2b04",
+    "url": "/media/6e82b7aeab411d8896ad69605ea106e56cb43add1968c0569589d2b21a6a2b04.png",
     "left": "Starting position",
     "right": "Peak contraction position",
     "alt": "Paired black-and-white instructional line drawings of Standing Single-Arm Cable Biceps Curl.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-18",
+      "createdDate": "2026-10-20",
       "promptId": "standing-single-arm-cable-biceps-curl",
       "model": null
     }

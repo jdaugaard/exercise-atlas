@@ -426,7 +426,7 @@ Conventional floor-start stance, resetting each repetition. Sumo, trap-bar and R
 
 ## Barbell Incline Bench Press
 
-![Paired black-and-white instructional line drawings of Barbell Incline Bench Press.](../catalog/media/421971d81437185e02b1455627eb4e6508a0342de448039bcaea134cb7edcd7d.png)
+![Paired black-and-white instructional line drawings of Barbell Incline Bench Press.](../catalog/media/62f741a6eb6f7741b352c96bb80a1357b98fd615360b5e2282400bb4b64da781.png)
 
 Starting position / Peak contraction position
 
@@ -567,7 +567,7 @@ Supine free-weight triceps extension isolating elbow extension. Angling the uppe
 
 ## Barbell Reverse Wrist Curl
 
-![Paired black-and-white instructional line drawings of Barbell Reverse Wrist Curl.](../catalog/media/68e54627de0eee46ae19344921a1df6311d0790470875c5bae130e4eb18e9588.png)
+![Paired black-and-white instructional line drawings of Barbell Reverse Wrist Curl.](../catalog/media/5f2738b9867ebf67f74ab67873e8ced3aeccb49fdc51fb9389669a7b05474c8f.png)
 
 Starting position / Peak contraction position
 
@@ -769,7 +769,7 @@ Supinated forearm-supported wrist flexion targeting the flexor carpi group. Dire
 
 ## Bayesian Curl
 
-![Paired black-and-white instructional line drawings of Bayesian Curl.](../catalog/media/55ba6e792b1f06065dcd8bcf44147c33798b769d1c4a1311fb5d71e50ce5e1e3.png)
+![Paired black-and-white instructional line drawings of Bayesian Curl.](../catalog/media/e9c8bc92f6c6d2a2b98d0dc04dcd56405eff69fe8b28f00c533c68f7a67a1219.png)
 
 Starting position / Peak contraction position
 
@@ -906,7 +906,7 @@ Pronated overhand grip with the bar suspended between repetitions. A floor-reset
 
 ## Cable Curl
 
-![Paired black-and-white instructional line drawings of Cable Curl.](../catalog/media/fab2986ebedc8f9388e6e6440fdf41a8f02bf27463d8def7d14cc3118e369d01.png)
+![Paired black-and-white instructional line drawings of Cable Curl.](../catalog/media/f0ba8db21e1a841d6cd6ef5fcca888a7d0d767a4634ac48fdbd17431fbca25ce.png)
 
 Starting position / Peak contraction position
 
@@ -976,7 +976,7 @@ Standing bilateral low-cable curl with straight bar attachment. Provides consist
 
 ## Cable High Fly
 
-![Paired black-and-white instructional line drawings of Cable High Fly.](../catalog/media/4aba112478ee0d8e500c238f01a41c5ed0676b5892de86e96787c5ab927f92a1.png)
+![Paired black-and-white instructional line drawings of Cable High Fly.](../catalog/media/e0d6de1b3c7720bc73c1a65cc6239f4b02c5f355d29df62e5c1cfc67536bf8f5.png)
 
 Starting position / Peak contraction position
 
@@ -1045,7 +1045,7 @@ Standing high-to-low cable chest fly performed from dual high pulleys. Emphasize
 
 ## Cable Low Fly
 
-![Paired black-and-white instructional line drawings of Cable Low Fly.](../catalog/media/7fa4fd1be66283827b640884536f3b45f0c42719ea4e55009d3ec2baa5af7ee4.png)
+![Paired black-and-white instructional line drawings of Cable Low Fly.](../catalog/media/a548775b0bedea0413e8405e7cfa513672a20222925957e114eb43316cb9295e.png)
 
 Starting position / Peak contraction position
 
@@ -1114,7 +1114,7 @@ Low-to-high standing cable chest fly originating from floor-level pulleys, align
 
 ## Cable Rope Triceps Pushdown
 
-![Paired black-and-white instructional line drawings of Cable Rope Triceps Pushdown.](../catalog/media/60523037fbf7ca3c7baf95967cc8abb86fe607c67d3eafa2b0938e61eaf479f5.png)
+![Paired black-and-white instructional line drawings of Cable Rope Triceps Pushdown.](../catalog/media/6e1b10f9bce23dc7d1ffd7aa37944336f7467be1c943a8b7139da8ef88f9d2a8.png)
 
 Starting position / Peak contraction position
 
@@ -1184,7 +1184,7 @@ Standing cable pushdown using a flexible rope attachment, allowing forearm prona
 
 ## Cable Triceps Pushdown
 
-![Two line drawings of a straight-bar cable triceps pushdown using a high pulley in front of the athlete.](../catalog/media/997991ce6ad1afd238b36b34fa70bd4427754c9c993795be6366b4ba6009b55b.png)
+![Two line drawings of a straight-bar cable triceps pushdown using a high pulley in front of the athlete.](../catalog/media/443565b2e58806db634f1a62714f1b130c8817bdfe0c20020c4b1d0be530996c.png)
 
 Elbows bent beside torso / Bar at upper thighs
 
@@ -1321,7 +1321,7 @@ Straight-leg variant of the captain's chair raise. Longer lever arm significantl
 
 ## Chin-Up
 
-![Paired black-and-white instructional line drawings of Chin-Up.](../catalog/media/7aec6c7f8e116b85f291f148fb5f387058add050da4091076d8edccd396fbfe0.png)
+![Paired black-and-white instructional line drawings of Chin-Up.](../catalog/media/d44f0e2d9647c42bedcf9ca3e139cb8711cc688fb688991e5d934c5b12c08fbf.png)
 
 Starting position / Peak contraction position
 
@@ -2141,7 +2141,7 @@ Assumption: bilateral dumbbell spider curl lying prone on an ~45-degree incline 
 
 ## Face Pulls with Wrist Cuffs
 
-![Paired black-and-white instructional line drawings of Face Pulls with Wrist Cuffs.](../catalog/media/4ef3ea19c80b15915b828fbbf74750f072dff3c8a6a9215a817d9473efc6ac8a.png)
+![Paired black-and-white instructional line drawings of Face Pulls with Wrist Cuffs.](../catalog/media/c8dede889437373f804628a7c005677cfc38d7e84e7e7cf1760971a43bc48a41.png)
 
 Starting position / Peak contraction position
 
@@ -2553,7 +2553,7 @@ Static isometric contraction held at peak concentric range of a pull-up. Used to
 
 ## Leg Press Calf Press
 
-![Paired black-and-white instructional line drawings of Leg Press Calf Press.](../catalog/media/be2004fa24e9e28fb0782a8be355181f7474c24b8b86a3f75ae6424ec4798001.png)
+![Paired black-and-white instructional line drawings of Leg Press Calf Press.](../catalog/media/734c871653247fcc43ffb3be1ae75688edb2c4f53ce11341c6bee5ca83eea77d.png)
 
 Starting position / Peak contraction position
 
@@ -2759,7 +2759,7 @@ Standard seated selectorized machine chest press with vertical back pad support 
 
 ## Machine Hip Thrust
 
-![Two black-and-white drawings of a generic belt-loaded hip-thrust machine in lowered and raised positions.](../catalog/media/2c053800f6ec03846c37c15be4bcc7c036fe86ce53ad69b0e9ca7e45f28d35fe.png)
+![Two black-and-white drawings of a generic belt-loaded hip-thrust machine in lowered and raised positions.](../catalog/media/40e05afe49c9840b750c18dfcdd9b21ce13b2e1e933105d5334eabc994f244ed.png)
 
 Lowered position / Hip extension
 
@@ -3031,7 +3031,7 @@ Machine preacher version is confirmed. Selectorized, bilateral shared lever is a
 
 ## Machine Seated Calf Raise
 
-![Paired black-and-white instructional line drawings of Machine Seated Calf Raise.](../catalog/media/dc344db927d9893481c903f8be134d64abc67a0d9a9b2646038b9ccebdfdb149.png)
+![Paired black-and-white instructional line drawings of Machine Seated Calf Raise.](../catalog/media/fb12532bf6684190a91219fcedc412d23a96d631468a3fec9541694784dfc586.png)
 
 Starting position / Peak contraction position
 
@@ -3101,7 +3101,7 @@ Bent-knee calf raise. Flexing the knee to 90 degrees causes active insufficiency
 
 ## Machine Seated Crunch
 
-![Paired black-and-white instructional line drawings of Machine Seated Crunch.](../catalog/media/59a865bf865f62ea58ed2e47d2f77a7f761ca870acce3a06c2a32925971dfe8f.png)
+![Paired black-and-white instructional line drawings of Machine Seated Crunch.](../catalog/media/8a9acacb2a8ab3206f31f09bc360e80155bda27eb3aa62ede8ef15913f5514cf.png)
 
 Starting position / Peak contraction position
 
@@ -3170,7 +3170,7 @@ Selectorized seated crunch machine providing a direct, progressive resistance cu
 
 ## Machine Seated Leg Curl
 
-![Paired black-and-white instructional line drawings of Machine Seated Leg Curl.](../catalog/media/35ac4785397e96bffdb8eff1b3e07059bbf47967659bcc1c6d0decab31c750b2.png)
+![Paired black-and-white instructional line drawings of Machine Seated Leg Curl.](../catalog/media/9c5ee4b8d1d7c7870b315692622666e40007edd3a3e0b9b0379596c9e901b290.png)
 
 Starting position / Peak contraction position
 
@@ -3240,7 +3240,7 @@ Seated machine hamstring curl. Seated hip flexion lengthens the hamstring muscle
 
 ## Machine Seated Row
 
-![Paired black-and-white instructional line drawings of Machine Seated Row.](../catalog/media/cdaf908c2bf5ead696bbdf0b69c25467cbf23d82a552cf4545faf0a4383d52b8.png)
+![Paired black-and-white instructional line drawings of Machine Seated Row.](../catalog/media/4181708fbe71301e455397adb8c3b804b470b9afef96f458403fb409b5323ed3.png)
 
 Starting position / Peak contraction position
 
@@ -3311,7 +3311,7 @@ Bilateral chest-supported machine row. The vertical chest pad stabilizes the tor
 
 ## Negative Pull-Up
 
-![Paired black-and-white instructional line drawings of Negative Pull-Up.](../catalog/media/1db04e68f3abc4936dc1a1a4ae40f1dc5db5cf4ecdd44adb3852c7e65dc915d1.png)
+![Paired black-and-white instructional line drawings of Negative Pull-Up.](../catalog/media/4987ce0c2e1d98efeb006419c62540bc65a2eac3e3c7ee77b646b8d113c7f57c.png)
 
 Starting position / Peak contraction position
 
@@ -3586,7 +3586,7 @@ Strict dead-stop barbell row with horizontal torso parallel to the floor. Elimin
 
 ## Pendulum Squat
 
-![Paired black-and-white instructional line drawings of Pendulum Squat.](../catalog/media/efd1020b71477b85bacb6aa6db9d7fc63dc0874948bd155438459528e7525398.png)
+![Paired black-and-white instructional line drawings of Pendulum Squat.](../catalog/media/d3b4923925da56fa26ef7ab1d2ae46878b14d098b8ccf6e309ef9f3920328dc9.png)
 
 Starting position / Peak contraction position
 
@@ -3795,7 +3795,7 @@ Canonical pronated vertical pull-up. The overhand grip emphasizes frontal plane 
 
 ## Reverse Pec Deck
 
-![Paired black-and-white instructional line drawings of Reverse Pec Deck.](../catalog/media/0e9d9caa68f52ff99ce06023bdec734a8f1135ddb735bde640e427095a4bd14b.png)
+![Paired black-and-white instructional line drawings of Reverse Pec Deck.](../catalog/media/88ddd1f1c2e3573ed497d76213d5a744524a7f9772f3a7003b6f0530544efab9.png)
 
 Starting position / Peak contraction position
 
@@ -4068,7 +4068,7 @@ Assumption: cuffs around the wrists, two low cables, close-elbow row. Upper-arm 
 
 ## Seated Hip Abduction Machine
 
-![Paired black-and-white instructional line drawings of Seated Hip Abduction Machine.](../catalog/media/617865107f0aacb3c63cb2639d6de4ecda2f8fb70e9580fc5f8d744576e1c018.png)
+![Paired black-and-white instructional line drawings of Seated Hip Abduction Machine.](../catalog/media/460767265efc468dedf776a53fc3a088a492e73106d5e86bbb0b027e9534b12e.png)
 
 Starting position / Peak contraction position
 
@@ -4136,7 +4136,7 @@ Selectorized seated outer-hip abduction machine isolating the gluteus medius and
 
 ## Seated Hip Adduction Machine
 
-![Paired black-and-white instructional line drawings of Seated Hip Adduction Machine.](../catalog/media/43e2e1d26613ec25474af132ce2283910580ee167522515d7c090856109e7f21.png)
+![Paired black-and-white instructional line drawings of Seated Hip Adduction Machine.](../catalog/media/0652cd85bb2e97213338e629722f4423c2a683a7314b42da152bbcd2ac722694.png)
 
 Starting position / Peak contraction position
 
@@ -4204,7 +4204,7 @@ Selectorized seated inner-thigh adduction machine isolating the adductor complex
 
 ## Seated Lat Pulldown Machine
 
-![Two line drawings of a seated lat pulldown with thigh pads, pulling the bar in front of the head.](../catalog/media/71a4f2324ad41286962cce944e5951c8e4663ecdc8c07ea007655adfaab22115.png)
+![Two line drawings of a seated lat pulldown with thigh pads, pulling the bar in front of the head.](../catalog/media/90ae4911743dfe126ee34c44119bafed295c05a25db08e4c246f8b17a9ed0603.png)
 
 Arms overhead / Bar near upper chest
 
@@ -4340,7 +4340,7 @@ Standard 45-degree incline sled leg press with wide footplate and back support.
 
 ## Seated Machine Lateral Raise
 
-![Paired black-and-white instructional line drawings of Seated Machine Lateral Raise.](../catalog/media/81f77c7b7d776ed90c6fb97f47cc81c42ab13facbb15e93b792c0ce6df3451a0.png)
+![Paired black-and-white instructional line drawings of Seated Machine Lateral Raise.](../catalog/media/c3eb2aa86e02fcce03b9ea1b6a5574d67e16943d4e19974d98bb2ad912447dd3.png)
 
 Starting position / Peak contraction position
 
@@ -4409,7 +4409,7 @@ Guided lever machine lateral raise with padded arm rollers and fixed rotational 
 
 ## Single-Arm Plate Loaded Lat Pulldown
 
-![Paired black-and-white instructional line drawings of Single-Arm Plate Loaded Lat Pulldown.](../catalog/media/4569de58a612b2bb8d2e4d9db9babfc0eecbe16b82f4d2547fafb90a7eb63376.png)
+![Paired black-and-white instructional line drawings of Single-Arm Plate Loaded Lat Pulldown.](../catalog/media/f8ccb98416adc0329d7ef25eca38f606442c4e7b36d6ec04a66416c5fff03153.png)
 
 Starting position / Peak contraction position
 
@@ -4480,7 +4480,7 @@ Unilateral vertical pull on a plate-loaded machine with independent converging l
 
 ## Single-Arm Rear-Delt Cable Fly
 
-![Two front-view line drawings of a single-arm cable rear-delt fly; the same right hand holds the handle in both positions.](../catalog/media/32bc534e04bbfb7115c8bb29afde673a3a6e182f3cee0baeb98faee2689147b6.png)
+![Two front-view line drawings of a single-arm cable rear-delt fly; the same right hand holds the handle in both positions.](../catalog/media/56da718eeafac064df79c96a0c601142e393bbca98c8cc5f3ac3ff8c8a6894ed.png)
 
 Working arm across chest / Same arm opened outward
 
@@ -4618,7 +4618,7 @@ Unilateral chest-supported plate-loaded machine row with neutral handle grip and
 
 ## Single-Arm Supinated Pulldown
 
-![Paired black-and-white instructional line drawings of Single-Arm Supinated Pulldown.](../catalog/media/410b1474a6035b2fc4b5a751a2f0ed4303eaba56affc7c8e920b7ba1a819aeeb.png)
+![Paired black-and-white instructional line drawings of Single-Arm Supinated Pulldown.](../catalog/media/b4faab031dca2540838a98929c5c800ca21682e8e7f6e39b2e78984de77707f8.png)
 
 Starting position / Peak contraction position
 
@@ -5026,7 +5026,7 @@ Standing, simultaneous two-dumbbell press. Seated and alternating presses are se
 
 ## Standing Single-Arm Cable Biceps Curl
 
-![Paired black-and-white instructional line drawings of Standing Single-Arm Cable Biceps Curl.](../catalog/media/9e187bf6168a5d047dacea054d607d90d780af71c280129cb52f5f2072fc3e00.png)
+![Paired black-and-white instructional line drawings of Standing Single-Arm Cable Biceps Curl.](../catalog/media/6e82b7aeab411d8896ad69605ea106e56cb43add1968c0569589d2b21a6a2b04.png)
 
 Starting position / Peak contraction position
 
@@ -5368,7 +5368,7 @@ Neutral-grip trap bar variation. Positions the load in line with the body's cent
 
 ## Weighted Dips
 
-![Paired black-and-white instructional line drawings of Weighted Dips.](../catalog/media/ec5c91090c2cda153233c50c050cb3e22c69094daa602aaa46b6cc32bc4d187c.png)
+![Paired black-and-white instructional line drawings of Weighted Dips.](../catalog/media/80afacff6118b4dc107b96a56cd16fd3f9d905e6e3ccf10af430c7c8b1b6e814.png)
 
 Starting position / Peak contraction position
 

@@ -81,14 +81,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "60523037fbf7ca3c7baf95967cc8abb86fe607c67d3eafa2b0938e61eaf479f5",
-    "url": "/media/60523037fbf7ca3c7baf95967cc8abb86fe607c67d3eafa2b0938e61eaf479f5.png",
+    "mediaId": "6e1b10f9bce23dc7d1ffd7aa37944336f7467be1c943a8b7139da8ef88f9d2a8",
+    "url": "/media/6e1b10f9bce23dc7d1ffd7aa37944336f7467be1c943a8b7139da8ef88f9d2a8.png",
     "left": "Starting position",
     "right": "Peak contraction position",
     "alt": "Paired black-and-white instructional line drawings of Cable Rope Triceps Pushdown.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-19",
+      "createdDate": "2026-10-20",
       "promptId": "cable-rope-triceps-pushdown",
       "model": null
     }

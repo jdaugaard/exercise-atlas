@@ -83,14 +83,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "71a4f2324ad41286962cce944e5951c8e4663ecdc8c07ea007655adfaab22115",
-    "url": "/media/71a4f2324ad41286962cce944e5951c8e4663ecdc8c07ea007655adfaab22115.png",
+    "mediaId": "90ae4911743dfe126ee34c44119bafed295c05a25db08e4c246f8b17a9ed0603",
+    "url": "/media/90ae4911743dfe126ee34c44119bafed295c05a25db08e4c246f8b17a9ed0603.png",
     "left": "Arms overhead",
     "right": "Bar near upper chest",
     "alt": "Two line drawings of a seated lat pulldown with thigh pads, pulling the bar in front of the head.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-17",
+      "createdDate": "2026-10-20",
       "promptId": "seated-lat-pulldown-machine",
       "model": null
     }

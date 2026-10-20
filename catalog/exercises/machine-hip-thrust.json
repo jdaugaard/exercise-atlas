@@ -1,5 +1,8 @@
 {
   "id": "machine-hip-thrust",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
   "name": "Machine Hip Thrust",
   "nameDa": "Hip thrust i maskine",
   "aliases": [
@@ -75,19 +78,16 @@
       "scope": "Example of dedicated machine with upper-back support, footplate and hip strap; not confirmation of the user's model."
     }
   ],
-  "revision": 1,
-  "reviewStatus": "draft",
-  "reviewedAt": null,
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "2c053800f6ec03846c37c15be4bcc7c036fe86ce53ad69b0e9ca7e45f28d35fe",
-    "url": "/media/2c053800f6ec03846c37c15be4bcc7c036fe86ce53ad69b0e9ca7e45f28d35fe.png",
+    "mediaId": "40e05afe49c9840b750c18dfcdd9b21ce13b2e1e933105d5334eabc994f244ed",
+    "url": "/media/40e05afe49c9840b750c18dfcdd9b21ce13b2e1e933105d5334eabc994f244ed.png",
     "left": "Lowered position",
     "right": "Hip extension",
     "alt": "Two black-and-white drawings of a generic belt-loaded hip-thrust machine in lowered and raised positions.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-17",
+      "createdDate": "2026-10-20",
       "promptId": "machine-hip-thrust",
       "model": null
     }

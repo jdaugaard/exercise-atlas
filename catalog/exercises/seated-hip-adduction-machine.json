@@ -81,14 +81,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "43e2e1d26613ec25474af132ce2283910580ee167522515d7c090856109e7f21",
-    "url": "/media/43e2e1d26613ec25474af132ce2283910580ee167522515d7c090856109e7f21.png",
+    "mediaId": "0652cd85bb2e97213338e629722f4423c2a683a7314b42da152bbcd2ac722694",
+    "url": "/media/0652cd85bb2e97213338e629722f4423c2a683a7314b42da152bbcd2ac722694.png",
     "left": "Starting position",
     "right": "Peak contraction position",
     "alt": "Paired black-and-white instructional line drawings of Seated Hip Adduction Machine.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-19",
+      "createdDate": "2026-10-20",
       "promptId": "seated-hip-adduction-machine",
       "model": null
     }

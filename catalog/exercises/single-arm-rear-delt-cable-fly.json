@@ -79,14 +79,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "32bc534e04bbfb7115c8bb29afde673a3a6e182f3cee0baeb98faee2689147b6",
-    "url": "/media/32bc534e04bbfb7115c8bb29afde673a3a6e182f3cee0baeb98faee2689147b6.png",
+    "mediaId": "56da718eeafac064df79c96a0c601142e393bbca98c8cc5f3ac3ff8c8a6894ed",
+    "url": "/media/56da718eeafac064df79c96a0c601142e393bbca98c8cc5f3ac3ff8c8a6894ed.png",
     "left": "Working arm across chest",
     "right": "Same arm opened outward",
     "alt": "Two front-view line drawings of a single-arm cable rear-delt fly; the same right hand holds the handle in both positions.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-17",
+      "createdDate": "2026-10-20",
       "promptId": "single-arm-rear-delt-cable-fly",
       "model": null
     }

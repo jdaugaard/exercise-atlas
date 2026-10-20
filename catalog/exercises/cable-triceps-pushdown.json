@@ -79,14 +79,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "997991ce6ad1afd238b36b34fa70bd4427754c9c993795be6366b4ba6009b55b",
-    "url": "/media/997991ce6ad1afd238b36b34fa70bd4427754c9c993795be6366b4ba6009b55b.png",
+    "mediaId": "443565b2e58806db634f1a62714f1b130c8817bdfe0c20020c4b1d0be530996c",
+    "url": "/media/443565b2e58806db634f1a62714f1b130c8817bdfe0c20020c4b1d0be530996c.png",
     "left": "Elbows bent beside torso",
     "right": "Bar at upper thighs",
     "alt": "Two line drawings of a straight-bar cable triceps pushdown using a high pulley in front of the athlete.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-17",
+      "createdDate": "2026-10-20",
       "promptId": "cable-triceps-pushdown",
       "model": null
     }

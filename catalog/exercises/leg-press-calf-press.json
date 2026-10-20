@@ -77,14 +77,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "be2004fa24e9e28fb0782a8be355181f7474c24b8b86a3f75ae6424ec4798001",
-    "url": "/media/be2004fa24e9e28fb0782a8be355181f7474c24b8b86a3f75ae6424ec4798001.png",
+    "mediaId": "734c871653247fcc43ffb3be1ae75688edb2c4f53ce11341c6bee5ca83eea77d",
+    "url": "/media/734c871653247fcc43ffb3be1ae75688edb2c4f53ce11341c6bee5ca83eea77d.png",
     "left": "Starting position",
     "right": "Peak contraction position",
     "alt": "Paired black-and-white instructional line drawings of Leg Press Calf Press.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-19",
+      "createdDate": "2026-10-20",
       "promptId": "leg-press-calf-press",
       "model": null
     }

@@ -81,14 +81,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "efd1020b71477b85bacb6aa6db9d7fc63dc0874948bd155438459528e7525398",
-    "url": "/media/efd1020b71477b85bacb6aa6db9d7fc63dc0874948bd155438459528e7525398.png",
+    "mediaId": "d3b4923925da56fa26ef7ab1d2ae46878b14d098b8ccf6e309ef9f3920328dc9",
+    "url": "/media/d3b4923925da56fa26ef7ab1d2ae46878b14d098b8ccf6e309ef9f3920328dc9.png",
     "left": "Starting position",
     "right": "Peak contraction position",
     "alt": "Paired black-and-white instructional line drawings of Pendulum Squat.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-18",
+      "createdDate": "2026-10-20",
       "promptId": "pendulum-squat",
       "model": null
     }

@@ -88,14 +88,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "410b1474a6035b2fc4b5a751a2f0ed4303eaba56affc7c8e920b7ba1a819aeeb",
-    "url": "/media/410b1474a6035b2fc4b5a751a2f0ed4303eaba56affc7c8e920b7ba1a819aeeb.png",
+    "mediaId": "b4faab031dca2540838a98929c5c800ca21682e8e7f6e39b2e78984de77707f8",
+    "url": "/media/b4faab031dca2540838a98929c5c800ca21682e8e7f6e39b2e78984de77707f8.png",
     "left": "Starting position",
     "right": "Peak contraction position",
     "alt": "Paired black-and-white instructional line drawings of Single-Arm Supinated Pulldown.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-18",
+      "createdDate": "2026-10-20",
       "promptId": "single-arm-supinated-pulldown",
       "model": null
     }

@@ -81,14 +81,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "81f77c7b7d776ed90c6fb97f47cc81c42ab13facbb15e93b792c0ce6df3451a0",
-    "url": "/media/81f77c7b7d776ed90c6fb97f47cc81c42ab13facbb15e93b792c0ce6df3451a0.png",
+    "mediaId": "c3eb2aa86e02fcce03b9ea1b6a5574d67e16943d4e19974d98bb2ad912447dd3",
+    "url": "/media/c3eb2aa86e02fcce03b9ea1b6a5574d67e16943d4e19974d98bb2ad912447dd3.png",
     "left": "Starting position",
     "right": "Peak contraction position",
     "alt": "Paired black-and-white instructional line drawings of Seated Machine Lateral Raise.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-19",
+      "createdDate": "2026-10-20",
       "promptId": "seated-machine-lateral-raise",
       "model": null
     }

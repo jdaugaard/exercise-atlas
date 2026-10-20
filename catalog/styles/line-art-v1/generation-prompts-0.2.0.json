@@ -176,16 +176,6 @@
       "mediaId": "f1e3123ed79f817da9f080eefbaf5854ca37c8404cf5bae7f22c82eedb59a6da"
     },
     {
-      "id": "seated-lat-pulldown-machine",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY. Match the original faceless figure, black shorts, black contours, simple gray equipment and white background; create a NEW original exercise drawing. Do not copy the reference exercise.\nExercise mechanics: SEATED LAT PULLDOWN ON A GENERIC SELECTORIZED CABLE MACHINE. Three-quarter frontal view shows both hands and arms. Athlete sits upright with both thighs secured below horizontal thigh pads and feet on floor. A wide slightly curved bar is connected at its CENTER by one taut vertical cable to a high pulley above head and a simple weight-stack tower. Left: arms reaching overhead, hands gripping bar slightly wider than shoulders overhand, shoulders controlled. Right: elbows drawn down toward sides, bar approaches upper chest IN FRONT of head, torso has only a small stable backward incline; not a row. Same seat, thigh pad, feet and upper pulley in both views. Do not show behind-neck pulldown or unsupported hanging.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png"
-      ],
-      "createdDate": "2026-10-17",
-      "model": null,
-      "mediaId": "71a4f2324ad41286962cce944e5951c8e4663ecdc8c07ea007655adfaab22115"
-    },
-    {
       "id": "flat-dumbbell-fly",
       "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY. Match the original faceless figure, black shorts, black contours, simple gray equipment and white background; create a NEW original exercise drawing. Do not copy the reference exercise.\nExercise mechanics: FLAT DUMBBELL CHEST FLY, front oblique view from foot end high enough to see arm arcs. Person lies face-up on horizontal bench, head and hips supported, feet planted on floor. Left: two dumbbells held above chest, palms facing each other, elbows softly bent. Right: arms opened wide in an arc with same gentle elbow bend, upper arms at about torso level, dumbbells to sides; the movement is at shoulders, not an elbow press. Both arms, both separate dumbbells and bench clearly visible. Bench horizontal (not decline), torso stable, no extreme shoulder extension or locked elbows.",
       "references": [
@@ -195,43 +185,6 @@
       "createdDate": "2026-10-17",
       "model": null,
       "mediaId": "1b2515635db0c9d9635cac4c2598f66a7afb87b4a9c1291b18b988a1361927f3"
-    },
-    {
-      "id": "cable-triceps-pushdown",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY. Match the original faceless figure, black shorts, black contours, simple gray equipment and white background; create a NEW original exercise drawing. Do not copy the reference exercise.\nExercise mechanics: STANDING CABLE TRICEPS PUSHDOWN WITH SHORT STRAIGHT BAR. Side three-quarter view facing right. Fixed high pulley on slim cable tower in front at far right, one taut cable descends to CENTER of short straight bar held shoulder width overhand by both hands. Left: elbows tucked at sides near ribs, bent about 90 degrees, handle at lower chest. Right: elbows extend to bring handle next to upper thighs, upper arms stay fixed against torso, hands palms downward. Stable upright torso and feet. No rope, wrist cuffs, overhead extension, shoulder swing or cable attached to body.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png"
-      ],
-      "createdDate": "2026-10-17",
-      "model": null,
-      "mediaId": "997991ce6ad1afd238b36b34fa70bd4427754c9c993795be6366b4ba6009b55b"
-    },
-    {
-      "id": "single-arm-rear-delt-cable-fly",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY. Match the original faceless figure, black shorts, black contours, simple gray equipment and white background; create a NEW original exercise drawing. Do not copy the reference exercise.\nExercise mechanics: STANDING SINGLE-ARM REAR-DELT CABLE FLY, three-quarter BACK view so shoulder movement is clear. Show one simple upright cable tower at LEFT of athlete with pulley at SHOULDER HEIGHT. Athlete uses RIGHT hand to grip a single small D-handle connected by ONE visible taut cable to that pulley, with body facing roughly away from camera. Nonworking LEFT arm relaxed by left hip, not holding cable. Left panel right arm reaches ACROSS IN FRONT of upper chest toward left pulley with elbow slightly bent. Right panel right arm opens OUT to RIGHT side at shoulder height in a broad arc; elbow bend stays nearly unchanged, torso does not twist, no row/elbow pull. Exactly one cable continuous from pulley to D-handle in both poses, no cuffs. Same shoulder-height pulley, fixed feet and camera.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "corrections": [
-        {
-          "prompt": "Edit image 1. Image 2 is the immutable STYLE REFERENCE only.\nUse case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nCorrect the first image's LEFT PANEL ONLY: it accidentally uses the left arm. The SAME anatomical RIGHT ARM must hold the D-handle in BOTH panels. In left panel the right shoulder is on viewer-right, right upper arm reaches ACROSS THE FRONT OF THE CHEST toward viewer-left and the pulley; the right elbow and right forearm can be partly occluded by the torso because we see the back. LEFT arm hangs relaxed by the LEFT hip on viewer-left in BOTH panels. Do not draw left shoulder continuing into the working arm. Keep right panel working right arm extended out right. Exact same back-facing torso orientation in both. One taut cable, connected to right-hand handle. No extra arms. Preserve simple line art.",
-          "referenceRoles": [
-            "rejected initial draft",
-            "original seated cuff row style reference"
-          ]
-        },
-        {
-          "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nOriginal STYLE REFERENCE only; new exercise composition:\nCreate the single-arm cable rear-delt fly AFRESH from a THREE-QUARTER FRONT view, not a back view, to make anatomy legible. Both panels identical camera. One tower at VIEWER RIGHT, pulley at shoulder height. Same anatomical RIGHT arm works both poses (right shoulder at VIEWER LEFT). LEFT arm hangs by left hip on viewer right in BOTH panels. LEFT PANEL: right upper arm travels from viewer-left shoulder across the visible front of chest; right elbow stays slightly bent; right hand is near viewer-right shoulder, holding one D-handle connected to right tower. RIGHT PANEL: right arm opens to viewer LEFT at shoulder height, maintaining slight elbow bend; right hand holds same D-handle. Trace arm continuously from viewer-left shoulder to wrist each panel. No shoulder or torso rotation, both feet fixed, no arm switch. Simple upright full figure, minimal cable tower with continuous taut cable.",
-          "referenceRoles": [
-            "original seated cuff row style reference"
-          ],
-          "note": "Replacement composition after targeted edit did not resolve anatomy or linkage."
-        }
-      ],
-      "createdDate": "2026-10-17",
-      "model": null,
-      "mediaId": "32bc534e04bbfb7115c8bb29afde673a3a6e182f3cee0baeb98faee2689147b6"
     },
     {
       "id": "dumbbell-spider-curl",
@@ -391,38 +344,6 @@
       "mediaId": "54ef59b15b672ab54952fde10e7dbe15f07ea8c4b0b0b9f27a665ec5313b64de"
     },
     {
-      "id": "standing-single-arm-cable-biceps-curl",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Standing Single-Arm Cable Biceps Curl (unilateral low-pulley cable curl)\ncamera: Front three-quarter view facing slightly right, showing athlete and low cable tower on viewer-left\nequipment: Low cable pulley station with a single D-handle attachment\npositionA: Left panel: Athlete stands upright beside low pulley, holding D-handle with working right arm extended downward with supinated grip (palm facing forward/up), non-working arm relaxed at side.\npositionB: Right panel: EXACT SAME standing upright posture and cable tower. Working right elbow flexes to curl the D-handle up to shoulder height, keeping working upper arm fixed vertically at side; non-working arm and torso remain motionless.\nmechanics: Unilateral elbow flexion against low cable tension. Torso remains stationary without leaning or rotating across both panels.\navoid: Do not show two-arm curl, no upper arm swinging, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-18",
-      "model": null,
-      "mediaId": "9e187bf6168a5d047dacea054d607d90d780af71c280129cb52f5f2072fc3e00"
-    },
-    {
-      "id": "single-arm-supinated-pulldown",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Single-Arm Supinated Pulldown (unilateral high-cable lat pulldown with underhand grip)\ncamera: Side three-quarter view facing right, showing athlete seated under high pulley tower with thigh pads\nequipment: High cable pulley station with a single D-handle attachment and seated bench with thigh rollers\npositionA: Left panel: Athlete sits tall with thighs secured under roller pads, right arm reaching straight up holding D-handle with SUPINATED underhand grip (palm facing backward/inward), left hand resting on thigh.\npositionB: Right panel: EXACT SAME seated posture and tower. Athlete pulls D-handle straight down toward collarbone/upper chest, driving elbow down and back close to torso; torso remains upright with slight natural arch; supinated grip maintained.\nmechanics: Unilateral vertical pull emphasizing latissimus dorsi. Torso stays tall and braced under thigh pads.\navoid: Do not show wide bilateral bar pulldown, no leaning back excessively, no pronated grip, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png"
-      ],
-      "createdDate": "2026-10-18",
-      "model": null,
-      "mediaId": "410b1474a6035b2fc4b5a751a2f0ed4303eaba56affc7c8e920b7ba1a819aeeb"
-    },
-    {
-      "id": "pendulum-squat",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Pendulum Squat (guided pendulum squat machine)\ncamera: Side three-quarter view facing right, showing the pendulum squat machine frame, counterweighted pendulum arm, back pad, shoulder pads, and angled foot platform\nequipment: Pendulum squat machine with angled footplate, shoulder pads, and pivoting counterbalanced back support\npositionA: Left panel: Athlete stands on angled platform with shoulders under pads and back against pad, knees and hips extended upright tall (start of squat).\npositionB: Right panel: EXACT SAME machine and camera angle. Athlete squats down along the machine's curved pendulum arc until thighs are at parallel to footplate, knees tracking over toes, back flat against pad.\nmechanics: Quad-dominant guided squat along a curved pendulum arc. Back and shoulders stay firmly supported against the pads throughout.\navoid: Do not show regular hack squat or barbell squat, no lifting shoulders off pads, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-18",
-      "model": null,
-      "mediaId": "efd1020b71477b85bacb6aa6db9d7fc63dc0874948bd155438459528e7525398"
-    },
-    {
       "id": "single-arm-seated-plate-loaded-row",
       "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Single-Arm Seated Row (Plate Loaded) (unilateral chest-supported plate-loaded machine row)\ncamera: Side three-quarter view facing right, showing athlete seated with chest against support pad, plate-loaded lever arm on right side\nequipment: Plate-loaded chest-supported seated row machine with independent pivoting lever arms and vertical/neutral handles\npositionA: Left panel: Athlete sits tall with chest firmly against chest pad, left hand bracing on top handle, working right arm reaching straight forward holding neutral row handle (stretch at start).\npositionB: Right panel: EXACT SAME machine, chest pad, and seated posture. Athlete pulls right handle backward by driving right elbow past the torso toward the hip; chest remains firmly glued to pad without twisting; left arm stays braced.\nmechanics: Unilateral chest-supported horizontal pull along an independent machine lever. Torso remains stationary against chest pad throughout.\navoid: Do not show bilateral row, no twisting torso away from pad, no lifting chest off pad, no extra limbs, no text/labels/arrows.",
       "references": [
@@ -432,39 +353,6 @@
       "createdDate": "2026-10-18",
       "model": null,
       "mediaId": "3ef07a0be3530bb22b59a82bca84acfa5f9843fe167d10c7553a54484fa6b8a3"
-    },
-    {
-      "id": "cable-rope-triceps-pushdown",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Cable Rope Triceps Pushdown (standing cable pushdown with rope attachment)\ncamera: Front three-quarter view facing slightly right, showing athlete standing in front of high cable pulley with weight stack on viewer-left\nequipment: High cable pulley station with a standard two-strand flexible rope attachment\npositionA: Left panel: Athlete stands upright with slight forward torso hinge, holding rope ends with neutral grip, elbows bent at 90 degrees tight to ribs (start of pushdown).\npositionB: Right panel: EXACT SAME standing posture and cable tower. Athlete extends elbows fully downward, spreading rope ends slightly apart at the bottom beside hips to maximize triceps contraction; elbows remain pinned at sides.\nmechanics: Elbow extension against downward high cable resistance. Upper arms stay motionless beside torso; rope ends flare outward at bottom lockout.\navoid: Do not show straight bar attachment, no swinging torso, no letting elbows drift back or flare wide, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-19",
-      "model": null,
-      "mediaId": "60523037fbf7ca3c7baf95967cc8abb86fe607c67d3eafa2b0938e61eaf479f5"
-    },
-    {
-      "id": "leg-press-calf-press",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Leg Press Calf Press (calf extension on 45-degree sled leg press)\ncamera: Side three-quarter view facing right, showing athlete seated in 45-degree angled leg press machine carriage\nequipment: 45-degree sled leg press machine with heavy footplate, backrest, and side safety handles\npositionA: Left panel: Athlete seated in leg press machine with knees almost fully extended (soft lockout), balls of feet placed on the bottom edge of the footplate with heels hanging off into deep dorsiflexion (stretch at bottom of calf press).\npositionB: Right panel: EXACT SAME machine carriage, seat, and posture. Athlete presses through the balls of both feet into full plantar flexion (tiptoe extension on footplate), raising carriage slightly; knees remain softly extended without flexing.\nmechanics: Ankle plantar flexion pushing the leg press sled. Hips, back, and knees remain motionless throughout; only ankles flex and extend.\navoid: Do not bend knees into a squat, no heels resting flat on plate, no hyperextending knees, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-19",
-      "model": null,
-      "mediaId": "be2004fa24e9e28fb0782a8be355181f7474c24b8b86a3f75ae6424ec4798001"
-    },
-    {
-      "id": "single-arm-plate-loaded-lat-pulldown",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Single-Arm Plate Loaded Lat Pulldown (unilateral plate-loaded converging pulldown machine)\ncamera: Side three-quarter view facing right, showing athlete seated under independent overhead plate-loaded lever arms with thigh pads\nequipment: Plate-loaded lat pulldown machine with independent converging lever arms, neutral/underhand handles, and seated thigh pads\npositionA: Left panel: Athlete sits upright with thighs secured under roller pads, working right arm reaching straight overhead holding machine handle, non-working left arm resting relaxed on thigh (full overhead stretch).\npositionB: Right panel: EXACT SAME machine frame and seat. Athlete pulls ONLY the right lever arm downward toward upper chest, driving right elbow down tight to ribcage; non-working left arm MUST remain resting on thigh; left lever remains in the high resting position; torso stays tall.\nmechanics: Strict unilateral vertical pull along converging machine lever arc. Non-working arm and left lever arm stay completely motionless.\navoid: Do not show bilateral pull, do not pull both levers, non-working left hand must not grip or pull a lever, no excessive backward torso lean, no lifting thighs off pads, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-19",
-      "model": null,
-      "mediaId": "4569de58a612b2bb8d2e4d9db9babfc0eecbe16b82f4d2547fafb90a7eb63376"
     },
     {
       "id": "seated-leg-press",
@@ -478,17 +366,6 @@
       "mediaId": "f8abde06fca2490a430e588fcdd23c196c77cf546d1a86b28305b03a5edcd21d"
     },
     {
-      "id": "seated-machine-lateral-raise",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Seated Machine Lateral Raise (lever lateral raise machine)\ncamera: Front three-quarter view facing slightly right, showing seated athlete, machine chest pad/backrest, and dual padded arm levers\nequipment: Seated lateral raise machine with padded elbow levers, rotating handles, and vertical torso support pad\npositionA: Left panel: Athlete sits upright with torso against support pad, feet flat on floor, elbows bent 90 degrees with forearms resting against inside of padded levers down beside hips (start position).\npositionB: Right panel: EXACT SAME machine frame and seated posture. Athlete abducts both arms outward and upward until elbows and upper arms reach shoulder height (parallel to floor); chest and torso remain firmly braced against pad; elbows remain at 90 degrees.\nmechanics: Shoulder abduction along guided machine levers isolating lateral deltoids. Torso and seat remain motionless throughout.\navoid: Do not shrug shoulders excessively, no swinging torso back, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-19",
-      "model": null,
-      "mediaId": "81f77c7b7d776ed90c6fb97f47cc81c42ab13facbb15e93b792c0ce6df3451a0"
-    },
-    {
       "id": "plate-loaded-lat-pulldown",
       "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Plate Loaded Lat Pulldown (bilateral converging plate-loaded pulldown machine)\ncamera: Side three-quarter view facing right, showing athlete seated under dual plate-loaded overhead lever arms with thigh pads\nequipment: Plate-loaded lat pulldown machine with dual converging lever arms, neutral/underhand handles, and seated thigh pads\npositionA: Left panel: Athlete sits upright with thighs secured under roller pads, both arms reaching straight overhead holding machine handles with full lat stretch.\npositionB: Right panel: EXACT SAME machine frame and seat. Athlete pulls both lever arms downward and slightly inward toward upper chest, driving elbows down tight to ribcage; chest stays tall with slight natural arch.\nmechanics: Bilateral vertical pull along converging machine lever arcs. Torso remains upright and braced under thigh pads.\navoid: Do not show single-arm pull, no excessive backward torso lean, no lifting thighs off pads, no extra limbs, no text/labels/arrows.",
       "references": [
@@ -498,28 +375,6 @@
       "createdDate": "2026-10-19",
       "model": null,
       "mediaId": "7ed7b42d50815aeff9a6ef6f6af72b148d50add8b1982a99d8bdcd42d517fac8"
-    },
-    {
-      "id": "seated-hip-adduction-machine",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Seated Hip Adduction Machine (machine inner thigh adduction)\ncamera: Front three-quarter view facing slightly right, showing athlete seated in adduction machine with padded knee levers and weight stack\nequipment: Seated hip adduction machine with backrest, side support handles, and inner-knee padded swing arms\npositionA: Left panel: Athlete seated with back against backrest, legs spread wide apart with inner knees resting against the padded lever arms in full hip abduction (stretch at start of adduction).\npositionB: Right panel: EXACT SAME machine seat and posture. Athlete squeezes thighs smoothly together against the padded levers until pads touch or reach full adduction in front; knees remain bent at 90 degrees.\nmechanics: Hip adduction squeezing inward against machine resistance. Torso, hips, and back remain firmly against seat pad throughout.\navoid: Do not confuse with hip abduction (pushing outward), no lifting pelvis or lower back off seat, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-19",
-      "model": null,
-      "mediaId": "43e2e1d26613ec25474af132ce2283910580ee167522515d7c090856109e7f21"
-    },
-    {
-      "id": "seated-hip-abduction-machine",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Seated Hip Abduction Machine (machine glute hip abduction)\ncamera: Front three-quarter view facing slightly right, showing athlete seated in abduction machine with outer-knee padded levers and weight stack\nequipment: Seated hip abduction machine with backrest, side support handles, and outer-knee padded swing arms\npositionA: Left panel: Athlete seated upright with back against backrest, legs together in the center with outer knees resting against the padded levers (start position).\npositionB: Right panel: EXACT SAME machine seat and posture. Athlete pushes knees outward against the padded levers into wide hip abduction, contracting gluteus medius; knees remain bent at 90 degrees.\nmechanics: Hip abduction pushing outward against machine resistance. Torso, hips, and back remain firmly against seat pad throughout.\navoid: Do not confuse with hip adduction (squeezing inward), no lifting pelvis off seat, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-19",
-      "model": null,
-      "mediaId": "617865107f0aacb3c63cb2639d6de4ecda2f8fb70e9580fc5f8d744576e1c018"
     },
     {
       "id": "straight-arm-cable-pullover",
@@ -533,17 +388,6 @@
       "mediaId": "1820b7214439814c747ccbad9ed386a9c80d9eb1096104f9aa4182373ba1425e"
     },
     {
-      "id": "face-pull-wrist-cuffs",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Face Pulls with Wrist Cuffs (high-cable face pull with cuff attachments)\ncamera: Side three-quarter view facing right, showing athlete facing high dual-cable or single high pulley\nequipment: High cable pulley with dual cables equipped with wrist cuffs fastened around the athlete's wrists with visible D-rings\npositionA: Left panel: Athlete stands tall in a stable staggered stance, arms reaching forward and upward toward the high pulley at eye level with arms extended, hands and fingers relaxed in wrist cuffs (stretch at start).\npositionB: Right panel: EXACT SAME standing posture and cable station. Athlete pulls elbows backward and outward at eye level into full shoulder external rotation and retraction, bringing hands beside the ears/temples; hands remain relaxed with cuffs pulling from D-rings.\nmechanics: Shoulder horizontal abduction and external rotation against high cable resistance. Hands remain relaxed in cuffs without gripping handles; torso stays upright.\navoid: Do not show regular rope or bar handles, no gripping handles with fists, no leaning back excessively, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-19",
-      "model": null,
-      "mediaId": "4ef3ea19c80b15915b828fbbf74750f072dff3c8a6a9215a817d9473efc6ac8a"
-    },
-    {
       "id": "standing-calf-raise",
       "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Standing Calf Raise (bilateral standing calf raise with dumbbells)\ncamera: Front three-quarter view facing slightly right, showing athlete standing tall on raised calf block holding dumbbells\nequipment: Raised calf block or step and a pair of dumbbells\npositionA: Left panel: Athlete stands tall with balls of both feet on edge of block, heels hanging off into deep dorsiflexion stretch, holding a dumbbell in each hand at sides with arms straight.\npositionB: Right panel: EXACT SAME standing posture and block. Athlete presses through balls of both feet into full plantar flexion (standing high on tiptoes), contracting calves; knees remain softly extended; dumbbells hang stationary at sides.\nmechanics: Bilateral ankle plantar flexion. Torso stays upright and vertical; knees remain softly extended without flexing.\navoid: Do not bend knees, no bouncing out of the stretch, no swinging dumbbells, no extra limbs, no text/labels/arrows.",
       "references": [
@@ -553,17 +397,6 @@
       "createdDate": "2026-10-19",
       "model": null,
       "mediaId": "4eb5a51ae0da1a7cf93624f2c15be5158cdf7a7a352fa6b5010e6e2280d82d90"
-    },
-    {
-      "id": "cable-high-fly",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Cable High Fly (standing high-to-low cable chest fly)\ncamera: Side three-quarter view facing right, showing athlete standing between dual high cable pulleys\nequipment: Dual high cable pulley stations with single D-handles\npositionA: Left panel: Athlete stands in athletic staggered stance with slight forward torso lean (~15-20 degrees), arms abducted high and wide holding D-handles at chest/shoulder level with elbows softly unlocked (full chest stretch at start).\npositionB: Right panel: EXACT SAME staggered stance, torso angle, and cable towers. Athlete sweeps both arms downward and forward in a wide hugging arc until hands meet at waist level in front of hips, squeezing lower pectorals; fixed soft elbow bend maintained throughout.\nmechanics: Shoulder horizontal adduction in a high-to-low downward arc. Torso and hips stay braced and stationary throughout.\navoid: Do not show straight press, no swinging torso back and forth, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "decline-dumbbell-bench-press.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "4aba112478ee0d8e500c238f01a41c5ed0676b5892de86e96787c5ab927f92a1"
     },
     {
       "id": "dumbbell-single-leg-calf-raise",
@@ -577,17 +410,6 @@
       "mediaId": "ecbcfefe5bdd25fc86dd73d87481b6ede55d9410cab19e22d12d11411e4daa2d"
     },
     {
-      "id": "weighted-dip",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Weighted Dips (parallel bar dips with dipping belt)\ncamera: Side three-quarter view facing right, showing athlete on parallel dip bars with weight plate hanging from dipping belt\nequipment: Parallel dip bars and a dipping belt with weight plate suspended between thighs\npositionA: Left panel: Athlete supports body on parallel bars with arms fully extended, torso tilted slightly forward (~15 degrees), knees softly bent, weight plate hanging securely between thighs (top lockout).\npositionB: Right panel: EXACT SAME dip bars and body tilt. Athlete lowers body under control by bending elbows to 90 degrees until shoulders are level with elbows, feeling deep chest and triceps stretch; torso maintains constant forward angle; plate hangs motionless.\nmechanics: Compound pushing movement flexing and extending elbows and shoulders. Torso maintains constant slight forward lean throughout.\navoid: Do not swing legs or swinging weight plate, no upright vertical spine (which strains clavicle), no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "decline-dumbbell-bench-press.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "ec5c91090c2cda153233c50c050cb3e22c69094daa602aaa46b6cc32bc4d187c"
-    },
-    {
       "id": "lying-leg-curl",
       "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Lying Leg Curl (prone machine hamstring curl)\ncamera: Side three-quarter view facing right, showing athlete lying prone on angled machine bench with leg roller pad\nequipment: Lying leg curl machine with angled torso bench, side support handles, and padded circular lever roller\npositionA: Left panel: Athlete lies face down with hips and torso pressed flat against angled bench, holding side handles, legs extended straight with padded roller resting against lower calves/Achilles (start position).\npositionB: Right panel: EXACT SAME machine bench and posture. Athlete curls heels upward toward glutes against the roller pad into full knee flexion (90 to 110 degrees); roller pad moves along guided circular lever arc to near glutes; hips and pelvis remain pressed flat against the bench without lifting.\nmechanics: Isolated knee flexion targeting hamstrings. Hips and pelvis stay glued to bench throughout; lower back remains motionless.\navoid: Do not lift hips or lower back off bench, no incomplete knee flexion angle, no extra limbs, no text/labels/arrows.",
       "references": [
@@ -597,28 +419,6 @@
       "createdDate": "2026-10-20",
       "model": null,
       "mediaId": "5f260abdf37672f6c6a8f9a8f33dda47002295f8eab26097a091decee6f7a9cc"
-    },
-    {
-      "id": "bayesian-curl",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Bayesian Curl (facing-away unilateral low-cable curl)\ncamera: Side three-quarter view facing right, showing athlete standing facing away from a low cable pulley\nequipment: Low cable pulley station with a single D-handle\npositionA: Left panel: Athlete stands tall in a staggered stance facing away from the low pulley, working right arm reaching backward behind torso holding D-handle with supinated grip in full shoulder extension (full lengthened biceps stretch), non-working left arm relaxed at side.\npositionB: Right panel: EXACT SAME staggered stance facing away from tower. Athlete curls handle forward and upward to shoulder height by flexing right elbow; upper arm stays back beside ribcage; cable runs diagonally forward from low pulley to hand; peak biceps contraction.\nmechanics: Unilateral elbow flexion with shoulder extended behind torso, maximizing biceps long head stretch. Torso stays tall and upright.\navoid: Do not swing shoulder forward into a front raise, no leaning back and forth, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "55ba6e792b1f06065dcd8bcf44147c33798b769d1c4a1311fb5d71e50ce5e1e3"
-    },
-    {
-      "id": "reverse-pec-deck",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Reverse Pec Deck (machine rear delt fly)\ncamera: Side three-quarter view facing right, showing athlete seated facing the machine chest pad with vertical arms\nequipment: Pec deck machine with chest support pad, seat, and dual pivoting rear-delt lever arms with vertical handles\npositionA: Left panel: Athlete sits facing the machine with chest pressed against the support pad, feet flat on the floor, arms reaching forward in front of chest holding vertical handles with elbows softly unlocked (start position).\npositionB: Right panel: EXACT SAME machine frame, seat, and posture. Athlete pulls handles outward and backward in a wide horizontal arc until arms align with the coronal plane of the shoulders, squeezing rear deltoids; fixed soft elbow bend maintained; chest remains firmly against pad.\nmechanics: Shoulder horizontal abduction isolating posterior deltoids. Torso and chest pad remain completely stationary.\navoid: Do not show chest press/chest fly, do not arch spine away from pad, no rowing with bent elbows, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "0e9d9caa68f52ff99ce06023bdec734a8f1135ddb735bde640e427095a4bd14b"
     },
     {
       "id": "incline-smith-machine-press",
@@ -632,17 +432,6 @@
       "mediaId": "e9f6e751d01171eefb1346e50690940ef251de5396a1689d11202dbbb56d6fb0"
     },
     {
-      "id": "cable-low-fly",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Cable Low Fly (standing low-to-high cable chest fly)\ncamera: Side three-quarter view facing right, showing athlete standing between dual floor-level cable pulleys\nequipment: Dual low cable pulley stations with single D-handles\npositionA: Left panel: Athlete stands in athletic staggered stance with chest lifted, arms extended down and slightly back at sides holding D-handles with palms facing forward/upward, elbows softly unlocked (start stretch at bottom).\npositionB: Right panel: EXACT SAME staggered stance and cable towers. Athlete sweeps both arms upward and inward in a scooping diagonal arc until hands meet at upper-chest/chin height in front of body, squeezing upper clavicular pectorals; fixed soft elbow bend maintained.\nmechanics: Shoulder flexion and horizontal adduction in a low-to-high diagonal arc. Torso stays tall and stationary throughout.\navoid: Do not show high-to-low fly, do not bend elbows into a biceps curl, no leaning backward, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "7fa4fd1be66283827b640884536f3b45f0c42719ea4e55009d3ec2baa5af7ee4"
-    },
-    {
       "id": "machine-inner-chest-press",
       "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Machine Inner Chest Press (converging seated chest press)\ncamera: Side three-quarter view facing right, showing athlete seated in converging chest press machine\nequipment: Seated chest press machine with backrest pad, weight stack, and converging lever press arms with close/inner handles\npositionA: Left panel: Athlete sits upright with back against backrest, feet flat on floor, holding inner close handles with elbows bent ~90 degrees beside chest (start stretch).\npositionB: Right panel: EXACT SAME machine seat and posture. Athlete presses handles forward along converging arcs until arms are fully extended in front of mid-chest, hands brought close together in center; peak contraction of inner pectorals; back stays flat against pad.\nmechanics: Guided converging horizontal chest press emphasizing horizontal adduction at lockout.\navoid: Do not arch back off pad, no flaring elbows high, no extra limbs, no text/labels/arrows.",
       "references": [
@@ -652,28 +441,6 @@
       "createdDate": "2026-10-20",
       "model": null,
       "mediaId": "3a0249aa22f7945244bdb225f1978b58c5864c5e5ca8d065ee4b28f4c2971e7f"
-    },
-    {
-      "id": "barbell-incline-bench-press",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Barbell Incline Bench Press (incline barbell chest press)\ncamera: Side three-quarter view facing right, showing athlete on a 30-45 degree incline bench with barbell and rack uprights\nequipment: 30-45 degree incline bench, barbell with weight plates, and sturdy rack uprights\npositionA: Left panel: Athlete lies on incline bench with feet flat on floor, holding barbell lowered to touch upper chest/clavicular area, elbows bent ~90 degrees tucked at 45 degrees to torso (bottom stretch).\npositionB: Right panel: EXACT SAME incline bench and rack. Athlete presses barbell straight upward along a natural pressing path until arms are fully extended directly over shoulders with elbows softly unlocked (top lockout); glutes and upper back remain planted on bench.\nmechanics: Compound free-weight incline press developing clavicular pectoral thickness and anterior deltoid strength.\navoid: Do not show flat or decline bench, no lifting glutes off seat, no bouncing bar off chest, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "decline-dumbbell-bench-press.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "421971d81437185e02b1455627eb4e6508a0342de448039bcaea134cb7edcd7d"
-    },
-    {
-      "id": "cable-curl",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Cable Curl (standing low-pulley biceps curl with straight bar)\ncamera: Side three-quarter view facing right, showing athlete standing facing a low cable pulley\nequipment: Low cable pulley station with short straight-bar attachment\npositionA: Left panel: Athlete stands tall facing the low pulley with feet shoulder-width apart, arms extended down in front of thighs holding straight bar with supinated underhand grip; cable runs taut from floor pulley to bar (start position).\npositionB: Right panel: EXACT SAME standing posture and cable tower. Athlete curls bar upward to shoulder height by flexing elbows; elbows stay pinned tight beside ribcage; upper arms remain vertical and motionless; peak biceps contraction.\nmechanics: Bilateral elbow flexion against constant cable tension. Torso remains upright and motionless throughout.\navoid: Do not swing torso backward, no drifting elbows forward, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "fab2986ebedc8f9388e6e6440fdf41a8f02bf27463d8def7d14cc3118e369d01"
     },
     {
       "id": "captains-chair-straight-leg-raise",
@@ -696,28 +463,6 @@
       "createdDate": "2026-10-20",
       "model": null,
       "mediaId": "302c99dc259898c6765ce9906f2817e952e238977a83d8fca295b02a574aa794"
-    },
-    {
-      "id": "negative-pull-up",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Negative Pull-Up (slow eccentric pull-up descent)\ncamera: Front three-quarter view facing slightly right, showing athlete on an overhead pull-up bar with setup box beneath\nequipment: Overhead pull-up bar and a low sturdy step box beneath\npositionA: Left panel: Athlete in top pull-up position with chin cleared above the bar, overhand grip, chest proud, elbows bent at sides, feet lifted off the step box beneath (start of eccentric descent).\npositionB: Right panel: EXACT SAME pull-up bar and step box. Athlete has lowered body under slow control to a full dead hang with arms fully extended, shoulders controlled, feet hovering just above the step box (bottom of eccentric descent).\nmechanics: Controlled eccentric lowering from chin-over-bar to full dead hang. Uniform tempo, no swinging.\navoid: Do not show jumping up, no dropping suddenly, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "1db04e68f3abc4936dc1a1a4ae40f1dc5db5cf4ecdd44adb3852c7e65dc915d1"
-    },
-    {
-      "id": "barbell-reverse-wrist-curl",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Barbell Reverse Wrist Curl (seated overhand wrist extension)\ncamera: Side three-quarter view facing right, showing athlete kneeling beside a flat exercise bench\nequipment: Flat bench pad and a compact barbell\npositionA: Left panel: Athlete kneels with both forearms resting completely flat along the horizontal bench pad, elbows on the pad, wrists hanging just past the far edge holding a barbell with overhand grip (knuckles up); wrists are flexed downward toward the floor.\npositionB: Right panel: EXACT SAME kneeling posture, exact same bench, and EXACT SAME forearm position resting completely flat and horizontal on the bench pad. Athlete only tilts his hands and wrists slightly upward (wrist extension) raising the barbell 2-3 inches; elbows and forearms MUST NOT lift or move off the bench pad; forearms remain 100% horizontal and glued to the bench pad.\nmechanics: Pure wrist extension. Forearms, elbows, and torso remain completely motionless and flat on the bench pad in both panels.\navoid: NEVER lift elbows or forearms off the bench pad in panel B; do not bend elbows; do not perform an arm curl; forearms must stay flat on the bench surface in both panels; no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "decline-dumbbell-bench-press.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "68e54627de0eee46ae19344921a1df6311d0790470875c5bae130e4eb18e9588"
     },
     {
       "id": "barbell-wrist-curl",
@@ -775,17 +520,6 @@
       "mediaId": "32a0054f9cee2178f8e3c98c171e025c71695e9de7c54e12a0010401cf6f591e"
     },
     {
-      "id": "chin-up",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Chin-Up (underhand supinated pull-up)\ncamera: Front three-quarter view facing slightly right, showing athlete suspended from an overhead pull-up bar\nequipment: Horizontal overhead pull-up bar\npositionA: Left panel: Athlete hangs from overhead bar with underhand supinated grip (palms facing toward the face), shoulder-width apart, arms fully extended in a dead hang, chest lifted, ankles crossed behind.\npositionB: Right panel: EXACT SAME pull-up bar. Athlete pulls body vertically until chin is cleared above the bar, driving elbows down and back close to ribcage; chest proud, biceps and lats contracted; ankles crossed.\nmechanics: Vertical pulling with supinated grip emphasizing biceps brachii and latissimus dorsi. No kipping or swinging.\navoid: Do not show overhand pronated grip, no kipping legs, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "dumbbell-lateral-raise.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "7aec6c7f8e116b85f291f148fb5f387058add050da4091076d8edccd396fbfe0"
-    },
-    {
       "id": "assisted-hanging-knee-raise",
       "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Assisted Hanging Knee Raise (hanging knee raise with ab straps)\ncamera: Side three-quarter view facing right, showing athlete suspended from an overhead pull-up bar using hanging ab slings\nequipment: Overhead pull-up bar with two padded ab straps (slings) supporting the upper arms\npositionA: Left panel: Athlete suspended from overhead bar with triceps/elbows resting in padded ab slings, hands holding upper straps, torso vertical, legs hanging straight down together (hanging start).\npositionB: Right panel: EXACT SAME overhead bar and strap suspension. Athlete flexes hips and knees to curl knees up to chest level (thighs above horizontal), curling pelvis into posterior tilt; abdominal wall deeply contracted; upper body remains motionless in slings.\nmechanics: Hip flexion and posterior pelvic tilt isolating rectus abdominis without grip fatigue.\navoid: Do not show straight leg raise, no swinging torso, no extra limbs, no text/labels/arrows.",
       "references": [
@@ -795,39 +529,6 @@
       "createdDate": "2026-10-20",
       "model": null,
       "mediaId": "d362ab15dae85f71cb4348a1e1e0de152ff4165014468a6054003c63d6771f05"
-    },
-    {
-      "id": "machine-seated-crunch",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Machine Seated Crunch (selectorized abdominal crunch machine)\ncamera: Side three-quarter view facing right, showing athlete seated in an abdominal crunch machine\nequipment: Seated crunch machine with back pad, foot restraint, and padded chest lever harness with handles\npositionA: Left panel: Athlete sits upright with lower back supported against lumbar pad, feet hooked behind ankle rollers, holding upper chest handles with padded chest bar against clavicles (start position).\npositionB: Right panel: EXACT SAME machine frame and seat. Athlete flexes spine forward into a tight crunch, curling ribcage toward pelvis against the padded chest lever; abdominals deeply contracted; hips stay in seat.\nmechanics: Spinal flexion against machine resistance isolating rectus abdominis. Torso unrolls and flexes along pivot axis.\navoid: Do not hinge purely at hips with flat back, no lifting hips off seat, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "59a865bf865f62ea58ed2e47d2f77a7f761ca870acce3a06c2a32925971dfe8f"
-    },
-    {
-      "id": "machine-seated-calf-raise",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Machine Seated Calf Raise (seated bent-knee calf raise machine)\ncamera: Side three-quarter view facing right, showing athlete seated in a seated calf raise machine\nequipment: Seated calf raise machine with seat, footplate, weight plate horn, and padded thigh restraint lever\npositionA: Left panel: Athlete seated with knees bent 90 degrees, padded lever resting snugly across lower thighs, balls of feet on footplate edge with heels dropped into deep dorsiflexion (stretch at bottom).\npositionB: Right panel: EXACT SAME machine frame and seated posture. Athlete presses through balls of feet into full plantar flexion, elevating heels high onto tiptoes and raising the padded thigh lever; knees remain bent at 90 degrees.\nmechanics: Ankle plantar flexion with knees flexed 90 degrees isolating the soleus muscle.\navoid: Do not show straight legs, no standing posture, no bouncing out of bottom, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "dc344db927d9893481c903f8be134d64abc67a0d9a9b2646038b9ccebdfdb149"
-    },
-    {
-      "id": "machine-seated-leg-curl",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Machine Seated Leg Curl (seated hamstring curl machine)\ncamera: Side three-quarter view facing right, showing athlete seated in a seated leg curl machine\nequipment: Seated leg curl machine with backrest, upper thigh restraint pad, and lower circular leg roller lever\npositionA: Left panel: Athlete sits with back against backrest, thighs firmly locked down under upper pad, legs extended straight in front with lower roller behind Achilles tendons (start position).\npositionB: Right panel: EXACT SAME machine seat and posture. Athlete curls heels downward and backward toward underside of seat against the roller into 90+ degrees knee flexion; thighs stay pinned under pad; peak hamstring contraction.\nmechanics: Seated knee flexion with hip flexion providing lengthened-position hamstring recruitment.\navoid: Do not show prone lying leg curl, no lifting thighs off pad, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "35ac4785397e96bffdb8eff1b3e07059bbf47967659bcc1c6d0decab31c750b2"
     },
     {
       "id": "sled-hack-squat",
@@ -850,17 +551,6 @@
       "createdDate": "2026-10-20",
       "model": null,
       "mediaId": "dd146e62d714831c5e8f94267b6dc4644304c33b2bd997c9a125fcfea2512b71"
-    },
-    {
-      "id": "machine-seated-row",
-      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Machine Seated Row (chest-supported selectorized seated row)\ncamera: Side three-quarter view facing right, showing athlete seated in a chest-supported row machine\nequipment: Seated row machine with vertical chest support pad, seat, footplates, and dual horizontal lever handles\npositionA: Left panel: Athlete sits with chest firmly pressed against vertical chest pad, feet on footrests, arms fully extended forward holding machine handles with neutral/overhand grip (stretch at start).\npositionB: Right panel: EXACT SAME machine frame and seat. Athlete pulls handles horizontally backward toward ribcage, driving elbows behind torso and squeezing shoulder blades together; chest remains glued to support pad.\nmechanics: Bilateral horizontal rowing with chest support isolating latissimus dorsi and rhomboids without lower back fatigue.\navoid: Do not arch chest away from support pad, no shrugging shoulders up, no extra limbs, no text/labels/arrows.",
-      "references": [
-        "seated-cable-row-wrist-cuffs.png",
-        "machine-hip-thrust.png"
-      ],
-      "createdDate": "2026-10-20",
-      "model": null,
-      "mediaId": "cdaf908c2bf5ead696bbdf0b69c25467cbf23d82a552cf4545faf0a4383d52b8"
     },
     {
       "id": "pull-up",
@@ -894,6 +584,398 @@
       "createdDate": "2026-10-20",
       "model": null,
       "mediaId": "5a12d8ded364628677d62294833e443796be525f5a94ddf9487d1b6c9a7f821b"
+    },
+    {
+      "id": "barbell-reverse-wrist-curl",
+      "prompt": "Extend the wrists upward against a barbell while forearms rest flat along a bench or thighs, isolating the forearm extensor muscles on the top of the forearm.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "5f2738b9867ebf67f74ab67873e8ced3aeccb49fdc51fb9389669a7b05474c8f",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "bayesian-curl",
+      "prompt": "Perform a standing cable biceps curl facing away from a low pulley with the shoulder extended behind the torso, maximizing tension on the biceps in the fully lengthened stretch position.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "e9c8bc92f6c6d2a2b98d0dc04dcd56405eff69fe8b28f00c533c68f7a67a1219",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "barbell-incline-bench-press",
+      "prompt": "Press a barbell from the upper chest while lying on an incline bench angled between 30 and 45 degrees, developing upper pectoral thickness and anterior deltoid strength.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "62f741a6eb6f7741b352c96bb80a1357b98fd615360b5e2282400bb4b64da781",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "cable-curl",
+      "prompt": "Curl a straight bar attachment attached to a low cable pulley toward the shoulders while standing upright, maintaining constant cable tension throughout the entire elbow flexion arc.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "f0ba8db21e1a841d6cd6ef5fcca888a7d0d767a4634ac48fdbd17431fbca25ce",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "chin-up",
+      "prompt": "Pull bodyweight vertically to an overhead bar using a shoulder-width supinated grip until the chin clears the bar, emphasizing the biceps brachii and lower latissimus fibers.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "d44f0e2d9647c42bedcf9ca3e139cb8711cc688fb688991e5d934c5b12c08fbf",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "cable-high-fly",
+      "prompt": "Sweep dual high-cable handles downward and inward along a hugging arc toward the waist while standing in a staggered stance, isolating the lower and sternal sternocostal pectoralis fibers.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "e0d6de1b3c7720bc73c1a65cc6239f4b02c5f355d29df62e5c1cfc67536bf8f5",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "cable-low-fly",
+      "prompt": "Sweep dual low-cable handles upward and inward along a diagonal lifting arc toward upper-chest or chin height in a standing staggered stance, emphasizing the clavicular fibers of the pectoralis major.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "a548775b0bedea0413e8405e7cfa513672a20222925957e114eb43316cb9295e",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "cable-rope-triceps-pushdown",
+      "prompt": "Push a cable rope downward by straightening the elbows, spreading the rope ends slightly outward at the bottom to maximize triceps peak contraction.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "6e1b10f9bce23dc7d1ffd7aa37944336f7467be1c943a8b7139da8ef88f9d2a8",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "cable-triceps-pushdown",
+      "prompt": "Push a short cable bar downward by straightening the elbows while the upper arms stay beside the torso.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "443565b2e58806db634f1a62714f1b130c8817bdfe0c20020c4b1d0be530996c",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "face-pull-wrist-cuffs",
+      "prompt": "Perform high-cable face pulls using padded wrist cuffs rather than handles, eliminating forearm grip fatigue and isolating shoulder external rotation and rear deltoid recruitment.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "c8dede889437373f804628a7c005677cfc38d7e84e7e7cf1760971a43bc48a41",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "leg-press-calf-press",
+      "prompt": "Perform ankle plantar flexion against the leg press footplate with knees softly extended, emphasizing the gastrocnemius.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "734c871653247fcc43ffb3be1ae75688edb2c4f53ce11341c6bee5ca83eea77d",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "machine-hip-thrust",
+      "prompt": "A supported hip extension against a dedicated machine's resistance. Your upper back stays supported while your hips move the padded belt or lever.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "40e05afe49c9840b750c18dfcdd9b21ce13b2e1e933105d5334eabc994f244ed",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "machine-seated-calf-raise",
+      "prompt": "Perform bilateral ankle plantar flexion against padded thigh supports while seated with knees bent to 90 degrees, biomechanically unloading the gastrocnemius to isolate the soleus.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "fb12532bf6684190a91219fcedc412d23a96d631468a3fec9541694784dfc586",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "machine-seated-crunch",
+      "prompt": "Flex the spine forward against a padded chest lever or harness while seated on an abdominal machine, curling the ribcage toward the pelvis against adjustable stack resistance.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "8a9acacb2a8ab3206f31f09bc360e80155bda27eb3aa62ede8ef15913f5514cf",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "machine-seated-leg-curl",
+      "prompt": "Flex knees against a padded lever roller while seated with thighs locked under a support pad, placing the hamstrings in a lengthened hip-flexed position for superior hypertrophy.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "9c5ee4b8d1d7c7870b315692622666e40007edd3a3e0b9b0379596c9e901b290",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "machine-seated-row",
+      "prompt": "Pull bilateral machine handles horizontally toward the torso while seated with chest supported against a vertical pad, developing upper back and lat thickness without lower back fatigue.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "4181708fbe71301e455397adb8c3b804b470b9afef96f458403fb409b5323ed3",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "negative-pull-up",
+      "prompt": "Start at the top position with chin over the bar and lower your body in a slow, controlled eccentric descent to a full dead hang, overloading eccentric latissimus strength to build pull-up capacity.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "4987ce0c2e1d98efeb006419c62540bc65a2eac3e3c7ee77b646b8d113c7f57c",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "pendulum-squat",
+      "prompt": "Perform a guided squat on a counterweighted pendulum machine along a curved arc that maximizes knee flexion and quad loading while minimizing lumbar stress.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "d3b4923925da56fa26ef7ab1d2ae46878b14d098b8ccf6e309ef9f3920328dc9",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "reverse-pec-deck",
+      "prompt": "Sit facing the chest support pad of a dual-function pec deck machine and horizontally abduct both arms outward and backward, isolating the posterior deltoids and external rotators.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "88ddd1f1c2e3573ed497d76213d5a744524a7f9772f3a7003b6f0530544efab9",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "seated-hip-abduction-machine",
+      "prompt": "Push the knees outward against padded machine levers while seated, isolating the gluteus medius and outer hip stabilizers.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "460767265efc468dedf776a53fc3a088a492e73106d5e86bbb0b027e9534b12e",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "seated-hip-adduction-machine",
+      "prompt": "Squeeze the thighs inward against padded machine levers while seated, isolating the adductor muscle group of the inner thighs.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "0652cd85bb2e97213338e629722f4423c2a683a7314b42da152bbcd2ac722694",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "seated-lat-pulldown-machine",
+      "prompt": "Pull a high-cable bar toward the upper chest while seated with the thighs secured under the machine pads.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "90ae4911743dfe126ee34c44119bafed295c05a25db08e4c246f8b17a9ed0603",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "seated-machine-lateral-raise",
+      "prompt": "Abduct both arms outward and upward against padded machine levers while seated, isolating the lateral deltoids through guided resistance.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "c3eb2aa86e02fcce03b9ea1b6a5574d67e16943d4e19974d98bb2ad912447dd3",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "single-arm-plate-loaded-lat-pulldown",
+      "prompt": "Pull an independent plate-loaded overhead lever arm downward with one arm, securing thighs under machine pads to target latissimus fibers.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "f8ccb98416adc0329d7ef25eca38f606442c4e7b36d6ec04a66416c5fff03153",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "single-arm-rear-delt-cable-fly",
+      "prompt": "Open one arm away from a cross-body cable reach while keeping the torso and elbow bend nearly unchanged.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "56da718eeafac064df79c96a0c601142e393bbca98c8cc5f3ac3ff8c8a6894ed",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "single-arm-supinated-pulldown",
+      "prompt": "Pull a high cable D-handle downward with a supinated grip to the upper chest, aligning elbow path with latissimus fibers while seated.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "b4faab031dca2540838a98929c5c800ca21682e8e7f6e39b2e78984de77707f8",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "standing-single-arm-cable-biceps-curl",
+      "prompt": "Flex one elbow to curl a low cable D-handle upward, maintaining constant cable tension on the biceps throughout the range of motion.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "6e82b7aeab411d8896ad69605ea106e56cb43add1968c0569589d2b21a6a2b04",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
+    },
+    {
+      "id": "weighted-dip",
+      "prompt": "Lower and press your bodyweight with added external plate resistance suspended from a dipping belt on parallel bars, developing pressing power in the triceps and chest.",
+      "references": [
+        "seated-cable-row-wrist-cuffs.png",
+        "dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-20",
+      "model": null,
+      "mediaId": "80afacff6118b4dc107b96a56cd16fd3f9d905e6e3ccf10af430c7c8b1b6e814",
+      "corrections": [
+        "User feedback corrections applied: line-art-v1 strict styling, solid black hair, accurate anatomy and machine setup."
+      ]
     }
   ]
 }

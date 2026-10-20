@@ -84,14 +84,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "4ef3ea19c80b15915b828fbbf74750f072dff3c8a6a9215a817d9473efc6ac8a",
-    "url": "/media/4ef3ea19c80b15915b828fbbf74750f072dff3c8a6a9215a817d9473efc6ac8a.png",
+    "mediaId": "c8dede889437373f804628a7c005677cfc38d7e84e7e7cf1760971a43bc48a41",
+    "url": "/media/c8dede889437373f804628a7c005677cfc38d7e84e7e7cf1760971a43bc48a41.png",
     "left": "Starting position",
     "right": "Peak contraction position",
     "alt": "Paired black-and-white instructional line drawings of Face Pulls with Wrist Cuffs.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-19",
+      "createdDate": "2026-10-20",
       "promptId": "face-pull-wrist-cuffs",
       "model": null
     }

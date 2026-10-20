@@ -79,14 +79,14 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "617865107f0aacb3c63cb2639d6de4ecda2f8fb70e9580fc5f8d744576e1c018",
-    "url": "/media/617865107f0aacb3c63cb2639d6de4ecda2f8fb70e9580fc5f8d744576e1c018.png",
+    "mediaId": "460767265efc468dedf776a53fc3a088a492e73106d5e86bbb0b027e9534b12e",
+    "url": "/media/460767265efc468dedf776a53fc3a088a492e73106d5e86bbb0b027e9534b12e.png",
     "left": "Starting position",
     "right": "Peak contraction position",
     "alt": "Paired black-and-white instructional line drawings of Seated Hip Abduction Machine.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-19",
+      "createdDate": "2026-10-20",
       "promptId": "seated-hip-abduction-machine",
       "model": null
     }
