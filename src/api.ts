@@ -1,6 +1,9 @@
 import { createServer, type IncomingMessage, type ServerResponse } from 'node:http';
+import { readFile } from 'node:fs/promises';
 import { sha256, taxonomy, type Catalog } from './catalog.ts';
 import { exerciseJsonSchema } from './schema.ts';
+
+const viewerBuffer = await readFile(new URL('./viewer.html', import.meta.url));
 
 class BadQuery extends Error {}
 const normalize = (value: string) => value.normalize('NFKC').toLocaleLowerCase('en').trim();
@@ -12,6 +15,15 @@ function integer(value: string | null, fallback: number, maximum: number): numbe
   const parsed = Number(value);
   if (!Number.isSafeInteger(parsed) || parsed > maximum) throw new BadQuery('Pagination value is out of range');
   return parsed;
+}
+
+function replyHtml(req: IncomingMessage, res: ServerResponse, status: number, body: Buffer) {
+  res.setHeader('Content-Type', 'text/html; charset=utf-8');
+  res.setHeader('X-Content-Type-Options', 'nosniff');
+  res.setHeader('Cache-Control', 'no-cache');
+  res.setHeader('Content-Length', body.length);
+  res.writeHead(status);
+  res.end(req.method === 'HEAD' ? undefined : body);
 }
 
 function reply(req: IncomingMessage, res: ServerResponse, status: number, payload: unknown, png = false) {
@@ -43,9 +55,11 @@ export function createApi(catalog: Catalog) {
       // A fixed base prevents the Host header from influencing generated links.
       const url = new URL(req.url ?? '/', 'http://localhost');
       const path = url.pathname;
-      if (path === '/') {
+      if (path === '/ui' || path === '/viewer' || (path === '/' && req.headers.accept?.includes('text/html'))) {
+        replyHtml(req, res, 200, viewerBuffer);
+      } else if (path === '/') {
         reply(req, res, 200, { name: 'Exercise Atlas', version: catalog.manifest.catalogVersion,
-          links: { catalog: '/v1/catalog', exercises: '/v1/exercises', taxonomy: '/v1/taxonomy', schema: '/v1/schema', health: '/health' } });
+          links: { catalog: '/v1/catalog', exercises: '/v1/exercises', taxonomy: '/v1/taxonomy', schema: '/v1/schema', health: '/health', ui: '/ui' } });
       } else if (path === '/health') {
         reply(req, res, 200, { status: 'ok', catalogVersion: catalog.manifest.catalogVersion, exerciseCount: catalog.exercises.length });
       } else if (path === '/v1/catalog') {

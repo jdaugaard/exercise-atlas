@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercise Atlas — Visual Catalog</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220%22%22><text y=%2226%22 font-size=%2228%22>🏋️</text></svg>">
+  <style>
+    :root {
+      --bg: #090a0f;
+      --surface: #13151f;
+      --surface-hover: #1a1e2d;
+      --surface-border: #24293d;
+      --text: #f0f3fa;
+      --text-muted: #8c96ab;
+      --accent: #3b82f6;
+      --accent-hover: #2563eb;
+      --badge-bg: #1e2438;
+      --badge-text: #93c5fd;
+      --primary-tag-bg: #1e3a5f;
+      --primary-tag-text: #60a5fa;
+      --sec-tag-bg: #222938;
+      --sec-tag-text: #94a3b8;
+      --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      padding: 0 0 60px 0;
+      min-height: 100vh;
+    }
+
+    header {
+      background: rgba(19, 21, 31, 0.85);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--surface-border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 16px 24px;
+    }
+
+    .header-inner {
+      max-width: 1440px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .logo-group {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .logo-icon {
+      font-size: 26px;
+      background: #1e293b;
+      width: 44px;
+      height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 10px;
+      border: 1px solid #334155;
+    }
+
+    .title-area h1 {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .title-area .subtitle {
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .header-links {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .header-links a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 13px;
+      padding: 6px 12px;
+      border-radius: 6px;
+      background: var(--surface);
+      border: 1px solid var(--surface-border);
+      transition: all 0.15s;
+    }
+
+    .header-links a:hover {
+      color: var(--text);
+      border-color: var(--accent);
+    }
+
+    .container {
+      max-width: 1440px;
+      margin: 24px auto 0;
+      padding: 0 24px;
+    }
+
+    .filter-bar {
+      background: var(--surface);
+      border: 1px solid var(--surface-border);
+      border-radius: 14px;
+      padding: 18px 20px;
+      margin-bottom: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .search-row {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .search-input-wrap {
+      flex: 1;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      background: #0d0f17;
+      border: 1px solid var(--surface-border);
+      color: var(--text);
+      font-size: 15px;
+      padding: 12px 16px 12px 42px;
+      border-radius: 10px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 16px;
+      pointer-events: none;
+    }
+
+    .clear-btn {
+      position: absolute;
+      right: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 14px;
+      display: none;
+    }
+
+    .filter-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .filter-label {
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      margin-right: 4px;
+    }
+
+    .pill {
+      background: #0d0f17;
+      border: 1px solid var(--surface-border);
+      color: var(--text-muted);
+      padding: 5px 12px;
+      border-radius: 9999px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.15s;
+      user-select: none;
+    }
+
+    .pill:hover {
+      color: var(--text);
+      border-color: #3b4261;
+    }
+
+    .pill.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+      font-weight: 500;
+    }
+
+    .stats-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: var(--text-muted);
+      font-size: 14px;
+      margin-bottom: 20px;
+      padding: 0 4px;
+    }
+
+    .exercise-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+      gap: 22px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--surface-border);
+      border-radius: 14px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      border-color: #3b4261;
+      box-shadow: 0 12px 28px rgba(0,0,0,0.4);
+    }
+
+    .card-img-wrap {
+      background: #ffffff;
+      padding: 8px;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      aspect-ratio: 3 / 2;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .card-img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      transition: transform 0.25s ease;
+    }
+
+    .card:hover .card-img {
+      transform: scale(1.02);
+    }
+
+    .img-zoom-hint {
+      position: absolute;
+      right: 12px;
+      bottom: 12px;
+      background: rgba(0,0,0,0.65);
+      color: #fff;
+      font-size: 11px;
+      padding: 4px 8px;
+      border-radius: 6px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .card-img-wrap:hover .img-zoom-hint {
+      opacity: 1;
+    }
+
+    .card-body {
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      gap: 12px;
+    }
+
+    .card-header-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+    }
+
+    .card-title {
+      font-size: 17px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.3;
+    }
+
+    .card-danish {
+      font-size: 13px;
+      color: var(--text-muted);
+      font-style: italic;
+      margin-top: 2px;
+    }
+
+    .badge-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .badge {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 8px;
+      border-radius: 6px;
+      background: var(--badge-bg);
+      color: var(--badge-text);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .badge.category { background: #272042; color: #c084fc; }
+    .badge.difficulty { background: #1a2e35; color: #5eead4; }
+    .badge.pattern { background: #2f251e; color: #fdba74; }
+
+    .tag-section {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .tag-title {
+      font-size: 11px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      min-width: 65px;
+    }
+
+    .tag {
+      font-size: 12px;
+      padding: 2px 8px;
+      border-radius: 4px;
+    }
+
+    .tag.primary { background: var(--primary-tag-bg); color: var(--primary-tag-text); font-weight: 500; }
+    .tag.secondary { background: var(--sec-tag-bg); color: var(--sec-tag-text); }
+    .tag.equip { background: #1c2433; color: #94a3b8; border: 1px solid #283347; }
+
+    .card-desc {
+      font-size: 13.5px;
+      color: #cbd5e1;
+      line-height: 1.45;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-footer {
+      margin-top: auto;
+      padding-top: 12px;
+      border-top: 1px solid var(--surface-border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .details-btn {
+      background: none;
+      border: 1px solid var(--surface-border);
+      color: var(--accent);
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .details-btn:hover {
+      background: var(--surface-hover);
+      border-color: var(--accent);
+    }
+
+    .exercise-id {
+      font-size: 11px;
+      color: #64748b;
+      font-family: monospace;
+    }
+
+    /* Modal */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.85);
+      backdrop-filter: blur(8px);
+      z-index: 1000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .modal-backdrop.open { display: flex; }
+
+    .modal-content {
+      background: var(--surface);
+      border: 1px solid var(--surface-border);
+      border-radius: 16px;
+      width: 100%;
+      max-width: 960px;
+      max-height: 90vh;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 24px 60px rgba(0,0,0,0.7);
+    }
+
+    .modal-header {
+      padding: 18px 24px;
+      border-bottom: 1px solid var(--surface-border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      background: var(--surface);
+      z-index: 10;
+    }
+
+    .modal-header h2 {
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    .modal-close {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 24px;
+      cursor: pointer;
+      line-height: 1;
+      padding: 4px;
+    }
+
+    .modal-close:hover { color: var(--text); }
+
+    .modal-body {
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .modal-img-container {
+      background: #ffffff;
+      border-radius: 10px;
+      padding: 12px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .modal-img {
+      width: 100%;
+      max-height: 500px;
+      object-fit: contain;
+    }
+
+    .modal-section {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .modal-section-title {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    .instruction-list {
+      padding-left: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      color: #cbd5e1;
+      font-size: 14.5px;
+    }
+
+    .cue-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .cue-chip {
+      background: #1e293b;
+      border: 1px solid #334155;
+      color: #94a3b8;
+      font-size: 13px;
+      padding: 6px 12px;
+      border-radius: 8px;
+    }
+
+    .cue-chip strong { color: #f8fafc; }
+
+    .empty-state {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-muted);
+      grid-column: 1 / -1;
+    }
+
+    .empty-icon { font-size: 40px; margin-bottom: 12px; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div class="logo-group">
+        <div class="logo-icon">🏋️</div>
+        <div class="title-area">
+          <h1>Exercise Atlas</h1>
+          <div class="subtitle" id="catalog-subtitle">Loading catalog...</div>
+        </div>
+      </div>
+      <div class="header-links">
+        <a href="/v1/catalog" target="_blank">Catalog JSON</a>
+        <a href="/v1/exercises" target="_blank">API Data</a>
+        <a href="/health" target="_blank">Health</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="filter-bar">
+      <div class="search-row">
+        <div class="search-input-wrap">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="search-input" class="search-input" placeholder="Search 79 exercises by name, muscles, Danish, equipment, cues... (e.g., 'cuff', 'biceps', 'press', 'hack squat')">
+          <button id="clear-btn" class="clear-btn">✕</button>
+        </div>
+      </div>
+
+      <div class="filter-pills" id="category-pills">
+        <span class="filter-label">Body Region:</span>
+        <span class="pill active" data-cat="all">All</span>
+        <span class="pill" data-cat="Chest">Chest</span>
+        <span class="pill" data-cat="Back">Back</span>
+        <span class="pill" data-cat="Legs">Legs</span>
+        <span class="pill" data-cat="Shoulders">Shoulders</span>
+        <span class="pill" data-cat="Arms">Arms</span>
+        <span class="pill" data-cat="Calves">Calves</span>
+        <span class="pill" data-cat="Core">Core</span>
+      </div>
+
+      <div class="filter-pills" id="equipment-pills">
+        <span class="filter-label">Equipment:</span>
+        <span class="pill active" data-equip="all">All</span>
+        <span class="pill" data-equip="Barbell">Barbell</span>
+        <span class="pill" data-equip="Dumbbell">Dumbbell</span>
+        <span class="pill" data-equip="Cable">Cable</span>
+        <span class="pill" data-equip="Machine">Machine</span>
+        <span class="pill" data-equip="Bodyweight">Bodyweight / Pull-Up</span>
+      </div>
+    </div>
+
+    <div class="stats-bar">
+      <div id="result-count">Showing all exercises</div>
+      <div id="active-filters"></div>
+    </div>
+
+    <div class="exercise-grid" id="exercise-grid"></div>
+  </div>
+
+  <!-- Detail Modal -->
+  <div class="modal-backdrop" id="modal">
+    <div class="modal-content" id="modal-content">
+      <div class="modal-header">
+        <div>
+          <h2 id="m-title"></h2>
+          <div id="m-subtitle" class="card-danish"></div>
+        </div>
+        <button class="modal-close" id="modal-close-btn">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="modal-img-container">
+          <img id="m-img" class="modal-img" src="" alt="">
+        </div>
+        <div class="modal-section">
+          <div class="modal-section-title">Overview</div>
+          <p id="m-desc" style="color: #cbd5e1; line-height: 1.6;"></p>
+        </div>
+        <div class="modal-section" id="m-setup-sec">
+          <div class="modal-section-title">Setup</div>
+          <ul class="instruction-list" id="m-setup"></ul>
+        </div>
+        <div class="modal-section" id="m-inst-sec">
+          <div class="modal-section-title">Instructions</div>
+          <ol class="instruction-list" id="m-instructions"></ol>
+        </div>
+        <div class="modal-section" id="m-cues-sec">
+          <div class="modal-section-title">Execution Cues</div>
+          <div class="cue-list" id="m-cues"></div>
+        </div>
+        <div class="modal-section" id="m-mistakes-sec">
+          <div class="modal-section-title">Common Mistakes</div>
+          <ul class="instruction-list" id="m-mistakes" style="color: #f87171;"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let allExercises = [];
+    let currentCategory = 'all';
+    let currentEquip = 'all';
+
+    async function init() {
+      try {
+        const res = await fetch('/v1/exercises?limit=100');
+        const data = await res.json();
+        allExercises = data.data || [];
+        
+        document.getElementById('catalog-subtitle').textContent = 
+          `${allExercises.length} Exercises • 100% FitTrack Coverage • Line-Art v1 Illustrated`;
+
+        renderCards();
+      } catch (err) {
+        console.error('Failed to load catalog:', err);
+        document.getElementById('exercise-grid').innerHTML = 
+          `<div class="empty-state"><div class="empty-icon">⚠️</div>Failed to load exercises: ${err.message}</div>`;
+      }
+    }
+
+    function renderCards() {
+      const q = document.getElementById('search-input').value.toLowerCase().trim();
+      const grid = document.getElementById('exercise-grid');
+
+      const filtered = allExercises.filter(ex => {
+        // Category filter
+        if (currentCategory !== 'all') {
+          const bodyPartsStr = (ex.bodyParts || []).join(' ').toLowerCase();
+          const cat = currentCategory.toLowerCase();
+          if (cat === 'arms') {
+            if (!bodyPartsStr.includes('arm') && !bodyPartsStr.includes('bicep') && !bodyPartsStr.includes('tricep') && !bodyPartsStr.includes('forearm')) return false;
+          } else if (cat === 'core') {
+            if (!bodyPartsStr.includes('core') && !bodyPartsStr.includes('ab') && !bodyPartsStr.includes('waist')) return false;
+          } else if (cat === 'legs') {
+            if (!bodyPartsStr.includes('thigh') && !bodyPartsStr.includes('leg') && !bodyPartsStr.includes('quad') && !bodyPartsStr.includes('hamstring') && !bodyPartsStr.includes('glute')) return false;
+          } else {
+            if (!bodyPartsStr.includes(cat) && !ex.category.toLowerCase().includes(cat)) return false;
+          }
+        }
+
+        // Equipment filter
+        if (currentEquip !== 'all') {
+          const equipStr = (ex.equipmentItems || []).join(' ').toLowerCase();
+          const filter = currentEquip.toLowerCase();
+          if (filter.includes('bodyweight')) {
+            if (!equipStr.includes('bar') && !equipStr.includes('bodyweight') && !equipStr.includes('pull-up') && !equipStr.includes('strap') && !equipStr.includes('chair')) return false;
+          } else {
+            if (!equipStr.includes(filter)) return false;
+          }
+        }
+
+        // Query filter
+        if (q) {
+          const hay = [
+            ex.name,
+            ex.nameDa,
+            ...(ex.aliases || []),
+            ex.description,
+            ...(ex.primaryMuscles || []),
+            ...(ex.secondaryMuscles || []),
+            ...(ex.equipmentItems || []),
+            ...(ex.cues || []),
+            ex.movementPattern
+          ].filter(Boolean).join(' ').toLowerCase();
+          if (!hay.includes(q)) return false;
+        }
+
+        return true;
+      });
+
+      document.getElementById('result-count').textContent = 
+        `Showing ${filtered.length} of ${allExercises.length} exercises`;
+
+      if (filtered.length === 0) {
+        grid.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">🔍</div>
+            <h3>No exercises match your search</h3>
+            <p>Try clearing your search terms or filters.</p>
+          </div>
+        `;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(ex => `
+        <div class="card" data-id="${ex.id}">
+          <div class="card-img-wrap" onclick="openModal('${ex.id}')">
+            <img class="card-img" src="${ex.illustration?.url}" alt="${ex.illustration?.alt || ex.name}" loading="lazy">
+            <span class="img-zoom-hint">Click to enlarge</span>
+          </div>
+          <div class="card-body">
+            <div class="card-header-row">
+              <div>
+                <h3 class="card-title">${escapeHtml(ex.name)}</h3>
+                ${ex.nameDa ? `<div class="card-danish">${escapeHtml(ex.nameDa)}</div>` : ''}
+              </div>
+            </div>
+
+            <div class="badge-group">
+              <span class="badge category">${escapeHtml(ex.category)}</span>
+              <span class="badge difficulty">${escapeHtml(ex.difficulty)}</span>
+              ${ex.movementPattern ? `<span class="badge pattern">${escapeHtml(ex.movementPattern)}</span>` : ''}
+            </div>
+
+            <div class="tag-section">
+              <div class="tag-row">
+                <span class="tag-title">Primary:</span>
+                ${(ex.primaryMuscles || []).map(m => `<span class="tag primary">${escapeHtml(m)}</span>`).join('')}
+              </div>
+              ${ex.secondaryMuscles && ex.secondaryMuscles.length ? `
+                <div class="tag-row">
+                  <span class="tag-title">Secondary:</span>
+                  ${ex.secondaryMuscles.slice(0, 3).map(m => `<span class="tag secondary">${escapeHtml(m)}</span>`).join('')}
+                  ${ex.secondaryMuscles.length > 3 ? `<span class="tag secondary">+${ex.secondaryMuscles.length - 3}</span>` : ''}
+                </div>
+              ` : ''}
+              <div class="tag-row">
+                <span class="tag-title">Equip:</span>
+                ${(ex.equipmentItems || []).map(e => `<span class="tag equip">${escapeHtml(e)}</span>`).join('')}
+              </div>
+            </div>
+
+            <p class="card-desc">${escapeHtml(ex.description || '')}</p>
+
+            <div class="card-footer">
+              <span class="exercise-id">id: ${escapeHtml(ex.id)}</span>
+              <button class="details-btn" onclick="openModal('${ex.id}')">View Details &rarr;</button>
+            </div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function openModal(id) {
+      const ex = allExercises.find(e => e.id === id);
+      if (!ex) return;
+
+      document.getElementById('m-title').textContent = ex.name;
+      document.getElementById('m-subtitle').textContent = ex.nameDa ? `${ex.nameDa} • ${ex.movementPattern || ''}` : (ex.movementPattern || '');
+      
+      const img = document.getElementById('m-img');
+      img.src = ex.illustration?.url || '';
+      img.alt = ex.name;
+
+      document.getElementById('m-desc').textContent = ex.description || 'No description available.';
+
+      const setupSec = document.getElementById('m-setup-sec');
+      const setupList = document.getElementById('m-setup');
+      if (ex.setup && ex.setup.length) {
+        setupSec.style.display = 'block';
+        setupList.innerHTML = ex.setup.map(s => `<li>${escapeHtml(s)}</li>`).join('');
+      } else {
+        setupSec.style.display = 'none';
+      }
+
+      const instSec = document.getElementById('m-inst-sec');
+      const instList = document.getElementById('m-instructions');
+      if (ex.instructions && ex.instructions.length) {
+        instSec.style.display = 'block';
+        instList.innerHTML = ex.instructions.map(i => `<li>${escapeHtml(i)}</li>`).join('');
+      } else {
+        instSec.style.display = 'none';
+      }
+
+      const cuesSec = document.getElementById('m-cues-sec');
+      const cuesList = document.getElementById('m-cues');
+      if (ex.cues && ex.cues.length) {
+        cuesSec.style.display = 'block';
+        cuesList.innerHTML = ex.cues.map(c => `<div class="cue-chip">💡 ${escapeHtml(c)}</div>`).join('');
+      } else {
+        cuesSec.style.display = 'none';
+      }
+
+      const mistakesSec = document.getElementById('m-mistakes-sec');
+      const mistakesList = document.getElementById('m-mistakes');
+      if (ex.commonMistakes && ex.commonMistakes.length) {
+        mistakesSec.style.display = 'block';
+        mistakesList.innerHTML = ex.commonMistakes.map(m => `<li>${escapeHtml(m)}</li>`).join('');
+      } else {
+        mistakesSec.style.display = 'none';
+      }
+
+      document.getElementById('modal').classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeModal() {
+      document.getElementById('modal').classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    document.getElementById('modal-close-btn').addEventListener('click', closeModal);
+    document.getElementById('modal').addEventListener('click', (e) => {
+      if (e.target.id === 'modal') closeModal();
+    });
+
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeModal();
+    });
+
+    // Search events
+    const searchInput = document.getElementById('search-input');
+    const clearBtn = document.getElementById('clear-btn');
+    searchInput.addEventListener('input', () => {
+      clearBtn.style.display = searchInput.value ? 'block' : 'none';
+      renderCards();
+    });
+    clearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      clearBtn.style.display = 'none';
+      renderCards();
+      searchInput.focus();
+    });
+
+    // Pill events
+    document.getElementById('category-pills').addEventListener('click', (e) => {
+      if (!e.target.classList.contains('pill')) return;
+      document.querySelectorAll('#category-pills .pill').forEach(p => p.classList.remove('active'));
+      e.target.classList.add('active');
+      currentCategory = e.target.dataset.cat;
+      renderCards();
+    });
+
+    document.getElementById('equipment-pills').addEventListener('click', (e) => {
+      if (!e.target.classList.contains('pill')) return;
+      document.querySelectorAll('#equipment-pills .pill').forEach(p => p.classList.remove('active'));
+      e.target.classList.add('active');
+      currentEquip = e.target.dataset.equip;
+      renderCards();
+    });
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
+    init();
+  </script>
+</body>
+</html>

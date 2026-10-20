@@ -1,0 +1,10 @@
+services:
+  exercise-atlas:
+    build: .
+    container_name: exercise-atlas
+    ports:
+      - "4317:4317"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=4317
+    restart: unless-stopped

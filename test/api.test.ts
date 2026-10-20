@@ -136,3 +136,19 @@ test('the served JSON Schema documents review and content-addressed media', asyn
   assert(schema.required.includes('reviewStatus'));
   assert(schema.properties.illustration.properties.url.pattern.includes('/media'));
 });
+
+test('the web viewer UI is served at /ui and negotiated on /', async () => {
+  const uiResponse = await get('/ui');
+  assert.equal(uiResponse.status, 200);
+  assert.match(uiResponse.headers.get('content-type') ?? '', /text\/html/);
+  const uiHtml = await uiResponse.text();
+  assert.match(uiHtml, /Exercise Atlas/);
+
+  const negotiated = await get('/', { headers: { Accept: 'text/html,application/xhtml+xml' } });
+  assert.equal(negotiated.status, 200);
+  assert.match(negotiated.headers.get('content-type') ?? '', /text\/html/);
+
+  const jsonRoot = await get('/', { headers: { Accept: 'application/json' } });
+  assert.equal(jsonRoot.status, 200);
+  assert.match(jsonRoot.headers.get('content-type') ?? '', /application\/json/);
+});
