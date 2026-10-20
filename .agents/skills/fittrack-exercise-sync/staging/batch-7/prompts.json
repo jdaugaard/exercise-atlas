@@ -1,0 +1,87 @@
+[
+  {
+    "id": "reverse-pec-deck",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\machine-hip-thrust.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Reverse Pec Deck (machine rear delt fly)\ncamera: Side three-quarter view facing right, showing athlete seated facing the machine chest pad with vertical arms\nequipment: Pec deck machine with chest support pad, seat, and dual pivoting rear-delt lever arms with vertical handles\npositionA: Left panel: Athlete sits facing the machine with chest pressed against the support pad, feet flat on the floor, arms reaching forward in front of chest holding vertical handles with elbows softly unlocked (start position).\npositionB: Right panel: EXACT SAME machine frame, seat, and posture. Athlete pulls handles outward and backward in a wide horizontal arc until arms align with the coronal plane of the shoulders, squeezing rear deltoids; fixed soft elbow bend maintained; chest remains firmly against pad.\nmechanics: Shoulder horizontal abduction isolating posterior deltoids. Torso and chest pad remain completely stationary.\navoid: Do not show chest press/chest fly, do not arch spine away from pad, no rowing with bent elbows, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "incline-smith-machine-press",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\decline-dumbbell-bench-press.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Incline Smith Machine Press (guided incline chest press)\ncamera: Side three-quarter view facing right, showing athlete on an incline bench inside a vertical Smith machine frame\nequipment: Smith machine frame with vertical guide rods, barbell carriage with weight plates, and 30-45 degree incline bench\npositionA: Left panel: Athlete lies on 30-45 degree incline bench with feet flat on floor, holding Smith machine barbell touching or just above upper chest (clavicular area), elbows bent ~90 degrees tucked at 45 degrees to torso (bottom stretch).\npositionB: Right panel: EXACT SAME incline bench and Smith frame. Athlete presses barbell straight up along the vertical guide rods until arms are extended with elbows softly unlocked (top lockout); back and glutes remain flat against bench.\nmechanics: Guided linear incline press isolating upper clavicular pectoralis and triceps along fixed vertical rails.\navoid: Do not show free barbell without Smith guide rods, no lifting hips off bench, no bouncing off chest, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "cable-low-fly",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\dumbbell-lateral-raise.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Cable Low Fly (standing low-to-high cable chest fly)\ncamera: Side three-quarter view facing right, showing athlete standing between dual floor-level cable pulleys\nequipment: Dual low cable pulley stations with single D-handles\npositionA: Left panel: Athlete stands in athletic staggered stance with chest lifted, arms extended down and slightly back at sides holding D-handles with palms facing forward/upward, elbows softly unlocked (start stretch at bottom).\npositionB: Right panel: EXACT SAME staggered stance and cable towers. Athlete sweeps both arms upward and inward in a scooping diagonal arc until hands meet at upper-chest/chin height in front of body, squeezing upper clavicular pectorals; fixed soft elbow bend maintained.\nmechanics: Shoulder flexion and horizontal adduction in a low-to-high diagonal arc. Torso stays tall and stationary throughout.\navoid: Do not show high-to-low fly, do not bend elbows into a biceps curl, no leaning backward, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "machine-inner-chest-press",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\machine-hip-thrust.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Machine Inner Chest Press (converging seated chest press)\ncamera: Side three-quarter view facing right, showing athlete seated in converging chest press machine\nequipment: Seated chest press machine with backrest pad, weight stack, and converging lever press arms with close/inner handles\npositionA: Left panel: Athlete sits upright with back against backrest, feet flat on floor, holding inner close handles with elbows bent ~90 degrees beside chest (start stretch).\npositionB: Right panel: EXACT SAME machine seat and posture. Athlete presses handles forward along converging arcs until arms are fully extended in front of mid-chest, hands brought close together in center; peak contraction of inner pectorals; back stays flat against pad.\nmechanics: Guided converging horizontal chest press emphasizing horizontal adduction at lockout.\navoid: Do not arch back off pad, no flaring elbows high, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  },
+  {
+    "id": "barbell-incline-bench-press",
+    "styleId": "line-art-v1",
+    "referenceImages": [
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\seated-cable-row-wrist-cuffs.png",
+      "C:\\code\\exercise-atlas\\.agents\\skills\\exercise-atlas-authoring\\assets\\references\\decline-dumbbell-bench-press.png"
+    ],
+    "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nInput images are STYLE REFERENCES ONLY; create new original artwork for the requested movement.\nname: Barbell Incline Bench Press (incline barbell chest press)\ncamera: Side three-quarter view facing right, showing athlete on a 30-45 degree incline bench with barbell and rack uprights\nequipment: 30-45 degree incline bench, barbell with weight plates, and sturdy rack uprights\npositionA: Left panel: Athlete lies on incline bench with feet flat on floor, holding barbell lowered to touch upper chest/clavicular area, elbows bent ~90 degrees tucked at 45 degrees to torso (bottom stretch).\npositionB: Right panel: EXACT SAME incline bench and rack. Athlete presses barbell straight upward along a natural pressing path until arms are fully extended directly over shoulders with elbows softly unlocked (top lockout); glutes and upper back remain planted on bench.\nmechanics: Compound free-weight incline press developing clavicular pectoral thickness and anterior deltoid strength.\navoid: Do not show flat or decline bench, no lifting glutes off seat, no bouncing bar off chest, no extra limbs, no text/labels/arrows.",
+    "checks": [
+      "Identity and proportions match the original style references",
+      "Both poses show the same equipment and geometry",
+      "Cuffs and other attachments are visibly connected as specified",
+      "Movement, limb count and support positions are plausible",
+      "No cropped equipment, logos, text, gradients or muscle activation percentages",
+      "Entry remains draft until technique and equipment details are reviewed"
+    ]
+  }
+]

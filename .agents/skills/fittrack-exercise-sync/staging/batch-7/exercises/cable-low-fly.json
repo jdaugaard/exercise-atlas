@@ -1,0 +1,85 @@
+{
+  "id": "cable-low-fly",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Cable Low Fly",
+  "nameDa": "Kabel-flyes fra lav talje",
+  "aliases": [
+    "Cable Low Fly",
+    "Low-to-high cable fly",
+    "Standing low cable fly",
+    "Low cable chest fly",
+    "Incline cable fly"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Chest",
+    "Shoulders"
+  ],
+  "movementPattern": "Shoulder flexion and horizontal adduction - low-to-high arc",
+  "laterality": "Bilateral, dual cables",
+  "equipmentItems": [
+    "Two low cable pulleys",
+    "Two single D-handles"
+  ],
+  "grip": "Supinated or semi-supinated grip holding single D-handles, palms facing forward and upward.",
+  "primaryMuscles": [
+    "Pectoralis major (clavicular head)"
+  ],
+  "secondaryMuscles": [
+    "Anterior deltoid",
+    "Biceps brachii (short head)",
+    "Pectoralis major (sternal head)"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff",
+    "Quadriceps"
+  ],
+  "description": "Sweep dual low-cable handles upward and inward along a diagonal lifting arc toward upper-chest or chin height in a standing staggered stance, emphasizing the clavicular fibers of the pectoralis major.",
+  "setup": [
+    "Set two cable pulleys to their lowest positions and attach a single D-handle to each.",
+    "Grasp a handle in each hand with palms facing forward/upward and step forward into an athletic staggered stance.",
+    "Stand tall with chest lifted, slight forward torso angle, and arms down and slightly back at your sides with elbows softly bent."
+  ],
+  "instructions": [
+    "Sweep both handles upward and inward in an arc toward the center line until your hands meet in front of your upper chest or chin level.",
+    "Maintain a fixed, soft bend in your elbows throughout the movement (do not curl or press).",
+    "Squeeze your upper pectorals firmly for a moment at peak contraction.",
+    "Lower your arms slowly under control along the same diagonal path back to the starting stretch."
+  ],
+  "cues": [
+    "Scoop upward and inward with elbows soft.",
+    "Squeeze upper chest at chin level.",
+    "Keep torso tall and motionless."
+  ],
+  "commonMistakes": [
+    "Bending elbows into a biceps curl instead of maintaining a wide fly arc.",
+    "Leaning the torso backward to swing the cables upward.",
+    "Using excessive shoulder shrugging at the top."
+  ],
+  "logging": {
+    "basis": "selected_stack_load",
+    "example": "Weight pins set to 10 kg on each low pulley: record 10 kg per cable stack.",
+    "note": "Dual cable stations use independent weight stacks; record selected stack pin load per side."
+  },
+  "alternatives": [
+    "Cable High Fly",
+    "Flat Dumbbell Fly",
+    "Incline Chest Press Machine"
+  ],
+  "variantNote": "Low-to-high standing cable chest fly originating from floor-level pulleys, aligning the diagonal resistance line with the clavicular pectoral fiber orientation.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 52 (Cable Low Fly).",
+    "Direct counterpart to Cable High Fly; accurately pairs low-to-high line of action with clavicular chest recruitment."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Cable Standing Incline Fly",
+      "url": "https://exrx.net/WeightExercises/PectoralClavicular/CBStandingInclineFly",
+      "scope": "Standing low-to-high cable fly mechanics, clavicular pectoralis major recruitment, and glenohumeral kinematics."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "reverse-pec-deck",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Reverse Pec Deck",
+  "nameDa": "Omvendt pec deck",
+  "aliases": [
+    "Reverse Pec Deck",
+    "Rear delt pec deck",
+    "Machine rear delt fly",
+    "Reverse fly machine",
+    "Pec deck rear delt"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Shoulders",
+    "Back"
+  ],
+  "movementPattern": "Shoulder horizontal abduction - seated machine",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Pec deck machine"
+  ],
+  "grip": "Neutral or pronated grip holding the horizontal or vertical machine handles at shoulder height.",
+  "primaryMuscles": [
+    "Posterior deltoid"
+  ],
+  "secondaryMuscles": [
+    "Infraspinatus",
+    "Teres minor",
+    "Middle trapezius",
+    "Rhomboids"
+  ],
+  "stabilizers": [
+    "Rotator cuff",
+    "Abdominal wall"
+  ],
+  "description": "Sit facing the chest support pad of a dual-function pec deck machine and horizontally abduct both arms outward and backward, isolating the posterior deltoids and external rotators.",
+  "setup": [
+    "Adjust the seat height so the handles align directly with shoulder height when seated.",
+    "Set the machine arm stops to the rear-most position so handles meet directly in front of the chest.",
+    "Sit facing inward with chest pressed firmly against the vertical support pad and feet flat on the floor.",
+    "Grasp the handles with straight wrists and a slight, fixed bend in both elbows."
+  ],
+  "instructions": [
+    "Pull the handles outward and backward in a wide horizontal arc by contracting your rear deltoids.",
+    "Maintain the fixed, subtle elbow bend throughout the entire motion.",
+    "Continue until your arms are in line with your shoulders or slightly past, squeezing the back of your shoulders.",
+    "Slowly reverse the movement under control, resisting the weight stack until hands return to the front starting position."
+  ],
+  "cues": [
+    "Lead with the elbows wide.",
+    "Keep chest pressed against the pad.",
+    "Do not shrug shoulders upward."
+  ],
+  "commonMistakes": [
+    "Bending and straightening the elbows into a row instead of a fly.",
+    "Arching the spine and lifting the chest off the support pad to swing the load.",
+    "Shrugging the upper traps and pulling handles toward the neck."
+  ],
+  "logging": {
+    "basis": "selected_machine_load",
+    "example": "Stack pin set to 30 kg: record 30 kg selected machine load.",
+    "note": "Pec deck lever geometry and cam ratios vary between manufacturers; record selected stack pin load."
+  },
+  "alternatives": [
+    "Single-Arm Rear-Delt Cable Fly",
+    "Face Pulls with Wrist Cuffs",
+    "Seated Machine Lateral Raise"
+  ],
+  "variantNote": "Chest-supported reverse machine fly on a dual-function pec deck / rear delt machine, isolating posterior deltoids through guided horizontal abduction.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 56 (Reverse Pec Deck).",
+    "Distinguished from anterior chest pec deck by inward-facing chest-supported orientation and horizontal abduction arc."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Lever Seated Rear Lateral Raise",
+      "url": "https://exrx.net/WeightExercises/DeltoidPosterior/LVSeatedRearLateralRaise",
+      "scope": "Seated machine rear lateral raise mechanics, posterior deltoid isolation, and pelvic/torso alignment."
+    }
+  ]
+}
