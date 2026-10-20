@@ -1,0 +1,89 @@
+{
+  "id": "negative-pull-up",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Negative Pull-Up",
+  "nameDa": "Negativ pull-up",
+  "aliases": [
+    "Negative Pull-Up",
+    "Eccentric pull-up",
+    "Pull-up negative",
+    "Slow eccentric pull-up"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Back",
+    "Upper Arms",
+    "Core"
+  ],
+  "movementPattern": "Eccentric vertical pull - controlled descent",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Pull-up bar",
+    "Stable bench or step for setup"
+  ],
+  "grip": "Overhand pronated grip slightly wider than shoulder-width.",
+  "primaryMuscles": [
+    "Latissimus dorsi",
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis",
+    "Lower trapezius",
+    "Rhomboids",
+    "Posterior deltoid"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff",
+    "Forearm flexors"
+  ],
+  "description": "Start at the top position with chin over the bar and lower your body in a slow, controlled eccentric descent to a full dead hang, overloading eccentric latissimus strength to build pull-up capacity.",
+  "setup": [
+    "Place a sturdy bench or box directly underneath a pull-up bar.",
+    "Step onto the box and grasp the bar with an overhand grip slightly wider than shoulder width.",
+    "Jump or step up to bring your chin cleared over the bar with chest lifted and shoulders depressed."
+  ],
+  "instructions": [
+    "Take your feet off the box, bracing your core and holding the top position momentarily.",
+    "Lower your body in a deliberate, uniform descent lasting 3 to 5 seconds.",
+    "Control the entire range of motion, actively resisting gravity with your lats and arm flexors.",
+    "Continue lowering until your arms are fully extended in a dead hang at the bottom.",
+    "Step back onto the box to reset for the next repetition."
+  ],
+  "cues": [
+    "Count 3 to 5 seconds on the way down.",
+    "Keep shoulders controlled, don't drop suddenly.",
+    "Lower all the way to straight arms."
+  ],
+  "commonMistakes": [
+    "Free-falling or letting go in the bottom third of the descent.",
+    "Kicking the legs or swinging violently during the descent.",
+    "Failing to reach full dead-hang extension before resetting."
+  ],
+  "logging": {
+    "basis": "bodyweight_eccentric_tempo",
+    "example": "5 repetitions with 5-second descent: record 5 reps (note 5s eccentric).",
+    "note": "Record repetitions and target eccentric duration per repetition (typically 3–5 seconds)."
+  },
+  "alternatives": [
+    "Pull-Up",
+    "Assisted Pull-Up",
+    "Isometric Hold (Pull-Up)"
+  ],
+  "variantNote": "Eccentric-only pull-up protocol utilizing supra-maximal eccentric loading to develop neuromuscular lat recruitment and concentric pull-up capability.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 43 (Negative Pull-Up).",
+    "Panel A shows top chin-over-bar position; panel B shows controlled lowering to full dead hang."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Pull-up",
+      "url": "https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup",
+      "scope": "Pull-up eccentric contraction mechanics, latissimus dorsi eccentric overload, and progression models."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "captains-chair-straight-leg-raise",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Captain's Chair Straight-Leg Raise",
+  "nameDa": "Lige benløft i kaptajnens stol",
+  "aliases": [
+    "Captain's Chair Straight-Leg Raise",
+    "Captain's chair leg raise",
+    "Straight leg raise on power tower",
+    "Vertical knee/leg raise station straight leg raise",
+    "Tower straight leg raise"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Core",
+    "Hips"
+  ],
+  "movementPattern": "Hip flexion and posterior pelvic tilt - suspended forearm support",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Captain's chair (vertical knee-raise tower)"
+  ],
+  "grip": "Forearms supported on padded horizontal rests with hands gripping vertical stabilization handles.",
+  "primaryMuscles": [
+    "Rectus abdominis",
+    "Iliopsoas"
+  ],
+  "secondaryMuscles": [
+    "Tensor fasciae latae",
+    "Rectus femoris",
+    "Obliques"
+  ],
+  "stabilizers": [
+    "Latissimus dorsi",
+    "Middle trapezius",
+    "Forearm flexors"
+  ],
+  "description": "Support bodyweight on forearms in a captain's chair tower and elevate straight legs forward and upward to horizontal or above, engaging the hip flexors and curling the pelvis into posterior tilt to recruit the rectus abdominis.",
+  "setup": [
+    "Step into the captain's chair tower and mount the padded forearm rests.",
+    "Grip the upright handles firmly and allow your legs to hang freely beneath you with back flat against the backrest pad.",
+    "Depress your shoulders away from your ears to maintain active upper-body stability."
+  ],
+  "instructions": [
+    "Inhale and brace your core.",
+    "Raise both legs straight out in front of you without swinging or bending knees.",
+    "Continue lifting until your thighs are at least parallel to the floor (90 degrees at hips), curling the pelvis upward slightly at the peak.",
+    "Hold for a brief pause at peak contraction.",
+    "Lower your legs slowly under control back to the hanging vertical position before initiating the next rep."
+  ],
+  "cues": [
+    "Keep legs straight and toes pointed.",
+    "Do not swing legs from the bottom.",
+    "Roll the pelvis upward at the top."
+  ],
+  "commonMistakes": [
+    "Using swinging momentum to kick the legs up.",
+    "Letting shoulders shrug upward into the neck.",
+    "Arching the lumbar spine away from the backrest at the bottom."
+  ],
+  "logging": {
+    "basis": "bodyweight_only",
+    "example": "Bodyweight: record repetitions performed (or note ankle weight load if added).",
+    "note": "Bodyweight movement; record clean repetitions to horizontal without knee flexion."
+  },
+  "alternatives": [
+    "Hanging Leg Raise",
+    "Hanging Knee Raise",
+    "Captain's Chair Knee Raise"
+  ],
+  "variantNote": "Straight-leg variant of the captain's chair raise. Longer lever arm significantly increases torque and abdominal recruitment compared to bent-knee variations.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 45 (Captain's Chair Straight-Leg Raise).",
+    "Illustration depicts forearms resting on tower pads, back against vertical support, legs straight in both hanging start and 90-degree horizontal raised position."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Vertical Leg-Hip Raise",
+      "url": "https://exrx.net/WeightExercises/RectusAbdominis/BWVerticalLegHipRaise",
+      "scope": "Captain's chair leg raise biomechanics, abdominal activation, and pelvic tilt."
+    }
+  ]
+}

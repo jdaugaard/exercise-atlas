@@ -1,0 +1,89 @@
+{
+  "id": "isometric-hold-pull-up",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Isometric Hold (Pull-Up)",
+  "nameDa": "Isometrisk pull-up hold",
+  "aliases": [
+    "Isometric Hold (Pull-Up)",
+    "Pull-up flexed-arm hang",
+    "Flexed-arm hang",
+    "Pull-up top hold",
+    "Isometric chin-up hold"
+  ],
+  "category": "Strength",
+  "difficulty": "Intermediate",
+  "bodyParts": [
+    "Back",
+    "Upper Arms",
+    "Core"
+  ],
+  "movementPattern": "Isometric vertical pull - top position hold",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Pull-up bar"
+  ],
+  "grip": "Overhand pronated or neutral grip slightly wider than shoulder width.",
+  "primaryMuscles": [
+    "Latissimus dorsi",
+    "Biceps brachii"
+  ],
+  "secondaryMuscles": [
+    "Brachialis",
+    "Brachioradialis",
+    "Rhomboids",
+    "Middle trapezius",
+    "Posterior deltoid"
+  ],
+  "stabilizers": [
+    "Abdominal wall",
+    "Rotator cuff",
+    "Forearm flexors"
+  ],
+  "description": "Hold the top flexed position of a pull-up with chin over the bar for time, building maximum isometric pulling strength and scapular depression endurance.",
+  "setup": [
+    "Step onto a bench or plyo box beneath a sturdy pull-up bar.",
+    "Grasp the bar with an overhand pronated grip slightly wider than shoulder-width.",
+    "Step off or jump to bring your chin comfortably cleared above the bar level, elbows driven down and back.",
+    "Brace your core, cross ankles, and depress scapulae down away from your ears."
+  ],
+  "instructions": [
+    "Hold the top flexed position statically, resisting gravity through intense muscular contraction of the lats and arm flexors.",
+    "Keep chest proud, chin above the bar, and shoulders actively packed down.",
+    "Breathe steadily in short, controlled breaths throughout the hold duration.",
+    "Lower yourself down under complete control when target hold duration is reached."
+  ],
+  "cues": [
+    "Keep chin above the bar.",
+    "Drive elbows down and back.",
+    "Pack shoulders tight away from ears."
+  ],
+  "commonMistakes": [
+    "Resting chin on the bar to cheat the hold.",
+    "Letting shoulders elevate into a passive neck crunch.",
+    "Dropping suddenly from the bar without controlling the descent."
+  ],
+  "logging": {
+    "basis": "bodyweight_timed_duration",
+    "example": "30 seconds held at top: record 30 s duration.",
+    "note": "Record duration held in seconds with chin cleared over bar. If performed with added weight belt, record external load and duration."
+  },
+  "alternatives": [
+    "Pull-Up",
+    "Negative Pull-Up",
+    "Assisted Pull-Up"
+  ],
+  "variantNote": "Static isometric contraction held at peak concentric range of a pull-up. Used to develop pull-up capacity, lock-off strength, and grip endurance.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 44 (Isometric Hold (Pull-Up)).",
+    "Illustration depicts hanging pull-up start in panel A and static chin-over-bar top flexed position in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Pull-up",
+      "url": "https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup",
+      "scope": "Pull-up kinematics, isometric top lock-off mechanics, and scapular stabilization."
+    }
+  ]
+}

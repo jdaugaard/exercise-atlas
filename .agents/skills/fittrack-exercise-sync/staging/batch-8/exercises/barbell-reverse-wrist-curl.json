@@ -1,0 +1,84 @@
+{
+  "id": "barbell-reverse-wrist-curl",
+  "revision": 1,
+  "reviewStatus": "draft",
+  "reviewedAt": null,
+  "name": "Barbell Reverse Wrist Curl",
+  "nameDa": "Omvendt håndledscurl med vægtstang",
+  "aliases": [
+    "Barbell Reverse Wrist Curl",
+    "Overhand barbell wrist curl",
+    "Barbell wrist extension",
+    "Reverse wrist curl",
+    "Seated barbell reverse wrist curl"
+  ],
+  "category": "Strength",
+  "difficulty": "Beginner",
+  "bodyParts": [
+    "Forearms"
+  ],
+  "movementPattern": "Wrist extension - forearm supported",
+  "laterality": "Bilateral",
+  "equipmentItems": [
+    "Barbell",
+    "Weight plates",
+    "Flat bench"
+  ],
+  "grip": "Overhand pronated grip with palms facing down and thumbs wrapped around the barbell, hands shoulder-width apart.",
+  "primaryMuscles": [
+    "Extensor carpi radialis longus",
+    "Extensor carpi radialis brevis",
+    "Extensor carpi ulnaris"
+  ],
+  "secondaryMuscles": [
+    "Extensor digitorum",
+    "Brachioradialis"
+  ],
+  "stabilizers": [
+    "Forearm flexors",
+    "Abdominal wall"
+  ],
+  "description": "Extend the wrists upward against a barbell while forearms rest flat along a bench or thighs, isolating the forearm extensor muscles on the top of the forearm.",
+  "setup": [
+    "Sit on the side of a flat bench or kneel beside it with a lightweight barbell.",
+    "Rest your forearms flat across the bench pad (or your thighs) with wrists hanging just over the edge.",
+    "Grasp the barbell with an overhand pronated grip (palms facing downward), hands shoulder-width apart."
+  ],
+  "instructions": [
+    "Lower the barbell by flexing your wrists downward until you feel a comfortable stretch in the forearm extensors.",
+    "Raise the barbell by extending your wrists upward as high as possible, contracting the extensor muscles on the top of your forearms.",
+    "Keep your forearms firmly glued to the bench pad throughout the entire motion (do not lift elbows).",
+    "Pause briefly at peak extension, then slowly lower the bar back to the starting stretch."
+  ],
+  "cues": [
+    "Move only at the wrists.",
+    "Keep forearms glued to the bench.",
+    "Extend knuckles upward toward the ceiling."
+  ],
+  "commonMistakes": [
+    "Lifting the elbows or forearms off the bench to assist the lift.",
+    "Using excessive weight that restricts wrist range of motion.",
+    "Bouncing or rolling the bar across the fingers."
+  ],
+  "logging": {
+    "basis": "total_barbell_mass",
+    "example": "Light barbell loaded to 15 kg: record 15 kg total barbell mass.",
+    "note": "Wrist extensors are small muscle groups requiring modest loads; record total loaded barbell mass."
+  },
+  "alternatives": [
+    "Barbell Wrist Curl",
+    "Dumbbell Hammer Curl"
+  ],
+  "variantNote": "Pronated forearm-supported wrist extension targeting the extensor carpi group. Direct counterpart to the supinated barbell wrist curl.",
+  "reviewNotes": [
+    "Drafted from FitTrack ID 42 (Barbell Reverse Wrist Curl).",
+    "Illustration depicts athlete seated with forearms on bench, wrists hanging off edge with pronated overhand grip from flexed downward stretch in panel A to extended peak in panel B."
+  ],
+  "sources": [
+    {
+      "title": "ExRx.net - Barbell Reverse Wrist Curl",
+      "url": "https://exrx.net/WeightExercises/WristExtensors/BBReverseWristCurl",
+      "scope": "Barbell wrist extension mechanics, extensor carpi recruitment, and bench forearm support protocols."
+    }
+  ]
+}
