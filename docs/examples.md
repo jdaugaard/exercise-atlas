@@ -1891,7 +1891,7 @@ Arms extended / Handle at lower ribs
 Pull a close-grip handle toward the lower ribs from a seated position while keeping the torso steady.
 
 - **Danish:** Siddende kabelroning med håndtag
-- **Aliases:** Seated low cable row, Close-grip cable row, Seated Cable Row with Handles
+- **Aliases:** Seated low cable row, Close-grip cable row, Seated Cable Row with Handles, Cable Rope Seated Row
 - **Primary muscles:** Latissimus dorsi, Rhomboids, Middle trapezius
 - **Assisting muscles:** Posterior deltoid, Biceps brachii, Brachialis
 - **Stabilizers:** Abdominal wall, Spinal erectors, Forearm flexors
@@ -2161,7 +2161,7 @@ Arms overhead / Bar near upper chest
 Pull a high-cable bar toward the upper chest while seated with the thighs secured under the machine pads.
 
 - **Danish:** Siddende pulldown i maskine
-- **Aliases:** Seated Lat Pull Down Machine, Wide-grip lat pulldown, Lat pulldown
+- **Aliases:** Seated Lat Pull Down Machine, Wide-grip lat pulldown, Lat pulldown, Cable Pulldown
 - **Primary muscles:** Latissimus dorsi
 - **Assisting muscles:** Teres major, Biceps brachii, Brachialis, Lower trapezius, Rhomboids
 - **Stabilizers:** Rotator cuff, Abdominal wall, Forearm flexors
@@ -2712,7 +2712,7 @@ Bar at upper chest / Bar overhead
 Press a barbell from the upper chest to overhead while standing with the legs still.
 
 - **Danish:** Stående skulderpres med vægtstang
-- **Aliases:** Strict Press, Military press, Barbell overhead press
+- **Aliases:** Strict Press, Military press, Barbell overhead press, Barbell Standing Wide-Grip Military Press
 - **Primary muscles:** Anterior deltoid, Lateral deltoid
 - **Assisting muscles:** Triceps brachii, Serratus anterior, Trapezius
 - **Stabilizers:** Rotator cuff, Abdominal wall, Gluteus maximus
