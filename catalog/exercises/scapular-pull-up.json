@@ -1,6 +1,6 @@
 {
   "id": "scapular-pull-up",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Scapular Pull-Up",
@@ -73,7 +73,8 @@
   "variantNote": "Straight-arm scapular isolation movement training lower trapezius and latissimus engagement at the initiation of vertical pulling movements.",
   "reviewNotes": [
     "Drafted from FitTrack ID 29 (Scapular Pull-Up).",
-    "Elbows must remain completely straight in both panels; panel A shows passive dead hang with elevated shoulders, panel B shows depressed scapulae with chest lifted."
+    "Elbows must remain completely straight in both panels; panel A shows passive dead hang with elevated shoulders, panel B shows depressed scapulae with chest lifted.",
+    "2026-10-21: Increased the visible shoulder-to-ear difference between passive and active hangs without a bent-elbow pull-up. Black hair retained as confirmed by the user. The small scapular range and body rise remain subject to technique review."
   ],
   "sources": [
     {
@@ -84,15 +85,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "eed3cd7ede8756567d1483d6aa5f1ed3934f6767cacb71098951a94130436991",
-    "url": "/media/eed3cd7ede8756567d1483d6aa5f1ed3934f6767cacb71098951a94130436991.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Scapular Pull-Up.",
+    "mediaId": "05d238216489eb69d14b2be714bcff291cb6b6d56aab6b8c1888bc810bf57db2",
+    "url": "/media/05d238216489eb69d14b2be714bcff291cb6b6d56aab6b8c1888bc810bf57db2.png",
+    "left": "Passive straight-arm hang with shoulders elevated",
+    "right": "Active straight-arm hang with shoulders depressed",
+    "alt": "Two drawings contrasting a passive shrugged dead hang with an active scapular hang, showing clearer neck space and a small body rise while elbows remain straight and hair stays black.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "scapular-pull-up",
+      "createdDate": "2026-10-21",
+      "promptId": "scapular-pull-up-review-2026-10-21-r2",
       "model": null
     }
   }

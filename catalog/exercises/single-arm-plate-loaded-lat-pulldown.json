@@ -1,6 +1,6 @@
 {
   "id": "single-arm-plate-loaded-lat-pulldown",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Single-Arm Plate Loaded Lat Pulldown",
@@ -74,7 +74,7 @@
   "variantNote": "Unilateral vertical pull on a plate-loaded machine with independent converging lever arms, isolating each lat.",
   "reviewNotes": [
     "Drafted from FitTrack ID 95 (Single-Arm Plate Loaded Lat Pulldown).",
-    "Illustration strictly depicts unilateral execution with non-working arm resting motionless on thigh and opposite lever disengaged."
+    "2026-10-21: Retained the existing plate-loaded machine design and corrected the depicted working-arm continuity. The same anatomical right arm works in both poses; exact machine linkage and technique remain unverified."
   ],
   "sources": [
     {
@@ -85,15 +85,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "8fbf93cd65cafc730797d9cd6bcd1a023fc005f702e78fe308eb8ef9afdb2c1e",
-    "url": "/media/8fbf93cd65cafc730797d9cd6bcd1a023fc005f702e78fe308eb8ef9afdb2c1e.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Single-Arm Plate Loaded Lat Pulldown.",
+    "mediaId": "e4334201ccad117d8bca25c0ae5bbbedb7f05d7faa18e9db81bba1d3214b9869",
+    "url": "/media/e4334201ccad117d8bca25c0ae5bbbedb7f05d7faa18e9db81bba1d3214b9869.png",
+    "left": "Right arm reaching overhead on the working lever",
+    "right": "Same right arm pulling the handle down",
+    "alt": "Two drawings of a unilateral plate-loaded lat pulldown using the same anatomical right arm while the left hand rests beside the left thigh.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "single-arm-plate-loaded-lat-pulldown",
+      "createdDate": "2026-10-21",
+      "promptId": "single-arm-plate-loaded-lat-pulldown-review-2026-10-21-r2",
       "model": null
     }
   }

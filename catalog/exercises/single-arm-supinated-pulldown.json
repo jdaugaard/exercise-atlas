@@ -1,6 +1,6 @@
 {
   "id": "single-arm-supinated-pulldown",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Single-Arm Supinated Pulldown",
@@ -77,7 +77,7 @@
   "variantNote": "Unilateral vertical pulldown using a high cable pulley and D-handle with a supinated grip, emphasizing lat adduction.",
   "reviewNotes": [
     "Drafted from FitTrack ID 117 (Single Arm Pulldown).",
-    "Supinated underhand grip specified canonically to optimize lat muscle fiber recruitment."
+    "2026-10-21: Rebuilt the supported overhead pulley and fixed the working-arm continuity after an initial arm-switching attempt. The same anatomical right arm works in both poses. Final beam proportions, pulley alignment, underhand grip visibility and equipment setup still require review."
   ],
   "sources": [
     {
@@ -88,15 +88,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "57f1cf020aa3a95b6a5342a0a94298dc44d435b6d952b5a958d0bb808c651ba4",
-    "url": "/media/57f1cf020aa3a95b6a5342a0a94298dc44d435b6d952b5a958d0bb808c651ba4.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Single-Arm Supinated Pulldown.",
+    "mediaId": "e1dfddb21faef4d8bb3bcdad03058d37cec92f9d3dd6d41b36bf9f6120a7704d",
+    "url": "/media/e1dfddb21faef4d8bb3bcdad03058d37cec92f9d3dd6d41b36bf9f6120a7704d.png",
+    "left": "Right arm reaching overhead with an underhand grip",
+    "right": "Same right arm pulling the D-handle toward chest",
+    "alt": "Two drawings of a seated single-arm supinated cable pulldown using the same right arm, with a fixed overhead beam supporting the pulley and the left hand resting on the thigh pad.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "single-arm-supinated-pulldown",
+      "createdDate": "2026-10-21",
+      "promptId": "single-arm-supinated-pulldown-review-2026-10-21-r2",
       "model": null
     }
   }

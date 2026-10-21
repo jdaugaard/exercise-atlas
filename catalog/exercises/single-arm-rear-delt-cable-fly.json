@@ -1,6 +1,6 @@
 {
   "id": "single-arm-rear-delt-cable-fly",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Single-Arm Rear-Delt Cable Fly",
@@ -68,7 +68,8 @@
   "variantNote": "One hand-held cable, standing with a shoulder-height pulley. Cuff attachment, low-pulley bent-over and two-arm versions need separate instructions.",
   "reviewNotes": [
     "Pulley height and D-handle are assumptions for the generic single-arm name.",
-    "Source describes bilateral standing cable reverse fly; unilateral execution is an editorial adaptation requiring technique review."
+    "Source describes bilateral standing cable reverse fly; unilateral execution is an editorial adaptation requiring technique review.",
+    "2026-10-21: Redrawn with the chest facing the viewer, tower to the side, and the same left arm crossing the body then opening wide. An initial arm-switching attempt was rejected. Pulley height and unilateral technique still require review."
   ],
   "sources": [
     {
@@ -79,15 +80,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "c4dacb58a3c50c3babe5d5f3cd3d11e7a5e8806e990f67f34cd229f434851f11",
-    "url": "/media/c4dacb58a3c50c3babe5d5f3cd3d11e7a5e8806e990f67f34cd229f434851f11.png",
-    "left": "Working arm across chest",
-    "right": "Same arm opened outward",
-    "alt": "Two front-view line drawings of a single-arm cable rear-delt fly; the same right hand holds the handle in both positions.",
+    "mediaId": "cb41190266d5e629fb365b2bc2f0983efec79d08afabba6eafbe6f5731916c5e",
+    "url": "/media/cb41190266d5e629fb365b2bc2f0983efec79d08afabba6eafbe6f5731916c5e.png",
+    "left": "Left hand reaches across chest toward the pulley",
+    "right": "Same left arm opens wide at shoulder height",
+    "alt": "Two frontal drawings of a single-arm rear-delt cable fly with a shoulder-height pulley to the side, left arm reaching across the chest then opening wide while the right hand stays on the hip.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "single-arm-rear-delt-cable-fly",
+      "createdDate": "2026-10-21",
+      "promptId": "single-arm-rear-delt-cable-fly-review-2026-10-21-r2",
       "model": null
     }
   }

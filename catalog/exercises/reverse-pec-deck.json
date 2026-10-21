@@ -1,6 +1,6 @@
 {
   "id": "reverse-pec-deck",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Reverse Pec Deck",
@@ -73,7 +73,8 @@
   "variantNote": "Chest-supported reverse machine fly on a dual-function pec deck / rear delt machine, isolating posterior deltoids through guided horizontal abduction.",
   "reviewNotes": [
     "Drafted from FitTrack ID 56 (Reverse Pec Deck).",
-    "Distinguished from anterior chest pec deck by inward-facing chest-supported orientation and horizontal abduction arc."
+    "Distinguished from anterior chest pec deck by inward-facing chest-supported orientation and horizontal abduction arc.",
+    "2026-10-21: Rebuilt both poses from the same rear three-quarter view, facing into the machine with the chest supported and legs straddling the seat. Machine pivot geometry and technique remain draft assumptions."
   ],
   "sources": [
     {
@@ -84,15 +85,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "3b153e919532d9deca5313e62819e8dfb48ba4f15c07a97c157550a1b4075d69",
-    "url": "/media/3b153e919532d9deca5313e62819e8dfb48ba4f15c07a97c157550a1b4075d69.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Reverse Pec Deck.",
+    "mediaId": "a7bb5f91e74ded13b62e76425d5c3b15b56207af31ade77130061bb5da73b952",
+    "url": "/media/a7bb5f91e74ded13b62e76425d5c3b15b56207af31ade77130061bb5da73b952.png",
+    "left": "Facing the machine with arms reaching forward",
+    "right": "Arms open wide with chest against support",
+    "alt": "Two consistent rear three-quarter drawings of a reverse pec deck, showing the athlete facing into the machine with chest on the pad and back toward the viewer.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "reverse-pec-deck",
+      "createdDate": "2026-10-21",
+      "promptId": "reverse-pec-deck-review-2026-10-21-r2",
       "model": null
     }
   }

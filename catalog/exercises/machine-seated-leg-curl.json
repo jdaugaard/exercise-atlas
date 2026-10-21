@@ -1,6 +1,6 @@
 {
   "id": "machine-seated-leg-curl",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Machine Seated Leg Curl",
@@ -41,7 +41,7 @@
   "setup": [
     "Adjust the backrest so your knees align directly with the machine's pivot axis when seated upright.",
     "Lower and secure the thigh restraint pad firmly over your lower thighs just above your knees.",
-    "Place the back of your lower calves/Achilles tendons against the top of the lower padded roller.",
+    "Position the lower roller against the backs of the lower calves just above the heels, following the machine adjustment instructions; do not place it against the fronts of the shins.",
     "Grasp the side stability handles to secure your hips down into the seat."
   ],
   "instructions": [
@@ -73,7 +73,7 @@
   "variantNote": "Seated machine hamstring curl. Seated hip flexion lengthens the hamstring muscles at the pelvis, providing greater passive and active stretch-mediated hypertrophy than lying leg curls.",
   "reviewNotes": [
     "Drafted from FitTrack ID 15 (Machine Seated Leg Curl).",
-    "Illustration depicts seated athlete with thighs pinned under upper pad, lower roller behind Achilles, showing legs extended in panel A and curled under seat in panel B."
+    "2026-10-21: Rebuilt the knee-level lever and moved the lower roller from the shin side to posterior lower-calf contact. Earlier incorrect shin-contact attempts were rejected. Actual roller adjustment and machine geometry remain unverified."
   ],
   "sources": [
     {
@@ -84,15 +84,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "75045862d666d53d01460936c00ca5d83a7f1eeb8e8d8e68e7447ef7bdb1d952",
-    "url": "/media/75045862d666d53d01460936c00ca5d83a7f1eeb8e8d8e68e7447ef7bdb1d952.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Machine Seated Leg Curl.",
+    "mediaId": "a293ea375c37ea2df535028ba8cc3a5584aa670c52a7ae896e47a50521b9f8b8",
+    "url": "/media/a293ea375c37ea2df535028ba8cc3a5584aa670c52a7ae896e47a50521b9f8b8.png",
+    "left": "Knees nearly extended with roller under lower calves",
+    "right": "Heels curl back with roller behind lower calves",
+    "alt": "Two side-view drawings of a seated leg curl with a fixed thigh pad and lower roller contacting the back of the calves as the heels pull beneath the seat.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "machine-seated-leg-curl",
+      "createdDate": "2026-10-21",
+      "promptId": "machine-seated-leg-curl-review-2026-10-21-r2",
       "model": null
     }
   }

@@ -1,6 +1,6 @@
 {
   "id": "pendulum-squat",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Pendulum Squat",
@@ -34,16 +34,16 @@
     "Abdominal wall",
     "Erector spinae"
   ],
-  "description": "Perform a guided squat on a counterweighted pendulum machine along a curved arc that maximizes knee flexion and quad loading while minimizing lumbar stress.",
+  "description": "Perform a supported squat on a pendulum machine whose shoulder harness and back support move along an arc around a fixed pivot.",
   "setup": [
     "Load weight plates onto the machine's counterbalanced pendulum horn.",
     "Step onto the angled footplate with feet shoulder-width apart.",
     "Position shoulders snugly under the padded harness and back resting flat against the pivoting back support.",
-    "Release the safety latch and stand tall with knees softly unlocked."
+    "Release the safety latch following the machine instructions and take up the load in its supported, reclined starting position with knees softly unlocked."
   ],
   "instructions": [
-    "Descend smoothly by flexing knees and hips, allowing the pendulum arm to swing backward along its curved arc.",
-    "Lower until thighs reach parallel to the footplate or full knee flexion is achieved, keeping back flat against the pad.",
+    "Flex the knees and hips while the supported pendulum assembly rotates around its fixed pivot; keep the feet on the footplate.",
+    "Lower through a controlled range permitted by the machine and your setup while keeping the back and pelvis supported.",
     "Pause briefly at the bottom under complete muscular control.",
     "Drive through the mid-foot to push back up along the pendulum arc to the starting position without forcefully locking knees."
   ],
@@ -67,29 +67,34 @@
     "Hack Squat",
     "Leg Press"
   ],
-  "variantNote": "Guided squat on a counterweighted pendulum machine with angled footplate and pivoting back support.",
+  "variantNote": "Generic plate-loaded high-pivot pendulum squat schematic with an inclined footplate and a reclined supported start. Exact pivot, linkage, counterbalance, pad angles and safe range depend on the actual machine and remain unverified.",
   "reviewNotes": [
     "Drafted from FitTrack ID 109 (Pendulum Squat).",
-    "Illustration accurately captures the counterweighted pivot frame and curved movement arc."
+    "2026-10-21: Reworked the reclined start and high-pivot pendulum layout after user review. Attempts with changing frame height or apparent arm extension were rejected. The final drawing is a generic draft: rigid-arm length, load-horn linkage and movement arc must still be checked against the actual machine."
   ],
   "sources": [
     {
       "title": "ExRx.net - Lever Squat",
       "url": "https://exrx.net/WeightExercises/Quadriceps/LVSquat",
       "scope": "Guided machine squat mechanics, knee flexion torque, and footplate positioning."
+    },
+    {
+      "title": "Panatta — Super Pendulum Squat manufacturer article",
+      "url": "https://panattafitness.com/wp-content/uploads/2023/04/National-Fitness-Trade-Journal-Super-Pendulum-Squat.pdf",
+      "scope": "Manufacturer description of a guided pendulum squat trajectory and counterbalanced lever system. It does not validate this generic drawing, exact pivot coordinates, load-horn linkage or the user’s machine."
     }
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "f7cbe6994ae388be428078ebfeed9d526b52c4981f22554f208d8e41ebb5d429",
-    "url": "/media/f7cbe6994ae388be428078ebfeed9d526b52c4981f22554f208d8e41ebb5d429.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Pendulum Squat.",
+    "mediaId": "86c0a2fb38017aa95fffbf181c351899704611c7c10c1192abcc5b9828ca810a",
+    "url": "/media/86c0a2fb38017aa95fffbf181c351899704611c7c10c1192abcc5b9828ca810a.png",
+    "left": "Reclined supported start with knees softly bent",
+    "right": "Supported squat along the pendulum path",
+    "alt": "Two schematic side views of a pendulum squat with a reclined supported start, high fixed pivot, angled footplate and a flexed-knee squat position.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "pendulum-squat",
+      "createdDate": "2026-10-21",
+      "promptId": "pendulum-squat-review-2026-10-21-r2",
       "model": null
     }
   }

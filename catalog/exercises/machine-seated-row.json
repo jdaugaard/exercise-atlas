@@ -1,6 +1,6 @@
 {
   "id": "machine-seated-row",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Machine Seated Row",
@@ -77,7 +77,8 @@
   "variantNote": "Bilateral chest-supported machine row. The vertical chest pad stabilizes the torso, eliminating lower back shear stress and preventing cheating.",
   "reviewNotes": [
     "Drafted from FitTrack ID 8 (Machine Seated Row).",
-    "Distinguished from unilateral plate-loaded row and cable row by selectorized bilateral chest-supported configuration."
+    "Distinguished from unilateral plate-loaded row and cable row by selectorized bilateral chest-supported configuration.",
+    "2026-10-21: Replaced the cable-row appearance with a generic bilateral selectorized lever machine. Chest pad, seated support and two-hand handle contact were visually checked; exact lever linkage and the gym machine still require review."
   ],
   "sources": [
     {
@@ -88,15 +89,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "7961e0f910d205416ce5b41aeeb23b7d65655f6854af6d73bbf33f176ae72bbc",
-    "url": "/media/7961e0f910d205416ce5b41aeeb23b7d65655f6854af6d73bbf33f176ae72bbc.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Machine Seated Row.",
+    "mediaId": "3b2c74762a6f07bca8d8344e6207c3c294951e039cc0b12cbef3d3359eaf4f35",
+    "url": "/media/3b2c74762a6f07bca8d8344e6207c3c294951e039cc0b12cbef3d3359eaf4f35.png",
+    "left": "Arms reach forward on rigid row levers",
+    "right": "Both elbows pull back while chest stays supported",
+    "alt": "Two drawings of a bilateral selectorized chest-supported row machine with rigid lever arms and neutral handles, showing the reach and pull positions.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "machine-seated-row",
+      "createdDate": "2026-10-21",
+      "promptId": "machine-seated-row-review-2026-10-21-r2",
       "model": null
     }
   }

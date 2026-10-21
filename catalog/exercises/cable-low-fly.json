@@ -1,6 +1,6 @@
 {
   "id": "cable-low-fly",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Cable Low Fly",
@@ -73,7 +73,8 @@
   "variantNote": "Low-to-high standing cable chest fly originating from floor-level pulleys, aligning the diagonal resistance line with the clavicular pectoral fiber orientation.",
   "reviewNotes": [
     "Drafted from FitTrack ID 52 (Cable Low Fly).",
-    "Direct counterpart to Cable High Fly; accurately pairs low-to-high line of action with clavicular chest recruitment."
+    "Direct counterpart to Cable High Fly; accurately pairs low-to-high line of action with clavicular chest recruitment.",
+    "2026-10-21: Rebuilt tower arrangement using Cable High Fly as a composition reference; removed spurious upper cables. Two low cable origins and fixed stance were visually checked. Equipment and technique review remain pending."
   ],
   "sources": [
     {
@@ -84,15 +85,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "b0cb2b76e4519ecf56bff536804d06da1930c53a9af555984fb08983d49792b6",
-    "url": "/media/b0cb2b76e4519ecf56bff536804d06da1930c53a9af555984fb08983d49792b6.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Cable Low Fly.",
+    "mediaId": "60089b73a9c32e063594491493db102174e1cb95e72505f8e2615feff1eda9cf",
+    "url": "/media/60089b73a9c32e063594491493db102174e1cb95e72505f8e2615feff1eda9cf.png",
+    "left": "Arms low and open between two low pulleys",
+    "right": "Handles raised inward in front of upper chest",
+    "alt": "Two drawings of a low-to-high cable fly with the athlete between two towers and one cable from each low pulley to its corresponding handle.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "cable-low-fly",
+      "createdDate": "2026-10-21",
+      "promptId": "cable-low-fly-review-2026-10-21-r2",
       "model": null
     }
   }

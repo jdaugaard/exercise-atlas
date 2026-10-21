@@ -769,9 +769,9 @@ Supinated forearm-supported wrist flexion targeting the flexor carpi group. Dire
 
 ## Bayesian Curl
 
-![Paired black-and-white instructional line drawings of Bayesian Curl.](../catalog/media/c76bc6f46d740d17e21f5c25c772324750eaf0c5ee3b84469d68bacf775436a5.png)
+![Two side-view drawings of a Bayesian cable curl with the same working upper arm held behind the torso while only the elbow flexes.](../catalog/media/f1ea345248d8b04ba0829feb357b34b3b0862b722e7fd496f818d756f250b780.png)
 
-Starting position / Peak contraction position
+Elbow extended with upper arm held behind torso / Elbow flexed with upper arm in the same position
 
 Perform a standing cable biceps curl facing away from a low pulley with the shoulder extended behind the torso, maximizing tension on the biceps in the fully lengthened stretch position.
 
@@ -784,7 +784,7 @@ Perform a standing cable biceps curl facing away from a low pulley with the shou
 - **Movement:** Elbow flexion - shoulder extended cable stretch; Unilateral
 - **Grip:** Underhand supinated grip on single D-handle, palm facing forward and upward.
 - **Difficulty:** Intermediate (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
@@ -795,9 +795,9 @@ Perform a standing cable biceps curl facing away from a low pulley with the shou
 ### Execution
 
 1. Curl the handle forward and upward toward your shoulder by flexing your elbow.
-2. Keep your upper arm relatively stationary behind or beside your ribcage to maintain stretch on the long head.
+2. Keep the upper arm and elbow fixed behind the torso in the starting shoulder-extension position; move only through elbow flexion and extension.
 3. Contract your biceps forcefully at the top position with wrist supinated.
-4. Slowly extend your elbow back under control, allowing the cable to pull your arm back into full shoulder extension and loaded biceps stretch.
+4. Slowly extend the elbow to lower the handle while keeping the upper arm, shoulder and torso in the same position.
 5. Complete all repetitions before switching to the opposite arm.
 
 ### Cues
@@ -830,7 +830,7 @@ Facing-away unilateral low-cable curl with shoulder in passive extension, creati
 
 - Drafted from FitTrack ID 61 (Bayesian Curl).
 - FitTrack description notes: 'Cable biceps curl hvor du står et skridt foran kablet for at få stræk i biceps i bundpositionen.'
-- Prompt specifies standing facing away from low pulley with working arm trailing behind torso in loaded stretch in panel A, curled to shoulder in panel B.
+- 2026-10-21: Revised after user image review to keep the working elbow behind the torso in both poses. The upper arm and stance should remain fixed while the elbow flexes; technique review is still pending.
 
 ### References
 
@@ -1045,9 +1045,9 @@ Standing high-to-low cable chest fly performed from dual high pulleys. Emphasize
 
 ## Cable Low Fly
 
-![Paired black-and-white instructional line drawings of Cable Low Fly.](../catalog/media/b0cb2b76e4519ecf56bff536804d06da1930c53a9af555984fb08983d49792b6.png)
+![Two drawings of a low-to-high cable fly with the athlete between two towers and one cable from each low pulley to its corresponding handle.](../catalog/media/60089b73a9c32e063594491493db102174e1cb95e72505f8e2615feff1eda9cf.png)
 
-Starting position / Peak contraction position
+Arms low and open between two low pulleys / Handles raised inward in front of upper chest
 
 Sweep dual low-cable handles upward and inward along a diagonal lifting arc toward upper-chest or chin height in a standing staggered stance, emphasizing the clavicular fibers of the pectoralis major.
 
@@ -1060,7 +1060,7 @@ Sweep dual low-cable handles upward and inward along a diagonal lifting arc towa
 - **Movement:** Shoulder flexion and horizontal adduction - low-to-high arc; Bilateral, dual cables
 - **Grip:** Supinated or semi-supinated grip holding single D-handles, palms facing forward and upward.
 - **Difficulty:** Beginner (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
@@ -1105,6 +1105,7 @@ Low-to-high standing cable chest fly originating from floor-level pulleys, align
 
 - Drafted from FitTrack ID 52 (Cable Low Fly).
 - Direct counterpart to Cable High Fly; accurately pairs low-to-high line of action with clavicular chest recruitment.
+- 2026-10-21: Rebuilt tower arrangement using Cable High Fly as a composition reference; removed spurious upper cables. Two low cable origins and fixed stance were visually checked. Equipment and technique review remain pending.
 
 ### References
 
@@ -2553,9 +2554,9 @@ Static isometric contraction held at peak concentric range of a pull-up. Used to
 
 ## Leg Press Calf Press
 
-![Paired black-and-white instructional line drawings of Leg Press Calf Press.](../catalog/media/859fcd42dff5d305280e4b5735357143f52411cc42e213d8ae6e0419f5afb37f.png)
+![Paired drawings of a sled leg-press calf press with nearly straight knees, forefeet at the lower footplate edge and both heels free of the plate.](../catalog/media/c479d5660042f19659a20c4e45d2932ddfc75d555b779304a7b4b549d3666795.png)
 
-Starting position / Peak contraction position
+Ankles dorsiflexed with heels free below the plate / Forefeet press the sled as ankles plantarflex
 
 Perform ankle plantar flexion against the leg press footplate with knees softly extended, emphasizing the gastrocnemius.
 
@@ -2568,7 +2569,7 @@ Perform ankle plantar flexion against the leg press footplate with knees softly 
 - **Movement:** Ankle plantar flexion; Bilateral
 - **Grip:** Hands holding side safety handles of the leg press carriage.
 - **Difficulty:** Beginner (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
@@ -2611,7 +2612,7 @@ Calf press performed on a 45-degree sled leg press machine with straight legs to
 ### Review notes
 
 - Drafted from FitTrack ID 100 (Calf Press (Leg Press)).
-- Illustration depicts soft knee extension and ankle dorsiflexion to plantar flexion range of motion on an incline carriage.
+- 2026-10-21: Rebuilt the sled and forefoot contact after user review; heels are shown beyond the lower footplate edge. Earlier knee-extension and moving-seat attempts were rejected. Final ankle contrast and exact footplate clearance still need user/equipment review; this remains a draft.
 
 ### References
 
@@ -3170,9 +3171,9 @@ Selectorized seated crunch machine providing a direct, progressive resistance cu
 
 ## Machine Seated Leg Curl
 
-![Paired black-and-white instructional line drawings of Machine Seated Leg Curl.](../catalog/media/75045862d666d53d01460936c00ca5d83a7f1eeb8e8d8e68e7447ef7bdb1d952.png)
+![Two side-view drawings of a seated leg curl with a fixed thigh pad and lower roller contacting the back of the calves as the heels pull beneath the seat.](../catalog/media/a293ea375c37ea2df535028ba8cc3a5584aa670c52a7ae896e47a50521b9f8b8.png)
 
-Starting position / Peak contraction position
+Knees nearly extended with roller under lower calves / Heels curl back with roller behind lower calves
 
 Flex knees against a padded lever roller while seated with thighs locked under a support pad, placing the hamstrings in a lengthened hip-flexed position for superior hypertrophy.
 
@@ -3185,13 +3186,13 @@ Flex knees against a padded lever roller while seated with thighs locked under a
 - **Movement:** Knee flexion - seated machine with hip flexion; Bilateral
 - **Grip:** Hands gripping side stability handles beside the seat.
 - **Difficulty:** Beginner (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
 - Adjust the backrest so your knees align directly with the machine's pivot axis when seated upright.
 - Lower and secure the thigh restraint pad firmly over your lower thighs just above your knees.
-- Place the back of your lower calves/Achilles tendons against the top of the lower padded roller.
+- Position the lower roller against the backs of the lower calves just above the heels, following the machine adjustment instructions; do not place it against the fronts of the shins.
 - Grasp the side stability handles to secure your hips down into the seat.
 
 ### Execution
@@ -3230,7 +3231,7 @@ Seated machine hamstring curl. Seated hip flexion lengthens the hamstring muscle
 ### Review notes
 
 - Drafted from FitTrack ID 15 (Machine Seated Leg Curl).
-- Illustration depicts seated athlete with thighs pinned under upper pad, lower roller behind Achilles, showing legs extended in panel A and curled under seat in panel B.
+- 2026-10-21: Rebuilt the knee-level lever and moved the lower roller from the shin side to posterior lower-calf contact. Earlier incorrect shin-contact attempts were rejected. Actual roller adjustment and machine geometry remain unverified.
 
 ### References
 
@@ -3240,9 +3241,9 @@ Seated machine hamstring curl. Seated hip flexion lengthens the hamstring muscle
 
 ## Machine Seated Row
 
-![Paired black-and-white instructional line drawings of Machine Seated Row.](../catalog/media/7961e0f910d205416ce5b41aeeb23b7d65655f6854af6d73bbf33f176ae72bbc.png)
+![Two drawings of a bilateral selectorized chest-supported row machine with rigid lever arms and neutral handles, showing the reach and pull positions.](../catalog/media/3b2c74762a6f07bca8d8344e6207c3c294951e039cc0b12cbef3d3359eaf4f35.png)
 
-Starting position / Peak contraction position
+Arms reach forward on rigid row levers / Both elbows pull back while chest stays supported
 
 Pull bilateral machine handles horizontally toward the torso while seated with chest supported against a vertical pad, developing upper back and lat thickness without lower back fatigue.
 
@@ -3255,7 +3256,7 @@ Pull bilateral machine handles horizontally toward the torso while seated with c
 - **Movement:** Horizontal pull - chest-supported bilateral machine; Bilateral
 - **Grip:** Pronated overhand or neutral grip on machine lever handles.
 - **Difficulty:** Beginner (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
@@ -3302,6 +3303,7 @@ Bilateral chest-supported machine row. The vertical chest pad stabilizes the tor
 
 - Drafted from FitTrack ID 8 (Machine Seated Row).
 - Distinguished from unilateral plate-loaded row and cable row by selectorized bilateral chest-supported configuration.
+- 2026-10-21: Replaced the cable-row appearance with a generic bilateral selectorized lever machine. Chest pad, seated support and two-hand handle contact were visually checked; exact lever linkage and the gym machine still require review.
 
 ### References
 
@@ -3586,11 +3588,11 @@ Strict dead-stop barbell row with horizontal torso parallel to the floor. Elimin
 
 ## Pendulum Squat
 
-![Paired black-and-white instructional line drawings of Pendulum Squat.](../catalog/media/f7cbe6994ae388be428078ebfeed9d526b52c4981f22554f208d8e41ebb5d429.png)
+![Two schematic side views of a pendulum squat with a reclined supported start, high fixed pivot, angled footplate and a flexed-knee squat position.](../catalog/media/86c0a2fb38017aa95fffbf181c351899704611c7c10c1192abcc5b9828ca810a.png)
 
-Starting position / Peak contraction position
+Reclined supported start with knees softly bent / Supported squat along the pendulum path
 
-Perform a guided squat on a counterweighted pendulum machine along a curved arc that maximizes knee flexion and quad loading while minimizing lumbar stress.
+Perform a supported squat on a pendulum machine whose shoulder harness and back support move along an arc around a fixed pivot.
 
 - **Danish:** Pendulum squat
 - **Aliases:** Pendulum Squat, Pendulum Squat Machine
@@ -3601,19 +3603,19 @@ Perform a guided squat on a counterweighted pendulum machine along a curved arc 
 - **Movement:** Squat - guided pendulum machine; Bilateral
 - **Grip:** Hands gripping support handles on machine shoulder harness.
 - **Difficulty:** Intermediate (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
 - Load weight plates onto the machine's counterbalanced pendulum horn.
 - Step onto the angled footplate with feet shoulder-width apart.
 - Position shoulders snugly under the padded harness and back resting flat against the pivoting back support.
-- Release the safety latch and stand tall with knees softly unlocked.
+- Release the safety latch following the machine instructions and take up the load in its supported, reclined starting position with knees softly unlocked.
 
 ### Execution
 
-1. Descend smoothly by flexing knees and hips, allowing the pendulum arm to swing backward along its curved arc.
-2. Lower until thighs reach parallel to the footplate or full knee flexion is achieved, keeping back flat against the pad.
+1. Flex the knees and hips while the supported pendulum assembly rotates around its fixed pivot; keep the feet on the footplate.
+2. Lower through a controlled range permitted by the machine and your setup while keeping the back and pelvis supported.
 3. Pause briefly at the bottom under complete muscular control.
 4. Drive through the mid-foot to push back up along the pendulum arc to the starting position without forcefully locking knees.
 
@@ -3637,7 +3639,7 @@ Pendulum squat machines feature counterweights and curved mechanical leverage ar
 
 ### Variants and alternatives
 
-Guided squat on a counterweighted pendulum machine with angled footplate and pivoting back support.
+Generic plate-loaded high-pivot pendulum squat schematic with an inclined footplate and a reclined supported start. Exact pivot, linkage, counterbalance, pad angles and safe range depend on the actual machine and remain unverified.
 
 - Barbell Back Squat
 - Hack Squat
@@ -3646,11 +3648,12 @@ Guided squat on a counterweighted pendulum machine with angled footplate and piv
 ### Review notes
 
 - Drafted from FitTrack ID 109 (Pendulum Squat).
-- Illustration accurately captures the counterweighted pivot frame and curved movement arc.
+- 2026-10-21: Reworked the reclined start and high-pivot pendulum layout after user review. Attempts with changing frame height or apparent arm extension were rejected. The final drawing is a generic draft: rigid-arm length, load-horn linkage and movement arc must still be checked against the actual machine.
 
 ### References
 
 - [ExRx.net - Lever Squat](https://exrx.net/WeightExercises/Quadriceps/LVSquat): Guided machine squat mechanics, knee flexion torque, and footplate positioning.
+- [Panatta — Super Pendulum Squat manufacturer article](https://panattafitness.com/wp-content/uploads/2023/04/National-Fitness-Trade-Journal-Super-Pendulum-Squat.pdf): Manufacturer description of a guided pendulum squat trajectory and counterbalanced lever system. It does not validate this generic drawing, exact pivot coordinates, load-horn linkage or the user’s machine.
 
 [Editable JSON](../catalog/exercises/pendulum-squat.json)
 
@@ -3795,9 +3798,9 @@ Canonical pronated vertical pull-up. The overhand grip emphasizes frontal plane 
 
 ## Reverse Pec Deck
 
-![Paired black-and-white instructional line drawings of Reverse Pec Deck.](../catalog/media/3b153e919532d9deca5313e62819e8dfb48ba4f15c07a97c157550a1b4075d69.png)
+![Two consistent rear three-quarter drawings of a reverse pec deck, showing the athlete facing into the machine with chest on the pad and back toward the viewer.](../catalog/media/a7bb5f91e74ded13b62e76425d5c3b15b56207af31ade77130061bb5da73b952.png)
 
-Starting position / Peak contraction position
+Facing the machine with arms reaching forward / Arms open wide with chest against support
 
 Sit facing the chest support pad of a dual-function pec deck machine and horizontally abduct both arms outward and backward, isolating the posterior deltoids and external rotators.
 
@@ -3810,7 +3813,7 @@ Sit facing the chest support pad of a dual-function pec deck machine and horizon
 - **Movement:** Shoulder horizontal abduction - seated machine; Bilateral
 - **Grip:** Neutral or pronated grip holding the horizontal or vertical machine handles at shoulder height.
 - **Difficulty:** Beginner (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
@@ -3856,6 +3859,7 @@ Chest-supported reverse machine fly on a dual-function pec deck / rear delt mach
 
 - Drafted from FitTrack ID 56 (Reverse Pec Deck).
 - Distinguished from anterior chest pec deck by inward-facing chest-supported orientation and horizontal abduction arc.
+- 2026-10-21: Rebuilt both poses from the same rear three-quarter view, facing into the machine with the chest supported and legs straddling the seat. Machine pivot geometry and technique remain draft assumptions.
 
 ### References
 
@@ -3865,9 +3869,9 @@ Chest-supported reverse machine fly on a dual-function pec deck / rear delt mach
 
 ## Scapular Pull-Up
 
-![Paired black-and-white instructional line drawings of Scapular Pull-Up.](../catalog/media/eed3cd7ede8756567d1483d6aa5f1ed3934f6767cacb71098951a94130436991.png)
+![Two drawings contrasting a passive shrugged dead hang with an active scapular hang, showing clearer neck space and a small body rise while elbows remain straight and hair stays black.](../catalog/media/05d238216489eb69d14b2be714bcff291cb6b6d56aab6b8c1888bc810bf57db2.png)
 
-Starting position / Peak contraction position
+Passive straight-arm hang with shoulders elevated / Active straight-arm hang with shoulders depressed
 
 Hang from a pull-up bar with completely straight arms and initiate vertical movement exclusively through scapular depression and retraction, elevating the torso without bending the elbows.
 
@@ -3880,7 +3884,7 @@ Hang from a pull-up bar with completely straight arms and initiate vertical move
 - **Movement:** Scapular depression and retraction - hanging straight-arm pull; Bilateral
 - **Grip:** Overhand pronated grip slightly wider than shoulder-width, thumbs wrapped securely.
 - **Difficulty:** Beginner (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
@@ -3925,6 +3929,7 @@ Straight-arm scapular isolation movement training lower trapezius and latissimus
 
 - Drafted from FitTrack ID 29 (Scapular Pull-Up).
 - Elbows must remain completely straight in both panels; panel A shows passive dead hang with elevated shoulders, panel B shows depressed scapulae with chest lifted.
+- 2026-10-21: Increased the visible shoulder-to-ear difference between passive and active hangs without a bent-elbow pull-up. Black hair retained as confirmed by the user. The small scapular range and body rise remain subject to technique review.
 
 ### References
 
@@ -4340,9 +4345,9 @@ Standard 45-degree incline sled leg press with wide footplate and back support.
 
 ## Seated Machine Lateral Raise
 
-![Paired black-and-white instructional line drawings of Seated Machine Lateral Raise.](../catalog/media/e6983cecdcb5281408f7bce858faf29c754254d496fd09a1e14b738f17962c56.png)
+![Two drawings of a seated machine lateral raise with back support, upper-arm rollers and shoulder-level lever pivots, showing lowered and raised upper arms.](../catalog/media/ab4cb3a84932eb0325ea769272dfa0dee1b4e04972d72d5bb5017ee3ee3bf7ab.png)
 
-Starting position / Peak contraction position
+Upper arms beside torso against roller pads / Upper arms lifted outward to shoulder height
 
 Abduct both arms outward and upward against padded machine levers while seated, isolating the lateral deltoids through guided resistance.
 
@@ -4355,12 +4360,12 @@ Abduct both arms outward and upward against padded machine levers while seated, 
 - **Movement:** Shoulder abduction; Bilateral
 - **Grip:** Light neutral grip on machine handles with elbows against roller pads.
 - **Difficulty:** Beginner (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
 - Adjust the seat height so your shoulder joints align directly with the machine's pivot axes.
-- Sit tall with your chest or back firmly supported by the torso pad and feet flat on the floor.
+- Sit tall with the back supported by the torso pad and feet flat on the floor.
 - Place your upper arms/elbows against the inside of the roller pads, holding the guide handles lightly with elbows bent ~90 degrees.
 
 ### Execution
@@ -4390,7 +4395,7 @@ Cam shapes, lever lengths, and pulley configurations differ widely across machin
 
 ### Variants and alternatives
 
-Guided lever machine lateral raise with padded arm rollers and fixed rotational axis isolating the lateral deltoid head.
+Guided lever machine lateral raise with padded arm rollers and fixed rotational axis isolating the lateral deltoid head. The revised drawing assumes a back-supported selectorized machine with upper-arm roller pads and shoulder-level pivots; confirm the actual machine.
 
 - Dumbbell Lateral Raise
 - Single-Arm Rear-Delt Cable Fly
@@ -4399,7 +4404,7 @@ Guided lever machine lateral raise with padded arm rollers and fixed rotational 
 ### Review notes
 
 - Drafted from FitTrack ID 90 (Seated Machine Lateral Raise).
-- Illustration depicts seated position with 90-degree elbow flexion driving roller levers to parallel shoulder height.
+- 2026-10-21: Rebuilt as a back-supported selectorized lateral raise with upper-arm roller contact and shoulder-level pivots. Foreshortened forearms, pad placement and the actual machine linkage still require equipment review.
 
 ### References
 
@@ -4409,9 +4414,9 @@ Guided lever machine lateral raise with padded arm rollers and fixed rotational 
 
 ## Single-Arm Plate Loaded Lat Pulldown
 
-![Paired black-and-white instructional line drawings of Single-Arm Plate Loaded Lat Pulldown.](../catalog/media/8fbf93cd65cafc730797d9cd6bcd1a023fc005f702e78fe308eb8ef9afdb2c1e.png)
+![Two drawings of a unilateral plate-loaded lat pulldown using the same anatomical right arm while the left hand rests beside the left thigh.](../catalog/media/e4334201ccad117d8bca25c0ae5bbbedb7f05d7faa18e9db81bba1d3214b9869.png)
 
-Starting position / Peak contraction position
+Right arm reaching overhead on the working lever / Same right arm pulling the handle down
 
 Pull an independent plate-loaded overhead lever arm downward with one arm, securing thighs under machine pads to target latissimus fibers.
 
@@ -4424,7 +4429,7 @@ Pull an independent plate-loaded overhead lever arm downward with one arm, secur
 - **Movement:** Vertical pull; Unilateral
 - **Grip:** Semi-neutral or underhand grip on machine lever handle.
 - **Difficulty:** Intermediate (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
@@ -4470,7 +4475,7 @@ Unilateral vertical pull on a plate-loaded machine with independent converging l
 ### Review notes
 
 - Drafted from FitTrack ID 95 (Single-Arm Plate Loaded Lat Pulldown).
-- Illustration strictly depicts unilateral execution with non-working arm resting motionless on thigh and opposite lever disengaged.
+- 2026-10-21: Retained the existing plate-loaded machine design and corrected the depicted working-arm continuity. The same anatomical right arm works in both poses; exact machine linkage and technique remain unverified.
 
 ### References
 
@@ -4480,9 +4485,9 @@ Unilateral vertical pull on a plate-loaded machine with independent converging l
 
 ## Single-Arm Rear-Delt Cable Fly
 
-![Two front-view line drawings of a single-arm cable rear-delt fly; the same right hand holds the handle in both positions.](../catalog/media/c4dacb58a3c50c3babe5d5f3cd3d11e7a5e8806e990f67f34cd229f434851f11.png)
+![Two frontal drawings of a single-arm rear-delt cable fly with a shoulder-height pulley to the side, left arm reaching across the chest then opening wide while the right hand stays on the hip.](../catalog/media/cb41190266d5e629fb365b2bc2f0983efec79d08afabba6eafbe6f5731916c5e.png)
 
-Working arm across chest / Same arm opened outward
+Left hand reaches across chest toward the pulley / Same left arm opens wide at shoulder height
 
 Open one arm away from a cross-body cable reach while keeping the torso and elbow bend nearly unchanged.
 
@@ -4495,7 +4500,7 @@ Open one arm away from a cross-body cable reach while keeping the torso and elbo
 - **Movement:** Shoulder horizontal abduction; Unilateral
 - **Grip:** Neutral grip on one D-handle with the wrist aligned with the forearm.
 - **Difficulty:** Intermediate (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
@@ -4538,6 +4543,7 @@ One hand-held cable, standing with a shoulder-height pulley. Cuff attachment, lo
 
 - Pulley height and D-handle are assumptions for the generic single-arm name.
 - Source describes bilateral standing cable reverse fly; unilateral execution is an editorial adaptation requiring technique review.
+- 2026-10-21: Redrawn with the chest facing the viewer, tower to the side, and the same left arm crossing the body then opening wide. An initial arm-switching attempt was rejected. Pulley height and unilateral technique still require review.
 
 ### References
 
@@ -4618,9 +4624,9 @@ Unilateral chest-supported plate-loaded machine row with neutral handle grip and
 
 ## Single-Arm Supinated Pulldown
 
-![Paired black-and-white instructional line drawings of Single-Arm Supinated Pulldown.](../catalog/media/57f1cf020aa3a95b6a5342a0a94298dc44d435b6d952b5a958d0bb808c651ba4.png)
+![Two drawings of a seated single-arm supinated cable pulldown using the same right arm, with a fixed overhead beam supporting the pulley and the left hand resting on the thigh pad.](../catalog/media/e1dfddb21faef4d8bb3bcdad03058d37cec92f9d3dd6d41b36bf9f6120a7704d.png)
 
-Starting position / Peak contraction position
+Right arm reaching overhead with an underhand grip / Same right arm pulling the D-handle toward chest
 
 Pull a high cable D-handle downward with a supinated grip to the upper chest, aligning elbow path with latissimus fibers while seated.
 
@@ -4633,7 +4639,7 @@ Pull a high cable D-handle downward with a supinated grip to the upper chest, al
 - **Movement:** Vertical pull; Unilateral
 - **Grip:** Supinated (underhand) grip on D-handle with palm facing inward/backward.
 - **Difficulty:** Intermediate (editorial label)
-- **Review:** draft; revision 1
+- **Review:** draft; revision 2
 
 ### Setup
 
@@ -4679,7 +4685,7 @@ Unilateral vertical pulldown using a high cable pulley and D-handle with a supin
 ### Review notes
 
 - Drafted from FitTrack ID 117 (Single Arm Pulldown).
-- Supinated underhand grip specified canonically to optimize lat muscle fiber recruitment.
+- 2026-10-21: Rebuilt the supported overhead pulley and fixed the working-arm continuity after an initial arm-switching attempt. The same anatomical right arm works in both poses. Final beam proportions, pulley alignment, underhand grip visibility and equipment setup still require review.
 
 ### References
 

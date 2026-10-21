@@ -1,6 +1,6 @@
 {
   "id": "bayesian-curl",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Bayesian Curl",
@@ -44,9 +44,9 @@
   ],
   "instructions": [
     "Curl the handle forward and upward toward your shoulder by flexing your elbow.",
-    "Keep your upper arm relatively stationary behind or beside your ribcage to maintain stretch on the long head.",
+    "Keep the upper arm and elbow fixed behind the torso in the starting shoulder-extension position; move only through elbow flexion and extension.",
     "Contract your biceps forcefully at the top position with wrist supinated.",
-    "Slowly extend your elbow back under control, allowing the cable to pull your arm back into full shoulder extension and loaded biceps stretch.",
+    "Slowly extend the elbow to lower the handle while keeping the upper arm, shoulder and torso in the same position.",
     "Complete all repetitions before switching to the opposite arm."
   ],
   "cues": [
@@ -73,7 +73,7 @@
   "reviewNotes": [
     "Drafted from FitTrack ID 61 (Bayesian Curl).",
     "FitTrack description notes: 'Cable biceps curl hvor du står et skridt foran kablet for at få stræk i biceps i bundpositionen.'",
-    "Prompt specifies standing facing away from low pulley with working arm trailing behind torso in loaded stretch in panel A, curled to shoulder in panel B."
+    "2026-10-21: Revised after user image review to keep the working elbow behind the torso in both poses. The upper arm and stance should remain fixed while the elbow flexes; technique review is still pending."
   ],
   "sources": [
     {
@@ -84,15 +84,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "c76bc6f46d740d17e21f5c25c772324750eaf0c5ee3b84469d68bacf775436a5",
-    "url": "/media/c76bc6f46d740d17e21f5c25c772324750eaf0c5ee3b84469d68bacf775436a5.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Bayesian Curl.",
+    "mediaId": "f1ea345248d8b04ba0829feb357b34b3b0862b722e7fd496f818d756f250b780",
+    "url": "/media/f1ea345248d8b04ba0829feb357b34b3b0862b722e7fd496f818d756f250b780.png",
+    "left": "Elbow extended with upper arm held behind torso",
+    "right": "Elbow flexed with upper arm in the same position",
+    "alt": "Two side-view drawings of a Bayesian cable curl with the same working upper arm held behind the torso while only the elbow flexes.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "bayesian-curl",
+      "createdDate": "2026-10-21",
+      "promptId": "bayesian-curl-review-2026-10-21-r2",
       "model": null
     }
   }

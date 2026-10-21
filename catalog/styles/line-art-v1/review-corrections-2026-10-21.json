@@ -1,0 +1,322 @@
+{
+  "tool": "built-in-image-gen",
+  "styleReference": "Original frozen line-art-v1 references; generated intermediates are only edit targets alongside these originals.",
+  "note": "User review corrections. Model identifier was not exposed. Rejected outputs remain outside the catalog; their hashes and prompts record the attempts. Catalog release version is unchanged because this is an unpublished draft revision.",
+  "unchanged": [
+    {
+      "id": "captains-chair-straight-leg-raise",
+      "reason": "Existing hair is solid black; user confirmed to keep black hair matching the original style."
+    }
+  ],
+  "prompts": [
+    {
+      "id": "bayesian-curl-review-2026-10-21-r2",
+      "exerciseId": "bayesian-curl",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nEDIT TARGET: image 1, the existing Bayesian curl. Images 2 and 3 are frozen ORIGINAL STYLE REFERENCES ONLY. Correct image 1 without changing its exercise, camera, stance or character. The athlete faces right and the low pulley is BEHIND him at image-left. SAME NEAR-side working arm and underhand D-handle in both poses. Essential correction: the working upper arm slopes BACK behind the torso by about 20 degrees and stays in EXACTLY THAT POSITION in both panels; the working ELBOW stays BEHIND the ribcage at the same point. Left: elbow extended, hand behind hip. Right: ONLY THE ELBOW FLEXES, forearm rotates upward about that stationary elbow, hand finishes near lower chest rather than shoulder; do not swing upper arm or elbow forward. Duplicate shoulder/elbow/torso/feet coordinates between panels. One continuous taut cable runs from the same floor-height pulley to the handle, never through the body. Relaxed other hand by thigh. Same short SOLID BLACK hair. Restore plain faceless style, sparse contours and simple gray equipment as original anchor. Do not copy the reference exercises. All equipment fully framed.",
+      "references": [
+        "catalog/media/c76bc6f46d740d17e21f5c25c772324750eaf0c5ee3b84469d68bacf775436a5.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "c76bc6f46d740d17e21f5c25c772324750eaf0c5ee3b84469d68bacf775436a5",
+      "mediaId": "f1ea345248d8b04ba0829feb357b34b3b0862b722e7fd496f818d756f250b780",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Revised after user image review to keep the working elbow behind the torso in both poses. The upper arm and stance should remain fixed while the elbow flexes; technique review is still pending.",
+      "attempts": []
+    },
+    {
+      "id": "cable-low-fly-review-2026-10-21-r2",
+      "exerciseId": "cable-low-fly",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nRebuild the low-to-high cable fly in image 1. Image 2 is Cable High Fly, supplied ONLY as the user's approved arrangement of two towers flanking the athlete; do NOT copy its high pulley heights. Images 3 and 4 are ORIGINAL STYLE REFERENCES. Each of two equal panels must show the athlete centered BETWEEN TWO SEPARATE SLIM VERTICAL TOWERS, one at far left and one at far right, towers just behind the athlete in depth. EXACTLY TWO WORKING CABLES PER PANEL: left D-handle connects to the LEFT ANKLE-HEIGHT pulley, right D-handle to RIGHT ANKLE-HEIGHT pulley, continuous taut lines. NO upper pulleys, no upper cables, no cables connecting both panels. Left pose: arms low and open near hips, palms upward, softly bent elbows. Right: sweep arms UPWARD and inward until separate handles nearly meet in front of upper chest. Elbow angle fixed, no pressing. Identical towers, stance, floor level, camera and body scale across both. Full visible towers and bases, generous central gap. BLACK hair. Clearly show both low cable origins outside athlete's legs.",
+      "references": [
+        "catalog/media/b0cb2b76e4519ecf56bff536804d06da1930c53a9af555984fb08983d49792b6.png",
+        "catalog/media/e0d6de1b3c7720bc73c1a65cc6239f4b02c5f355d29df62e5c1cfc67536bf8f5.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "b0cb2b76e4519ecf56bff536804d06da1930c53a9af555984fb08983d49792b6",
+      "mediaId": "60089b73a9c32e063594491493db102174e1cb95e72505f8e2615feff1eda9cf",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Rebuilt tower arrangement using Cable High Fly as a composition reference; removed spurious upper cables. Two low cable origins and fixed stance were visually checked. Equipment and technique review remain pending.",
+      "attempts": []
+    },
+    {
+      "id": "machine-seated-row-review-2026-10-21-r2",
+      "exerciseId": "machine-seated-row",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nREPLACE the incorrect cable-row mechanism in image 1 with a BILATERAL SELECTORIZED CHEST-SUPPORTED LEVER ROW. Original references specify figure/style only. Compact recognizable machine, short seat, upright small CHEST pad in front of torso, feet planted on low foot supports. TWO RIGID LEVER ARMS pivot on fixed shoulder-height axles of frame in front of athlete and carry two neutral-grip handles. A simple slim rectangular weight stack at front is connected within frame, no long exposed free cable and no triangle cable-row attachment. Side three-quarter view facing right showing both hands/handles. Left: elbows nearly extended, chest remains touching pad. Right: BOTH hands pull same handles to lower ribs, both elbows behind torso; lever arms rotate around same axles. The chest pad, seat, stack, feet, torso, camera and all supports stay IDENTICAL. Sparse light gray fills, crisp outlines and no extra mechanical clutter. Same black-haired faceless character. Whole machine visible.",
+      "references": [
+        "catalog/media/7961e0f910d205416ce5b41aeeb23b7d65655f6854af6d73bbf33f176ae72bbc.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "7961e0f910d205416ce5b41aeeb23b7d65655f6854af6d73bbf33f176ae72bbc",
+      "mediaId": "3b2c74762a6f07bca8d8344e6207c3c294951e039cc0b12cbef3d3359eaf4f35",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Replaced the cable-row appearance with a generic bilateral selectorized lever machine. Chest pad, seated support and two-hand handle contact were visually checked; exact lever linkage and the gym machine still require review.",
+      "attempts": []
+    },
+    {
+      "id": "reverse-pec-deck-review-2026-10-21-r2",
+      "exerciseId": "reverse-pec-deck",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nRebuild image 1 with a completely CONSISTENT REAR THREE-QUARTER VIEW of a REVERSE PEC DECK, athlete's BACK TOWARD CAMERA in BOTH panels, facing INTO MACHINE with chest touching the front pad. Athlete straddles seat, one leg EACH SIDE of seat stem, feet planted. MACHINE/STACK is IN FRONT OF ATHLETE beyond his chest, not behind his back. Seat and rectangular pad fixed, two identical overhead lever pivot arms/vertical handles. Left: arms reaching FORWARD AWAY from viewer at shoulder height to handles close together in front of chest; foreshorten arms naturally. Right: arms OPEN SIDEWAYS wide at shoulder height, slight identical elbow bend, handles at same height, back clearly visible. Do not mirror camera or switch seating orientation between panels. Torso/chest stays on pad. Show both legs and feet fully, black short hair, simple sparse line-art and light gray frame. Original other images are style references only.",
+      "references": [
+        "catalog/media/3b153e919532d9deca5313e62819e8dfb48ba4f15c07a97c157550a1b4075d69.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "3b153e919532d9deca5313e62819e8dfb48ba4f15c07a97c157550a1b4075d69",
+      "mediaId": "a7bb5f91e74ded13b62e76425d5c3b15b56207af31ade77130061bb5da73b952",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Rebuilt both poses from the same rear three-quarter view, facing into the machine with the chest supported and legs straddling the seat. Machine pivot geometry and technique remain draft assumptions.",
+      "attempts": []
+    },
+    {
+      "id": "seated-machine-lateral-raise-review-2026-10-21-r2",
+      "exerciseId": "seated-machine-lateral-raise",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nRebuild image 1 from scratch as a standard seated SELECTORIZED LATERAL-RAISE MACHINE, NOT an overhead press or chest press. Original other references specify STYLE ONLY. Front three-quarter view, faceless BLACK-haired athlete seated upright against small fixed backrest, knees bent, feet flat. Both elbows bent 90 degrees throughout; small guide handles held lightly in front of body. Two padded rollers rest AGAINST OUTER SIDES OF UPPER ARMS JUST ABOVE ELBOWS. Lever pivots aligned with SHOULDER JOINTS on fixed frame behind shoulders, not down at hips. Left upper arms alongside torso, elbow rollers down beside ribs. Right upper arms raise OUT TO SIDES to horizontal shoulder height, rollers travel with outside upper arms, forearms still bent 90 degrees in FRONT, hands do NOT rise above head. Same shoulder pivots, lever lengths, seat, feet and torso in both panels. A compact simple weight stack behind/back side and rigid connected levers; no floating pads or frame changing. Keep sparse equipment gray, full visible frame and black shorts.",
+      "references": [
+        "catalog/media/e6983cecdcb5281408f7bce858faf29c754254d496fd09a1e14b738f17962c56.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "e6983cecdcb5281408f7bce858faf29c754254d496fd09a1e14b738f17962c56",
+      "mediaId": "ab4cb3a84932eb0325ea769272dfa0dee1b4e04972d72d5bb5017ee3ee3bf7ab",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Rebuilt as a back-supported selectorized lateral raise with upper-arm roller contact and shoulder-level pivots. Foreshortened forearms, pad placement and the actual machine linkage still require equipment review.",
+      "attempts": []
+    },
+    {
+      "id": "single-arm-plate-loaded-lat-pulldown-review-2026-10-21-r2",
+      "exerciseId": "single-arm-plate-loaded-lat-pulldown",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nEDIT image 1. PRESERVE the existing recognizable plate-loaded pulldown machine, weight plates, seat, thigh restraint, camera and character. Other images are original style references only. ONLY correct working-arm continuity and necessary handle position: use ATHLETE'S ANATOMICAL RIGHT ARM, visible on the LEFT SIDE OF HIS CHEST in this front-three-quarter view, as the working arm in BOTH panels. Working hand grasps same machine handle overhead in LEFT pose, then pulls same handle down near RIGHT collarbone with right elbow driven down beside RIGHT ribs in RIGHT pose. His anatomical LEFT HAND (viewer-right) rests flat on LEFT THIGH in BOTH poses. Do not mirror torso, switch hands, cross hands or rotate viewpoint. Keep same right shoulder landmark and upper-arm origin. SAME fixed lever axle and load horn in both panels; moving lever rotates naturally, no machine replacement. Black hair, original plain faceless style.",
+      "references": [
+        "catalog/media/8fbf93cd65cafc730797d9cd6bcd1a023fc005f702e78fe308eb8ef9afdb2c1e.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "8fbf93cd65cafc730797d9cd6bcd1a023fc005f702e78fe308eb8ef9afdb2c1e",
+      "mediaId": "e4334201ccad117d8bca25c0ae5bbbedb7f05d7faa18e9db81bba1d3214b9869",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Retained the existing plate-loaded machine design and corrected the depicted working-arm continuity. The same anatomical right arm works in both poses; exact machine linkage and technique remain unverified.",
+      "attempts": []
+    },
+    {
+      "id": "scapular-pull-up-review-2026-10-21-r2",
+      "exerciseId": "scapular-pull-up",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nRebuild image 1 as an unmistakable SCAPULAR PULL-UP comparison with exactly same straight-elbow bar grip and body proportions in both panels. Other references specify ORIGINAL STYLE ONLY. User confirmed same SOLID BLACK HAIR in both panels. Clear almost FRONT/REAR THREE-QUARTER view that shows shoulder-to-ear clearance. LEFT: passive dead hang, shoulders visibly SHRUGGED UP tight to ears, neck almost disappears between upper arms, chest relaxed/lower. RIGHT: ACTIVE HANG from scapular DEPRESSION, shoulders pulled DOWN away from ears, visibly longer exposed neck, chest lifted and entire torso/pelvis/feet a SMALL visible 5-8 cm HIGHER with hands/bar staying fixed. Elbows COMPLETELY STRAIGHT in BOTH poses, do not turn into a bent-arm pullup, do not change arm length, do not arch strongly. Same black-haired faceless figure, black shorts, white trainers. Same pullup rack, bar height, grip spacing, camera, feet together, no arrows/text. Emphasize shoulder shrug versus shoulders down at thumbnail size, using real small movement rather than a large pullup.",
+      "references": [
+        "catalog/media/eed3cd7ede8756567d1483d6aa5f1ed3934f6767cacb71098951a94130436991.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "eed3cd7ede8756567d1483d6aa5f1ed3934f6767cacb71098951a94130436991",
+      "mediaId": "05d238216489eb69d14b2be714bcff291cb6b6d56aab6b8c1888bc810bf57db2",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Increased the visible shoulder-to-ear difference between passive and active hangs without a bent-elbow pull-up. Black hair retained as confirmed by the user. The small scapular range and body rise remain subject to technique review.",
+      "attempts": []
+    },
+    {
+      "id": "single-arm-rear-delt-cable-fly-review-2026-10-21-r2",
+      "exerciseId": "single-arm-rear-delt-cable-fly",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nTARGETED CORRECTION of image 1. KEEP THE ENTIRE RIGHT PANEL EXACTLY AS IT IS. ONLY REDRAW THE TWO ARMS IN THE LEFT PANEL. The right panel correctly works the athlete's LEFT arm (the shoulder on VIEWER-RIGHT), opening out to viewer-right. In LEFT PANEL the SAME viewer-right SHOULDER must be the working shoulder: draw that upper arm HORIZONTALLY ACROSS THE CHEST TO VIEWER-LEFT, with the D-handle at the athlete's OPPOSITE SHOULDER near the tower. Thus the working hand is LEFT OF HIS STERNUM in the start pose, not to the right. Left-panel free RIGHT hand (viewer-left shoulder) is DOWN ON HIS RIGHT HIP AT VIEWER-LEFT, EXACTLY LIKE THE RIGHT PANEL. One short taut cable from viewer-left tower pulley to crossed-over working hand. NO HAND CHANGES. No hand at viewer-right in LEFT panel. Keep lower body, face, black hair, both towers, all other elements. Original style refs provided additionally. Preserve right panel.",
+      "references": [
+        "generated-image:00976cd713b75a1ea438952e7fe7cff8734fb5669cde4a26e6499c2842d3f602",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "c4dacb58a3c50c3babe5d5f3cd3d11e7a5e8806e990f67f34cd229f434851f11",
+      "mediaId": "cb41190266d5e629fb365b2bc2f0983efec79d08afabba6eafbe6f5731916c5e",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Redrawn with the chest facing the viewer, tower to the side, and the same left arm crossing the body then opening wide. An initial arm-switching attempt was rejected. Pulley height and unilateral technique still require review.",
+      "attempts": [
+        {
+          "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nRebuild image 1 as CROSS-BODY SINGLE-ARM REAR-DELTOID CABLE FLY. Other images are ORIGINAL STYLE REFERENCES ONLY. Athlete stands SIDE-ON TO ONE SHOULDER-HEIGHT CABLE TOWER at image-LEFT, chest FACING THE CAMERA, feet and torso do not rotate. Work with athlete's LEFT ARM (on viewer-RIGHT) in BOTH panels; right hand rests on right hip in BOTH panels. LEFT panel: working LEFT HAND reaches ACROSS HIS OWN CHEST toward IMAGE-LEFT/near tower, working arm crosses the body horizontally at shoulder height. Cable is short from shoulder-height pulley at far left to that crossed-over D-handle. RIGHT panel: SAME LEFT ARM opens WIDE TO IMAGE-RIGHT, upper arm at shoulder height, elbow gently bent with same angle, hand out beside body, one continuous taut cable from image-left tower across in FRONT of upper chest to D-handle at far image-right. No row, no elbow flexion, no switching arms, no push to front, no torso turn. Fully frame tower and person with generous spacing, plain black hair, minimal gray equipment.",
+          "references": [
+            "catalog/media/c4dacb58a3c50c3babe5d5f3cd3d11e7a5e8806e990f67f34cd229f434851f11.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+          ],
+          "mediaId": "00976cd713b75a1ea438952e7fe7cff8734fb5669cde4a26e6499c2842d3f602",
+          "disposition": "rejected",
+          "reason": "Working arm still changes between panels."
+        }
+      ]
+    },
+    {
+      "id": "single-arm-supinated-pulldown-review-2026-10-21-r2",
+      "exerciseId": "single-arm-supinated-pulldown",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nTARGETED CORRECTION of image 1. KEEP THE WHOLE RIGHT PANEL EXACTLY UNCHANGED. ONLY REDRAW ARMS IN LEFT PANEL. Current left panel uses wrong far arm. Match RIGHT PANEL'S NEAR WORKING ARM: athlete's anatomical RIGHT SHOULDER is at VIEWER-LEFT EDGE of torso. IN LEFT PANEL raise THAT NEAR ARM from viewer-left shoulder up toward the D-handle. The far LEFT ARM from viewer-right shoulder MUST BE DOWN with left hand resting on VIEWER-RIGHT THIGH just like right panel. Make a clear white gap between the raised NEAR ARM and the left edge of his head so its shoulder origin is unmistakable. If necessary shift left-panel overhead D-handle and same fixed supported pulley a little viewer-left to line up with working shoulder, and make corresponding identical pulley position in right panel; fixed crossbeam supports it. No working arm originating from viewer-right shoulder in either panel. DO NOT SWITCH ARMS. KEEP UNDERHAND PALM FACING ATHLETE in both poses, fixed seat, leg pads, feet, black hair and simple equipment. Original other refs specify style only.",
+      "references": [
+        "generated-image:f48a58310d22bcd7aaebd58bd558e381deed75847db4a84dba5bcd45f0d28ccb",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "57f1cf020aa3a95b6a5342a0a94298dc44d435b6d952b5a958d0bb808c651ba4",
+      "mediaId": "e1dfddb21faef4d8bb3bcdad03058d37cec92f9d3dd6d41b36bf9f6120a7704d",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Rebuilt the supported overhead pulley and fixed the working-arm continuity after an initial arm-switching attempt. The same anatomical right arm works in both poses. Final beam proportions, pulley alignment, underhand grip visibility and equipment setup still require review.",
+      "attempts": [
+        {
+          "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nComplete DO-OVER of image 1 as a proper ONE-ARM SUPINATED CABLE LAT PULLDOWN. Other images are original style references only. Front three-quarter view, seated athlete with fixed thigh restraint, bent knees, FEET FLAT ON FLOOR. One simple vertical selectorized stack/tower BEHIND and slightly to his RIGHT, with rigid OVERHEAD CROSSBEAM fixed to tower and a visible supported pulley directly ABOVE WORKING RIGHT SHOULDER. One cable goes from stack UP behind tower over supported overhead pulley then STRAIGHT DOWN IN FRONT to a single D-handle. NO floating pulleys, angled freestanding rods, lever-machine arms, low row footplate, cable through body or limb changes. Use athlete's ANATOMICAL RIGHT ARM (viewer-left) in BOTH panels, palm facing athlete in underhand grip. His LEFT HAND (viewer-right) rests on LEFT THIGH in BOTH panels. Left: right elbow nearly straight and hand overhead below pulley. Right: right elbow bends and moves DOWN beside RIGHT ribs, hand at RIGHT collarbone, same pulley supports and frame unchanged, visible cable segment LENGTHENS naturally from overhead pulley to lowered handle. Resting hand, shoulders, thighs, knees, feet, seat and perspective stay identical. Black hair, no facial features, simple gray stack and equipment. Full equipment without cropping.",
+          "references": [
+            "catalog/media/57f1cf020aa3a95b6a5342a0a94298dc44d435b6d952b5a958d0bb808c651ba4.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/dumbbell-lateral-raise.png"
+          ],
+          "mediaId": "f48a58310d22bcd7aaebd58bd558e381deed75847db4a84dba5bcd45f0d28ccb",
+          "disposition": "rejected",
+          "reason": "Working arm still changes between panels."
+        }
+      ]
+    },
+    {
+      "id": "machine-seated-leg-curl-review-2026-10-21-r2",
+      "exerciseId": "machine-seated-leg-curl",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nRedo the SEATED LEG CURL from a PURE SIDE VIEW, facing RIGHT. Image 1 is a FAILED attempt: do NOT copy its shin roller location, knee pivot or insufficient curl. Other images specify original style only. Two equal panels with IDENTICAL fixed machine and supported torso. KNEE AXLE must be aligned with the actual knee at END OF SEAT (not beside thigh). Draw only one visible near leg with far leg slightly offset, simple geometric readability. TOP THIGH PAD sits on TOP of thighs; LOWER ANKLE ROLLER sits on BACK OF LOWER CALVES. LEFT PANEL: thigh and shin extend roughly horizontally to RIGHT, knee gently bent. Lower padded cylinder sits UNDER Achilles/lower calf, with the entire foot/toes BEYOND roller at image-right, toe points up, roller must be BELOW calf NOT ON TOP. RIGHT PANEL: flex knees ~105 degrees, heels pulled DOWN AND BACK UNDER SEAT. LOWER ROLLER NOW TOUCHES THE BACK OF CALF AT IMAGE-LEFT OF ANKLE, i.e. roller BETWEEN the seat rear and the ankle. SHOES are IN FRONT/TO RIGHT OF THAT ROLLER with toes pointing right. NEVER put roller on front of shin/image-right of ankle. Both heels hook and PULL roller toward back under seat. Visible rigid lever connects ankle roller to SAME KNEE AXLE and keeps same distance throughout; one single axle, no extra floating pulleys. Compact weight stack behind seat, selected plates RISE during knee flexion. Do not copy a leg-extension diagram. Plain faceless black-haired figure, black shorts, white trainers, sparse gray geometry.",
+      "references": [
+        "generated-image:fbbe4ef51c5faedec393d915dd90b64a50e543544716e4c6ed842b9ecedcdaa0",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/machine-hip-thrust.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "75045862d666d53d01460936c00ca5d83a7f1eeb8e8d8e68e7447ef7bdb1d952",
+      "mediaId": "a293ea375c37ea2df535028ba8cc3a5584aa670c52a7ae896e47a50521b9f8b8",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Rebuilt the knee-level lever and moved the lower roller from the shin side to posterior lower-calf contact. Earlier incorrect shin-contact attempts were rejected. Actual roller adjustment and machine geometry remain unverified.",
+      "attempts": [
+        {
+          "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nRebuild image 1 as a SELECTORIZED SEATED HAMSTRING CURL; original reference images specify style only. Side view facing right, seat/backrest and thigh restraint fixed. Visible knee-level axle with one rigid lever to lower roller. CRITICAL lower roller contacts the BACK/UNDERSIDE of lower calves just ABOVE heels, NEVER fronts of shins. Left: thighs horizontal under stationary upper thigh pad, knees nearly extended, lower roller physically UNDER the lower calves, toes point up; heel/foot lie just beyond roller toward image-right. Right: knees flex to about 100 degrees, heels curl DOWN AND BACK beneath seat, lower roller is in FRONT of shoes in the drawing (image-right of heels) but touching posterior lower calves: feet are BEHIND it toward the seat, pulling the padded roller backward, not pushing against its front. Show both feet, shins and calf contact clearly with simple side-view geometry. Exactly same knee pivot, roller radius, fixed seat and frame across poses. Roller rotates as one rigid arm around knee axle. Do not depict a leg-extension machine. No face features, solid black hair, simple white trainers.",
+          "references": [
+            "catalog/media/75045862d666d53d01460936c00ca5d83a7f1eeb8e8d8e68e7447ef7bdb1d952.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/machine-hip-thrust.png"
+          ],
+          "mediaId": "fbbe4ef51c5faedec393d915dd90b64a50e543544716e4c6ed842b9ecedcdaa0",
+          "disposition": "rejected",
+          "reason": "Roller still drawn in front of shins; wrong knee pivot and insufficient knee flexion."
+        }
+      ]
+    },
+    {
+      "id": "leg-press-calf-press-review-2026-10-21-r2",
+      "exerciseId": "leg-press-calf-press",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nPrecise LOCAL EDIT of image 1. KEEP LEFT PANEL ENTIRELY UNCHANGED. KEEP BOTH MACHINES, SEAT, BODY, THIGHS, KNEES AND SHINS ENTIRELY UNCHANGED. Only redraw RIGHT-PANEL SHOES AND ANKLES to clearly depict PLANTAR FLEXION. Current shoes are almost vertical in both poses; WRONG. In RIGHT panel point BOTH SHOES DIAGONALLY UP-RIGHT so each shoe's heel-to-toe LONG AXIS is ~40 DEGREES ABOVE HORIZONTAL instead of near-vertical. ANKLES EXTEND: toe points AWAY from shin, SHOE SOLE is much MORE ALIGNED WITH SHIN. Pivot each shoe about fixed BALL OF FOOT on VERY BOTTOM EDGE of footplate; HEEL SWINGS UP AND LEFT and stays completely FREE BELOW EDGE WITH VISIBLE WHITE AIR GAP. Small ~3 cm sled travel permissible, knees NEVER move. Two offset shoes, both matching angle, not just one visible foot. Do not alter any other part of either panel. Original image2/3 style refs unchanged.",
+      "references": [
+        "generated-image:6265882e0af2523ec85cfa08b65b241a781083196cc5a6b2f2c585867256b93b",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/machine-hip-thrust.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "859fcd42dff5d305280e4b5735357143f52411cc42e213d8ae6e0419f5afb37f",
+      "mediaId": "c479d5660042f19659a20c4e45d2932ddfc75d555b779304a7b4b549d3666795",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Rebuilt the sled and forefoot contact after user review; heels are shown beyond the lower footplate edge. Earlier knee-extension and moving-seat attempts were rejected. Final ankle contrast and exact footplate clearance still need user/equipment review; this remains a draft.",
+      "attempts": [
+        {
+          "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nRebuild the exercise in image 1 as a genuine 45-degree SLED LEG-PRESS CALF PRESS. Remaining images are ORIGINAL STYLE REFERENCES ONLY. Side three-quarter view, athlete reclined on fixed seat/backrest, head left, feet right. A FOOTPLATE/SLED carriage rides TWO STRAIGHT 45-degree rails rising to the RIGHT away from the seated athlete. Same frame in both panels, modest carriage displacement only. CRITICAL: ONLY THE BALLS/TOES of BOTH SHOES contact the LOWER EDGE of the footplate. Both shoe HEELS extend freely BELOW and PAST the plate edge with clearly visible WHITE AIR GAP behind both heels: absolutely no full-foot contact. Make plate edge and forefoot contact unmistakable. Left: ankles dorsiflexed, heels dropped toward the athlete; right: ankles plantarflexed, forefeet push carriage away, heels raised while still floating beyond edge. Knees maintain same gentle bend, do not do a leg press squat. Whole person and rails fully framed. Sparse light-gray machine geometry.",
+          "references": [
+            "catalog/media/859fcd42dff5d305280e4b5735357143f52411cc42e213d8ae6e0419f5afb37f.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/machine-hip-thrust.png"
+          ],
+          "mediaId": "d8f461b44372167fd3c7c76c2f33390af775df836e294a6818eeb484f678204b",
+          "disposition": "rejected",
+          "reason": "Knee angle changes between poses and heel clearance remains unclear."
+        },
+        {
+          "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nTARGETED CORRECTION of image 1 (45-degree sled calf press); other images are original style only. KEEP machine frame, fixed seat/backrest and SAME human torso/legs in both panels. COPY RIGHT PANEL'S NEARLY STRAIGHT LEGS INTO LEFT PANEL: knees gently unlocked ~5 degrees in BOTH, NO LEG PRESS KNEE BEND. Change ONLY ankles and tiny carriage position. CRITICAL: move BOTH FEET DOWN toward LOWER EDGE of footplate so ONLY TOE/FOREFOOT contacts the LAST FEW CENTIMETRES at that edge, not the middle of plate. THE SHOE HEELS AND REAR HALF OF SOLES FLOAT BELOW THE LOWER PLATE EDGE, OUT IN EMPTY WHITE SPACE, in BOTH panels. Draw an obvious white gap between heel and plate, side contour of each heel beyond plate's bottom edge. Left: ankle dorsiflexed, toes up toward shin, heel dropped backward toward athlete. Right: ankle plantarflexed, shoe points MORE IN LINE WITH SHIN, athlete pushes through ball of foot, heel lifted while still free of plate. Same knee locations, hips and whole leg lengths, only small ankle range and sled travel. Do not draw feet flat on plate or a full leg press. Exactly two legs/two feet; frame whole machine with margins.",
+          "references": [
+            "generated-image:d8f461b44372167fd3c7c76c2f33390af775df836e294a6818eeb484f678204b",
+            ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/machine-hip-thrust.png"
+          ],
+          "mediaId": "3efd30bafd1cffbae6c4ddd69bbedb3b3fe374a1b96b9b5caa51f8877ede53a9",
+          "disposition": "rejected",
+          "reason": "Still a knee-extension leg press with full-foot contact instead of fixed-knee ankle motion."
+        },
+        {
+          "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nCOMPLETE REDRAW of the exercise in image 1; old knee-bending poses and full-foot placement are WRONG, do not preserve them. Other two images are ORIGINAL STYLE REFERENCES only. Draw a clean PURE SIDE VIEW of a 45-degree SLED CALF PRESS. TWO equally sized panels. Athlete reclined in seat at far LEFT, legs extend up-right with KNEES ALMOST STRAIGHT and IDENTICAL IN BOTH PANELS. The MACHINE FOOTPLATE is a SHORT thin upright rectangle tilted perpendicular to leg/rail direction. The BALL OF THE SHOE rests on the footplate's VERY BOTTOM EDGE. Most of both shoes including heels hangs BELOW THIS EDGE IN OPEN WHITE SPACE. Cropping the lower part of a normal footplate is NOT enough: lower plate edge must END at ball of foot, with NO PLATE BEHIND THE REAR TWO-THIRDS OF SOLE. Clearly show soles and floating heels in profile below plate. LEFT POSE: heels drop back toward seat with toes lifted toward shin; RIGHT POSE: ankles extend and toes point diagonally up-right in same direction as shin, heel comes up while remaining free. NOTHING AT KNEES, HIPS OR TORSO MOVES. The leg press sled moves only ~3 cm from ankle motion; NOT long leg-extension displacement. Side-by-side comparison must show two different ANKLE ANGLES and same knee angle. Parallel thin 45-degree rails support moving footplate, fixed reclining seat, simple gray frame and optional single plate horn. No giant rectangular footplate under entire foot. Prioritize unobstructed forefoot-only contact and visible FLOATING HEELS. Small white trainers with black outlines/laces, black shorts, black hair. Whole equipment fully visible.",
+          "references": [
+            "catalog/media/859fcd42dff5d305280e4b5735357143f52411cc42e213d8ae6e0419f5afb37f.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/machine-hip-thrust.png"
+          ],
+          "mediaId": "052950ee9c35d5ed5f2e59952d448d69bb72c74b06f6bcfbcb1bf82a2e60aadd",
+          "disposition": "rejected",
+          "reason": "Free heels improved, but machine resembles a moving-seat press and ankle contrast remains unclear."
+        },
+        {
+          "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nEdit image 1, retain its visible FREE HEELS hanging beyond lower edge of plate, same character, style and nearly-straight knees. Other images are original style anchors only. CORRECT THE MACHINE: a 45-degree leg press has a FIXED reclined seat at image-left, TWO guide rails extend UPWARD TO IMAGE-RIGHT behind footplate, and the FOOTPLATE is ATTACHED TO A MOVING SLED on those rails with weight plate horn. Seat NEVER rides down-left rails; remove the old hack-squat-like rail mechanism under the seat. Rebuild frame as two diagonal rails from base bottom-middle rising to far top-right, with short fixed footplate mounted on moving sled along them. NO support strut pins the footplate to floor, it must slide along diagonal rails. Show one large gray weight plate attached to sled just behind footplate. FOOT CORRECTION: shoe balls/toes ONLY at BOTTOM EDGE of short footplate, both heels in EMPTY WHITE SPACE below edge as in image1. Left shoes at ankle stretch roughly 70 degrees relative to shin. Right shoes point much more along shin, roughly 120 degrees relative to shin (plantarflexion), creating clear ankle angle difference. BOTH KNEES same 5-degree bend, same legs and torso, only ankles and slight ~3 cm sled movement. Fixed seat stays same height/location; same rails, frame and camera both panels. Whole machine and rails framed with white margins. Exactly two feet in both panels.",
+          "references": [
+            "generated-image:052950ee9c35d5ed5f2e59952d448d69bb72c74b06f6bcfbcb1bf82a2e60aadd",
+            ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/machine-hip-thrust.png"
+          ],
+          "mediaId": "6265882e0af2523ec85cfa08b65b241a781083196cc5a6b2f2c585867256b93b",
+          "disposition": "rejected",
+          "reason": "Machine now recognizable and heels free, but ankle difference still weak."
+        }
+      ]
+    },
+    {
+      "id": "pendulum-squat-review-2026-10-21-r2",
+      "exerciseId": "pendulum-squat",
+      "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nPrecise geometry correction of image 1. KEEP LEFT PANEL COMPLETELY UNCHANGED. KEEP RIGHT FIXED A-FRAME/PIVOT/BASE/FOOTPLATE completely UNCHANGED at SAME height as left. Right moving pendulum arm and backrest is too LONG. The left long member is one RIGID PART, from high axle all the way to bottom of backrest, including portion behind athlete. RIGHT must be a ROTATED EXACT DUPLICATE of this WHOLE moving left member, SAME TOTAL LENGTH/width and backrest pad dimensions. Right member swings closer to vertical, so bottom of backrest moves LEFT AND SLIGHTLY DOWN along circle about fixed axle, never extends farther away from axle. Move right athlete's supported torso/backrest LEFT and UP relative to current wrong stretched machine, maintain feet fixed on plate, knees bend to accommodate. A moderate squat is preferable to changing rigid arm length. Same body dimensions, no arm/neck stretching. The right plate horn must be part of same rotating member, same load. Preserve black hair and original sparse style. NO TELESCOPING of moving part and NO movement of fixed frame.",
+      "references": [
+        "generated-image:a9845608587202efe9ad88211f2cbad1731da75331bdf422f9ab8c8e4211c8f0",
+        ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+        ".agents/skills/exercise-atlas-authoring/assets/references/machine-hip-thrust.png"
+      ],
+      "createdDate": "2026-10-21",
+      "model": null,
+      "previousMediaId": "f7cbe6994ae388be428078ebfeed9d526b52c4981f22554f208d8e41ebb5d429",
+      "mediaId": "86c0a2fb38017aa95fffbf181c351899704611c7c10c1192abcc5b9828ca810a",
+      "reviewStatus": "draft",
+      "visualReview": "2026-10-21: Reworked the reclined start and high-pivot pendulum layout after user review. Attempts with changing frame height or apparent arm extension were rejected. The final drawing is a generic draft: rigid-arm length, load-horn linkage and movement arc must still be checked against the actual machine.",
+      "attempts": [
+        {
+          "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nREBUILD image 1 as a true PENDULUM SQUAT. Other images are frozen ORIGINAL STYLE REFERENCES ONLY. Side view facing RIGHT, large rigid A-frame has a FIXED HIGH PIVOT BEHIND/ABOVE the athlete at image-left. ONE STRAIGHT RIGID PENDULUM ARM hangs DOWN AND FORWARD from that high pivot to the shoulder harness/backrest; a short counterweight extension goes behind pivot. Do not use a bent flexible arch, vertical sliding rails or hack-squat sled. Fixed angled footplate at bottom-right in BOTH panels. Athlete shoulders under two pads, back supported, hands grip harness handles near shoulders. LEFT: top position already RECLINED about 30 degrees from vertical, body angled from shoulders upper-left to feet lower-right, knees softly bent, not standing vertically. RIGHT: deep squat with knees flexed and hips lowered/back while feet stay fixed, SAME LENGTH pendulum arm swings about SAME HIGH AXLE, shoulder/back pads rotate WITH arm along a CIRCULAR ARC, reclining upper body remains supported. Same person size, footplate, pivot, base geometry, plate horn and rigid-arm length. Visible simple weight plates on fixed horn attached to moving assembly, no plates teleporting across frame. Full body and whole machine framed. Exact manufacturer and starting angles vary, render a generic mechanically readable hanging-arm design, no brand/logo. Plain faceless head with BLACK hair, original simple line style.",
+          "references": [
+            "catalog/media/f7cbe6994ae388be428078ebfeed9d526b52c4981f22554f208d8e41ebb5d429.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/machine-hip-thrust.png"
+          ],
+          "mediaId": "3eec95f59db1e7ce132b903659fd6726e599859471c69597de51d632987487a3",
+          "disposition": "rejected",
+          "reason": "Fixed frame/pivot height changes between panels."
+        },
+        {
+          "prompt": "Use case: scientific-educational. Original exercise-library artwork with the visual simplicity of classic black-and-white fitness instruction drawings. Crisp clean black contours, white body fill, a few light gray equipment fills, very sparse anatomical contour lines, no hatching, no gradients, no realistic rendering, no shadows. SAME faceless athletic adult male mannequin with short simple hair silhouette, bare torso, plain black shorts, simple white trainers in both panels. White background. Wide 3:2 landscape composition, two equal panels with generous gap; same camera, scale and equipment in each. No text, no labels, no arrows, no decorative borders, no muscle-color overlay. Whole person and all functional equipment visible without cropping. Exactly two arms, two legs and two hands per figure. The two panels show distinct positions of ONE repetition. Machine joints and equipment must be mechanically plausible; no body intersects objects. This is a new original illustration, not a copy of an existing illustration.\nTARGETED CORRECTION of image1 PENDULUM SQUAT, other images original style anchors only. LEFT and RIGHT must have IDENTICAL FIXED A-FRAME, HIGH PIVOT HEIGHT AND FIXED FOOTPLATE. Currently right pivot is lower: WRONG. COPY THE ENTIRE LEFT A-FRAME, fixed pivot and base/footplate into RIGHT PANEL, same scale and floor alignment. Left and right high axle must line up HORIZONTALLY at exactly the SAME HEIGHT. The long pendulum arm from high axle to shoulder harness has EXACTLY SAME LENGTH in both panels: it only ROTATES, NEVER TELESCOPES. Right pose shoulder harness moves DOWN AND TOWARD HIGH PIVOT as arm swings closer to VERTICAL, following a circular radius. Harness/backrest rotates with rigid pendulum assembly. Deep knee flexion and hips down, feet unmoved on same inclined plate. Left position remains reclined, knees softly unlocked; right deep squat. KEEP same hands on harness and same body proportions. Crucial machine has fixed high pivot at same exact coordinates relative to floor in both panels and rigid fixed-length moving arm. Plate load horn belongs to moving rigid assembly and rotates about same axle. No fixed structure shrinks or moves. White space, simple gray geometry, black-haired faceless character.",
+          "references": [
+            "generated-image:3eec95f59db1e7ce132b903659fd6726e599859471c69597de51d632987487a3",
+            ".agents/skills/exercise-atlas-authoring/assets/references/seated-cable-row-wrist-cuffs.png",
+            ".agents/skills/exercise-atlas-authoring/assets/references/machine-hip-thrust.png"
+          ],
+          "mediaId": "a9845608587202efe9ad88211f2cbad1731da75331bdf422f9ab8c8e4211c8f0",
+          "disposition": "rejected",
+          "reason": "Fixed axle aligned, but moving backrest/arm length still changes."
+        }
+      ]
+    }
+  ]
+}

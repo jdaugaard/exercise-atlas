@@ -1,6 +1,6 @@
 {
   "id": "seated-machine-lateral-raise",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Seated Machine Lateral Raise",
@@ -38,7 +38,7 @@
   "description": "Abduct both arms outward and upward against padded machine levers while seated, isolating the lateral deltoids through guided resistance.",
   "setup": [
     "Adjust the seat height so your shoulder joints align directly with the machine's pivot axes.",
-    "Sit tall with your chest or back firmly supported by the torso pad and feet flat on the floor.",
+    "Sit tall with the back supported by the torso pad and feet flat on the floor.",
     "Place your upper arms/elbows against the inside of the roller pads, holding the guide handles lightly with elbows bent ~90 degrees."
   ],
   "instructions": [
@@ -67,10 +67,10 @@
     "Single-Arm Rear-Delt Cable Fly",
     "Standing Barbell Strict Press"
   ],
-  "variantNote": "Guided lever machine lateral raise with padded arm rollers and fixed rotational axis isolating the lateral deltoid head.",
+  "variantNote": "Guided lever machine lateral raise with padded arm rollers and fixed rotational axis isolating the lateral deltoid head. The revised drawing assumes a back-supported selectorized machine with upper-arm roller pads and shoulder-level pivots; confirm the actual machine.",
   "reviewNotes": [
     "Drafted from FitTrack ID 90 (Seated Machine Lateral Raise).",
-    "Illustration depicts seated position with 90-degree elbow flexion driving roller levers to parallel shoulder height."
+    "2026-10-21: Rebuilt as a back-supported selectorized lateral raise with upper-arm roller contact and shoulder-level pivots. Foreshortened forearms, pad placement and the actual machine linkage still require equipment review."
   ],
   "sources": [
     {
@@ -81,15 +81,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "e6983cecdcb5281408f7bce858faf29c754254d496fd09a1e14b738f17962c56",
-    "url": "/media/e6983cecdcb5281408f7bce858faf29c754254d496fd09a1e14b738f17962c56.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Seated Machine Lateral Raise.",
+    "mediaId": "ab4cb3a84932eb0325ea769272dfa0dee1b4e04972d72d5bb5017ee3ee3bf7ab",
+    "url": "/media/ab4cb3a84932eb0325ea769272dfa0dee1b4e04972d72d5bb5017ee3ee3bf7ab.png",
+    "left": "Upper arms beside torso against roller pads",
+    "right": "Upper arms lifted outward to shoulder height",
+    "alt": "Two drawings of a seated machine lateral raise with back support, upper-arm rollers and shoulder-level lever pivots, showing lowered and raised upper arms.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "seated-machine-lateral-raise",
+      "createdDate": "2026-10-21",
+      "promptId": "seated-machine-lateral-raise-review-2026-10-21-r2",
       "model": null
     }
   }

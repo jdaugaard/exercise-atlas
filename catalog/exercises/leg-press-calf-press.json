@@ -1,6 +1,6 @@
 {
   "id": "leg-press-calf-press",
-  "revision": 1,
+  "revision": 2,
   "reviewStatus": "draft",
   "reviewedAt": null,
   "name": "Leg Press Calf Press",
@@ -66,7 +66,7 @@
   "variantNote": "Calf press performed on a 45-degree sled leg press machine with straight legs to recruit the gastrocnemius under stretch.",
   "reviewNotes": [
     "Drafted from FitTrack ID 100 (Calf Press (Leg Press)).",
-    "Illustration depicts soft knee extension and ankle dorsiflexion to plantar flexion range of motion on an incline carriage."
+    "2026-10-21: Rebuilt the sled and forefoot contact after user review; heels are shown beyond the lower footplate edge. Earlier knee-extension and moving-seat attempts were rejected. Final ankle contrast and exact footplate clearance still need user/equipment review; this remains a draft."
   ],
   "sources": [
     {
@@ -77,15 +77,15 @@
   ],
   "illustration": {
     "styleId": "line-art-v1",
-    "mediaId": "859fcd42dff5d305280e4b5735357143f52411cc42e213d8ae6e0419f5afb37f",
-    "url": "/media/859fcd42dff5d305280e4b5735357143f52411cc42e213d8ae6e0419f5afb37f.png",
-    "left": "Starting position",
-    "right": "Peak contraction position",
-    "alt": "Paired black-and-white instructional line drawings of Leg Press Calf Press.",
+    "mediaId": "c479d5660042f19659a20c4e45d2932ddfc75d555b779304a7b4b549d3666795",
+    "url": "/media/c479d5660042f19659a20c4e45d2932ddfc75d555b779304a7b4b549d3666795.png",
+    "left": "Ankles dorsiflexed with heels free below the plate",
+    "right": "Forefeet press the sled as ankles plantarflex",
+    "alt": "Paired drawings of a sled leg-press calf press with nearly straight knees, forefeet at the lower footplate edge and both heels free of the plate.",
     "generation": {
       "method": "built-in-image-gen",
-      "createdDate": "2026-10-20",
-      "promptId": "leg-press-calf-press",
+      "createdDate": "2026-10-21",
+      "promptId": "leg-press-calf-press-review-2026-10-21-r2",
       "model": null
     }
   }
