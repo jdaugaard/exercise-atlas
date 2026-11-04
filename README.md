@@ -1,22 +1,35 @@
 # Exercise Atlas
 
-A curated exercise catalog with original black-and-white illustrations, reusable authoring instructions and a read-only HTTP API. Catalog version 0.2.0 contains 22 complete draft entries:
+An illustrated strength exercise catalog you can add to. Each entry has English and Danish names, setup and movement cues, muscle roles, and a pair of black-and-white drawings showing the start and finish.
 
-- **Presses and chest:** Barbell Bench Press, Decline Dumbbell Bench Press, Flat Dumbbell Fly, Standing Barbell Strict Press, Standing Dumbbell Strict Press.
-- **Legs and hips:** Barbell Back Squat, Barbell Deadlift, Barbell Romanian Deadlift, Machine Hip Thrust.
-- **Rows and pulldowns:** Bent-Over Barbell Row, Supinated Barbell Bent-Over Row, Seated Cable Row, Seated Cable Row with Wrist Cuffs, Seated Lat Pulldown Machine.
-- **Shoulder isolation:** Dumbbell Lateral Raise, Single-Arm Rear-Delt Cable Fly.
-- **Curls and triceps:** Standing Barbell Curl, Incline Dumbbell Biceps Curl, Dumbbell Hammer Curl, Machine Preacher Curl, Overhead Rope Cable Triceps Extension, Cable Triceps Pushdown.
+**[Create an exercise with the authoring skill](.agents/skills/exercise-atlas-authoring/SKILL.md)** · [Browse the 79 illustrated drafts](docs/examples.md)
 
-Every entry includes English and Danish names, aliases, muscle roles, equipment, setup, movement instructions, cues, mistakes, alternatives, load-logging conventions, source scope and illustration provenance. The wrist-cuff row assumes two independent low cables; machine illustrations are generic schematics. All entries need technique and equipment review. The illustrations are approved as a visual direction, not validated demonstrations.
+## ✍️ Create your first exercise
 
-Equipment assumptions are recorded in each entry. In particular, the preacher-curl illustration still needs its lever and pivot geometry corrected against a real machine. The overhead rope entry uses a low pulley behind the athlete, the pushdown uses a straight bar, and the single-arm rear-delt fly uses a shoulder-height pulley. These assumptions must be reviewed before mapping a more ambiguous consumer exercise name.
+If you'd like to add a movement, start with the **Exercise Atlas Authoring** skill. It brings together the entry template, five original illustration references, and a guide to checking both poses. The workflow has been tested successfully with both **OpenAI** and **Google Gemini**. The exact models used are unknown.
 
-This repository is private. No open-source license has been selected, no service is publicly deployed, and FitTrack is unchanged.
+Open a checkout of this repo in Codex and try this prompt:
 
-Browse the [22 illustrated entries](docs/examples.md). The canonical, editable data remains in `catalog/exercises/`; run `npm run docs:generate` after changing entries to refresh the readable preview.
+> Use $exercise-atlas-authoring to add a dumbbell floor press with a neutral grip. Show the start and finish from the side, explain how to log the weight per dumbbell, and save it as a draft for review.
 
-## Run locally
+With Gemini, point it to the [skill instructions](.agents/skills/exercise-atlas-authoring/SKILL.md) in your checkout and give it the same exercise brief. Use a session with image generation available to create the paired illustration.
+
+**Before submitting**, compare the drawings with the written setup, grip, and equipment. Run `npm run docs:generate` to refresh the preview and `npm run verify` to check the entry and image. Keep new entries in draft until their technique and equipment details have been reviewed. See the [authoring and revision guide](docs/authoring.md).
+
+<details>
+<summary>Use the skill in another Codex project</summary>
+
+From this checkout, run `npm run skill:install`. This copies the skill and its references to `$CODEX_HOME/skills` (default `~/.codex/skills`). The installer stops if a copy already exists. Reload skill discovery if needed, then invoke `$exercise-atlas-authoring` in your project.
+
+</details>
+
+## 🖼️ Inside a catalog entry
+
+<img src="catalog/media/86fb13d4d7467f54a66704cf44028e7ad3b0ff9d6ab861ad59ab7a5de1e20a2e.png" width="440" alt="Two drawings of the barbell Romanian deadlift, from standing upright to a hip hinge with the bar above the floor.">
+
+The [barbell Romanian deadlift entry](catalog/exercises/barbell-romanian-deadlift.json) pairs these drawings with setup instructions, muscle roles, a load-logging example, sources, and illustration provenance. Every entry also records assumptions about the equipment or movement variant. The [illustrated catalog](docs/examples.md) shows which details still need review.
+
+## 🔎 Browse locally
 
 Requires Node 24.12+ within Node 24.x and npm. TypeScript runs using Node's built-in type stripping; type checking is a separate verification step.
 
@@ -26,7 +39,7 @@ npm run verify
 npm start
 ```
 
-The API listens at `http://127.0.0.1:4317`. `HOST` and `PORT` override the address. Binding to a non-loopback address exposes this unauthenticated API on that network; the default is local only. It needs no database, account, image-generation key or live provider connection to serve the saved catalog.
+Open [the exercise viewer](http://127.0.0.1:4317/ui) to browse the catalog. The API listens at `http://127.0.0.1:4317`. `HOST` and `PORT` override the address. Binding to a non-loopback address exposes this unauthenticated API on that network; the default is local only. It needs no database, account, image-generation key or live provider connection to serve the saved catalog.
 
 ```sh
 curl 'http://127.0.0.1:4317/v1/exercises?limit=100'
@@ -56,20 +69,6 @@ Search parameters: `q` searches names, aliases, Danish names, descriptions, musc
 
 List responses contain `catalogVersion`, `total`, `limit`, `offset`, `nextOffset` and `data`. Details return `catalogVersion` and `data`. Errors use `{ "error": { "code": "...", "message": "..." } }`. Drafts are included by default so the initial examples are inspectable; consumers can request `status=reviewed` (initially empty). Muscle roles are qualitative, not activation scores. JSON responses support ETag revalidation; checksum-named PNGs can be cached immutably. Media URLs are relative to this API's origin.
 
-## Consistent authoring
-
-The reusable skill is [Exercise Atlas Authoring](.agents/skills/exercise-atlas-authoring/SKILL.md). It contains the original five style references, their hashes, a fixed base prompt, JSON Schema, an example entry and a prompt composer. Codex can discover it while working in this repo. To install a self-contained copy for use in other repos:
-
-```sh
-npm run skill:install
-```
-
-Invoke `$exercise-atlas-authoring` and describe the exercise and exact equipment variant. The installer uses `$CODEX_HOME/skills` or `~/.codex/skills` and refuses to overwrite an existing skill. After updating the repo's skill, review and update the installed copy deliberately. Restart/reload skill discovery if the client has not yet picked it up.
-
-Approved style: faceless figure, black shorts, white background, clear black contours, sparse gray equipment and two distinct positions. Each new image uses the original references, not an accumulating chain of new outputs. Prompting helps consistency; visual review remains necessary. `line-art-v1` references are frozen. A deliberately different look gets a new style version.
-
-See [authoring and revisions](docs/authoring.md) and [future consumer integration](docs/consumer-integration.md).
-
 ## Repository layout
 
 ```text
@@ -83,6 +82,4 @@ test/                              API and catalog integrity checks
 
 ## Publication and licensing
 
-Code, dataset and illustrations are currently `UNLICENSED`; the private repository is not an open-source release. Decide their licenses explicitly before publication. Sources are cited for factual checking; external source text, logos and artwork are not redistributed. The PNGs are original AI-generated drafts, and the actual generator model identifier was not exposed, so provenance records it as null. The repo contains no user programs, sessions or training history.
-
-The original five style references and prompts remain unchanged. The 17 additions and their correction prompts are recorded in [generation-prompts-0.2.0.json](catalog/styles/line-art-v1/generation-prompts-0.2.0.json).
+This repository is public. The code, dataset, and illustrations are currently [unlicensed](LICENSE). The catalog includes source references for factual checking and records how each illustration was generated. See the [generation prompts](catalog/styles/line-art-v1/generation-prompts-0.2.0.json) and the [consumer integration guide](docs/consumer-integration.md) for more detail.
