@@ -57,7 +57,7 @@ export const ManifestSchema = z.strictObject({
   description: text,
   createdDate: z.iso.date(),
   styleId: z.literal('line-art-v1'),
-  license: z.literal('UNLICENSED'),
+  license: z.enum(['UNLICENSED', 'CC-BY-NC-4.0']),
   contentNote: text,
   loggingNote: text,
 });

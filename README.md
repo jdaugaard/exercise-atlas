@@ -14,7 +14,7 @@ Open a checkout of this repo in Codex and try this prompt:
 
 With Gemini, point it to the [skill instructions](.agents/skills/exercise-atlas-authoring/SKILL.md) in your checkout and give it the same exercise brief. Use a session with image generation available to create the paired illustration.
 
-**Before submitting**, compare the drawings with the written setup, grip, and equipment. Run `npm run docs:generate` to refresh the preview and `npm run verify` to check the entry and image. Keep new entries in draft until their technique and equipment details have been reviewed. See the [authoring and revision guide](docs/authoring.md).
+**Before submitting**, read the [contribution policy](CONTRIBUTING.md) and compare the drawings with the written setup, grip, and equipment. Run `npm run docs:generate` to refresh the preview and `npm run verify` to check the entry and image. Keep new entries in draft until their technique and equipment details have been reviewed. See the [authoring and revision guide](docs/authoring.md).
 
 <details>
 <summary>Use the skill in another Codex project</summary>
@@ -82,4 +82,6 @@ test/                              API and catalog integrity checks
 
 ## Publication and licensing
 
-This repository is public. The code, dataset, and illustrations are currently [unlicensed](LICENSE). The catalog includes source references for factual checking and records how each illustration was generated. See the [generation prompts](catalog/styles/line-art-v1/generation-prompts-0.2.0.json) and the [consumer integration guide](docs/consumer-integration.md) for more detail.
+You can use the skill to create exercises for a hobby project and share them with others. The catalog, illustrations, and documentation use [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Credit Exercise Atlas by Jakob Daugaard, link the license, and identify any changes when sharing.
+
+The code and skills use the [Exercise Atlas Noncommercial Software and Skills License](LICENSE). Jakob Daugaard reserves commercial use of the project. Using it in a paid fitness app or to produce exercise packs for sale requires his separate written permission. For additions to the shared catalog, see [how contributions are handled](CONTRIBUTING.md).

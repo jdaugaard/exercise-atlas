@@ -8,7 +8,7 @@ COPY package.json package-lock.json* ./
 RUN npm ci --omit=dev
 
 # Copy configuration, source code, and catalog
-COPY tsconfig.json ./
+COPY tsconfig.json LICENSE ./
 COPY src/ ./src/
 COPY catalog/ ./catalog/
 

@@ -22,7 +22,7 @@ test('health and catalog accurately expose draft entries, no reviewed entries', 
   assert.equal(health.exerciseCount, catalog.exercises.length);
   assert.equal(health.status, 'ok');
   const manifest = await (await get('/v1/catalog')).json();
-  assert.equal(manifest.license, 'UNLICENSED');
+  assert.equal(manifest.license, 'CC-BY-NC-4.0');
   assert.deepEqual(manifest.reviewCounts, { draft: catalog.exercises.length, reviewed: 0, retired: 0 });
   const reviewed = await (await get('/v1/exercises?status=reviewed')).json();
   assert.equal(reviewed.total, 0);

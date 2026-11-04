@@ -1,0 +1,52 @@
+Exercise Atlas
+Copyright 2026 Jakob Daugaard
+https://github.com/jdaugaard/exercise-atlas
+
+1. Catalog, illustrations and documentation
+
+Jakob Daugaard licenses the original catalog (including any database rights
+he holds), exercise entries, illustrations, README and project documentation
+under Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0). The same terms apply to copies of catalog entries and
+reference artwork bundled with the skills. The full terms are at
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.en .
+
+Suggested credit: "Exercise Atlas by Jakob Daugaard", with a link to the
+project and to https://creativecommons.org/licenses/by-nc/4.0/ .
+Identify any changes when sharing adapted material.
+
+2. Exercise Atlas Noncommercial Software and Skills License, version 1.0
+
+This section covers the project's original software, including the API,
+viewer, scripts, tests and configuration, and the authoring and sync skills,
+including their instructions, reusable prompts, schemas and workflow guides.
+The catalog material described in section 1 carries its CC license wherever
+it appears.
+
+Jakob Daugaard grants you a worldwide, royalty-free, nonexclusive license
+to run, copy, study, modify and distribute the covered software and skills,
+including modified copies, solely for noncommercial purposes. You may use
+the skills to create and share exercises for noncommercial projects.
+When sharing copies or adaptations of the software or skills, include this
+notice and license, identify your changes, and retain these license terms
+for the portions derived from Exercise Atlas.
+
+Noncommercial use excludes use directed toward commercial advantage or
+monetary compensation, including internal use in a business for commercial
+advantage, use in a paid product or service, and use to produce material
+for sale. Commercial use requires separate written permission from Jakob
+Daugaard. All rights in the covered software and skills that are not
+expressly granted are reserved. This license terminates upon breach.
+
+The software and skills are provided as is, without warranty. To the extent
+permitted by law, the licensor is not liable for damages arising from use
+of the software or skills.
+
+3. Scope of rights
+
+These licenses apply only to rights the licensor can grant. Third-party
+dependencies and cited external material remain subject to their own terms.
+Using the skill does not transfer ownership of your original contributions.
+Rights in material submitted to the project are addressed separately in
+the project's contribution policy. Statutory exceptions and limitations
+remain available.
