@@ -1,6 +1,6 @@
 # Exercise Atlas
 
-An illustrated strength exercise catalog you can add to. Each entry has English and Danish names, setup and movement cues, muscle roles, and a pair of black-and-white drawings showing the start and finish.
+Exercise Atlas is a community exercise catalog. Anyone can use, adapt, and share it for noncommercial projects, and everyone is welcome to contribute. Each entry has English and Danish names, setup and movement cues, muscle roles, and a pair of black-and-white drawings showing the start and finish.
 
 **[Create an exercise with the authoring skill](.agents/skills/exercise-atlas-authoring/SKILL.md)** · [Browse the 79 illustrated drafts](docs/examples.md)
 
@@ -82,6 +82,6 @@ test/                              API and catalog integrity checks
 
 ## Publication and licensing
 
-You can use the skill to create exercises for a hobby project and share them with others. The catalog, illustrations, and documentation use [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Credit Exercise Atlas by Jakob Daugaard, link the license, and identify any changes when sharing.
+The catalog, illustrations, and documentation use [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). When sharing an entry, credit Exercise Atlas and its credited creators, link the license, and identify any changes.
 
-The code and skills use the [Exercise Atlas Noncommercial Software and Skills License](LICENSE). Jakob Daugaard reserves commercial use of the project. Using it in a paid fitness app or to produce exercise packs for sale requires his separate written permission. For additions to the shared catalog, see [how contributions are handled](CONTRIBUTING.md).
+The code and skills are source-available under the [Exercise Atlas Noncommercial Software and Skills License](LICENSE). You can use the skill to build and share a free hobby catalog. The public licenses exclude commercial use, such as selling exercise packs or incorporating the catalog into a paid fitness app. To add your own work, [open a pull request](CONTRIBUTING.md).
