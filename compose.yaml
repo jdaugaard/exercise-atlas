@@ -3,7 +3,7 @@ services:
     build: .
     container_name: exercise-atlas
     ports:
-      - "4317:4317"
+      - "127.0.0.1:4317:4317"
     environment:
       - HOST=0.0.0.0
       - PORT=4317

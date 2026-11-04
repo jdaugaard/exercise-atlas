@@ -653,7 +653,7 @@
       } catch (err) {
         console.error('Failed to load catalog:', err);
         document.getElementById('exercise-grid').innerHTML = 
-          `<div class="empty-state"><div class="empty-icon">⚠️</div>Failed to load exercises: ${err.message}</div>`;
+          `<div class="empty-state"><div class="empty-icon">⚠️</div>Failed to load exercises: ${escapeHtml(err.message)}</div>`;
       }
     }
 
@@ -724,7 +724,7 @@
       grid.innerHTML = filtered.map(ex => `
         <div class="card" data-id="${ex.id}">
           <div class="card-img-wrap" onclick="openModal('${ex.id}')">
-            <img class="card-img" src="${ex.illustration?.url}" alt="${ex.illustration?.alt || ex.name}" loading="lazy">
+            <img class="card-img" src="${ex.illustration?.url}" alt="${escapeHtml(ex.illustration?.alt || ex.name)}" loading="lazy">
             <span class="img-zoom-hint">Click to enlarge</span>
           </div>
           <div class="card-body">
